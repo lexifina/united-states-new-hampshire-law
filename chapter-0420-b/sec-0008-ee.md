@@ -1,0 +1,6 @@
+# 420-B:8-ee Coverage for Dental Procedures.
+I. Every health maintenance organization and every other similar corporation licensed under the laws of another state that issues or renews any group policy of accident or health insurance providing benefits for medical or hospital expenses, shall provide to each covered individual or certificate holder who is a resident of New Hampshire coverage for the medically necessary hospital or surgical day care facility charges and administration of general anesthesia administered by a licensed anesthesiologist or anesthetist for dental procedures performed on a covered person who:
+(a) Is a child under the age of 13 who is determined by a licensed dentist in conjunction with a licensed primary care physician to have a dental condition of significant dental complexity which requires certain dental procedures to be performed in a surgical day care facility or hospital setting; or
+(b) Is a person who has exceptional medical circumstances or a developmental disability as determined by a licensed primary care physician which place the person at serious risk.
+II. All of the terms and conditions of the covered person's policy shall apply to these services.
+Source. 1998, 280:4. 2003, 278:4. 2010, 188:10, eff. Aug. 20, 2010. 2018, 188:8, eff. Aug. 7, 2018.
