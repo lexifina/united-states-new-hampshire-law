@@ -1,0 +1,3 @@
+# 24:9-ee Compensation for County Conventions.
+Members of each county convention shall receive from the county treasury a sum not to exceed $25 per day for actual attendance at meetings of their respective conventions and an allowance for travel expenses to and from the place of meeting at a rate per mile not in excess of the rate allowed by the United States Internal Revenue Service to be set by a vote of the respective county convention. They are not entitled to receive any compensation or mileage for attending such meetings when such meetings are held at the state house in Concord on a legislative day.
+Source. 1969, 491:9. 1971, 514:11. 1973, 133:1. 1979, 145:1. 1987, 338:1, eff. July 24, 1987. 2007, 2:2, eff. June 19, 2007.

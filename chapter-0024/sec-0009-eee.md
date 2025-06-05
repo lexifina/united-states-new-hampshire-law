@@ -1,0 +1,3 @@
+# 24:9-eee Compensation for Coos County Convention.
+Notwithstanding RSA 24:9-ee, members of the Coos county convention shall receive from the county treasury a sum not to exceed $50 per day for actual attendance at meetings of the convention and an allowance for travel expenses to and from the place of meeting at a rate per mile not in excess of the rate allowed by the United States Internal Revenue Service to be set by a vote of the county convention. The members of the Coos county convention are not entitled to receive compensation or mileage for attending such county meetings when such meetings are held at the state house in Concord on a legislative day.
+Source. 2015, 69:1, eff. Aug. 1, 2015.
