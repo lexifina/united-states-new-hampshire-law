@@ -1,0 +1,4 @@
+# 126-Z:4 Private Cause of Action.
+I. Nothing in this chapter shall be construed to create a private cause of action against any person or entity except as specified in paragraph II.
+II. Notwithstanding any provision of law to the contrary, any patient diagnosed with a terminal illness by a physician, and who has been treated, is being treated, or otherwise could be treated in New Hampshire with a drug, biologic, or device, and is affected by a violation of this chapter, or a health care facility or a health care provider involved in the treatment of the patient, shall be entitled to petition the superior court for injunctive relief and reasonable attorney's fees against any regulatory or law enforcement authority that violates this chapter.
+Source. 2016, 206:2, eff. June 6, 2016. 2024, 124:1, eff. Jan. 1, 2025. 2025, 304:4, eff. Jan. 1, 2026.
