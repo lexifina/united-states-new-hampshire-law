@@ -1,0 +1,22 @@
+# 637:2 Definitions.
+The following definitions are applicable to this chapter:
+I. "Property" means anything of value, including real estate, tangible and intangible personal property, captured or domestic animals and birds, written instruments or other writings representing or embodying rights concerning real or personal property, labor, services, or otherwise containing any thing of value to the owner, commodities of a public utility nature such as telecommunications, gas, electricity, steam, or water, and trade secrets, meaning the whole or any portion of any scientific or technical information, design, process, procedure, formula or invention which the owner thereof intends to be available only to persons selected by him.
+II. "Obtain" means, in relation to property, to bring about a transfer of possession or of some other legally recognized interest in property, whether to the obtainer or another; in relation to labor or services, to secure performance thereof; and in relation to a trade secret, to make any facsimile, replica, photograph or other reproduction.
+III. "Purpose to deprive" means to have the conscious object:
+(a) To withhold property permanently or for so extended a period or to use under such circumstances that a substantial portion of its economic value, or of the use and benefit thereof, would be lost;
+(b) To restore the property only upon payment of a reward or other compensation;
+(c) To dispose of the property under circumstances that make it unlikely that the owner will recover it; or
+(d) To appropriate the goods or merchandise of a merchant without paying the merchant's stated or advertised price.
+IV. "Property of another" includes property in which any person other than the actor has an interest which the actor is not privileged to infringe, regardless of the fact that the actor also has an interest in the property and regardless of the fact that the other person might be precluded from civil recovery because the property was used in an unlawful transaction or was subject to forfeiture as contraband. Property in possession of the actor shall not be deemed property of another who has only a security interest therein, even if legal title is in the creditor pursuant to a conditional sales contract or other security agreement.
+V. "Value" means the highest amount determined by any reasonable standard of property or services.
+(a) Amounts involved in thefts committed pursuant to one scheme or course of conduct, whether from the same person or several persons, may be aggregated in determining the grade of the offense.
+(b) The value of property or services obtained by the actor shall determine the grade of the offense, and such value shall not be offset against or reduced by the value of any property or services given by the actor in exchange.
+(c) Each personal check or credit card shall have a value of $250.
+(d) Each gift card shall have a value of:
+(1) The highest monetary value listed on the face of the gift card or its packaging.
+(2) If the highest monetary value of the gift card is not listed on the face of the gift card or its packaging, the gift card shall have a value of $250.
+VI. "Merchant" means the owner or operator of any place of business where merchandise is displayed, held, or stored, for sale to the public, or any agent or employee of such owner or operator.
+VII. "Gift card" means a digital closed-loop gift card or open-loop gift card that is either activated or inactivated.
+VIII. "Open-loop gift card" means a card, code, or device that is issued to a consumer on a prepaid basis primarily for personal, family, or household purposes in a specified amount, regardless of whether that amount may be increased or reloaded in exchange for payment; and is redeemable upon presentation at multiple unaffiliated merchants for goods or services within a payment card network.
+IX. "Closed-loop gift card" means a card, code, or device that is issued to a consumer on a prepaid basis primarily for personal, family, or household purposes in a specified amount, regardless of whether that amount may be increased or reloaded in exchange for payment; and is redeemable upon presentation by a consumer at a single merchant or group of affiliated merchants.
+Source. 1971, 518:1. 1986, 222:1. 2005, 36:1. 2009, 209:2, 3, eff. Jan. 1, 2010. 2025, 150:1, eff. Jan. 1, 2026.
