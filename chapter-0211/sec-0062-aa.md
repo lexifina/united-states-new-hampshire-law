@@ -1,0 +1,3 @@
+# 211:62-aa Exception for Aged Persons.
+No fee, including the agent's fee, shall be required for the issuance of a license under the provisions of RSA 211:62-a for taking oysters of a resident of the state who is 68 years of age or over. Such license shall be effective for the remainder of such resident's life, as long as the applicant remains a resident of the state, unless sooner suspended or revoked by the executive director. The minimum residency requirements of RSA 214:7-b are applicable.
+Source. 1967, 3:1. 1973, 44:1. 1983, 35:1. 1985, 291:24. 1995, 238:2. 1997, 10:11, eff. Jan. 1, 1998.
