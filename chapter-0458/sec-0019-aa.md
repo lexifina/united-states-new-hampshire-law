@@ -1,0 +1,34 @@
+# 458:19-aa Alimony Modification or Termination.
+I. (a) The court may modify the amount or duration of a term alimony order upon agreement of the parties or, in the absence of an agreement, at the request of either party by petition or motion. If the proceeding for modification is contested, any modification shall be supported by findings of the following, based on clear and convincing evidence:
+(1) There has been a substantial and unforeseeable change of circumstances since the effective date of the alimony order;
+(2) There is no undue hardship on either party; and
+(3) Justice requires a change in amount or duration.
+(b) The party requesting a modification shall have the burden of proof. Additionally, the order shall include the information required under RSA 458:19-a, VI. If the prior alimony order has ended, reinstatement shall be requested within 5 years after the end of the order.
+I-a. Any modification may be retroactive as the parties may agree. If contested, an alimony modification shall not be effective prior to the date that the notice of the petition for modification was given to the other party.
+II. In any modification of an existing alimony order, the earned or unearned income and social security payments of a spouse of the payor shall not be considered a source of income to the payor, unless the payor resigns from or refuses employment or is voluntarily unemployed or underemployed, in which case the income of a subsequent spouse may be imputed to the payor only to the extent that such payor could have earned income in his or her usual employment. In such actions, the court may consider the veteran's disability benefits of a spouse of the payor to the extent permitted by federal law.
+III. For the purpose of modification of an existing alimony order, any income from a second job or overtime shall be presumed to be irrelevant to an alimony modification, if the party works more than a single full time position, and the second job or overtime began after the entry of the initial order.
+IV. Except as provided in paragraph V, term alimony orders shall end upon the payor reaching full retirement age or actual retirement by the payor, whichever is later, unless the parties agree otherwise or the court finds that justice requires a different termination date based on special circumstances under RSA 458:19-a, IV. The payor's ability to work beyond full retirement shall not of itself be a reason to extend alimony. The payor shall provide the payee reasonable notice in advance of retirement. Sixty days' notice shall be presumed to be reasonable.
+V. If justice requires, the court may extend alimony past full retirement age or actual retirement up to an amount that equalizes the parties' gross benefits under the federal Old Age, Survivors, and Disability Insurance Social Security program. The requirements of paragraph I shall not apply.
+VI. Unless otherwise ordered by the court, the obligation to pay alimony ends on the death of the payee and is a charge against the estate of the payor, except to the extent that it is covered by life insurance or other security. The court may require reasonable security for the payments due the payee in the event of the payor's death prior to the completion of payments.
+VII. At the request of either party by petition or motion, the court may make orders for the modification or termination of term alimony upon a finding of the payee's cohabitation as described in paragraph VIII. The requirements of paragraph I shall not apply.
+VIII. The court shall find that cohabitation exists, if there is a relationship between an alimony payee and another unrelated adult resembling that of a marriage, under such circumstances that it would be unjust to make an order for alimony, to continue any existing alimony order, or to continue the amount of an existing alimony order. In making this finding, the court shall consider evidence of any of the following concerning the payee and the other person:
+(a) Living together on a continual basis in a primary residence;
+(b) Sharing of expenses;
+(c) The economic interdependence of the couple, or economic dependence of one upon the other;
+(d) Joint ownership or use of real or personal property, including financial accounts;
+(e) The existence of an intimate relationship between the persons;
+(f) Holding themselves out to be a couple through statements or representations made to third parties or are generally reputed to be a couple; and
+(g) Any other factors that the court finds material and relevant.
+IX. If an alimony order is terminated because of cohabitation or marriage, the court may reinstate the original alimony award upon finding that the payee's cohabitation has ceased or that the marriage has ended in divorce, provided that the request is made within 5 years of the effective date of the termination order. If the alimony order being reinstated had a specific termination date, reinstatement shall not extend the termination date, however, if the order specified a number of payments, the reinstatement may be for up to the number of payments remaining in the order. If the order has both a specific termination date and a number of payments, the termination date shall control. The requirements of paragraph I shall not apply.
+X. (a)(1) The provisions of RSA 458:14, 458:19, 458:19-a, and 458:19-aa, as amended or inserted by 2018, 310, shall not apply to modifications of orders in cases whose initial petition for divorce or legal separation was filed prior to January 1, 2019, unless the court finds that the original order:
+(A) Was based on an agreement of the parties adopting some or all of the provisions of that act; or
+(B) Specified that the court was adopting some or all of the provisions of that act.
+(2) Absent such a finding, modifications of these orders shall be controlled by the law in effect on the date the initial petition for divorce or legal separation was filed.
+(b) Parties to any case in which the initial petition was filed prior to January 1, 2019 may agree to adopt some or all of the provisions of 2018, 310:
+(1) In the original agreement or any modification of it; or
+(2) In modifying any court order.
+XI. An alimony order effective on or after January 1, 2019, including one based on an agreement of the parties, may be modified in accordance with RSA 458:19-a, II, without the need to demonstrate the findings in RSA 458:19-a, VI, provided that:
+(a) The alimony order was issued pursuant to RSA 458:14, 458:19, 458:19-a, and 458:19-aa, as amended or inserted by 2018, 310;
+(b) The alimony amount is greater than 23 percent of the difference in the parties gross incomes as defined in RSA 458:19-a, II(a); and
+(c) The petition for modification is filed by July 1, 2022.
+Source. 2018, 310:3, eff. Jan. 1, 2019. 2021, 113:4, 5, eff. July 9, 2021.
