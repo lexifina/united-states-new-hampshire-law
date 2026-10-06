@@ -1,0 +1,3 @@
+# 170-E:27-b Immunization Requirements for Foster Family Homes.
+There shall be no vaccination or immunization requirements required of any children residing in a foster home that exceed vaccination or immunization requirements under RSA 141-C:20-a, either in type of vaccination, quantity of doses, or exemptions. There shall be no vaccination or immunization requirements required of any adult residing in a foster home that exceed vaccination or immunization requirements under RSA 141-C:20-a, either in type of vaccination, quantity of doses, or exemptions.
+Source. 2023, 193:1, eff. Aug. 4, 2023. 2026, 279:1, eff. Sept. 5, 2026.
