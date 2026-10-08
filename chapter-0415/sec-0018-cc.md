@@ -1,0 +1,3 @@
+# 415:18-cc Coverage for Perfluoroalkyls (PFAS) and Perfluorinated Compounds (PFCS) Blood Testing.
+Each insurer that issues or renews any policy of group or blanket accident or health insurance providing benefits for medical or hospital expenses, shall provide to certificate holders of such insurance, who are residents of this state, coverage for coverage for perfluoroalkyls (PFAS) and perfluorinated compounds (PFCS) blood testing. Benefits provided under this section shall not be subject to any greater co-payment, deductible, or coinsurance than any other similar benefits provided by the insurer.
+Source: 2020, 30:10, eff. Sept. 21, 2020.
