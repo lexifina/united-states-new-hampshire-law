@@ -1,0 +1,3 @@
+# 664:1 Applicability of Chapter.
+The provisions of this chapter shall apply to all state primary, general, and special elections, but shall only apply to presidential preference primaries as provided in this section. The provisions of RSA 664:2, 664:4, VII, 664:5, III, and 664:14-22 shall apply to city, town, school district, and village district elections or meetings. The provisions relating to political advertising, push polling, and enforcement, RSA 664:14 through RSA 664:21, shall additionally apply to presidential primary elections.
+Source. 1979, 436:1. 1989, 212:6. 1991, 387:8. 2008, 118:2, eff. June 3, 2008. 2026, 314:1, eff. Jan. 1, 2027.
