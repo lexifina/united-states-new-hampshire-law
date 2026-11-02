@@ -1,0 +1,3 @@
+# 329:1-aa Purpose of Chapter.
+The practice of medicine is a privilege granted by the people according to the laws enacted by the legislature, and not a natural right. In the interests of public health, safety, and welfare, and to protect the public from the unprofessional, improper, incompetent, unlawful, fraudulent, and deceptive practice of medicine, it is necessary to provide laws and rules to regulate the granting and subsequent use of the privilege to practice medicine. The primary responsibility and obligation of the board of medicine is to protect the public.
+Source. 2009, 206:1, eff. July 1, 2009.
