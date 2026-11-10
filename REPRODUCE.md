@@ -14,6 +14,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `constitution-01-bill-rights` | Constitution of New Hampshire, Part First: Bill of Rights | 1 | 2026-10-25 to 2026-10-25 |
+| `constitution-02-general-court` | Constitution of New Hampshire, Part Second: General Court | 1 | 2025-12-06 to 2025-12-06 |
+| `constitution-03-house-representatives` | Constitution of New Hampshire, Part Second: House of Representatives | 1 | 2026-07-16 to 2026-07-16 |
+| `constitution-04-senate` | Constitution of New Hampshire, Part Second: Senate | 1 | 2026-10-12 to 2026-10-12 |
+| `constitution-05-executive-power-governor` | Constitution of New Hampshire, Part Second: Executive Power - Governor | 1 | 2025-08-28 to 2025-08-28 |
+| `constitution-06-council` | Constitution of New Hampshire, Part Second: Council | 1 | 2025-08-27 to 2025-08-27 |
+| `constitution-07-secretary-treasurer-etc` | Constitution of New Hampshire, Part Second: Secretary, Treasurer, Etc. | 1 | 2025-12-22 to 2025-12-22 |
+| `constitution-08-county-treasurer-etc` | Constitution of New Hampshire, Part Second: County Treasurer, Etc. | 1 | 2026-10-11 to 2026-10-11 |
+| `constitution-09-judiciary-power` | Constitution of New Hampshire, Part Second: Judiciary Power | 1 | 2026-01-09 to 2026-01-09 |
+| `constitution-10-clerk-courts` | Constitution of New Hampshire, Part Second: Clerk of Courts | 1 | 2025-08-28 to 2025-08-28 |
+| `constitution-11-encouragement-literature-trade-etc` | Constitution of New Hampshire, Part Second: Encouragement of Literature, Trade, Etc. | 1 | 2026-04-07 to 2026-04-07 |
+| `constitution-12-part-2-oaths-and-subscriptions-exclusion-offices` | Constitution of New Hampshire, Part Second: Oaths and Subscriptions; Exclusion from Offices, Etc. | 1 | 2025-10-25 to 2025-10-25 |
 | `chapter-0001-a` | New Hampshire Revised Statutes, Chapter 1-A: New Hampshire Coordinate System (Title I: The State and Its Government) | 1 | 2024-04-30 to 2024-04-30 |
 | `chapter-0003` | New Hampshire Revised Statutes, Chapter 3: State Emblems, Flag, Etc. (Title I: The State and Its Government) | 1 | 2026-10-04 to 2026-10-04 |
 | `chapter-0003-a` | New Hampshire Revised Statutes, Chapter 3-A: Poet Laureate (Title I: The State and Its Government) | 1 | 2026-01-06 to 2026-01-06 |
@@ -116,12 +128,69 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0048-a` | New Hampshire Revised Statutes, Chapter 48-A: Housing Standards (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-19 to 2026-10-19 |
 | `chapter-0049-b` | New Hampshire Revised Statutes, Chapter 49-B: Home Rule-municipal Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-08-12 to 2026-08-12 |
 | `chapter-0049-c` | New Hampshire Revised Statutes, Chapter 49-C: Local Option-city Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0049-d` | New Hampshire Revised Statutes, Chapter 49-D: Local Option-town Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-09-05 to 2026-09-05 |
+| `chapter-0051` | New Hampshire Revised Statutes, Chapter 51: Town Lines and Perambulation of Boundaries (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-01-01 to 2026-01-01 |
+| `chapter-0052` | New Hampshire Revised Statutes, Chapter 52: Village Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-05-13 to 2025-05-13 |
+| `chapter-0052-a` | New Hampshire Revised Statutes, Chapter 52-A: Special Assessment Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0053` | New Hampshire Revised Statutes, Chapter 53: Unincorporated Places (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-06-03 to 2025-06-03 |
+| `chapter-0053-a` | New Hampshire Revised Statutes, Chapter 53-A: Agreements Between Government Units (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-06-20 to 2025-06-20 |
+| `chapter-0053-b` | New Hampshire Revised Statutes, Chapter 53-B: Solid Waste Management Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2023-05-31 to 2023-05-31 |
+| `chapter-0053-c` | New Hampshire Revised Statutes, Chapter 53-C: Franchising and Regulation of Cable Television Systems by Cities and Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-07-15 to 2025-07-15 |
+| `chapter-0053-e` | New Hampshire Revised Statutes, Chapter 53-E: Aggregation of Electric Customers by Municipalities and Counties (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-01-07 to 2026-01-07 |
+| `chapter-0053-f` | New Hampshire Revised Statutes, Chapter 53-F: Energy Efficiency and Clean Energy Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-03-03 to 2026-03-03 |
+| `chapter-0053-g` | New Hampshire Revised Statutes, Chapter 53-G: Communications Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-07-31 to 2025-07-31 |
+| `chapter-0481` | New Hampshire Revised Statutes, Chapter 481: State Dams, Reservoirs and Other Water Conservation Projects (Title L: Water Management and Protection) | 1 | 2026-01-16 to 2026-01-16 |
+| `chapter-0482` | New Hampshire Revised Statutes, Chapter 482: Dams, Mills, and Flowage (Title L: Water Management and Protection) | 1 | 2026-03-22 to 2026-03-22 |
+| `chapter-0482-a` | New Hampshire Revised Statutes, Chapter 482-A: Fill and Dredge in Wetlands (Title L: Water Management and Protection) | 1 | 2025-12-03 to 2025-12-03 |
+| `chapter-0482-b` | New Hampshire Revised Statutes, Chapter 482-B: New Hampshire Water Well Board (Title L: Water Management and Protection) | 1 | 2026-03-21 to 2026-03-21 |
+| `chapter-0483` | New Hampshire Revised Statutes, Chapter 483: New Hampshire Rivers Management and Protection Program (Title L: Water Management and Protection) | 1 | 2025-12-01 to 2025-12-01 |
+| `chapter-0483-a` | New Hampshire Revised Statutes, Chapter 483-A: New Hampshire Lakes Management and Protection Program (Title L: Water Management and Protection) | 1 | 2026-01-05 to 2026-01-05 |
+| `chapter-0483-b` | New Hampshire Revised Statutes, Chapter 483-B: Shoreland Water Quality Protection Act (Title L: Water Management and Protection) | 1 | 2026-09-18 to 2026-09-18 |
+| `chapter-0483-c` | New Hampshire Revised Statutes, Chapter 483-C: Public Use of New Hampshire Coastal Shorelands (Title L: Water Management and Protection) | 1 | 2025-12-08 to 2025-12-08 |
+| `chapter-0483-d` | New Hampshire Revised Statutes, Chapter 483-D: Winnipesaukee River Watershed (Title L: Water Management and Protection) | 1 | 2026-03-10 to 2026-03-10 |
+| `chapter-0483-f` | New Hampshire Revised Statutes, Chapter 483-F: Pcb Assistance (Title L: Water Management and Protection) | 1 | 2026-03-23 to 2026-03-23 |
+| `chapter-0484` | New Hampshire Revised Statutes, Chapter 484: Water Management and Protection Compacts (Title L: Water Management and Protection) | 1 | 2026-03-24 to 2026-03-24 |
+| `chapter-0485` | New Hampshire Revised Statutes, Chapter 485: New Hampshire Safe Drinking Water Act (Title L: Water Management and Protection) | 1 | 2026-03-24 to 2026-03-24 |
+| `chapter-0485-a` | New Hampshire Revised Statutes, Chapter 485-A: Water Pollution and Waste Disposal (Title L: Water Management and Protection) | 1 | 2026-03-21 to 2026-03-21 |
+| `chapter-0485-b` | New Hampshire Revised Statutes, Chapter 485-B: Floating Timber (Title L: Water Management and Protection) | 1 | 2026-03-24 to 2026-03-24 |
+| `chapter-0485-c` | New Hampshire Revised Statutes, Chapter 485-C: Groundwater Protection Act (Title L: Water Management and Protection) | 1 | 2023-01-26 to 2023-01-26 |
+| `chapter-0485-d` | New Hampshire Revised Statutes, Chapter 485-D: New Hampshire-vermont Interstate Public Water Supply Compact (Title L: Water Management and Protection) | 1 | 2026-03-23 to 2026-03-23 |
+| `chapter-0485-f` | New Hampshire Revised Statutes, Chapter 485-F: Administration of the Drinking Water and Groundwater Trust Fund (Title L: Water Management and Protection) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0485-h` | New Hampshire Revised Statutes, Chapter 485-H: Per and Polyfluoroalkyl Substances (pfas) Fund and Programs (Title L: Water Management and Protection) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0486` | New Hampshire Revised Statutes, Chapter 486: Aid to Municipalities for Water Pollution Control (Title L: Water Management and Protection) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0486-a` | New Hampshire Revised Statutes, Chapter 486-A: Aid to Public Water Systems (Title L: Water Management and Protection) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0487` | New Hampshire Revised Statutes, Chapter 487: Control of Marine Pollution and Aquatic Growth (Title L: Water Management and Protection) | 1 | 2026-01-02 to 2026-01-02 |
+| `chapter-0488` | New Hampshire Revised Statutes, Chapter 488: Water Management (Title L: Water Management and Protection) | 1 | 2025-12-20 to 2025-12-20 |
+| `chapter-0489` | New Hampshire Revised Statutes, Chapter 489: Integrated Land Development Permit (Title L: Water Management and Protection) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0489-c` | New Hampshire Revised Statutes, Chapter 489-C: Salt Applicator Certification Option (Title L: Water Management and Protection) | 1 | 2026-01-20 to 2026-01-20 |
+| `chapter-0490` | New Hampshire Revised Statutes, Chapter 490: Supreme Court (Title LI: Courts) | 1 | 2026-10-21 to 2026-10-21 |
+| `chapter-0490-a` | New Hampshire Revised Statutes, Chapter 490-A: Unified Court System (Title LI: Courts) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0490-b` | New Hampshire Revised Statutes, Chapter 490-B: Court Facilities (Title LI: Courts) | 1 | 2026-10-09 to 2026-10-09 |
+| `chapter-0490-c` | New Hampshire Revised Statutes, Chapter 490-C: Guardian Ad Litem Board (Title LI: Courts) | 1 | 2025-05-13 to 2025-05-13 |
+| `chapter-0490-d` | New Hampshire Revised Statutes, Chapter 490-D: Judicial Branch Family Division (Title LI: Courts) | 1 | 2025-05-25 to 2025-05-25 |
+| `chapter-0490-f` | New Hampshire Revised Statutes, Chapter 490-F: Circuit Court (Title LI: Courts) | 1 | 2025-05-08 to 2025-05-08 |
+| `chapter-0490-g` | New Hampshire Revised Statutes, Chapter 490-G: Drug Courts and Alternative Drug Offender Grant Program (Title LI: Courts) | 1 | 2026-01-23 to 2026-01-23 |
+| `chapter-0490-h` | New Hampshire Revised Statutes, Chapter 490-H: Mental Health Courts (Title LI: Courts) | 1 | 2025-05-03 to 2025-05-03 |
+| `chapter-0490-i` | New Hampshire Revised Statutes, Chapter 490-I: Veterans Track (Title LI: Courts) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0490-j` | New Hampshire Revised Statutes, Chapter 490-J: New Hampshire Collaborative Law Act (Title LI: Courts) | 1 | 2026-07-16 to 2026-07-16 |
+| `chapter-0490-k` | New Hampshire Revised Statutes, Chapter 490-K: Judicial Training (Title LI: Courts) | 1 | 2025-04-13 to 2025-04-13 |
+| `chapter-0491-a` | New Hampshire Revised Statutes, Chapter 491-A: Judicial Salaries (Title LI: Courts) | 1 | 2026-04-13 to 2026-04-13 |
+| `chapter-0491-b` | New Hampshire Revised Statutes, Chapter 491-B: Magistrates (Title LI: Courts) | 1 | 2025-05-12 to 2025-05-12 |
+| `chapter-0492` | New Hampshire Revised Statutes, Chapter 492: Disqualification of Justices (Title LI: Courts) | 1 | 2025-05-07 to 2025-05-07 |
+| `chapter-0493` | New Hampshire Revised Statutes, Chapter 493: Tenure of Judges (Title LI: Courts) | 1 | 2025-08-07 to 2025-08-07 |
+| `chapter-0493-a` | New Hampshire Revised Statutes, Chapter 493-A: Retired Judges; Judicial Referees (Title LI: Courts) | 1 | 2025-06-14 to 2025-06-14 |
+| `chapter-0494` | New Hampshire Revised Statutes, Chapter 494: The Judicial Council (Title LI: Courts) | 1 | 2025-05-10 to 2025-05-10 |
+| `chapter-0495` | New Hampshire Revised Statutes, Chapter 495: Statements Out of Court (Title LI: Courts) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0496` | New Hampshire Revised Statutes, Chapter 496: Terms of the Superior Court (Title LI: Courts) | 1 | 2026-08-21 to 2026-08-21 |
+| `chapter-0498` | New Hampshire Revised Statutes, Chapter 498: Equity Powers and Proceedings (Title LI: Courts) | 1 | 2025-05-19 to 2025-05-19 |
+| `chapter-0498-a` | New Hampshire Revised Statutes, Chapter 498-A: Eminent Domain Procedure Act (Title LI: Courts) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0499` | New Hampshire Revised Statutes, Chapter 499: Clerks of Court (Title LI: Courts) | 1 | 2025-07-13 to 2025-07-13 |
 
-The build made 102 commits:
+The build made 171 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 102 | first version of an act |
+| 171 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -129,7 +198,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 102 tags.
+- 171 tags.
 
 ## Dates
 
@@ -141,7 +210,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `953b63da4e77370dd3de1e947ebb740162cb6d990dff2cc49f0a6a347bc46c9c` (3676254 bytes).
+- Corpus: sha256 `bc8576212bf59c9835b3bd3d844f93bdce51fb905d9010112a4d0cce403a1206` (5444930 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

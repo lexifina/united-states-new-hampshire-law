@@ -2,6 +2,174 @@
  "country": "US-NH",
  "acts": [
   {
+   "slug": "constitution-01-bill-rights",
+   "short": "N.H. Const. pt. first, Bill of Rights",
+   "title": "Constitution of New Hampshire, Part First: Bill of Rights",
+   "url": "https://www.nh.gov/glance/state-constitution/bill-rights",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20261025055455/https://www.nh.gov/glance/state-constitution/bill-rights",
+     "sha256": "0130f868fa4be551884305b63a018579201aefeedd157e99237916b355777aa4"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-02-general-court",
+   "short": "N.H. Const. pt. second, General Court",
+   "title": "Constitution of New Hampshire, Part Second: General Court",
+   "url": "https://www.nh.gov/glance/state-constitution/general-court",
+   "versions": [
+    {
+     "from": "2025-12-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251206213103/https://www.nh.gov/glance/state-constitution/general-court",
+     "sha256": "75515366b1f7806ed7b6662a6d63ec75230e131e67f56ffd52de88cf342643b3"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-03-house-representatives",
+   "short": "N.H. Const. pt. second, House of Representatives",
+   "title": "Constitution of New Hampshire, Part Second: House of Representatives",
+   "url": "https://www.nh.gov/glance/state-constitution/house-representatives",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260716143706/https://www.nh.gov/glance/state-constitution/house-representatives",
+     "sha256": "b6723beada401b26894c9c9a8bfc7922b05f15d69d5e8093c13213db130a9b93"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-04-senate",
+   "short": "N.H. Const. pt. second, Senate",
+   "title": "Constitution of New Hampshire, Part Second: Senate",
+   "url": "https://www.nh.gov/glance/state-constitution/senate",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261012110125/https://www.nh.gov/glance/state-constitution/senate",
+     "sha256": "2412967e9bf3d8b99642a728d2a7f7b8166048955633f076cd048d91fe509631"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-05-executive-power-governor",
+   "short": "N.H. Const. pt. second, Executive Power - Governor",
+   "title": "Constitution of New Hampshire, Part Second: Executive Power - Governor",
+   "url": "https://www.nh.gov/glance/state-constitution/executive-power-governor",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250828224756/https://www.nh.gov/glance/state-constitution/executive-power-governor",
+     "sha256": "45f8642b5e38a48e1368f7bfafcbb3afb90d68f7c4ec8fcca9ac8ad49d52f250"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-06-council",
+   "short": "N.H. Const. pt. second, Council",
+   "title": "Constitution of New Hampshire, Part Second: Council",
+   "url": "https://www.nh.gov/glance/state-constitution/council",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250827042704/https://www.nh.gov/glance/state-constitution/council",
+     "sha256": "5d14192b503995eb04604101cda168ef96010037a573b010c1461098e57ac2ae"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-07-secretary-treasurer-etc",
+   "short": "N.H. Const. pt. second, Secretary, Treasurer, Etc.",
+   "title": "Constitution of New Hampshire, Part Second: Secretary, Treasurer, Etc.",
+   "url": "https://www.nh.gov/glance/state-constitution/secretary-treasurer-etc",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251222200641/https://www.nh.gov/glance/state-constitution/secretary-treasurer-etc",
+     "sha256": "c6f748404a52e23c4de06e67d377fcea4859ee9f9a85b4955b7338486dddaa5a"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-08-county-treasurer-etc",
+   "short": "N.H. Const. pt. second, County Treasurer, Etc.",
+   "title": "Constitution of New Hampshire, Part Second: County Treasurer, Etc.",
+   "url": "https://www.nh.gov/glance/state-constitution/county-treasurer-etc",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261011215455/https://www.nh.gov/glance/state-constitution/county-treasurer-etc",
+     "sha256": "bba9b700213a8a1f5a233d0b895076fcfc6948060d094279a03c3b25997b4150"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-09-judiciary-power",
+   "short": "N.H. Const. pt. second, Judiciary Power",
+   "title": "Constitution of New Hampshire, Part Second: Judiciary Power",
+   "url": "https://www.nh.gov/glance/state-constitution/judiciary-power",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260109070317/https://www.nh.gov/glance/state-constitution/judiciary-power",
+     "sha256": "c22d028444b1989e4f886e04e914fcf4da43ce647ee94ad1fce2181b56996c5f"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-10-clerk-courts",
+   "short": "N.H. Const. pt. second, Clerk of Courts",
+   "title": "Constitution of New Hampshire, Part Second: Clerk of Courts",
+   "url": "https://www.nh.gov/glance/state-constitution/clerk-courts",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250828120619/https://www.nh.gov/glance/state-constitution/clerk-courts",
+     "sha256": "91b61b1459ad7b011621ab9f2b5514403caca7923128ac19bcbe9bbed0dc095e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-11-encouragement-literature-trade-etc",
+   "short": "N.H. Const. pt. second, Encouragement of Literature, Trade, Etc.",
+   "title": "Constitution of New Hampshire, Part Second: Encouragement of Literature, Trade, Etc.",
+   "url": "https://www.nh.gov/glance/state-constitution/encouragement-literature-trade-etc",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260407062410/https://www.nh.gov/glance/state-constitution/encouragement-literature-trade-etc",
+     "sha256": "918244a66526869be98eafaaf84c7367cce4fff39a81dd9b1a62a44c5400dbcd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-12-part-2-oaths-and-subscriptions-exclusion-offices",
+   "short": "N.H. Const. pt. second, Oaths and Subscriptions; Exclusion from Offices, Etc.",
+   "title": "Constitution of New Hampshire, Part Second: Oaths and Subscriptions; Exclusion from Offices, Etc.",
+   "url": "https://www.nh.gov/glance/state-constitution/part-2-oaths-and-subscriptions-exclusion-offices",
+   "versions": [
+    {
+     "from": "2025-10-25",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251025233341/https://www.nh.gov/glance/state-constitution/part-2-oaths-and-subscriptions-exclusion-offices",
+     "sha256": "5f855c147f1a508746e2ca95a98a7f4c58b0c3d6fc4d3fe6abd4cbd0f417bf67"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0001-a",
    "short": "RSA 1-A",
    "title": "New Hampshire Revised Statutes, Chapter 1-A: New Hampshire Coordinate System (Title I: The State and Its Government)",
@@ -1426,6 +1594,804 @@
      "units": 34,
      "source_url": "https://web.archive.org/web/20240514000720/https://gencourt.state.nh.us/rsa/html/III/49-C/49-C-mrg.htm",
      "sha256": "77c815849dac0374a0021680cc12188994a15e584d7e15a4560ba13765a1e2fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0049-d",
+   "short": "RSA 49-D",
+   "title": "New Hampshire Revised Statutes, Chapter 49-D: Local Option-town Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-49-D.htm",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260905053714/https://gc.nh.gov/rsa/html/III/49-D/49-D-mrg.htm",
+     "sha256": "59392d2e50128be2aa1e1189a201ab0222e0bd55241a102a7ba508ecea2a30ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0051",
+   "short": "RSA 51",
+   "title": "New Hampshire Revised Statutes, Chapter 51: Town Lines and Perambulation of Boundaries (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-51.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260101040709/https://gc.nh.gov/rsa/html/III/51/51-mrg.htm",
+     "sha256": "f798dac0e6b902062ead959f26c10f61bebff74c12d703a1302be101060714d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0052",
+   "short": "RSA 52",
+   "title": "New Hampshire Revised Statutes, Chapter 52: Village Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-52.htm",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20250513233455/https://gc.nh.gov/rsa/html/III/52/52-mrg.htm",
+     "sha256": "62eb60010038be28419ac3960bef1f1575b6aac06a9910acd17510d45ff4bac4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0052-a",
+   "short": "RSA 52-A",
+   "title": "New Hampshire Revised Statutes, Chapter 52-A: Special Assessment Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-52-A.htm",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251101222511/https://gc.nh.gov/rsa/html/III/52-A/52-A-mrg.htm",
+     "sha256": "6da01e0b673047f0c2f1b5e3a5e2521f3eb079301a5ad8c760ac349eadfb4b28"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053",
+   "short": "RSA 53",
+   "title": "New Hampshire Revised Statutes, Chapter 53: Unincorporated Places (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53.htm",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250603112822/https://gc.nh.gov/rsa/html/III/53/53-mrg.htm",
+     "sha256": "574eafb39e1ae3ee734fb1ada811661ab5dc5c7371f37cc50a50e8c0ffde96c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-a",
+   "short": "RSA 53-A",
+   "title": "New Hampshire Revised Statutes, Chapter 53-A: Agreements Between Government Units (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250620234245/https://gc.nh.gov/rsa/html/III/53-A/53-A-mrg.htm",
+     "sha256": "67a11155ca9bb7744c01dc2dc1f8b11c11039e26599e1a0d20788715df32f281"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-b",
+   "short": "RSA 53-B",
+   "title": "New Hampshire Revised Statutes, Chapter 53-B: Solid Waste Management Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-B.htm",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20230531200359/https://www.gencourt.state.nh.us/rsa/html/iii/53-B/53-B-mrg.htm",
+     "sha256": "c79e67aab132dcfca9379011b9f9f6dd169221f342b9c99c05634b27ea5887f1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-c",
+   "short": "RSA 53-C",
+   "title": "New Hampshire Revised Statutes, Chapter 53-C: Franchising and Regulation of Cable Television Systems by Cities and Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250715094831/https://gc.nh.gov/rsa/html/III/53-C/53-C-mrg.htm",
+     "sha256": "9a25a0a97c9b363935ccf8014eb55a0d2d0ecd04b51d44d3e0a408deb9e97475"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-e",
+   "short": "RSA 53-E",
+   "title": "New Hampshire Revised Statutes, Chapter 53-E: Aggregation of Electric Customers by Municipalities and Counties (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-E.htm",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260107122944/https://www.gc.nh.gov/rsa/html/III/53-E/53-E-mrg.htm",
+     "sha256": "bf5ebab1a76a38e1bec88a6274b7ee26c6566260102ad9ced952fd1393f27441"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-f",
+   "short": "RSA 53-F",
+   "title": "New Hampshire Revised Statutes, Chapter 53-F: Energy Efficiency and Clean Energy Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-F.htm",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260303200049/https://gc.nh.gov/rsa/html/III/53-F/53-F-mrg.htm",
+     "sha256": "e3a74d59694ee8ded407fefc2ade47ac4eefeb0b92ba90a4d8b4cd2095191f02"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053-g",
+   "short": "RSA 53-G",
+   "title": "New Hampshire Revised Statutes, Chapter 53-G: Communications Districts (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-53-G.htm",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250731130255/https://gc.nh.gov/rsa/html/III/53-G/53-G-mrg.htm",
+     "sha256": "c2c80ed0177b3f6c65ef34b537a13547f08e283cb2232bdb414cd8e2f17ffb54"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0481",
+   "short": "RSA 481",
+   "title": "New Hampshire Revised Statutes, Chapter 481: State Dams, Reservoirs and Other Water Conservation Projects (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-481.htm",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260116143723/https://gc.nh.gov/rsa/html/L/481/481-mrg.htm",
+     "sha256": "d8f2793da5534d3e8fcb8ad71cf43f846d260ce80d124c6bb89c6ff2b8cb0917"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0482",
+   "short": "RSA 482",
+   "title": "New Hampshire Revised Statutes, Chapter 482: Dams, Mills, and Flowage (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-482.htm",
+   "versions": [
+    {
+     "from": "2026-03-22",
+     "units": 100,
+     "source_url": "https://web.archive.org/web/20260322044725/https://gc.nh.gov/rsa/html/L/482/482-mrg.htm",
+     "sha256": "01b1b4c597b6f3fe0eef0d3038ac8d4b80f37e6d8ce697422a6124cfbbbd3147"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0482-a",
+   "short": "RSA 482-A",
+   "title": "New Hampshire Revised Statutes, Chapter 482-A: Fill and Dredge in Wetlands (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-482-A.htm",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20251203041358/https://gc.nh.gov/rsa/html/L/482-A/482-A-mrg.htm",
+     "sha256": "5017beb0536120e2be3c13184093dc858f70bbab605b30c12cbe11dc92d6a050"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0482-b",
+   "short": "RSA 482-B",
+   "title": "New Hampshire Revised Statutes, Chapter 482-B: New Hampshire Water Well Board (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-482-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260321164219/https://gc.nh.gov/rsa/html/L/482-B/482-B-mrg.htm",
+     "sha256": "7babf6c89f4bd2f2997e0c0207af02342ca8f04d3df1000727307867df82b057"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483",
+   "short": "RSA 483",
+   "title": "New Hampshire Revised Statutes, Chapter 483: New Hampshire Rivers Management and Protection Program (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483.htm",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20251201004057/https://gc.nh.gov/rsa/html/L/483/483-mrg.htm",
+     "sha256": "bd521143e213a593003f22768a07556e4b0cca3b35b675bcd92469d1b27da4a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483-a",
+   "short": "RSA 483-A",
+   "title": "New Hampshire Revised Statutes, Chapter 483-A: New Hampshire Lakes Management and Protection Program (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260105151114/https://www.gc.nh.gov/rsa/html/l/483-a/483-a-mrg.htm",
+     "sha256": "59df36beb52fa33be1f95c6d292c537b033da1eba598c3f6088918290c28d0a0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483-b",
+   "short": "RSA 483-B",
+   "title": "New Hampshire Revised Statutes, Chapter 483-B: Shoreland Water Quality Protection Act (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483-B.htm",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260918080658/https://gc.nh.gov/rsa/html/l/483-b/483-b-mrg.htm",
+     "sha256": "4d4337e792c83b621338c4b36874553ebcdbd4b857bb7bf8e7b1a0c6b7c9fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483-c",
+   "short": "RSA 483-C",
+   "title": "New Hampshire Revised Statutes, Chapter 483-C: Public Use of New Hampshire Coastal Shorelands (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483-C.htm",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20251208125725/https://gc.nh.gov/rsa/html/L/483-C/483-C-mrg.htm",
+     "sha256": "3e1c4522d0dc3048d8c6e415e33a907278463a5cb0c7c573d15dd4b0f698fd5d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483-d",
+   "short": "RSA 483-D",
+   "title": "New Hampshire Revised Statutes, Chapter 483-D: Winnipesaukee River Watershed (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483-D.htm",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260310210609/https://gc.nh.gov/rsa/html/L/483-D/483-D-mrg.htm",
+     "sha256": "c978a3b2d2d7ceaeb796deaee01a558c252abebd6cb049ec5db34be15a51c51c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0483-f",
+   "short": "RSA 483-F",
+   "title": "New Hampshire Revised Statutes, Chapter 483-F: Pcb Assistance (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-483-F.htm",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260323092754/https://gc.nh.gov/rsa/html/L/483-F/483-F-mrg.htm",
+     "sha256": "640ead58155ab9d3a3d55f138bd2ed34cdf1fd4fad4ea3b12e2490d9762fce3e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0484",
+   "short": "RSA 484",
+   "title": "New Hampshire Revised Statutes, Chapter 484: Water Management and Protection Compacts (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-484.htm",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260324065421/https://gc.nh.gov/rsa/html/L/484/484-mrg.htm",
+     "sha256": "5f1d7f1df37b51dc21fec34faacfb97568a29f07d2b008f3a3f19ff9865a0509"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485",
+   "short": "RSA 485",
+   "title": "New Hampshire Revised Statutes, Chapter 485: New Hampshire Safe Drinking Water Act (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485.htm",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20260324140450/https://gc.nh.gov/rsa/html/L/485/485-mrg.htm",
+     "sha256": "b2bbd85598c3589cdaab244e36d920748a946d0fc1bde8a583c57cfa585c6de3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-a",
+   "short": "RSA 485-A",
+   "title": "New Hampshire Revised Statutes, Chapter 485-A: Water Pollution and Waste Disposal (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 86,
+     "source_url": "https://web.archive.org/web/20260321071305/https://gc.nh.gov/rsa/html/L/485-A/485-A-mrg.htm",
+     "sha256": "910c6c1377a9c041d503fca771f64a53f056e6f7e599ab056bf4662e53c7abd4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-b",
+   "short": "RSA 485-B",
+   "title": "New Hampshire Revised Statutes, Chapter 485-B: Floating Timber (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260324064800/https://gc.nh.gov/rsa/html/L/485-B/485-B-mrg.htm",
+     "sha256": "fb4ffee815ee8ff937e881e687bea9046d1139d3aac3ee728e80de737579338b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-c",
+   "short": "RSA 485-C",
+   "title": "New Hampshire Revised Statutes, Chapter 485-C: Groundwater Protection Act (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-C.htm",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20230126183941/https://gencourt.state.nh.us/rsa/html/L/485-C/485-C-mrg.htm",
+     "sha256": "29014a7c2af54aa48c5e6647f2ab90716650e8fcf235306cfb230e290d6e063a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-d",
+   "short": "RSA 485-D",
+   "title": "New Hampshire Revised Statutes, Chapter 485-D: New Hampshire-vermont Interstate Public Water Supply Compact (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-D.htm",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260323222432/https://gc.nh.gov/rsa/html/L/485-D/485-D-mrg.htm",
+     "sha256": "03f0eafca03560574b9f11b2424e1eb687d578e1db7982888d209092db20941d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-f",
+   "short": "RSA 485-F",
+   "title": "New Hampshire Revised Statutes, Chapter 485-F: Administration of the Drinking Water and Groundwater Trust Fund (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-F.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260106064217/https://www.gc.nh.gov/rsa/html/l/485-f/485-f-mrg.htm",
+     "sha256": "bf8d6e944927a0731c3a6b52ba2b9b6e6d141b970c2fc0db25232babf8f9877a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0485-h",
+   "short": "RSA 485-H",
+   "title": "New Hampshire Revised Statutes, Chapter 485-H: Per and Polyfluoroalkyl Substances (pfas) Fund and Programs (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-485-H.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250529141242/https://gc.nh.gov/rsa/html/L/485-H/485-H-mrg.htm",
+     "sha256": "dc9c76a44ada5c5152f8e68b70e1e0046ec38785ce562e79508820ecaaf09dc3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0486",
+   "short": "RSA 486",
+   "title": "New Hampshire Revised Statutes, Chapter 486: Aid to Municipalities for Water Pollution Control (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-486.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250605205121/https://gc.nh.gov/rsa/html/L/486/486-mrg.htm",
+     "sha256": "baabeb32833c6f673bc200b0fab82189f365ce70b45c7c61da6b197c93fc40d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0486-a",
+   "short": "RSA 486-A",
+   "title": "New Hampshire Revised Statutes, Chapter 486-A: Aid to Public Water Systems (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-486-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250605205123/https://gc.nh.gov/rsa/html/L/486-A/486-A-mrg.htm",
+     "sha256": "ca340a1599093fa18b5182eab99ca4d0d49f92f3427bbc7c44ca4d21c12ccdba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0487",
+   "short": "RSA 487",
+   "title": "New Hampshire Revised Statutes, Chapter 487: Control of Marine Pollution and Aquatic Growth (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-487.htm",
+   "versions": [
+    {
+     "from": "2026-01-02",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260102013324/https://gc.nh.gov/rsa/html/L/487/487-mrg.htm",
+     "sha256": "2e6cae56cf6a09b284ae94db81b59972864c6e88fc62ed5739108c933f180571"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0488",
+   "short": "RSA 488",
+   "title": "New Hampshire Revised Statutes, Chapter 488: Water Management (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-488.htm",
+   "versions": [
+    {
+     "from": "2025-12-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251220053024/https://gc.nh.gov/rsa/html/L/488/488-mrg.htm",
+     "sha256": "845de5d5084e7a178617431ea34a203b55ec49299d05c93476c64bb806d4ed84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0489",
+   "short": "RSA 489",
+   "title": "New Hampshire Revised Statutes, Chapter 489: Integrated Land Development Permit (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-489.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250605204549/https://gc.nh.gov/rsa/html/L/489/489-mrg.htm",
+     "sha256": "4b4c02c5c62cb05e6a05102e73e29a84c67822696a04e1e88f2d82d5b128e57f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0489-c",
+   "short": "RSA 489-C",
+   "title": "New Hampshire Revised Statutes, Chapter 489-C: Salt Applicator Certification Option (Title L: Water Management and Protection)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-L-489-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260120153003/https://gc.nh.gov/rsa/html/L/489-C/489-C-mrg.htm",
+     "sha256": "f636832ede5d51f13422321bfcca88bb1c2d2fb7124befaf05d3daf3bd4b0d18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490",
+   "short": "RSA 490",
+   "title": "New Hampshire Revised Statutes, Chapter 490: Supreme Court (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490.htm",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261021055743/https://gc.nh.gov/rsa/html/LI/490/490-mrg.htm",
+     "sha256": "7d5b255db83e4c3644035ddea76d68f1cb610795406b9df3e7e1c9950be04add"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-a",
+   "short": "RSA 490-A",
+   "title": "New Hampshire Revised Statutes, Chapter 490-A: Unified Court System (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250518081528/https://gc.nh.gov/rsa/html/LI/490-A/490-A-mrg.htm",
+     "sha256": "683f0db7697453320d9ddc6f9e53ee92967eb59efd92e7a85825dcf8da633f57"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-b",
+   "short": "RSA 490-B",
+   "title": "New Hampshire Revised Statutes, Chapter 490-B: Court Facilities (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261009013720/https://gc.nh.gov/rsa/html/LI/490-B/490-B-mrg.htm",
+     "sha256": "a6ad0c50fbbecec4ae3c4572d057e85f6adc7bbe75277e1ab48339d3c2724f8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-c",
+   "short": "RSA 490-C",
+   "title": "New Hampshire Revised Statutes, Chapter 490-C: Guardian Ad Litem Board (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-C.htm",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250513184545/https://gc.nh.gov/rsa/html/LI/490-C/490-C-mrg.htm",
+     "sha256": "6d75a2830436c5c38f26d4c16691f6ffb623d7a85cf32017ac4e650087161b51"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-d",
+   "short": "RSA 490-D",
+   "title": "New Hampshire Revised Statutes, Chapter 490-D: Judicial Branch Family Division (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-D.htm",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250525205923/https://gc.nh.gov/rsa/html/LI/490-D/490-D-mrg.htm",
+     "sha256": "6130f03d67d6ff4d89c607db0ce33b7cc1376170799f501c50f6dbc5bf3cbf99"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-f",
+   "short": "RSA 490-F",
+   "title": "New Hampshire Revised Statutes, Chapter 490-F: Circuit Court (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-F.htm",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250508102623/https://gc.nh.gov/rsa/html/LI/490-F/490-F-mrg.htm",
+     "sha256": "fba06bf86b269aebd02ea6af18a59ed325e29f7f07bf80e565702b6d1bbf96d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-g",
+   "short": "RSA 490-G",
+   "title": "New Hampshire Revised Statutes, Chapter 490-G: Drug Courts and Alternative Drug Offender Grant Program (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-G.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260123151349/https://gc.nh.gov/rsa/html/LI/490-G/490-G-mrg.htm",
+     "sha256": "374dbd57de13aae6d528205b3d6cc7e58453016213060668555936186f93ae0d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-h",
+   "short": "RSA 490-H",
+   "title": "New Hampshire Revised Statutes, Chapter 490-H: Mental Health Courts (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-H.htm",
+   "versions": [
+    {
+     "from": "2025-05-03",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250503083032/https://gc.nh.gov/rsa/html/LI/490-H/490-H-mrg.htm",
+     "sha256": "4b5b820578be6d86e7394636582802aa876fd8c5c36c99e2cd7dd2cb522d885a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-i",
+   "short": "RSA 490-I",
+   "title": "New Hampshire Revised Statutes, Chapter 490-I: Veterans Track (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-I.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250518135514/https://gc.nh.gov/rsa/html/LI/490-I/490-I-mrg.htm",
+     "sha256": "88b2ff4ab9f808ec8dd18d94c952b2a71c63604f7f1ea80c0b6f8191667e32a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-j",
+   "short": "RSA 490-J",
+   "title": "New Hampshire Revised Statutes, Chapter 490-J: New Hampshire Collaborative Law Act (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-J.htm",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260716005918/https://gc.nh.gov/rsa/html/LI/490-J/490-J-mrg.htm",
+     "sha256": "65a0fcd5ed481c38c4a1fe9863c68378ff13753693f1261fc117e7536efddda7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0490-k",
+   "short": "RSA 490-K",
+   "title": "New Hampshire Revised Statutes, Chapter 490-K: Judicial Training (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-490-K.htm",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250413081103/https://gc.nh.gov/rsa/html/LI/490-K/490-K-mrg.htm",
+     "sha256": "9208701d9400add941439a3402f80f9ba3732e43f57bebd5326897e888d7f50e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0491-a",
+   "short": "RSA 491-A",
+   "title": "New Hampshire Revised Statutes, Chapter 491-A: Judicial Salaries (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-491-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260413114703/https://gc.nh.gov/rsa/html/LI/491-A/491-A-mrg.htm",
+     "sha256": "62089fa5811267d12bbed57ccaca32459a52d959e3bee7ff688d6265635ece6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0491-b",
+   "short": "RSA 491-B",
+   "title": "New Hampshire Revised Statutes, Chapter 491-B: Magistrates (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-491-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250512074745/https://gc.nh.gov/rsa/html/LI/491-B/491-B-mrg.htm",
+     "sha256": "cdf33c7372ff3cb2cc7f9a87ff4f196444eeb0000eae6a6cad74b511cd524850"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0492",
+   "short": "RSA 492",
+   "title": "New Hampshire Revised Statutes, Chapter 492: Disqualification of Justices (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-492.htm",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250507083448/https://gc.nh.gov/rsa/html/LI/492/492-mrg.htm",
+     "sha256": "0308484415780a0989b11034eb2a43229979bddde074e938ec42c13cfac8479d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0493",
+   "short": "RSA 493",
+   "title": "New Hampshire Revised Statutes, Chapter 493: Tenure of Judges (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-493.htm",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250807122030/https://gc.nh.gov/rsa/html/LI/493/493-mrg.htm",
+     "sha256": "6f09c5f597657e23e60fc2ff336667e41a6bfd68289ecf884fe0eb04be9fd9b6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0493-a",
+   "short": "RSA 493-A",
+   "title": "New Hampshire Revised Statutes, Chapter 493-A: Retired Judges; Judicial Referees (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-493-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250614065102/https://gc.nh.gov/rsa/html/LI/493-A/493-A-mrg.htm",
+     "sha256": "08b5cf391117078fe42d8bbf7a5bbeea06ab2bffba8138a4aeca45c0b480bf50"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0494",
+   "short": "RSA 494",
+   "title": "New Hampshire Revised Statutes, Chapter 494: The Judicial Council (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-494.htm",
+   "versions": [
+    {
+     "from": "2025-05-10",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250510125804/https://gc.nh.gov/rsa/html/LI/494/494-mrg.htm",
+     "sha256": "7f4042e767003ffb5613740384f1bac7af4a828c74228d93f20646189a7c4ec4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0495",
+   "short": "RSA 495",
+   "title": "New Hampshire Revised Statutes, Chapter 495: Statements Out of Court (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-495.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250518124609/https://gc.nh.gov/rsa/html/LI/495/495-mrg.htm",
+     "sha256": "7bbe6c70a2f765e4fe78f25eb7e1bd00579434f10feb0b3acd37ce5c192cabaf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0496",
+   "short": "RSA 496",
+   "title": "New Hampshire Revised Statutes, Chapter 496: Terms of the Superior Court (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-496.htm",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260821025209/https://gc.nh.gov/rsa/html/LI/496/496-mrg.htm",
+     "sha256": "1731ba13d985251f06c3b450546aaa0e54cf7689d7a895b4fe7fd3135aafb552"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0498",
+   "short": "RSA 498",
+   "title": "New Hampshire Revised Statutes, Chapter 498: Equity Powers and Proceedings (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-498.htm",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250519020346/https://gc.nh.gov/rsa/html/LI/498/498-mrg.htm",
+     "sha256": "dd9a524770366d3fbc875adf9b03eb61aaa75171ae5f3fa3ba816ef00288e89f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0498-a",
+   "short": "RSA 498-A",
+   "title": "New Hampshire Revised Statutes, Chapter 498-A: Eminent Domain Procedure Act (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-498-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260106085255/https://www.gc.nh.gov/rsa/html/li/498-a/498-a-mrg.htm",
+     "sha256": "c618be3b8462b3e42a0e3d53995f43d45b233bf9c6f8a4620cedbb79bd272d9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0499",
+   "short": "RSA 499",
+   "title": "New Hampshire Revised Statutes, Chapter 499: Clerks of Court (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-499.htm",
+   "versions": [
+    {
+     "from": "2025-07-13",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250713091248/https://gc.nh.gov/rsa/html/LI/499/499-mrg.htm",
+     "sha256": "a3307c961cc0da3a9a35cea4a9eada21ed35d11e55f3ec518390bfc8d5964e26"
     }
    ]
   }

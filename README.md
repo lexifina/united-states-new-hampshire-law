@@ -6,9 +6,10 @@ The law of New Hampshire as a git history: one file per provision, with `git bla
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `chapter-NNNN/` | New Hampshire Revised Statutes: 102 of the 1778 chapters in the title tables of contents | 1 | 2770 sections; each chapter dated by the day of the capture read (2026: 42, 2025: 39, 2024: 11, 2023: 4, 2022: 5, 2021: 1 chapters) |
+| `constitution-NN-<part>/` | Constitution of New Hampshire: Part First (Bill of Rights) and Part Second, 12 pages | 1 | 156 articles; each page dated by the day of the capture read |
+| `chapter-NNNN/` | New Hampshire Revised Statutes: 159 of the 1778 chapters in the title tables of contents | 1 | 3808 sections; each chapter dated by the day of the capture read (2026: 68, 2025: 68, 2024: 11, 2023: 6, 2022: 5, 2021: 1 chapters) |
 
-Only the section headings, the statute text and each section's "Source." note are taken.
+Only the section headings, the statute text and each section's "Source." note are taken. The Constitution is read from Internet Archive captures of the State's own pages (www.nh.gov/glance/state-constitution, which gc.nh.gov links to), one page per part, each article with the adoption and amendment notes the page prints.
 
 ## Dates
 
@@ -24,4 +25,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-102 of the 1778 chapters listed in the title tables of contents are included. Left out: no capture since 2020 (72); no sections (12); not fetched yet (1592). The New Hampshire Constitution, session laws and administrative rules are not included. There is no history before the dates above.
+159 of the 1778 chapters listed in the title tables of contents are included. Left out: no capture since 2020 (84); no sections (17); not fetched yet (1518). Session laws and administrative rules are not included. There is no history before the dates above.
