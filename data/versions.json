@@ -1,0 +1,719 @@
+{
+ "country": "US-NH",
+ "acts": [
+  {
+   "slug": "chapter-0001-a",
+   "short": "RSA 1-A",
+   "title": "New Hampshire Revised Statutes, Chapter 1-A: New Hampshire Coordinate System (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-1-A.htm",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240430024935/https://www.gencourt.state.nh.us/rsa/html/i/1-a/1-a-mrg.htm",
+     "sha256": "535b3181b2c953957370ea922efb1652423fc49816565a5651ba298f33ba65d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003",
+   "short": "RSA 3",
+   "title": "New Hampshire Revised Statutes, Chapter 3: State Emblems, Flag, Etc. (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-3.htm",
+   "versions": [
+    {
+     "from": "2026-10-04",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20261004002219/https://gc.nh.gov/rsa/html/i/3/3-mrg.htm",
+     "sha256": "d4eb208025632e965fa311b43a8493f43a96c70fb4fd2e3c4adefe7b95a5a383"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003-a",
+   "short": "RSA 3-A",
+   "title": "New Hampshire Revised Statutes, Chapter 3-A: Poet Laureate (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-3-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260106134739/https://www.gc.nh.gov/rsa/html/I/3-A/3-A-mrg.htm",
+     "sha256": "0e2870e471e5e009d1da3a77f253eda9ee5dd9746ac8224993a95a51f427af00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003-c",
+   "short": "RSA 3-C",
+   "title": "New Hampshire Revised Statutes, Chapter 3-C: Official State Language (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-3-C.htm",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20230413225741/https://www.gencourt.state.nh.us/rsa/html/i/3-c/3-c-mrg.htm",
+     "sha256": "86988a0deffbbc245b432d3d2919408f0f38184f70962d529401a1ecfe63e8ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003-d",
+   "short": "RSA 3-D",
+   "title": "New Hampshire Revised Statutes, Chapter 3-D: Artist Laureate (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-3-D.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260106214726/https://www.gc.nh.gov/rsa/html/i/3-d/3-d-mrg.htm",
+     "sha256": "c34d003b4c33a720e2d79e45dbafbeb4cf9d4a6af70a70255246af8ba0642ad0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003-e",
+   "short": "RSA 3-E",
+   "title": "New Hampshire Revised Statutes, Chapter 3-E: Display of the Flag of the United States (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-3-E.htm",
+   "versions": [
+    {
+     "from": "2021-04-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20210411050925/http://www.gencourt.state.nh.us/rsa/html/I/3-E/3-E-mrg.htm",
+     "sha256": "f79a53069e7b22fc9585b0e91dde3ac96f08fc279764f8420f93fdb57a301a97"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0004",
+   "short": "RSA 4",
+   "title": "New Hampshire Revised Statutes, Chapter 4: Powers of the Governor and Council in Certain Cases (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-4.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 113,
+     "source_url": "https://web.archive.org/web/20250702091623/https://gc.nh.gov/rsa/html/I/4/4-mrg.htm",
+     "sha256": "a110bed388420a77c0a39e7f3f5763e78ec381acd5d427ed7778e5483fe784f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0004-f",
+   "short": "RSA 4-F",
+   "title": "New Hampshire Revised Statutes, Chapter 4-F: New Hampshire Geographic Information System Committee (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-4-F.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260106005013/https://www.gc.nh.gov/rsa/html/I/4-F/4-F-mrg.htm",
+     "sha256": "8d5145fdde9ea5d412f058bce6551cec7204aa24c1d917e7f91598ee662e78ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0004-h",
+   "short": "RSA 4-H",
+   "title": "New Hampshire Revised Statutes, Chapter 4-H: State Council on Housing Stability (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-4-H.htm",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260522171345/https://gc.nh.gov/rsa/html/I/4-H/4-H-mrg.htm",
+     "sha256": "b6911db3b9527ce802bfb3c73fcff17d1a07ff24c8b199f5bf8a0a124eff3f26"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005",
+   "short": "RSA 5",
+   "title": "New Hampshire Revised Statutes, Chapter 5: Department of State (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-5.htm",
+   "versions": [
+    {
+     "from": "2025-03-23",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20250323095230/https://gc.nh.gov/rsa/html/I/5/5-mrg.htm",
+     "sha256": "203b8f86ee2bcd6ca8bb3c66879cea93aeeed8a65d49b47387987edf25ddc6f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005-b",
+   "short": "RSA 5-B",
+   "title": "New Hampshire Revised Statutes, Chapter 5-B: Pooled Risk Management Programs (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-5-B.htm",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220929232513/http://www.gencourt.state.nh.us/rsa/html/I/5-B/5-B-mrg.htm",
+     "sha256": "d51456823357c9a2f3d32553c98ac8aab1ffac81fd94840911794a124b97f768"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005-c",
+   "short": "RSA 5-C",
+   "title": "New Hampshire Revised Statutes, Chapter 5-C: Vital Records Administration (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-5-C.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 117,
+     "source_url": "https://web.archive.org/web/20261024184925/https://gc.nh.gov/rsa/html/I/5-C/5-C-mrg.htm",
+     "sha256": "88fa2bc4cb42a960351feee00f41ece1ab77e0285a11f2d6c0967b4619fac841"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005-d",
+   "short": "RSA 5-D",
+   "title": "New Hampshire Revised Statutes, Chapter 5-D: Use of Artificial Intelligence by State Agencies (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-5-D.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261102122238/https://gc.nh.gov/rsa/html/I/5-D/5-D-mrg.htm",
+     "sha256": "6d6afd47a6c45954df1f428b4119b8431cfeef0b74e7d667f230d7559511811b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006",
+   "short": "RSA 6",
+   "title": "New Hampshire Revised Statutes, Chapter 6: State Treasurer and State Accounts (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-6.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20250924221935/https://gc.nh.gov/rsa/html/I/6/6-mrg.htm",
+     "sha256": "624a3eff51038e538e7d78d43d431d0580ea433edcc851626ef57ffb25bc3b0b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006-a",
+   "short": "RSA 6-A",
+   "title": "New Hampshire Revised Statutes, Chapter 6-A: State Bonds (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-6-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260106004701/https://gc.nh.gov/rsa/html/I/6-A/6-A-mrg.htm",
+     "sha256": "85c494142137515ddeadbcef421951f69deebaa14d4a8f16c3ac743c24e58556"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006-b",
+   "short": "RSA 6-B",
+   "title": "New Hampshire Revised Statutes, Chapter 6-B: Investment and Debt Management (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-6-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260106180452/https://gc.nh.gov/rsa/html/I/6-B/6-B-mrg.htm",
+     "sha256": "e56d64c8441b20efb3c1d494cdae9bd26b43b3291b1be95830271575577a7aec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006-c",
+   "short": "RSA 6-C",
+   "title": "New Hampshire Revised Statutes, Chapter 6-C: Debt Management (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-6-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260106004721/https://gc.nh.gov/rsa/html/I/6-C/6-C-mrg.htm",
+     "sha256": "62fc7e8aa5905ba057b66e0d1ece7269b4112a600aa6f0f46b73a4c2ecf7f4f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006-d",
+   "short": "RSA 6-D",
+   "title": "New Hampshire Revised Statutes, Chapter 6-D: Drinking Water and Groundwater Trust Fund (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-6-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250605205127/https://gc.nh.gov/rsa/html/I/6-D/6-D-mrg.htm",
+     "sha256": "8588ae111ef678aca00e140c67342d17e6e46199b9b50ae5ded621af799dbfa0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0007",
+   "short": "RSA 7",
+   "title": "New Hampshire Revised Statutes, Chapter 7: Attorneys General, Director of Charitable Trusts, and County Attorneys (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-7.htm",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 106,
+     "source_url": "https://web.archive.org/web/20260717005224/https://gc.nh.gov/rsa/html/i/7/7-mrg.htm",
+     "sha256": "cab67cec60bb1f69645afbf45653595e58af29a406af0f4aa18c0b6091be94ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009",
+   "short": "RSA 9",
+   "title": "New Hampshire Revised Statutes, Chapter 9: Budget and Appropriations; Revolving Funds (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9.htm",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20250401054732/https://gc.nh.gov/rsa/html/I/9/9-mrg.htm",
+     "sha256": "3201e424f4488844ea541b4d7b72879fe3f42de5430c432766cdcaf78930a5bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-a",
+   "short": "RSA 9-A",
+   "title": "New Hampshire Revised Statutes, Chapter 9-A: State Development Plan (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250804000146/https://gc.nh.gov/rsa/html/I/9-A/9-A-mrg.htm",
+     "sha256": "ab872ce0ddbf2dc6f936bd662778afca3ea3bff04a87278d1675d2e434e9eb85"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-b",
+   "short": "RSA 9-B",
+   "title": "New Hampshire Revised Statutes, Chapter 9-B: State Economic Growth, Resource Protection, and Planning Policy (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250603112853/https://gc.nh.gov/rsa/html/I/9-B/9-B-mrg.htm",
+     "sha256": "36c18fa31b997f9e8461bee5e1dbbbc36be0831295476671ff0e09e89923b7b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-c",
+   "short": "RSA 9-C",
+   "title": "New Hampshire Revised Statutes, Chapter 9-C: State Government Waste Reduction, Recycling, and Recycled Products Purchase (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250625203518/https://gc.nh.gov/rsa/html/I/9-C/9-C-mrg.htm",
+     "sha256": "8b97f683d10c8e8a03623d2ecd311738dac1a06640026c6f612e69e966dfcef9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-d",
+   "short": "RSA 9-D",
+   "title": "New Hampshire Revised Statutes, Chapter 9-D: State Credit Card Contracts (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-D.htm",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260523090525/https://gc.nh.gov/rsa/html/I/9-D/9-D-mrg.htm",
+     "sha256": "4f6c4f9d0d4186e7360e16d2c87f428d80c81c1a63bcd86a3b5f90e465af584e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-e",
+   "short": "RSA 9-E",
+   "title": "New Hampshire Revised Statutes, Chapter 9-E: Outdoor Lighting Efficiency (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-E.htm",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260523092527/https://gc.nh.gov/rsa/html/I/9-E/9-E-mrg.htm",
+     "sha256": "b0139ea286e75c72a8a8a58c43861fcf3dfe0faf234bf289ca4f658023ffbf68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-f",
+   "short": "RSA 9-F",
+   "title": "New Hampshire Revised Statutes, Chapter 9-F: Online Access to Budget Information and Reports (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-F.htm",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251119075710/https://www.gc.nh.gov/rsa/html/i/9-f/9-f-mrg.htm",
+     "sha256": "1573c3f26b5131cb3ebe84e6fa27aea3f48cceed47e4d6bd1ca694fa714a2141"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009-g",
+   "short": "RSA 9-G",
+   "title": "New Hampshire Revised Statutes, Chapter 9-G: Prohibition on Certain Vaccine Requirements (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-9-G.htm",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20230630115733/https://gencourt.state.nh.us/rsa/html/I/9-G/9-G-mrg.htm",
+     "sha256": "cda7c1799e22dbf5e31ecd7c7dbbebd5504777cc71109289d82c759bb9c21896"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0010",
+   "short": "RSA 10",
+   "title": "New Hampshire Revised Statutes, Chapter 10: State Institutions (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-10.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250803212031/https://gc.nh.gov/rsa/html/I/10/10-mrg.htm",
+     "sha256": "40a84472f5f2c0381a8eeb0b828e4756e37c31b9042f3ead7ca6907cbf8f4396"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0011",
+   "short": "RSA 11",
+   "title": "New Hampshire Revised Statutes, Chapter 11: State Trust Funds (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-11.htm",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260218132832/https://gc.nh.gov/rsa/html/I/11/11-mrg.htm",
+     "sha256": "ff321b00fc08b6cd6b7f3143bfc8aafe1779122d0c5b5efb87a406c627c9455c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012",
+   "short": "RSA 12",
+   "title": "New Hampshire Revised Statutes, Chapter 12: State Planning and Development (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12.htm",
+   "versions": [
+    {
+     "from": "2024-05-26",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20240526162429/https://gencourt.state.nh.us/rsa/html/I/12/12-mrg.htm",
+     "sha256": "2454b3abd05b2b24dc632f272fbfc6c98b2d3b05ff96914facfb165dfb48afac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-a",
+   "short": "RSA 12-A",
+   "title": "New Hampshire Revised Statutes, Chapter 12-A: Department of Natural and Cultural Resources (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 119,
+     "source_url": "https://web.archive.org/web/20260106195228/https://www.gc.nh.gov/rsa/html/I/12-a/12-a-mrg.htm",
+     "sha256": "eea8837bba3d85916a6611af21757e45d818f4761aff918019a6fe7353ff039a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-e",
+   "short": "RSA 12-E",
+   "title": "New Hampshire Revised Statutes, Chapter 12-E: Mining and Reclamation (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-E.htm",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260607075003/https://gc.nh.gov/rsa/html/I/12-E/12-E-mrg.htm",
+     "sha256": "b726faacd8c87f14813ab22ef3707a048fc93e7cf64561a714cfaff295fa883e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-f",
+   "short": "RSA 12-F",
+   "title": "New Hampshire Revised Statutes, Chapter 12-F: Weather Modification Experimentation (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-F.htm",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20240126092915/https://www.gencourt.state.nh.us/rsa/html/I/12-F/12-F-mrg.htm",
+     "sha256": "afd5b5563f120437f7c4c79eecb6e434e3f7337332561897e8715a6abdfd533c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-j",
+   "short": "RSA 12-J",
+   "title": "New Hampshire Revised Statutes, Chapter 12-J: The Governor's Commission on Addiction, Treatment, and Prevention (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-J.htm",
+   "versions": [
+    {
+     "from": "2024-06-24",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240624024937/https://www.gencourt.state.nh.us/rsa/html/i/12-j/12-j-mrg.htm",
+     "sha256": "af524f4a1a1b9841a1c93db3366e5c8a95549f1111e3b1310e46e86901d88cb9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-k",
+   "short": "RSA 12-K",
+   "title": "New Hampshire Revised Statutes, Chapter 12-K: Deployment of Personal Wireless Service Facilities (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-K.htm",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20230607103125/https://www.gencourt.state.nh.us/rsa/html/i/12-k/12-k-mrg.htm",
+     "sha256": "e96762c0cb7aa531a94a7e61671362bb590508453111663effe7567cab5b7826"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-o",
+   "short": "RSA 12-O",
+   "title": "New Hampshire Revised Statutes, Chapter 12-O: Department of Business and Economic Affairs (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-O.htm",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20250411065714/https://gc.nh.gov/rsa/html/I/12-O/12-O-mrg.htm",
+     "sha256": "4594c5e6b31be220c8e964fc1b6d631da4775dd95772c025d34077bb2b52679f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-p",
+   "short": "RSA 12-P",
+   "title": "New Hampshire Revised Statutes, Chapter 12-P: Department of Energy (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-12-P.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250529141148/https://gc.nh.gov/rsa/html/i/12-p/12-p-mrg.htm",
+     "sha256": "9866e54e66267b06837545d4fa9c7728b394c969d96cd8ed74b2c7cce967853c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0014",
+   "short": "RSA 14",
+   "title": "New Hampshire Revised Statutes, Chapter 14: Legislative Officers and Proceedings (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-14.htm",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20250224182300/https://gc.nh.gov/rsa/html/I/14/14-mrg.htm",
+     "sha256": "893c85cc57802c9987bb0a5265db3a3ce1500ad52b7ce8f01ecfa8917c92e3d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0014-a",
+   "short": "RSA 14-A",
+   "title": "New Hampshire Revised Statutes, Chapter 14-A: Members of the General Court (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-14-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240528190125/https://gencourt.state.nh.us/rsa/html/I/14-A/14-A-mrg.htm",
+     "sha256": "98d05427982e49349db55170e4971b5968d67cc23bc3cb0afcc35fbfc9083b68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0014-b",
+   "short": "RSA 14-B",
+   "title": "New Hampshire Revised Statutes, Chapter 14-B: Legislative Ethics Committee (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-14-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20220523173223/https://gencourt.state.nh.us/rsa/html/I/14-B/14-B-mrg.htm",
+     "sha256": "d3174cfb9469dac4610f547ccaea651b7b9ced1ca9b000e5fa072a0a23f8f204"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0014-c",
+   "short": "RSA 14-C",
+   "title": "New Hampshire Revised Statutes, Chapter 14-C: Gifts, Honorariums, and Expense Reimbursements Requirements for Legislators and Legislative Employees and Conflicts of Interest for Legislators (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-14-C.htm",
+   "versions": [
+    {
+     "from": "2023-05-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20230521135228/https://www.gencourt.state.nh.us/rsa/html/I/14-C/14-C-mrg.htm",
+     "sha256": "8a3cec3f92ee0e25bc09caa80f01408eefbbecbe96a6072541a4fc3783e264c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015",
+   "short": "RSA 15",
+   "title": "New Hampshire Revised Statutes, Chapter 15: Lobbyists (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-15.htm",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261028023026/https://gc.nh.gov/rsa/html/I/15/15-mrg.htm",
+     "sha256": "d646c102104fda5901eadf6c81848507bdbd0a49a90ecf679c8ebca2358bd306"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-a",
+   "short": "RSA 15-A",
+   "title": "New Hampshire Revised Statutes, Chapter 15-A: Financial Disclosure (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-15-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250514051841/https://gc.nh.gov/rsa/html/I/15-A/15-A-mrg.htm",
+     "sha256": "8df1e58ba571b47e6eeefd59b9a3815d4575cd40ae0b8798a79726c49a4d639c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-b",
+   "short": "RSA 15-B",
+   "title": "New Hampshire Revised Statutes, Chapter 15-B: Gifts, Honorariums, and Expense Reimbursements (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-15-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250523213226/https://gc.nh.gov/rsa/html/I/15-B/15-B-mrg.htm",
+     "sha256": "1fc1bb7d33868e5212af1a05512442965c0f27b9fa6d589f6079ea4f34087b3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016",
+   "short": "RSA 16",
+   "title": "New Hampshire Revised Statutes, Chapter 16: Special Legislative Sessions (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-16.htm",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240608071727/https://www.gencourt.state.nh.us/rsa/html/I/16/16-mrg.htm",
+     "sha256": "6d3d7e3aa7e8566cfbe6b5c5524f04ac61ad884d517bde9e0e7ece79b33a3a7a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0017-c",
+   "short": "RSA 17-C",
+   "title": "New Hampshire Revised Statutes, Chapter 17-C: Committee on Legislator Orientation (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-17-C.htm",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251105151050/https://gc.nh.gov/rsa/html/i/17-c/17-c-mrg.htm",
+     "sha256": "6ac9aeb57e3c8751470d2225220f2450e7a2e2406027ad110a8d99840d8ce93f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0017-e",
+   "short": "RSA 17-E",
+   "title": "New Hampshire Revised Statutes, Chapter 17-E: Joint Committee on Legislative Facilities (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-17-E.htm",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260525225938/https://gc.nh.gov/rsa/html/I/17-E/17-E-mrg.htm",
+     "sha256": "3466d903bc5f0ab83c919b5b570734859afbcf35ac01dab37ebfb5f7a2202ad4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0017-i",
+   "short": "RSA 17-I",
+   "title": "New Hampshire Revised Statutes, Chapter 17-I: Joint Legislative Historical Committee (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-17-I.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220519044056/https://gencourt.state.nh.us/rsa/html/I/17-I/17-I-mrg.htm",
+     "sha256": "4105120bf11e383045ee6027a39b6c609a63d92017423e4391cf6fce71dcdd27"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0017-m",
+   "short": "RSA 17-M",
+   "title": "New Hampshire Revised Statutes, Chapter 17-M: Long Range Capital Planning and Utilization Committee (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-17-M.htm",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260202092641/https://gc.nh.gov/rsa/html/I/17-M/17-M-mrg.htm",
+     "sha256": "41cbecb08276757e1354a75f6c3a423ed93ef056e1ea15b35d4fa078e687c1f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0019-a",
+   "short": "RSA 19-A",
+   "title": "New Hampshire Revised Statutes, Chapter 19-A: Council on the Arts (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-19-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250803101239/https://gc.nh.gov/rsa/html/I/19-A/19-A-mrg.htm",
+     "sha256": "e56f4e9eb7a3db5b5621af6a5c5ac3d6d45758461d922245fa947ebf5d943708"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0019-k",
+   "short": "RSA 19-K",
+   "title": "New Hampshire Revised Statutes, Chapter 19-K: Legislative Youth Advisory Council (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-19-K.htm",
+   "versions": [
+    {
+     "from": "2025-09-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250906144149/https://gc.nh.gov/rsa/html/I/19-K/19-K-mrg.htm",
+     "sha256": "2fa086854dcf94423d8ba50f23f9e4ffe87e2c6319395623c1c41d871a6f3801"
+    }
+   ]
+  }
+ ]
+}

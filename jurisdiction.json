@@ -1,0 +1,8 @@
+{
+  "path": "us/nh",
+  "code": "US-NH",
+  "name": "United States (New Hampshire)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-new-hampshire-law",
+  "build": "built"
+}
