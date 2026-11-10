@@ -242,12 +242,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0607-a` | New Hampshire Revised Statutes, Chapter 607-A: Uniform Act on Status of Convicted Persons (Title LIX: Proceedings in Criminal Cases) | 1 | 2025-04-29 to 2025-04-29 |
 | `chapter-0608` | New Hampshire Revised Statutes, Chapter 608: Surety of the Peace (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-23 to 2022-05-23 |
 | `chapter-0610` | New Hampshire Revised Statutes, Chapter 610: Rewards and Compensations to Prosecutors (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0611-b` | New Hampshire Revised Statutes, Chapter 611-B: Office of the Chief Medical Examiner (Title LIX: Proceedings in Criminal Cases) | 1 | 2024-08-08 to 2024-08-08 |
+| `chapter-0614` | New Hampshire Revised Statutes, Chapter 614: Fresh Pursuit (Title LIX: Proceedings in Criminal Cases) | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0534` | New Hampshire Revised Statutes, Chapter 534: Habeas Corpus (Title LV: Proceedings in Special Cases) | 1 | 2022-05-26 to 2022-05-26 |
+| `chapter-0536-a` | New Hampshire Revised Statutes, Chapter 536-A: Replevin (Title LV: Proceedings in Special Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0539` | New Hampshire Revised Statutes, Chapter 539: Wilful Trespass (Title LV: Proceedings in Special Cases) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0540` | New Hampshire Revised Statutes, Chapter 540: Actions Against Tenants (Title LV: Proceedings in Special Cases) | 1 | 2026-10-15 to 2026-10-15 |
+| `chapter-0540-b` | New Hampshire Revised Statutes, Chapter 540-B: Rental of Shared Facilities (Title LV: Proceedings in Special Cases) | 1 | 2024-05-25 to 2024-05-25 |
+| `chapter-0540-c` | New Hampshire Revised Statutes, Chapter 540-C: Vacation or Recreational Rental Units (Title LV: Proceedings in Special Cases) | 1 | 2025-08-04 to 2025-08-04 |
+| `chapter-0541` | New Hampshire Revised Statutes, Chapter 541: Rehearings and Appeals in Certain Cases (Title LV: Proceedings in Special Cases) | 1 | 2024-02-06 to 2024-02-06 |
+| `chapter-0541-a` | New Hampshire Revised Statutes, Chapter 541-A: Administrative Procedure Act (Title LV: Proceedings in Special Cases) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0541-b` | New Hampshire Revised Statutes, Chapter 541-B: Claims Against the State (Title LV: Proceedings in Special Cases) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0541-c` | New Hampshire Revised Statutes, Chapter 541-C: Tobacco Manufacturers Not Entering Master Settlement Agreement (Title LV: Proceedings in Special Cases) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0542` | New Hampshire Revised Statutes, Chapter 542: Arbitration of Disputes (Title LV: Proceedings in Special Cases) | 1 | 2025-08-25 to 2025-08-25 |
+| `chapter-0543` | New Hampshire Revised Statutes, Chapter 543: The Relief of Depositaries (Title LV: Proceedings in Special Cases) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0544` | New Hampshire Revised Statutes, Chapter 544: Remedies for Certain Nuisances (Title LV: Proceedings in Special Cases) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0544-b` | New Hampshire Revised Statutes, Chapter 544-B: Civil Liability for Bad Checks (Title LV: Proceedings in Special Cases) | 1 | 2022-08-16 to 2022-08-16 |
+| `chapter-0544-c` | New Hampshire Revised Statutes, Chapter 544-C: Civil Damages for Willful Concealment (Title LV: Proceedings in Special Cases) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0546-b` | New Hampshire Revised Statutes, Chapter 546-B: Uniform Interstate Family Support Act (Title LV: Proceedings in Special Cases) | 1 | 2026-01-17 to 2026-01-17 |
+| `chapter-0547` | New Hampshire Revised Statutes, Chapter 547: Judges of Probate and Their Jurisdiction (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0547-b` | New Hampshire Revised Statutes, Chapter 547-B: Public Guardianship and Protection Program (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-02 to 2025-07-02 |
+| `chapter-0547-c` | New Hampshire Revised Statutes, Chapter 547-C: Partition of Real Estate (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-08-22 to 2025-08-22 |
+| `chapter-0548` | New Hampshire Revised Statutes, Chapter 548: Registers of Probate (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0550` | New Hampshire Revised Statutes, Chapter 550: Citations and Notice (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-10-20 to 2025-10-20 |
+| `chapter-0551` | New Hampshire Revised Statutes, Chapter 551: Wills (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0551-a` | New Hampshire Revised Statutes, Chapter 551-A: Uniform International Wills Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-30 to 2025-07-30 |
+| `chapter-0552` | New Hampshire Revised Statutes, Chapter 552: Probate of Wills (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-24 to 2026-10-24 |
 
-The build made 228 commits:
+The build made 254 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 228 | first version of an act |
+| 254 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -255,7 +281,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 228 tags.
+- 254 tags.
 
 ## Dates
 
@@ -267,7 +293,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0903277e6878d8bc7d676830030e0192259364bf6b0018611c09e615248ec304` (6233371 bytes).
+- Corpus: sha256 `c2eb3a6e1e5850a312dc167413aec2b328dd3f34d50b197de8a9b446800589fb` (6857601 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

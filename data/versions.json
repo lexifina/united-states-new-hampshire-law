@@ -3192,6 +3192,370 @@
      "sha256": "49db0fcafaeb8c2c6fdbeb5810e7b98b703b736601d45f6fd43a0fcce4ab9232"
     }
    ]
+  },
+  {
+   "slug": "chapter-0611-b",
+   "short": "RSA 611-B",
+   "title": "New Hampshire Revised Statutes, Chapter 611-B: Office of the Chief Medical Examiner (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-611-B.htm",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20240808232000/https://www.gencourt.state.nh.us/rsa/html/lix/611-b/611-b-mrg.htm",
+     "sha256": "3eb1e48e9a9af0d6091f1eae30d2e882350334443deb5e4b625c159c6184b57d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0614",
+   "short": "RSA 614",
+   "title": "New Hampshire Revised Statutes, Chapter 614: Fresh Pursuit (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-614.htm",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250708123314/https://gc.nh.gov/rsa/html/LIX/614/614-mrg.htm",
+     "sha256": "add500857917c78fd2ace11cf71c36465b1d201b4d9dcfcc112a32b694f49ffe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0534",
+   "short": "RSA 534",
+   "title": "New Hampshire Revised Statutes, Chapter 534: Habeas Corpus (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-534.htm",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20220526050904/http://gencourt.state.nh.us/rsa/html/LV/534/534-mrg.htm",
+     "sha256": "172080aa9f53571f68a16b462fa0cdb90f6bf9618100169c2f2f37dd9bbb2e53"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0536-a",
+   "short": "RSA 536-A",
+   "title": "New Hampshire Revised Statutes, Chapter 536-A: Replevin (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-536-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20220516160355/http://gencourt.state.nh.us/rsa/html/LV/536-A/536-A-mrg.htm",
+     "sha256": "d97c84ca4355f69288ae75039a26f47fbd684eeebccdfa17f40d55f5c56fb3f1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0539",
+   "short": "RSA 539",
+   "title": "New Hampshire Revised Statutes, Chapter 539: Wilful Trespass (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-539.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220528163156/http://gencourt.state.nh.us/rsa/html/LV/539/539-mrg.htm",
+     "sha256": "1a6149238e377a27debd855be5af2bd18b190763e2db5bb56668e7b839f528bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0540",
+   "short": "RSA 540",
+   "title": "New Hampshire Revised Statutes, Chapter 540: Actions Against Tenants (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-540.htm",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20261015200140/https://gc.nh.gov/rsa/html/LV/540/540-mrg.htm",
+     "sha256": "a0dec43364d8a61a9155872434016a2f5473c1cae11e09327d9df48f8d0a6fbd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0540-b",
+   "short": "RSA 540-B",
+   "title": "New Hampshire Revised Statutes, Chapter 540-B: Rental of Shared Facilities (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-540-B.htm",
+   "versions": [
+    {
+     "from": "2024-05-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240525101755/https://gencourt.state.nh.us/rsa/html/LV/540-B/540-B-mrg.htm",
+     "sha256": "e2168e472a18d6d98b4bcb6a03dc8d1fc7e3c342ef2e7605e50103ddadbed54f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0540-c",
+   "short": "RSA 540-C",
+   "title": "New Hampshire Revised Statutes, Chapter 540-C: Vacation or Recreational Rental Units (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-540-C.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250804062223/https://gc.nh.gov/rsa/html/LV/540-C/540-C-mrg.htm",
+     "sha256": "8101d6565b52b484b5a503a0091d82efc1ad85fc30bf74c19200157e3a323b52"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0541",
+   "short": "RSA 541",
+   "title": "New Hampshire Revised Statutes, Chapter 541: Rehearings and Appeals in Certain Cases (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-541.htm",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20240206222450/https://www.gencourt.state.nh.us/rsa/html/LV/541/541-mrg.htm",
+     "sha256": "c4ec32528bf07b605bc394c9e87283d1228fd070a49d078317f871bac717fdc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0541-a",
+   "short": "RSA 541-A",
+   "title": "New Hampshire Revised Statutes, Chapter 541-A: Administrative Procedure Act (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-541-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260429025648/https://gc.nh.gov/rsa/html/lv/541-a/541-a-mrg.htm",
+     "sha256": "7a58d2a1e010c8ce1ed77c898494ea3fdc420fdc586f85b16a8ae850a9522ec2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0541-b",
+   "short": "RSA 541-B",
+   "title": "New Hampshire Revised Statutes, Chapter 541-B: Claims Against the State (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-541-B.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250924221957/https://gc.nh.gov/rsa/html/LV/541-B/541-B-mrg.htm",
+     "sha256": "51ae73a7435c50c51a227ab43d6f8453b4a73d3762e0acf892a00af05f5bf427"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0541-c",
+   "short": "RSA 541-C",
+   "title": "New Hampshire Revised Statutes, Chapter 541-C: Tobacco Manufacturers Not Entering Master Settlement Agreement (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-541-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220517005317/http://gencourt.state.nh.us/rsa/html/LV/541-C/541-C-mrg.htm",
+     "sha256": "a16a1706267572da8116d69e4738c674836e673c9b75266bdc139b063e378fd7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0542",
+   "short": "RSA 542",
+   "title": "New Hampshire Revised Statutes, Chapter 542: Arbitration of Disputes (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-542.htm",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250825042626/https://gc.nh.gov/rsa/html/LV/542/542-mrg.htm",
+     "sha256": "c20c95fe1d9eaf852480547b9286a74558eba1221a8efb3d5f51a452c21f4590"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0543",
+   "short": "RSA 543",
+   "title": "New Hampshire Revised Statutes, Chapter 543: The Relief of Depositaries (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-543.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220523185823/http://gencourt.state.nh.us/rsa/html/LV/543/543-mrg.htm",
+     "sha256": "fbdf0ed0a231ea99327e4631cc8e5ded941502cdb835a6330e89384918c5e20b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0544",
+   "short": "RSA 544",
+   "title": "New Hampshire Revised Statutes, Chapter 544: Remedies for Certain Nuisances (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-544.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20220517103325/http://gencourt.state.nh.us/rsa/html/LV/544/544-mrg.htm",
+     "sha256": "af0cc59299d63e85c8dfdb9415fe0aac6ad9e42a744b3f770aefbcdcbfa1fcc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0544-b",
+   "short": "RSA 544-B",
+   "title": "New Hampshire Revised Statutes, Chapter 544-B: Civil Liability for Bad Checks (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-544-B.htm",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220816063348/http://www.gencourt.state.nh.us/rsa/html/LV/544-B/544-B-mrg.htm",
+     "sha256": "dcee9922e4d0b3d8b24d47b5048434dabe9c0d815f4dcb4b32d8dc508cffa90d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0544-c",
+   "short": "RSA 544-C",
+   "title": "New Hampshire Revised Statutes, Chapter 544-C: Civil Damages for Willful Concealment (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-544-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220517230815/http://gencourt.state.nh.us/rsa/html/LV/544-C/544-C-mrg.htm",
+     "sha256": "566422e441a52a3f5edf910ba8a0067dce94e16a6e3410ad40a49898d75d4a73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0546-b",
+   "short": "RSA 546-B",
+   "title": "New Hampshire Revised Statutes, Chapter 546-B: Uniform Interstate Family Support Act (Title LV: Proceedings in Special Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LV-546-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20260117162812/https://gc.nh.gov/rsa/html/lv/546-B/546-B-mrg.htm",
+     "sha256": "dd84b2f1c0165f7ec998675f522794e9e0fcf7fdac883de349d294fda2af6e31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0547",
+   "short": "RSA 547",
+   "title": "New Hampshire Revised Statutes, Chapter 547: Judges of Probate and Their Jurisdiction (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-547.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20261024190121/https://gc.nh.gov/rsa/html/LVI/547/547-mrg.htm",
+     "sha256": "9479d0587c69f4c5c30c68c40991a9c7efa48ef019044ab64fd1699b81f2f9bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0547-b",
+   "short": "RSA 547-B",
+   "title": "New Hampshire Revised Statutes, Chapter 547-B: Public Guardianship and Protection Program (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-547-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250702195324/https://gc.nh.gov/rsa/html/LVI/547-B/547-B-mrg.htm",
+     "sha256": "68c4317d7e3f2239dcd3780e2a2f79ccffd8be96cb75c3526646384789c88884"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0547-c",
+   "short": "RSA 547-C",
+   "title": "New Hampshire Revised Statutes, Chapter 547-C: Partition of Real Estate (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-547-C.htm",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250822063700/https://gc.nh.gov/rsa/html/LVI/547-C/547-C-mrg.htm",
+     "sha256": "cbc01b299a998272a23cc0445d30e9702ee61606b5eb1a99b306f76d9c4e22bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0548",
+   "short": "RSA 548",
+   "title": "New Hampshire Revised Statutes, Chapter 548: Registers of Probate (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-548.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261029102757/https://gc.nh.gov/rsa/html/LVI/548/548-mrg.htm",
+     "sha256": "c8c0914c4d6e8f48293ecf03f3d18ff94097489ec4ebebaa0b36c8f4729b72ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0550",
+   "short": "RSA 550",
+   "title": "New Hampshire Revised Statutes, Chapter 550: Citations and Notice (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-550.htm",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251020223026/https://gc.nh.gov/rsa/html/LVI/550/550-mrg.htm",
+     "sha256": "84bb586423f529d5e20308eadf4a6a743d4fe67fae19acb033025f4c64a8c7af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0551",
+   "short": "RSA 551",
+   "title": "New Hampshire Revised Statutes, Chapter 551: Wills (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-551.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250703074444/https://gc.nh.gov/rsa/html/LVI/551/551-mrg.htm",
+     "sha256": "ec870a31b66d14dbce2d07128c89be684bbb43cd86992b540e1dd88464328bd5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0551-a",
+   "short": "RSA 551-A",
+   "title": "New Hampshire Revised Statutes, Chapter 551-A: Uniform International Wills Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-551-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250730163127/https://gc.nh.gov/rsa/html/LVI/551-A/551-A-mrg.htm",
+     "sha256": "6531d608fb384f2ebbee631daef98d6d1e6daedcb6a30d920eb430a22909a709"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0552",
+   "short": "RSA 552",
+   "title": "New Hampshire Revised Statutes, Chapter 552: Probate of Wills (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-552.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261024184120/https://gc.nh.gov/rsa/html/LVI/552/552-mrg.htm",
+     "sha256": "d41544a9afbc9e87ee2081b184ae47940b9a3ec94bd21ce3df7565f1e636ad35"
+    }
+   ]
   }
  ]
 }
