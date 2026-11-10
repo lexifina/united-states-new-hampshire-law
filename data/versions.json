@@ -14798,6 +14798,762 @@
      "sha256": "60477e7eda75598eaf2093185cd8591cc25591615a61d5733f240f15cfcf6edb"
     }
    ]
+  },
+  {
+   "slug": "chapter-0403",
+   "short": "RSA 403",
+   "title": "New Hampshire Revised Statutes, Chapter 403: Guaranty Fund of Mutual Insurance Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-403.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220625010506/https://gencourt.state.nh.us/rsa/html/XXXVII/403/403-mrg.htm",
+     "sha256": "903460b1e5e5c2a1eee721f9e846698931d4632801e73af072a7987feb45c210"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0403-b",
+   "short": "RSA 403-B",
+   "title": "New Hampshire Revised Statutes, Chapter 403-B: Conversion of Mutual Insurers (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-403-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528035450/http://gencourt.state.nh.us/rsa/html/XXXVII/403-B/403-B-mrg.htm",
+     "sha256": "56479670a611cf0243c7ab706fbfdf8473c7478fdb19698d65c7573993410f92"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0403-c",
+   "short": "RSA 403-C",
+   "title": "New Hampshire Revised Statutes, Chapter 403-C: Disclosure of Material Transactions (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-403-C.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220625013450/https://gencourt.state.nh.us/rsa/html/XXXVII/403-C/403-C-mrg.htm",
+     "sha256": "4641264329b8ea4273678bafe783d011095f81970dfd0523d7fecf1203182107"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0403-e",
+   "short": "RSA 403-E",
+   "title": "New Hampshire Revised Statutes, Chapter 403-E: Charitable Gift Annuities Exemption (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-403-E.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251011055702/https://gc.nh.gov/rsa/html/XXXVII/403-E/403-E-mrg.htm",
+     "sha256": "647b6904504c3b2b12ab3956601d0891e170ec1219772703f77e28751f245f1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0403-f",
+   "short": "RSA 403-F",
+   "title": "New Hampshire Revised Statutes, Chapter 403-F: Mutual Insurance Holding Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-403-F.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251011053341/https://gc.nh.gov/rsa/html/XXXVII/403-F/403-F-mrg.htm",
+     "sha256": "26280a1073f6b7dcb3465a33a74d1d4916396f6d80497fcd9decebda3a5c7bb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0404-c",
+   "short": "RSA 404-C",
+   "title": "New Hampshire Revised Statutes, Chapter 404-C: Mandatory Risk Sharing Plans (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-404-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20220523212544/https://gencourt.state.nh.us/rsa/html/XXXVII/404-C/404-C-mrg.htm",
+     "sha256": "3577acc73ec421a979613e9d8b0c8b354259f9f10214407256ea658dae3c17c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0404-f",
+   "short": "RSA 404-F",
+   "title": "New Hampshire Revised Statutes, Chapter 404-F: Risk-based Capital (rbc) for Insurers (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-404-F.htm",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20240515180919/https://gencourt.state.nh.us/rsa/html/XXXVII/404-F/404-F-mrg.htm",
+     "sha256": "9ff200584ecae0e9f7556ebd6561ca255527eddef89c7e7704788c4a62c086bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0404-g",
+   "short": "RSA 404-G",
+   "title": "New Hampshire Revised Statutes, Chapter 404-G: Individual Health Insurance Market (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-404-G.htm",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260605123043/https://gc.nh.gov/rsa/html/xxxvii/404-g/404-g-mrg.htm",
+     "sha256": "c6c5796ae4a3e569b76f11d5a8ef88a232eec5fa08deaea12e541f6d2ed92f94"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0404-h",
+   "short": "RSA 404-H",
+   "title": "New Hampshire Revised Statutes, Chapter 404-H: New Hampshire Insurance Guaranty Association Act of 2004 (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-404-H.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20220517070232/http://gencourt.state.nh.us/rsa/html/XXXVII/404-H/404-H-mrg.htm",
+     "sha256": "44b5b23f333012f4fcb3d22de70f4f925db06fd7765b5cb70327a8d8dd4c0912"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0405",
+   "short": "RSA 405",
+   "title": "New Hampshire Revised Statutes, Chapter 405: Foreign Insurance Companies and Their Agents (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-405.htm",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20240702221049/https://www.gencourt.state.nh.us/rsa/html/xxxvii/405/405-mrg.htm",
+     "sha256": "e335a73b796ac2d6fad876e0e3afd54637e06b4a89334e8178a0abed3f59d5fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0406-a",
+   "short": "RSA 406-A",
+   "title": "New Hampshire Revised Statutes, Chapter 406-A: Unauthorized Insurers False Advertising Process Act (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-406-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220519043215/http://gencourt.state.nh.us/rsa/html/XXXVII/406-A/406-A-mrg.htm",
+     "sha256": "1cac95b644e99a087517a7c80424b5f4172c54928e420d8bc8ee6b1120cad56c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0407",
+   "short": "RSA 407",
+   "title": "New Hampshire Revised Statutes, Chapter 407: The Fire Insurance Contract and Suits Thereon (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-407.htm",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20220521220214/http://gencourt.state.nh.us/rsa/html/XXXVII/407/407-mrg.htm",
+     "sha256": "81f00a58b8495fb0f2e66104cc17ef89a9453ffbf7d93e2204431824915b59f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0407-b",
+   "short": "RSA 407-B",
+   "title": "New Hampshire Revised Statutes, Chapter 407-B: Group Marketing of Motor Vehicle Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-407-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220519045748/http://gencourt.state.nh.us/rsa/html/XXXVII/407-B/407-B-mrg.htm",
+     "sha256": "449f3686e425b86a59fc218ee2cdae908b1a2c99212b790d5a958c20b4718d8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0407-d",
+   "short": "RSA 407-D",
+   "title": "New Hampshire Revised Statutes, Chapter 407-D: After Market Parts (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-407-D.htm",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20230724154307/https://www.gencourt.state.nh.us/rsa/html/XXXVII/407-D/407-D-mrg.htm",
+     "sha256": "b428978a992a6dd79ec6142e8ca15425a3d1b8e427bb2d924198509c08250dec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0408-a",
+   "short": "RSA 408-A",
+   "title": "New Hampshire Revised Statutes, Chapter 408-A: Credit Life and Accident and Health Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-408-A.htm",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20220701001321/http://www.gencourt.state.nh.us/rsa/html/XXXVII/408-A/408-A-mrg.htm",
+     "sha256": "2caf547dad508258d46146809e31069869588fef74ed137c32aefd45a32e3e02"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0408-b",
+   "short": "RSA 408-B",
+   "title": "New Hampshire Revised Statutes, Chapter 408-B: Life and Health Insurance Guaranty Association of 1996 (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-408-B.htm",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20251108002705/https://www.gc.nh.gov/rsa/html/XXXVII/408-B/408-B-mrg.htm",
+     "sha256": "1cb913daded42871e05916ea1f053c01fd0ee78f890bb5a702ff1c2bb865b931"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0408-e",
+   "short": "RSA 408-E",
+   "title": "New Hampshire Revised Statutes, Chapter 408-E: Funding Agreements (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-408-E.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525103546/http://gencourt.state.nh.us/rsa/html/XXXVII/408-E/408-E-mrg.htm",
+     "sha256": "77970e4405d5f325761d0c33399477c1f9e8c6c776885013b92abb2f343d699e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0408-g",
+   "short": "RSA 408-G",
+   "title": "New Hampshire Revised Statutes, Chapter 408-G: Structured Settlement Protection (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-408-G.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240514005623/https://gencourt.state.nh.us/rsa/html/XXXVII/408-G/408-G-mrg.htm",
+     "sha256": "36252a5a70a1906184b025d408cd979c98af4adacf9feb57e9b9f5c41ee1eb9f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0409-a",
+   "short": "RSA 409-A",
+   "title": "New Hampshire Revised Statutes, Chapter 409-A: Standard Nonforfeiture Law for Individual Deferred Annuities (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-409-A.htm",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20230417214202/https://www.gencourt.state.nh.us/rsa/html/XXXVII/409-A/409-A-mrg.htm",
+     "sha256": "e04b9af89a170bf03e71ddd8bbad64585f5d29be3a2278d79a6bffb96fd7358e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0410",
+   "short": "RSA 410",
+   "title": "New Hampshire Revised Statutes, Chapter 410: Standard Valuation Law (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-410.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20220522210311/http://gencourt.state.nh.us/rsa/html/XXXVII/410/410-mrg.htm",
+     "sha256": "ce13d1e9528ad2f36efebb344777bf355de9ccc6ec9056c9bdd0ee4a28fcaf58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0411",
+   "short": "RSA 411",
+   "title": "New Hampshire Revised Statutes, Chapter 411: Domestic Life Insurance Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-411.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20251011055739/https://gc.nh.gov/rsa/html/XXXVII/411/411-mrg.htm",
+     "sha256": "ee14c61b2690b9ff369386af015c8ab57312d378e1320e05a0e3469add81bfa3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0411-a",
+   "short": "RSA 411-A",
+   "title": "New Hampshire Revised Statutes, Chapter 411-A: Regulation of Investments of Life Insurance Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-411-A.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20251011052951/https://gc.nh.gov/rsa/html/XXXVII/411-A/411-A-mrg.htm",
+     "sha256": "c7538f755987b477cb63d7de46963d6363efc6eff73ff929301c28e3e16e2e46"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0412",
+   "short": "RSA 412",
+   "title": "New Hampshire Revised Statutes, Chapter 412: Regulation of Forms and Rates for Property and Casualty Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-412.htm",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260203075238/https://gc.nh.gov/rsa/html/XXXVII/412/412-mrg.htm",
+     "sha256": "76cb475c49114ec53ce0bcad95b6204d435924446555eaef5c735a8abf0c2e01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415",
+   "short": "RSA 415",
+   "title": "New Hampshire Revised Statutes, Chapter 415: Accident and Health Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415.htm",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20261008051246/https://gc.nh.gov/rsa/html/xxxvii/415/415-mrg.htm",
+     "sha256": "bdda91cfb2ff2a1b7545f2c16f90a068bcdd8239d5eb5bf79d4aacca4a0a691d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-a",
+   "short": "RSA 415-A",
+   "title": "New Hampshire Revised Statutes, Chapter 415-A: Standards for Accident and Health Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20240516091722/https://gencourt.state.nh.us/rsa/html/XXXVII/415-A/415-A-mrg.htm",
+     "sha256": "eda8ee9ae62df933a8b2116ea51b3f975c191f35fdb1429c2f67112edd63fc5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-c",
+   "short": "RSA 415-C",
+   "title": "New Hampshire Revised Statutes, Chapter 415-C: Consumer Guaranty Contracts (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20220527121240/http://gencourt.state.nh.us/rsa/html/XXXVII/415-C/415-C-mrg.htm",
+     "sha256": "6e824f95a0303340abff4cc13327bf21cf28d0c6ceeedfcb17816288eada4fa4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-d",
+   "short": "RSA 415-D",
+   "title": "New Hampshire Revised Statutes, Chapter 415-D: Long-term Care Insurance Act (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-D.htm",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20220527123255/http://gencourt.state.nh.us/rsa/html/XXXVII/415-D/415-D-mrg.htm",
+     "sha256": "e51ccae4d85ee7dbd016a6ef000b779f1f449af1ba8107c280e3218fd82c9d38"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-f",
+   "short": "RSA 415-F",
+   "title": "New Hampshire Revised Statutes, Chapter 415-F: Medicare Supplemental Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-F.htm",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20240517080323/https://gencourt.state.nh.us/rsa/html/XXXVII/415-F/415-F-mrg.htm",
+     "sha256": "a530debbdc1c76cec4902074e2d79c0c64644e327e5ffeb6294ab26882781c17"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-i",
+   "short": "RSA 415-I",
+   "title": "New Hampshire Revised Statutes, Chapter 415-I: Discount Medical Plan Organizations (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-I.htm",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260114170723/https://www.gc.nh.gov/rsa/html/XXXVII/415-I/415-I-mrg.htm",
+     "sha256": "6d7d42750a7c96d5fc5bcf1a3d5dc358230e21b99754246fab50a8858886fd92"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0415-j",
+   "short": "RSA 415-J",
+   "title": "New Hampshire Revised Statutes, Chapter 415-J: New Hampshire Telemedicine Act (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-415-J.htm",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240513070830/https://www.gencourt.state.nh.us/rsa/html/XXXVII/415-J/415-J-mrg.htm",
+     "sha256": "e495e14a5c1f0936cec2971588ae9787d2e0228b7de703588efb335928e753a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417",
+   "short": "RSA 417",
+   "title": "New Hampshire Revised Statutes, Chapter 417: Unfair Insurance Trade Practices (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417.htm",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20240513171359/https://gencourt.state.nh.us/rsa/html/XXXVII/417/417-mrg.htm",
+     "sha256": "da5b76ab0ba43867c32902120ac20741c018764beb67a142db44c5141d050032"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-a",
+   "short": "RSA 417-A",
+   "title": "New Hampshire Revised Statutes, Chapter 417-A: Refusal to Issue, Cancellation and Refusal to Renew Automobile Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-A.htm",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20241206013145/https://www.gencourt.state.nh.us/rsa/html/XXXVII/417-A/417-A-mrg.htm",
+     "sha256": "023e42731b68ba2e5b2cfb847ea31217ee7faa163ab50329fdbde6a9dbddba07"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-b",
+   "short": "RSA 417-B",
+   "title": "New Hampshire Revised Statutes, Chapter 417-B: Cancellation, Refusal to Write, Refusal to Renew Certain Property and Liability Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-B.htm",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20241125093737/https://www.gencourt.state.nh.us/rsa/html/XXXVII/417-B/417-B-mrg.htm",
+     "sha256": "89f68576909613a2dda34481dbfe550e3acd818486fb82be56c714ed01a2bd41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-c",
+   "short": "RSA 417-C",
+   "title": "New Hampshire Revised Statutes, Chapter 417-C: Cancellation or Refusal to Renew Commercial Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-C.htm",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20241126141154/https://www.gencourt.state.nh.us/rsa/html/XXXVII/417-C/417-C-mrg.htm",
+     "sha256": "f87ddf3b7af44780d6ea7de876be709c9e9130f3f06b8168aca8f47935f3f0cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-d",
+   "short": "RSA 417-D",
+   "title": "New Hampshire Revised Statutes, Chapter 417-D: Women's Health Care (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-D.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240514235714/https://gencourt.state.nh.us/rsa/html/XXXVII/417-D/417-D-mrg.htm",
+     "sha256": "688ef3f3745048304d5a6bbedb62a692dec70e96eeae11034df91250fae237d8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-e",
+   "short": "RSA 417-E",
+   "title": "New Hampshire Revised Statutes, Chapter 417-E: Coverage for Certain Biologically-based Mental Illnesses (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-E.htm",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20240516090603/https://gencourt.state.nh.us/rsa/html/XXXVII/417-E/417-E-mrg.htm",
+     "sha256": "e54cab45417090bb6030bd1eb61b6feaf8aa95b6cc93ecfb2746adf962b92405"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-f",
+   "short": "RSA 417-F",
+   "title": "New Hampshire Revised Statutes, Chapter 417-F: Coverage for Emergency Services (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-F.htm",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240718164610/https://www.gencourt.state.nh.us/rsa/html/XXXVII/417-F/417-F-mrg.htm",
+     "sha256": "9bad394722c58d2399a88866618665a19c955f233d47c8ef8ae7c525d3c5c1e3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0417-g",
+   "short": "RSA 417-G",
+   "title": "New Hampshire Revised Statutes, Chapter 417-G: Access to Fertility Care (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-417-G.htm",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250620133743/https://gc.nh.gov/rsa/html/XXXVII/417-G/417-G-mrg.htm",
+     "sha256": "85dfa62c90b9bc169f441e3284e8f58aee818943dd73580561f2467351d31c36"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0418",
+   "short": "RSA 418",
+   "title": "New Hampshire Revised Statutes, Chapter 418: Fraternal Benefit Societies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-418.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20220524032245/http://gencourt.state.nh.us/rsa/html/XXXVII/418/418-mrg.htm",
+     "sha256": "43ec20927e4add78bfc2e6181fead019aa9f5a05d4e241689df7556ee1ef0142"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-a",
+   "short": "RSA 420-A",
+   "title": "New Hampshire Revised Statutes, Chapter 420-A: Health Service Corporations (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20250716203117/https://gc.nh.gov/rsa/html/XXXVII/420-A/420-A-mrg.htm",
+     "sha256": "00a26b5870e4995612884deba051d2b6ce15291224d8f52d438afbd3c76ccbbd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-b",
+   "short": "RSA 420-B",
+   "title": "New Hampshire Revised Statutes, Chapter 420-B: Health Maintenance Organizations (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-B.htm",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20240601152922/https://gencourt.state.nh.us/rsa/html/XXXVII/420-B/420-B-mrg.htm",
+     "sha256": "c44088d09a101cd7d22927f4fbc7e557fbc1aef1fe2924821c55f7cad866c70c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-c",
+   "short": "RSA 420-C",
+   "title": "New Hampshire Revised Statutes, Chapter 420-C: Preferred Provider Agreements (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20220522034836/http://gencourt.state.nh.us/rsa/html/XXXVII/420-C/420-C-mrg.htm",
+     "sha256": "4bf2eec1cf0ebde897adbd927614677a92e2466ead99a1f0cf28824f6bced039"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-d",
+   "short": "RSA 420-D",
+   "title": "New Hampshire Revised Statutes, Chapter 420-D: Continuing Care Communities (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-D.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20240514214313/https://gencourt.state.nh.us/rsa/html/XXXVII/420-D/420-D-mrg.htm",
+     "sha256": "cac714a2a540bd5906e638095f07ffb9b99603ed84a6ce344bd294cf1eae599b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-e",
+   "short": "RSA 420-E",
+   "title": "New Hampshire Revised Statutes, Chapter 420-E: Licensure of Medical Utilization Review Entities (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-E.htm",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20230615120654/https://www.gencourt.state.nh.us/rsa/html/xxxvii/420-e/420-e-mrg.htm",
+     "sha256": "c6141a317da9bb0af05b6a8f975d6dc7675f7ac515207c6a820b44f3415ce6a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-f",
+   "short": "RSA 420-F",
+   "title": "New Hampshire Revised Statutes, Chapter 420-F: Delta Dental Plan of New Hampshire, Inc. (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-F.htm",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20220526013709/https://gencourt.state.nh.us/rsa/html/XXXVII/420-F/420-F-mrg.htm",
+     "sha256": "50089bfc1b983f8f8f3e0ca08d848a64a9b03d1371eb6fa09056676c15c4eecb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-g",
+   "short": "RSA 420-G",
+   "title": "New Hampshire Revised Statutes, Chapter 420-G: Portability, Availability, and Renewability of Health Coverage (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-G.htm",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260519071942/https://gc.nh.gov/rsa/html/xxxvii/420-g/420-g-mrg.htm",
+     "sha256": "e82c550ed22b4f45aed4eb39344735a9be728281bc3531815cadb6ad29a7dc21"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-h",
+   "short": "RSA 420-H",
+   "title": "New Hampshire Revised Statutes, Chapter 420-H: Explanation of Benefits (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-H.htm",
+   "versions": [
+    {
+     "from": "2021-04-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20210411050601/http://www.gencourt.state.nh.us/rsa/html/xxxvii/420-H/420-H-mrg.htm",
+     "sha256": "90f3b163cb751581ad7ff28ff6103819c4d9313ce2c7ecbda84e48175b1b8df1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-i",
+   "short": "RSA 420-I",
+   "title": "New Hampshire Revised Statutes, Chapter 420-I: Prohibition of Exclusive Arrangements with Managed Care Insurers (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-I.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220519043643/http://gencourt.state.nh.us/rsa/html/XXXVII/420-I/420-I-mrg.htm",
+     "sha256": "981e6126d653cfbc7f21d4749564dcda97ec1e8fc1bd4aa1a0f644827efbeade"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-j",
+   "short": "RSA 420-J",
+   "title": "New Hampshire Revised Statutes, Chapter 420-J: Managed Care Law (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-J.htm",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20251028132211/https://www.gc.nh.gov/rsa/html/XXXVII/420-J/420-J-mrg.htm",
+     "sha256": "d5096d1c67465efb191dca3007e5602885977e48c0f6a3f0c5d520a89af8739c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-k",
+   "short": "RSA 420-K",
+   "title": "New Hampshire Revised Statutes, Chapter 420-K: Small Employer Health Reinsurance Pool (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-K.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220519052009/http://gencourt.state.nh.us/rsa/html/XXXVII/420-K/420-K-mrg.htm",
+     "sha256": "c8f73039a957d986d7505c3a4acea770dd8612e1f7d444bb6119074a8f7d348a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-m",
+   "short": "RSA 420-M",
+   "title": "New Hampshire Revised Statutes, Chapter 420-M: Purchasing Alliances (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-M.htm",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260212045914/https://www.gc.nh.gov/rsa/html/XXXVII/420-M/420-M-mrg.htm",
+     "sha256": "9e905f14c73dcbe63bc05bf0f8bcf9774167dc22178c5c6c09dd525424a8e996"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0420-p",
+   "short": "RSA 420-P",
+   "title": "New Hampshire Revised Statutes, Chapter 420-P: Insurance Data Security Law (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-420-P.htm",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20221206170259/https://www.gencourt.state.nh.us/rsa/html/XXXVII/420-P/420-P-mrg.htm",
+     "sha256": "08946bfa21800c83a6f5b5ff00b402046f95cdb36015a9f0d39bf6248d365cd9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0421-a",
+   "short": "RSA 421-A",
+   "title": "New Hampshire Revised Statutes, Chapter 421-A: Disclosure of Security Takeovers (Title XXXVIII: Securities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVIII-421-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250612171141/https://gc.nh.gov/rsa/html/XXXVIII/421-A/421-A-mrg.htm",
+     "sha256": "b40084f2510b80ad459f750d4faa33f39bc648f761146fe487ba68026eca3494"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0421-b",
+   "short": "RSA 421-B",
+   "title": "New Hampshire Revised Statutes, Chapter 421-B: Uniform Securities Act (Title XXXVIII: Securities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVIII-421-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20250529145745/https://gc.nh.gov/rsa/html/XXXVIII/421-B/421-B-mrg.htm",
+     "sha256": "078730727fd1d89f2dbca4b24550528c7bba4df9d88e2d9b4bd5bf37674b864f"
+    }
+   ]
   }
  ]
 }

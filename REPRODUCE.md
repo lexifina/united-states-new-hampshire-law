@@ -1071,12 +1071,66 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0402-n` | New Hampshire Revised Statutes, Chapter 402-N: Pharmacy Benefits Managers (Title XXXVII: Insurance) | 1 | 2022-07-12 to 2022-07-12 |
 | `chapter-0402-o` | New Hampshire Revised Statutes, Chapter 402-O: Self-service Storage Insurance (Title XXXVII: Insurance) | 1 | 2022-06-25 to 2022-06-25 |
 | `chapter-0402-p` | New Hampshire Revised Statutes, Chapter 402-P: Pet Insurance (Title XXXVII: Insurance) | 1 | 2025-12-17 to 2025-12-17 |
+| `chapter-0403` | New Hampshire Revised Statutes, Chapter 403: Guaranty Fund of Mutual Insurance Companies (Title XXXVII: Insurance) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0403-b` | New Hampshire Revised Statutes, Chapter 403-B: Conversion of Mutual Insurers (Title XXXVII: Insurance) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0403-c` | New Hampshire Revised Statutes, Chapter 403-C: Disclosure of Material Transactions (Title XXXVII: Insurance) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0403-e` | New Hampshire Revised Statutes, Chapter 403-E: Charitable Gift Annuities Exemption (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0403-f` | New Hampshire Revised Statutes, Chapter 403-F: Mutual Insurance Holding Companies (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0404-c` | New Hampshire Revised Statutes, Chapter 404-C: Mandatory Risk Sharing Plans (Title XXXVII: Insurance) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0404-f` | New Hampshire Revised Statutes, Chapter 404-F: Risk-based Capital (rbc) for Insurers (Title XXXVII: Insurance) | 1 | 2024-05-15 to 2024-05-15 |
+| `chapter-0404-g` | New Hampshire Revised Statutes, Chapter 404-G: Individual Health Insurance Market (Title XXXVII: Insurance) | 1 | 2026-06-05 to 2026-06-05 |
+| `chapter-0404-h` | New Hampshire Revised Statutes, Chapter 404-H: New Hampshire Insurance Guaranty Association Act of 2004 (Title XXXVII: Insurance) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0405` | New Hampshire Revised Statutes, Chapter 405: Foreign Insurance Companies and Their Agents (Title XXXVII: Insurance) | 1 | 2024-07-02 to 2024-07-02 |
+| `chapter-0406-a` | New Hampshire Revised Statutes, Chapter 406-A: Unauthorized Insurers False Advertising Process Act (Title XXXVII: Insurance) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0407` | New Hampshire Revised Statutes, Chapter 407: The Fire Insurance Contract and Suits Thereon (Title XXXVII: Insurance) | 1 | 2022-05-21 to 2022-05-21 |
+| `chapter-0407-b` | New Hampshire Revised Statutes, Chapter 407-B: Group Marketing of Motor Vehicle Insurance (Title XXXVII: Insurance) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0407-d` | New Hampshire Revised Statutes, Chapter 407-D: After Market Parts (Title XXXVII: Insurance) | 1 | 2023-07-24 to 2023-07-24 |
+| `chapter-0408-a` | New Hampshire Revised Statutes, Chapter 408-A: Credit Life and Accident and Health Insurance (Title XXXVII: Insurance) | 1 | 2022-07-01 to 2022-07-01 |
+| `chapter-0408-b` | New Hampshire Revised Statutes, Chapter 408-B: Life and Health Insurance Guaranty Association of 1996 (Title XXXVII: Insurance) | 1 | 2025-11-08 to 2025-11-08 |
+| `chapter-0408-e` | New Hampshire Revised Statutes, Chapter 408-E: Funding Agreements (Title XXXVII: Insurance) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0408-g` | New Hampshire Revised Statutes, Chapter 408-G: Structured Settlement Protection (Title XXXVII: Insurance) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0409-a` | New Hampshire Revised Statutes, Chapter 409-A: Standard Nonforfeiture Law for Individual Deferred Annuities (Title XXXVII: Insurance) | 1 | 2023-04-17 to 2023-04-17 |
+| `chapter-0410` | New Hampshire Revised Statutes, Chapter 410: Standard Valuation Law (Title XXXVII: Insurance) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0411` | New Hampshire Revised Statutes, Chapter 411: Domestic Life Insurance Companies (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0411-a` | New Hampshire Revised Statutes, Chapter 411-A: Regulation of Investments of Life Insurance Companies (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0412` | New Hampshire Revised Statutes, Chapter 412: Regulation of Forms and Rates for Property and Casualty Insurance (Title XXXVII: Insurance) | 1 | 2026-02-03 to 2026-02-03 |
+| `chapter-0415` | New Hampshire Revised Statutes, Chapter 415: Accident and Health Insurance (Title XXXVII: Insurance) | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-0415-a` | New Hampshire Revised Statutes, Chapter 415-A: Standards for Accident and Health Insurance (Title XXXVII: Insurance) | 1 | 2024-05-16 to 2024-05-16 |
+| `chapter-0415-c` | New Hampshire Revised Statutes, Chapter 415-C: Consumer Guaranty Contracts (Title XXXVII: Insurance) | 1 | 2022-05-27 to 2022-05-27 |
+| `chapter-0415-d` | New Hampshire Revised Statutes, Chapter 415-D: Long-term Care Insurance Act (Title XXXVII: Insurance) | 1 | 2022-05-27 to 2022-05-27 |
+| `chapter-0415-f` | New Hampshire Revised Statutes, Chapter 415-F: Medicare Supplemental Insurance (Title XXXVII: Insurance) | 1 | 2024-05-17 to 2024-05-17 |
+| `chapter-0415-i` | New Hampshire Revised Statutes, Chapter 415-I: Discount Medical Plan Organizations (Title XXXVII: Insurance) | 1 | 2026-01-14 to 2026-01-14 |
+| `chapter-0415-j` | New Hampshire Revised Statutes, Chapter 415-J: New Hampshire Telemedicine Act (Title XXXVII: Insurance) | 1 | 2024-05-13 to 2024-05-13 |
+| `chapter-0417` | New Hampshire Revised Statutes, Chapter 417: Unfair Insurance Trade Practices (Title XXXVII: Insurance) | 1 | 2024-05-13 to 2024-05-13 |
+| `chapter-0417-a` | New Hampshire Revised Statutes, Chapter 417-A: Refusal to Issue, Cancellation and Refusal to Renew Automobile Insurance (Title XXXVII: Insurance) | 1 | 2024-12-06 to 2024-12-06 |
+| `chapter-0417-b` | New Hampshire Revised Statutes, Chapter 417-B: Cancellation, Refusal to Write, Refusal to Renew Certain Property and Liability Insurance (Title XXXVII: Insurance) | 1 | 2024-11-25 to 2024-11-25 |
+| `chapter-0417-c` | New Hampshire Revised Statutes, Chapter 417-C: Cancellation or Refusal to Renew Commercial Insurance (Title XXXVII: Insurance) | 1 | 2024-11-26 to 2024-11-26 |
+| `chapter-0417-d` | New Hampshire Revised Statutes, Chapter 417-D: Women's Health Care (Title XXXVII: Insurance) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0417-e` | New Hampshire Revised Statutes, Chapter 417-E: Coverage for Certain Biologically-based Mental Illnesses (Title XXXVII: Insurance) | 1 | 2024-05-16 to 2024-05-16 |
+| `chapter-0417-f` | New Hampshire Revised Statutes, Chapter 417-F: Coverage for Emergency Services (Title XXXVII: Insurance) | 1 | 2024-07-18 to 2024-07-18 |
+| `chapter-0417-g` | New Hampshire Revised Statutes, Chapter 417-G: Access to Fertility Care (Title XXXVII: Insurance) | 1 | 2025-06-20 to 2025-06-20 |
+| `chapter-0418` | New Hampshire Revised Statutes, Chapter 418: Fraternal Benefit Societies (Title XXXVII: Insurance) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0420-a` | New Hampshire Revised Statutes, Chapter 420-A: Health Service Corporations (Title XXXVII: Insurance) | 1 | 2025-07-16 to 2025-07-16 |
+| `chapter-0420-b` | New Hampshire Revised Statutes, Chapter 420-B: Health Maintenance Organizations (Title XXXVII: Insurance) | 1 | 2024-06-01 to 2024-06-01 |
+| `chapter-0420-c` | New Hampshire Revised Statutes, Chapter 420-C: Preferred Provider Agreements (Title XXXVII: Insurance) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0420-d` | New Hampshire Revised Statutes, Chapter 420-D: Continuing Care Communities (Title XXXVII: Insurance) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0420-e` | New Hampshire Revised Statutes, Chapter 420-E: Licensure of Medical Utilization Review Entities (Title XXXVII: Insurance) | 1 | 2023-06-15 to 2023-06-15 |
+| `chapter-0420-f` | New Hampshire Revised Statutes, Chapter 420-F: Delta Dental Plan of New Hampshire, Inc. (Title XXXVII: Insurance) | 1 | 2022-05-26 to 2022-05-26 |
+| `chapter-0420-g` | New Hampshire Revised Statutes, Chapter 420-G: Portability, Availability, and Renewability of Health Coverage (Title XXXVII: Insurance) | 1 | 2026-05-19 to 2026-05-19 |
+| `chapter-0420-h` | New Hampshire Revised Statutes, Chapter 420-H: Explanation of Benefits (Title XXXVII: Insurance) | 1 | 2021-04-11 to 2021-04-11 |
+| `chapter-0420-i` | New Hampshire Revised Statutes, Chapter 420-I: Prohibition of Exclusive Arrangements with Managed Care Insurers (Title XXXVII: Insurance) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0420-j` | New Hampshire Revised Statutes, Chapter 420-J: Managed Care Law (Title XXXVII: Insurance) | 1 | 2025-10-28 to 2025-10-28 |
+| `chapter-0420-k` | New Hampshire Revised Statutes, Chapter 420-K: Small Employer Health Reinsurance Pool (Title XXXVII: Insurance) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0420-m` | New Hampshire Revised Statutes, Chapter 420-M: Purchasing Alliances (Title XXXVII: Insurance) | 1 | 2026-02-12 to 2026-02-12 |
+| `chapter-0420-p` | New Hampshire Revised Statutes, Chapter 420-P: Insurance Data Security Law (Title XXXVII: Insurance) | 1 | 2022-12-06 to 2022-12-06 |
+| `chapter-0421-a` | New Hampshire Revised Statutes, Chapter 421-A: Disclosure of Security Takeovers (Title XXXVIII: Securities) | 1 | 2025-06-12 to 2025-06-12 |
+| `chapter-0421-b` | New Hampshire Revised Statutes, Chapter 421-B: Uniform Securities Act (Title XXXVIII: Securities) | 1 | 2025-05-29 to 2025-05-29 |
 
-The build made 1057 commits:
+The build made 1111 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1057 | first version of an act |
+| 1111 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1084,7 +1138,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1057 tags.
+- 1111 tags.
 
 ## Dates
 
@@ -1096,7 +1150,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6547b83f1390e7e0f7b4189406817a726a7426aa93a464afdbbe1e9a8551161a` (34377327 bytes).
+- Corpus: sha256 `6c7b3a7b2ceb013eaeb2a9068cde0eccc8f41d8fcba0c86b7d1976ce95578476` (36580337 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
