@@ -3556,6 +3556,2022 @@
      "sha256": "d41544a9afbc9e87ee2081b184ae47940b9a3ec94bd21ce3df7565f1e636ad35"
     }
    ]
+  },
+  {
+   "slug": "chapter-0553",
+   "short": "RSA 553",
+   "title": "New Hampshire Revised Statutes, Chapter 553: Administrators and Their Appointment (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-553.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261024181319/https://gc.nh.gov/rsa/html/LVI/553/553-mrg.htm",
+     "sha256": "2f94b668c1321b8f4826d3bf78941be3468f2239980f470486bf1a1252216707"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0554",
+   "short": "RSA 554",
+   "title": "New Hampshire Revised Statutes, Chapter 554: Inventory, Accounts, and Dealing with Assets (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-554.htm",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20250620062449/https://gc.nh.gov/rsa/html/LVI/554/554-mrg.htm",
+     "sha256": "d188dd3fed465d3051b5e3877a660c7ab27cf439f1f8069bab6398284cb7c462"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0554-a",
+   "short": "RSA 554-A",
+   "title": "New Hampshire Revised Statutes, Chapter 554-A: Revised Uniform Fiduciary Access to Digital Assets Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-554-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-20",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250420235127/https://gc.nh.gov/rsa/html/LVI/554-A/554-A-mrg.htm",
+     "sha256": "326b97b890f766a6aebcadad63408afe4168828be4737b0ea281172867a2d4dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0555",
+   "short": "RSA 555",
+   "title": "New Hampshire Revised Statutes, Chapter 555: Embezzlements (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-555.htm",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250627074540/https://gc.nh.gov/rsa/html/LVI/555/555-mrg.htm",
+     "sha256": "fd545d4e50eec267ce80470010c0936311c5c7f43a75087ca6508f30418159c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0556",
+   "short": "RSA 556",
+   "title": "New Hampshire Revised Statutes, Chapter 556: Suits by and Against Administrators (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-556.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20261024184539/https://gc.nh.gov/rsa/html/LVI/556/556-mrg.htm",
+     "sha256": "a2e2859ce0caad93c90d78bd5df7c94274aa4e67ebd1274198e79e1e6c4db50f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0559",
+   "short": "RSA 559",
+   "title": "New Hampshire Revised Statutes, Chapter 559: License to Sell Real Estate (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-559.htm",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250707082502/https://gc.nh.gov/rsa/html/LVI/559/559-mrg.htm",
+     "sha256": "3a3ef1c771d6209228823e85e5722e1539e995e4138ce94538e4b32b5e4cd558"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0560",
+   "short": "RSA 560",
+   "title": "New Hampshire Revised Statutes, Chapter 560: Rights of Surviving Spouse (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-560.htm",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250917044451/https://gc.nh.gov/rsa/html/LVI/560/560-mrg.htm",
+     "sha256": "18f7be3bb22ab144f2e87ab5b61a6c3db8442afa73ce8c41477d73d0cff330c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0561",
+   "short": "RSA 561",
+   "title": "New Hampshire Revised Statutes, Chapter 561: Descent, Distribution, and Advancements (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-561.htm",
+   "versions": [
+    {
+     "from": "2025-08-24",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250824085336/https://gc.nh.gov/rsa/html/LVI/561/561-mrg.htm",
+     "sha256": "57d4a1c593175a47a8fa21afc8735dbc96e59c4964c1ba15fd9330d07124218b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563",
+   "short": "RSA 563",
+   "title": "New Hampshire Revised Statutes, Chapter 563: Uniform Simultaneous Death Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-563.htm",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250630195314/https://gc.nh.gov/rsa/html/LVI/563/563-mrg.htm",
+     "sha256": "5f611005533f33ca5c27d3d9cdefb197f79f4fec1301af4e1b1b50957ba1e9e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563-a",
+   "short": "RSA 563-A",
+   "title": "New Hampshire Revised Statutes, Chapter 563-A: Uniform Testamentary Additions to Trusts Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-563-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250819013014/https://gc.nh.gov/rsa/html/LVI/563-A/563-A-mrg.htm",
+     "sha256": "3e7cbe95bc7f906799c17c3474c22be784a64cc124419e7621e3685d23c8d471"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563-b",
+   "short": "RSA 563-B",
+   "title": "New Hampshire Revised Statutes, Chapter 563-B: Uniform Disclaimer of Property Interests Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-563-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250803211043/https://gc.nh.gov/rsa/html/LVI/563-B/563-B-mrg.htm",
+     "sha256": "c675f574cfd1a95cc2e36b8cb6a7a17771004381ed92c9ca840256220f0eb386"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563-c",
+   "short": "RSA 563-C",
+   "title": "New Hampshire Revised Statutes, Chapter 563-C: Uniform Transfer on Death (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-563-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250629224119/https://gc.nh.gov/rsa/html/LVI/563-C/563-C-mrg.htm",
+     "sha256": "353365b2d03018903c5e1ff932557a3fb4180b9b1a58d0b72470c2c722ac1d9a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563-d",
+   "short": "RSA 563-D",
+   "title": "New Hampshire Revised Statutes, Chapter 563-D: Uniform Real Property Transfer on Death Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-563-D.htm",
+   "versions": [
+    {
+     "from": "2025-09-14",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250914173218/https://gc.nh.gov/rsa/html/LVI/563-D/563-D-mrg.htm",
+     "sha256": "2dd3c836996499b1144b41fdf7064a939dbe73a12825fb30ee5c66bc2c6f155f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0564",
+   "short": "RSA 564",
+   "title": "New Hampshire Revised Statutes, Chapter 564: Trustees of Estates (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-564.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250226032205/https://gc.nh.gov/rsa/html/LVI/564/564-mrg.htm",
+     "sha256": "40547d269568b8bd5fe2075624b56426d2c80ed97aef8efb11a19bb3303680b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0564-b",
+   "short": "RSA 564-B",
+   "title": "New Hampshire Revised Statutes, Chapter 564-B: New Hampshire Trust Code (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-564-B.htm",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 130,
+     "source_url": "https://web.archive.org/web/20260427114717/https://gc.nh.gov/rsa/html/LVI/564-B/564-B-mrg.htm",
+     "sha256": "a59207788b6c823665e23dece2b6b0a6f7dfa80526c8913ba11952a0f06935dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0564-c",
+   "short": "RSA 564-C",
+   "title": "New Hampshire Revised Statutes, Chapter 564-C: Uniform Principal and Income Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-564-C.htm",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20250918053718/https://gc.nh.gov/rsa/html/LVI/564-C/564-C-mrg.htm",
+     "sha256": "02bc8318da72822bb076a3fa4cfe97c4157408e1a153d9a15e22acf66b086428"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0564-e",
+   "short": "RSA 564-E",
+   "title": "New Hampshire Revised Statutes, Chapter 564-E: Uniform Power of Attorney Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-564-E.htm",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250908230038/https://gc.nh.gov/rsa/html/LVI/564-E/564-E-mrg.htm",
+     "sha256": "2faa09f5da56a57eb00a3e5c96a3370ccac7f5849e594299a0e674140ab51d30"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0564-f",
+   "short": "RSA 564-F",
+   "title": "New Hampshire Revised Statutes, Chapter 564-F: New Hampshire Foundation Act (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-564-F.htm",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20250715151950/https://gc.nh.gov/rsa/html/LVI/564-F/564-F-mrg.htm",
+     "sha256": "ebb7115f920e5597e02953f28c1bb91b06bcded56c373634eeaa266174a59905"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0565",
+   "short": "RSA 565",
+   "title": "New Hampshire Revised Statutes, Chapter 565: Bonds to the Judge and Suits Thereon (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-565.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20220522193012/http://gencourt.state.nh.us/rsa/html/LVI/565/565-mrg.htm",
+     "sha256": "2f927ad152db3185f5ab947d4c53cc340813b96b06b962dd0d736398df227929"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0566",
+   "short": "RSA 566",
+   "title": "New Hampshire Revised Statutes, Chapter 566: Powers of Appointment (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-566.htm",
+   "versions": [
+    {
+     "from": "2025-07-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250706015731/https://gc.nh.gov/rsa/html/LVI/566/566-mrg.htm",
+     "sha256": "6feba9ef040d793acdd9318f9fa45c4c8e29b2cf6f839d087b83c8ef9dd13f69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0567-a",
+   "short": "RSA 567-A",
+   "title": "New Hampshire Revised Statutes, Chapter 567-A: Appeals from the Court of Probate (Title LVI: Probate Courts and Decedents' Estates)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVI-567-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250423014607/https://gc.nh.gov/rsa/html/LVI/567-A/567-A-mrg.htm",
+     "sha256": "7ffa843943e7bfe9a7f1f17f5aae9fbe6092ba5d292e026fdcae5434b507a214"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0568",
+   "short": "RSA 568",
+   "title": "New Hampshire Revised Statutes, Chapter 568: Insolvency Proceedings (Title LVII: Insolvency Proceedings and Assignments for Creditors)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVII-568.htm",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20250601183014/https://gc.nh.gov/rsa/html/LVII/568/568-mrg.htm",
+     "sha256": "c8c6abeb0ce0375d4bb449ab4e60d810f74b8ea7d030e27af0c8a9e4179607ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0569",
+   "short": "RSA 569",
+   "title": "New Hampshire Revised Statutes, Chapter 569: Assignments for the Benefit of Creditors (Title LVII: Insolvency Proceedings and Assignments for Creditors)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVII-569.htm",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250801022207/https://gc.nh.gov/rsa/html/LVII/569/569-mrg.htm",
+     "sha256": "3cb87956047f699949b8a29dd1d8ce1b992975ee278f6238915529caefdb5600"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0570-a",
+   "short": "RSA 570-A",
+   "title": "New Hampshire Revised Statutes, Chapter 570-A: Wiretapping and Eavesdropping (Title LVIII: Public Justice)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVIII-570-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260414035318/https://gc.nh.gov/RSA/html/LVIII/570-A/570-A-mrg.htm",
+     "sha256": "2f118707d9155818ab310aaa5308beabbf713dd37ce7621530fc0517437089aa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0570-b",
+   "short": "RSA 570-B",
+   "title": "New Hampshire Revised Statutes, Chapter 570-B: Pen Register, Trap and Trace Devices (Title LVIII: Public Justice)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVIII-570-B.htm",
+   "versions": [
+    {
+     "from": "2025-04-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250421072605/https://gc.nh.gov/rsa/html/LVIII/570-B/570-B-mrg.htm",
+     "sha256": "093ed79215458ceb2cad738e39f1d606939f18515c0a0393b629bd5ecd08ac58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0571-b",
+   "short": "RSA 571-B",
+   "title": "New Hampshire Revised Statutes, Chapter 571-B: Exposing Minors to Harmful Materials (Title LVIII: Public Justice)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVIII-571-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250716130025/https://gc.nh.gov/rsa/html/LVIII/571-B/571-B-mrg.htm",
+     "sha256": "720e46f8f50c279fbe65daa7ba375e6b7bec179c3c6214b4a2b77a89f19e84cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0571-c",
+   "short": "RSA 571-C",
+   "title": "New Hampshire Revised Statutes, Chapter 571-C: Responsibility to Minors (Title LVIII: Public Justice)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVIII-571-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250625181733/https://gc.nh.gov/rsa/html/LVIII/571-C/571-C-mrg.htm",
+     "sha256": "2ff5dc7edd39b52a55e19d1838dce9706a878f54cf0af2e4a18e7fb33e171683"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0585",
+   "short": "RSA 585",
+   "title": "New Hampshire Revised Statutes, Chapter 585: Homicide and Offenses Against the Person (Title LVIII: Public Justice)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LVIII-585.htm",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260828150134/https://gc.nh.gov/rsa/html/LVIII/585/585-mrg.htm",
+     "sha256": "ad13f92377962651a95da57fd9274261c55ffa5d5771c9289fddd90af1f8206d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0621",
+   "short": "RSA 621",
+   "title": "New Hampshire Revised Statutes, Chapter 621: Youth Development Center (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-621.htm",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20220928223239/https://gencourt.state.nh.us/rsa/html/LX/621/621-mrg.htm",
+     "sha256": "42ebfe7df576a1b0b980360cd6963142ba887c0c8f19131a3298cf8967f6e57d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0621-a",
+   "short": "RSA 621-A",
+   "title": "New Hampshire Revised Statutes, Chapter 621-A: Youth Services Center (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-621-A.htm",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250218061405/https://gc.nh.gov/rsa/html/LX/621-A/621-A-mrg.htm",
+     "sha256": "08adfbb40b9e6f98d016e101091c24ec067c943dcef281fa26c7dff5c9b39691"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0622-a",
+   "short": "RSA 622-A",
+   "title": "New Hampshire Revised Statutes, Chapter 622-A: New England Interstate Corrections Compact (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-622-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260128065326/https://gc.nh.gov/rsa/html/LX/622-A/622-A-mrg.htm",
+     "sha256": "816c2551f0e52ed5fe8f93bb51403cfbd035ca9cc95af182bf70e8b996fddb7c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0622-b",
+   "short": "RSA 622-B",
+   "title": "New Hampshire Revised Statutes, Chapter 622-B: Interstate Corrections Compact (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-622-B.htm",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260408231946/https://gc.nh.gov/rsa/html/LX/622-B/622-B-mrg.htm",
+     "sha256": "a07d5aba96d2c8903d2f545c2656326ae102602231410feb692047cc1cc75413"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0622-c",
+   "short": "RSA 622-C",
+   "title": "New Hampshire Revised Statutes, Chapter 622-C: International Prisoner Transfers (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-622-C.htm",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250219053044/https://gc.nh.gov/rsa/html/LX/622-C/622-C-mrg.htm",
+     "sha256": "2968ff4e6c3aa19206664034fecaa0ba27f544d252b54a7dd879b3c10e76d643"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0623",
+   "short": "RSA 623",
+   "title": "New Hampshire Revised Statutes, Chapter 623: Temporary Removal of Prisoners (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-623.htm",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250629025858/https://gc.nh.gov/rsa/html/LX/623/623-mrg.htm",
+     "sha256": "d44220c96a7ae28e7314cf3312af218a97143c1217372a27ab721f9d80a54611"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0623-a",
+   "short": "RSA 623-A",
+   "title": "New Hampshire Revised Statutes, Chapter 623-A: Approved Absences from New Hampshire State Prisons (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-623-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-06",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250706001241/https://gc.nh.gov/rsa/html/LX/623-A/623-A-mrg.htm",
+     "sha256": "a1211fbf9082834b56b2dfd98955000e8ac3cc4b301ed869609b962e51ac171e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0623-b",
+   "short": "RSA 623-B",
+   "title": "New Hampshire Revised Statutes, Chapter 623-B: Inmate Litigation (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-623-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250719065302/https://gc.nh.gov/rsa/html/LX/623-B/623-B-mrg.htm",
+     "sha256": "b3f5ed9e35e10045e0a78d5bf55e80c84062c37ae71d2bf5f7902ea2f0310457"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0623-c",
+   "short": "RSA 623-C",
+   "title": "New Hampshire Revised Statutes, Chapter 623-C: Medical Services for Prisoners (Title LX: Correction and Punishment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LX-623-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250704023110/https://gc.nh.gov/rsa/html/LX/623-C/623-C-mrg.htm",
+     "sha256": "042ce20095921453d9c9acb145a205f7e4caa439baf8b184ab79e384ceb90db1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0624",
+   "short": "RSA 624",
+   "title": "New Hampshire Revised Statutes, Chapter 624: Repeals and Revisions (Title LXI: Acts Repealed)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXI-624.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20220519174622/http://gencourt.state.nh.us/rsa/html/LXI/624/624-mrg.htm",
+     "sha256": "f84873c6929a7f898b7d24b22b090e42c54819f87141c9134940a52a04285a66"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0625",
+   "short": "RSA 625",
+   "title": "New Hampshire Revised Statutes, Chapter 625: Preliminary (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-625.htm",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20230616002109/https://www.gencourt.state.nh.us/rsa/html/lxii/625/625-mrg.htm",
+     "sha256": "6f6496e05caaf6d81b7d122237fbd25cd49b3d6a1aab2e861da5ad2295882f28"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0626",
+   "short": "RSA 626",
+   "title": "New Hampshire Revised Statutes, Chapter 626: General Principles (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-626.htm",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260327023837/https://gc.nh.gov/rsa/html/lxii/626/626-mrg.htm",
+     "sha256": "9e608c46cc7dbfafb7e61f70380adb036b008a1b5fddb0dccd116da44cd95c60"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0627",
+   "short": "RSA 627",
+   "title": "New Hampshire Revised Statutes, Chapter 627: Justification (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-627.htm",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260209170443/https://gc.nh.gov/rsa/html/lxii/627/627-mrg.htm",
+     "sha256": "682cc9b59f1d073bdb0d1578a7e8e5cf6bc51d52d9aaa223f0867fbd5a9ff509"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0628",
+   "short": "RSA 628",
+   "title": "New Hampshire Revised Statutes, Chapter 628: Responsibility (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-628.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516214201/http://gencourt.state.nh.us/rsa/html/LXII/628/628-mrg.htm",
+     "sha256": "3f1d32b4cd8d748d1ad0cdbbf234be6d061219f64c286692491e95e0bf68ad81"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0629",
+   "short": "RSA 629",
+   "title": "New Hampshire Revised Statutes, Chapter 629: Inchoate Crimes (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-629.htm",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260718044303/https://gc.nh.gov/rsa/html/LXII/629/629-mrg.htm",
+     "sha256": "90e3ee9ece4767e04fc8eaae7d9bd6f533dce91fe3ed0c0b36653b674242a5a3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0630",
+   "short": "RSA 630",
+   "title": "New Hampshire Revised Statutes, Chapter 630: Homicide (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-630.htm",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260930084410/https://gc.nh.gov/rsa/html/lxii/630/630-mrg.htm",
+     "sha256": "840e34e27bb53490fba5ac1672baac4215c22909af666b2d813999018031589b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0631",
+   "short": "RSA 631",
+   "title": "New Hampshire Revised Statutes, Chapter 631: Assault and Related Offenses (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-631.htm",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260119233610/https://gc.nh.gov/rsa/html/LXII/631/631-mrg.htm",
+     "sha256": "b156a30ebf38cc0526c64e655fb5e3a62d90531ffea345182791a934fbb86349"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0632-a",
+   "short": "RSA 632-A",
+   "title": "New Hampshire Revised Statutes, Chapter 632-A: Sexual Assault and Related Offenses (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-632-A.htm",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260926165044/https://gc.nh.gov/rsa/html/LXII/632-A/632-A-mrg.htm",
+     "sha256": "d79403ff76483539bc3fb5e611b6728dfc2264253b8c869c798b2e0249b6ffad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0633",
+   "short": "RSA 633",
+   "title": "New Hampshire Revised Statutes, Chapter 633: Interference with Freedom (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-633.htm",
+   "versions": [
+    {
+     "from": "2026-01-18",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260118231923/https://gc.nh.gov/rsa/html/LXII/633/633-mrg.htm",
+     "sha256": "dac52f05eb25348b41a82f5150dd2e7895b0383c0215cb97b330a5a0117c4946"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0634",
+   "short": "RSA 634",
+   "title": "New Hampshire Revised Statutes, Chapter 634: Destruction of Property (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-634.htm",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250325224948/https://gc.nh.gov/rsa/html/LXII/634/634-mrg.htm",
+     "sha256": "967b9684ab3e83d5fb05fb0e42a9b35b48d41210da39e83df58f7173613635b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0635",
+   "short": "RSA 635",
+   "title": "New Hampshire Revised Statutes, Chapter 635: Unauthorized Entries (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-635.htm",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250828200614/https://gc.nh.gov/rsa/html/LXII/635/635-mrg.htm",
+     "sha256": "f9b97aa08745ff42345d4d536b6f78a3e2eb051adb5523ec479e44752951c8ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0636",
+   "short": "RSA 636",
+   "title": "New Hampshire Revised Statutes, Chapter 636: Robbery (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-636.htm",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250526125744/https://gc.nh.gov/rsa/html/LXII/636/636-mrg.htm",
+     "sha256": "5c78dc7d90059eca0c11feeaf7c1545de1d22e2dd2639239d279e01515875c70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0637",
+   "short": "RSA 637",
+   "title": "New Hampshire Revised Statutes, Chapter 637: Theft (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-637.htm",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251016014906/https://gc.nh.gov/rsa/html/lxii/637/637-mrg.htm",
+     "sha256": "56737b9e00b3ee11e783ed4a6815586ec0e6d52a1d46513623f64ba38d57de2d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0638",
+   "short": "RSA 638",
+   "title": "New Hampshire Revised Statutes, Chapter 638: Fraud (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-638.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260129103356/https://gc.nh.gov/rsa/html/LXII/638/638-mrg.htm",
+     "sha256": "77cde4a8c69331a04655092c136b754ebf5e10cbb2a3d81d683935c205a0f9c1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0639",
+   "short": "RSA 639",
+   "title": "New Hampshire Revised Statutes, Chapter 639: Offenses Against the Family (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-639.htm",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250522012627/https://gc.nh.gov/rsa/html/LXII/639/639-mrg.htm",
+     "sha256": "b7a85a4ff9de4f3c72d7e6eafcb8a4823fc66e2ce7dccc6bfa5f381937a0e795"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0639-a",
+   "short": "RSA 639-A",
+   "title": "New Hampshire Revised Statutes, Chapter 639-A: Controlled Drug-related Crimes (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-639-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250608043927/https://gc.nh.gov/rsa/html/LXII/639-A/639-A-mrg.htm",
+     "sha256": "681290998dad906e6a0540e0222cf17a5f9f1c030ff8cb9e73c87bf8d14fbaa2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0640",
+   "short": "RSA 640",
+   "title": "New Hampshire Revised Statutes, Chapter 640: Corrupt Practices (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-640.htm",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260131230935/https://gc.nh.gov/rsa/html/LXII/640/640-mrg.htm",
+     "sha256": "b4708c77df06bcc19d2d755788116300a4b2eb654b8b2b26baf0f373c6f1d0c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0641",
+   "short": "RSA 641",
+   "title": "New Hampshire Revised Statutes, Chapter 641: Falsification in Official Matters (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-641.htm",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250423061131/https://gc.nh.gov/rsa/html/LXII/641/641-mrg.htm",
+     "sha256": "988796a05e8e198736e7c85d67b7d963ad291cd7c6a0d665008a3bfa5d18b767"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0642",
+   "short": "RSA 642",
+   "title": "New Hampshire Revised Statutes, Chapter 642: Obstructing Governmental Operations (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-642.htm",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250722124213/https://gc.nh.gov/rsa/html/LXII/642/642-mrg.htm",
+     "sha256": "d56c2fa5babf149f37d80a9d47e4bf476d2e076015e62830e4a28a8d7d72da75"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0643",
+   "short": "RSA 643",
+   "title": "New Hampshire Revised Statutes, Chapter 643: Abuse of Office (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-643.htm",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250516232406/https://gc.nh.gov/rsa/html/LXII/643/643-mrg.htm",
+     "sha256": "ba0a44fde8235505de0c90ac3d6ae4b0948f30db288c30bc57b20740172d3f7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0644",
+   "short": "RSA 644",
+   "title": "New Hampshire Revised Statutes, Chapter 644: Breaches of the Peace and Related Offenses (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-644.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260106092118/https://gc.nh.gov/rsa/html/LXII/644/644-mrg.htm",
+     "sha256": "37e0491954e6acbe2ecc2798a728658ac0ba72af6ee61cdad632806b00704665"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0644-a",
+   "short": "RSA 644-A",
+   "title": "New Hampshire Revised Statutes, Chapter 644-A: Electronic Device Location Information (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-644-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261013232147/https://gc.nh.gov/rsa/html/lxii/644-a/644-a-mrg.htm?utm_source=chatgpt.com",
+     "sha256": "44b517c3c7bd6a88c7eca1b300e3548b0d3df572a2a765b7ce36b39e2c09260a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0645",
+   "short": "RSA 645",
+   "title": "New Hampshire Revised Statutes, Chapter 645: Public Indecency (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-645.htm",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250908203057/https://gc.nh.gov/rsa/html/LXII/645/645-mrg.htm",
+     "sha256": "9014485b61c3b5b8e7dd7c4b32d137fcb35043188d93ea548359e3ba5dabe3ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0646-a",
+   "short": "RSA 646-A",
+   "title": "New Hampshire Revised Statutes, Chapter 646-A: Desecration of the Flag (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-646-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517004655/http://gencourt.state.nh.us/rsa/html/LXII/646-A/646-A-mrg.htm",
+     "sha256": "2d6239af2224bcf87ee70c475902e1cd7126d9728cc809c2b38e7b6fa92cc5e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0647",
+   "short": "RSA 647",
+   "title": "New Hampshire Revised Statutes, Chapter 647: Gambling Offenses (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-647.htm",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20221128041401/http://www.gencourt.state.nh.us/rsa/html/LXII/647/647-mrg.htm",
+     "sha256": "5c3e80739585e4fa0e06695fd8938db7958162651e7b5b0bd357047f9ebd2f96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0649",
+   "short": "RSA 649",
+   "title": "New Hampshire Revised Statutes, Chapter 649: Sabotage Prevention (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-649.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20220523212811/http://gencourt.state.nh.us/rsa/html/LXII/649/649-mrg.htm",
+     "sha256": "a888c433131eb01c065b1896b2d7e675a2ea8ac65e4015f573e4f346dd5bab74"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0649-a",
+   "short": "RSA 649-A",
+   "title": "New Hampshire Revised Statutes, Chapter 649-A: Child Sexual Abuse Images (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-649-A.htm",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20240626213256/https://www.gencourt.state.nh.us/rsa/html/lxii/649-a/649-a-mrg.htm",
+     "sha256": "80556faffd31a81267db2732c753f0a41367058beb6d87c5dc0299b5c9a20156"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0649-b",
+   "short": "RSA 649-B",
+   "title": "New Hampshire Revised Statutes, Chapter 649-B: Computer Pornography and Child Exploitation Prevention (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-649-B.htm",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250127004427/https://www.gencourt.state.nh.us/rsa/html/LXII/649-B/649-B-mrg.htm",
+     "sha256": "750abfb966cf7e598708e8e6086a476146a1dc2cef33113709ad691630fbcc3f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0650",
+   "short": "RSA 650",
+   "title": "New Hampshire Revised Statutes, Chapter 650: Obscene Matter (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-650.htm",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260603150800/https://gc.nh.gov/rsa/html/LXII/650/650-mrg.htm",
+     "sha256": "c8684c597f4ddd29ec0c8f3c3baf7f0a2bb81a6c94a733b83156b56d28dcfc23"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0650-a",
+   "short": "RSA 650-A",
+   "title": "New Hampshire Revised Statutes, Chapter 650-A: Felonious Use of Firearms (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-650-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220516231417/http://gencourt.state.nh.us/rsa/html/LXII/650-A/650-A-mrg.htm",
+     "sha256": "0ab61e4d7d3b79f24e18d682656a0a45e4391e6a7eaeebfa48c797ab9570e8db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0650-c",
+   "short": "RSA 650-C",
+   "title": "New Hampshire Revised Statutes, Chapter 650-C: Negligent Storage of Firearms (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-650-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250620214049/https://gc.nh.gov/rsa/html/lxii/650-c/650-c-mrg.htm",
+     "sha256": "e55b06cb6ef10305a7b79d751c46ebb7738a9d2c4f1e61b6b6e65d3d5d2cec1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651",
+   "short": "RSA 651",
+   "title": "New Hampshire Revised Statutes, Chapter 651: Sentences (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260812231404/https://gc.nh.gov/rsa/html/LXII/651/651-mrg.htm",
+     "sha256": "c3686cecd9770185626667dd57c96987bdf3ecafff78414eea036f7ca44c328f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-a",
+   "short": "RSA 651-A",
+   "title": "New Hampshire Revised Statutes, Chapter 651-A: Parole of Prisoners (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-A.htm",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260711144337/https://gc.nh.gov/rsa/html/LXII/651-A/651-A-mrg.htm",
+     "sha256": "c44a1a26048e2badb6dc5c7a89b212544c3de5b229f6d2d268d868d8bd4eb92b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-b",
+   "short": "RSA 651-B",
+   "title": "New Hampshire Revised Statutes, Chapter 651-B: Registration of Criminal Offenders (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261028002627/https://gc.nh.gov/rsa/html/lxii/651-b/651-b-mrg.htm",
+     "sha256": "9d61271d07d7af338e2d42650fa6570d416cdf6e90abfb9a0575ba2234262b6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-c",
+   "short": "RSA 651-C",
+   "title": "New Hampshire Revised Statutes, Chapter 651-C: Dna Testing of Criminal Offenders (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-C.htm",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240620214133/https://www.gencourt.state.nh.us/rsa/html/lxii/651-c/651-c-mrg.htm",
+     "sha256": "bc991695729de2d36db96ca79a1c961835a8cf907ebb02f4bd23bb4cef1cf337"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-d",
+   "short": "RSA 651-D",
+   "title": "New Hampshire Revised Statutes, Chapter 651-D: Post-conviction Dna Testing (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-D.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250704053403/https://gc.nh.gov/rsa/html/LXII/651-D/651-D-mrg.htm",
+     "sha256": "6a83d92f5ce8a955cd5a146ba80b1da307c657bcf7e05352668c05f7b4a5ef96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-e",
+   "short": "RSA 651-E",
+   "title": "New Hampshire Revised Statutes, Chapter 651-E: Interbranch Criminal and Juvenile Justice Council (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-E.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260812231642/https://gc.nh.gov/rsa/html/lxii/651-e/651-e-mrg.htm",
+     "sha256": "0da6a98252914cec21d9ba7929c9e0ea450292c4245a9c98c9bdb8ca9fc03634"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0651-f",
+   "short": "RSA 651-F",
+   "title": "New Hampshire Revised Statutes, Chapter 651-F: Information and Analysis Center (Title LXII: Criminal Code)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXII-651-F.htm",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260204130722/https://gc.nh.gov/rsa/html/lxii/651-f/651-f-mrg.htm",
+     "sha256": "d4890baf8c36f782f89b79aacb25ef1573dcf2914c14289e0c5d62a5308e0163"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0652",
+   "short": "RSA 652",
+   "title": "New Hampshire Revised Statutes, Chapter 652: General Provisions (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-652.htm",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20250701113704/https://gc.nh.gov/rsa/html/LXIII/652/652-mrg.htm",
+     "sha256": "268a01f783cd783d760cb38e0961c865a96e6207e3692f879e6550ef6580dfe3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0653",
+   "short": "RSA 653",
+   "title": "New Hampshire Revised Statutes, Chapter 653: Election of Officers and Delegates (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-653.htm",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260904011619/https://gc.nh.gov/rsa/html/lxiii/653/653-mrg.htm?id=8589970740",
+     "sha256": "f56e7aa31f12bb82dfdacabe7081327aeffff95a4bdd877da36d8efcf6d57af6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0654",
+   "short": "RSA 654",
+   "title": "New Hampshire Revised Statutes, Chapter 654: Voters and Checklists (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-654.htm",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260724010445/https://gc.nh.gov/rsa/html/LXIII/654/654-mrg.htm",
+     "sha256": "2aee66e869c058d98d94f114e29b9011f321d08c254aac35b4fc55132fcbf843"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0655",
+   "short": "RSA 655",
+   "title": "New Hampshire Revised Statutes, Chapter 655: Nominations (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-655.htm",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20251208060440/https://gc.nh.gov/rsa/html/lxiii/655/655-mrg.htm?id=8589992025",
+     "sha256": "00681fe0c0cc5f4d0a81eeae18e00d15c4dde6317173b6057990cc57d494fb82"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0656",
+   "short": "RSA 656",
+   "title": "New Hampshire Revised Statutes, Chapter 656: Preparation of Voting Materials (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-656.htm",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20261014192209/https://gc.nh.gov/rsa/html/LXIII/656/656-mrg.htm",
+     "sha256": "5c344825b94ad3f731c56d2b2319f781b7412e197b17dd597ecb5774e32ab2b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0657",
+   "short": "RSA 657",
+   "title": "New Hampshire Revised Statutes, Chapter 657: Absentee Voting (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-657.htm",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261019024524/https://gc.nh.gov/rsa/html/lxiii/657/657-mrg.htm?id=8589992027",
+     "sha256": "10e6bfe8d4d1ef3b0ddcff72d7fd24c3d5118b5d0d5f37755b4128efa6605486"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0658",
+   "short": "RSA 658",
+   "title": "New Hampshire Revised Statutes, Chapter 658: Pre-election Procedure (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-658.htm",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20251002091923/https://gc.nh.gov/rsa/html/LXIII/658/658-mrg.htm",
+     "sha256": "e68202ae5204a2cf0f1c22bb57551843fe5b9cf36ce909aa7a81de1c4391944c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0659",
+   "short": "RSA 659",
+   "title": "New Hampshire Revised Statutes, Chapter 659: Election Procedure (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-659.htm",
+   "versions": [
+    {
+     "from": "2026-11-08",
+     "units": 123,
+     "source_url": "https://web.archive.org/web/20261108025814/https://gc.nh.gov/rsa/html/LXIII/659/659-mrg.htm",
+     "sha256": "922901d2e93b0ce0df1791fa70aa704420f6e01413a93ae671312698e3af512a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0660",
+   "short": "RSA 660",
+   "title": "New Hampshire Revised Statutes, Chapter 660: Post-election Procedure (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-660.htm",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260111145712/https://gc.nh.gov/rsa/html/lxiii/660/660-mrg.htm?id=8589970733",
+     "sha256": "a666340fcdc1086b5ae78c0f78e2e2f9f48f2933258f27a509a01d3543b050e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0661",
+   "short": "RSA 661",
+   "title": "New Hampshire Revised Statutes, Chapter 661: Vacancies Among Public Officers Elected at State Elections (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-661.htm",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261005215528/https://gc.nh.gov/rsa/html/lxiii/661/661-mrg.htm?id=8589970732",
+     "sha256": "9412aa06e63f6acb18bb1d05670bcf4ec971dd8eee3eb75c06f412f0d77a581b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0662",
+   "short": "RSA 662",
+   "title": "New Hampshire Revised Statutes, Chapter 662: Elective Districts (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-662.htm",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260613020131/https://gc.nh.gov/rsa/html/lxiii/662/662-mrg.htm?id=8589970731",
+     "sha256": "418308547028763dc4c321fcb7251ea6e9498c633fcd6ec52f35a4383d1e5e26"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0662-a",
+   "short": "RSA 662-A",
+   "title": "New Hampshire Revised Statutes, Chapter 662-A: Division of State Representative Districts of Towns (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-662-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260427214639/https://gc.nh.gov/rsa/html/LXIII/662-A/662-A-mrg.htm",
+     "sha256": "e59082ee5081b8d7a75573bba32edff6726710504a959120bf9fc82454bab5b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0663",
+   "short": "RSA 663",
+   "title": "New Hampshire Revised Statutes, Chapter 663: Questions to Voters (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-663.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250610190022/https://gc.nh.gov/rsa/html/lxiii/663/663-mrg.htm?id=8589970730",
+     "sha256": "20852a07119cd7ef6958502016cea64d91a11bf88416dc2288b533fece45f201"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0664",
+   "short": "RSA 664",
+   "title": "New Hampshire Revised Statutes, Chapter 664: Political Expenditures and Contributions (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-664.htm",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261023184225/https://gc.nh.gov/rsa/html/LXIII/664/664-mrg.htm",
+     "sha256": "3aa3489fcaf8e3ae89ebb7f5b6caa29a5a652f5aa4b8769ea36b62699bd05630"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0665",
+   "short": "RSA 665",
+   "title": "New Hampshire Revised Statutes, Chapter 665: Ballot Law Commission (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-665.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250610190027/https://gc.nh.gov/rsa/html/lxiii/665/665-mrg.htm?id=8589992029",
+     "sha256": "ccf191030905e4b987154f23aba1cc359d529ddd96991b3bb2a11be22ff5c850"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0666",
+   "short": "RSA 666",
+   "title": "New Hampshire Revised Statutes, Chapter 666: Provisions for Purity of Elections (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-666.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250610190029/https://gc.nh.gov/rsa/html/lxiii/666/666-mrg.htm?id=8589970743",
+     "sha256": "782335c8dc0742cc43566bb7f37e3602a38de0755222441868bf140011e581e3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0667",
+   "short": "RSA 667",
+   "title": "New Hampshire Revised Statutes, Chapter 667: Constitutional Conventions and State Party Conventions (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-667.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250610190030/https://gc.nh.gov/rsa/html/lxiii/667/667-mrg.htm?id=8589970727",
+     "sha256": "1cb66dd5e0d228aef2c829b5e5d5759e28a408e99e92cd9bdd3d692152fbe93f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0668",
+   "short": "RSA 668",
+   "title": "New Hampshire Revised Statutes, Chapter 668: Provisions for Unincorporated Places (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-668.htm",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251003211811/https://gc.nh.gov/rsa/html/LXIII/668/668-mrg.htm",
+     "sha256": "570979a1a102e7f1271cbe6c733a2ff8404b8a68c502e24d0f6f61313b5d4dc3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0669",
+   "short": "RSA 669",
+   "title": "New Hampshire Revised Statutes, Chapter 669: Town Elections (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-669.htm",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20260419180255/https://gc.nh.gov/rsa/html/lxiii/669/669-mrg.htm?id=8589992030",
+     "sha256": "81d0a1f12f11b1eac8bf43508c2d67e0c24289fe51793e33a3f48b3b62b27fda"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0670",
+   "short": "RSA 670",
+   "title": "New Hampshire Revised Statutes, Chapter 670: Village District Elections (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-670.htm",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250721220215/https://gc.nh.gov/rsa/html/LXIII/670/670-mrg.htm",
+     "sha256": "a5ab74ad33f08905cd5e493ad48f5db3abf8ccbb55f39a79333ee81bc3888f87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0671",
+   "short": "RSA 671",
+   "title": "New Hampshire Revised Statutes, Chapter 671: School District Elections (Title LXIII: Elections)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII-671.htm",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261010092546/https://gc.nh.gov/rsa/html/LXIII/671/671-mrg.htm",
+     "sha256": "c476da3ab008b481bcbabd188ef214c2a71a53a0a0eb2a089a4f4c93fd33f7cd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0672",
+   "short": "RSA 672",
+   "title": "New Hampshire Revised Statutes, Chapter 672: General Provisions (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-672.htm",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260718213903/https://gc.nh.gov/rsa/html/LXIV/672/672-mrg.htm",
+     "sha256": "244787b705912e6e891c58b0307a4747395f94ea68250f6f07cb25342f88f94f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0673",
+   "short": "RSA 673",
+   "title": "New Hampshire Revised Statutes, Chapter 673: Local Land Use Boards (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-673.htm",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260413025938/https://gc.nh.gov/rsa/html/LXIV/673/673-mrg.htm",
+     "sha256": "34f35e9a809948485d9b03d88795b9f945b2f4e3d89fbe2717ad661c0052dde6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0674",
+   "short": "RSA 674",
+   "title": "New Hampshire Revised Statutes, Chapter 674: Local Land Use Planning and Regulatory Powers (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-674.htm",
+   "versions": [
+    {
+     "from": "2026-10-04",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20261004173902/https://gc.nh.gov/rsa/html/lxiv/674/674-mrg.htm",
+     "sha256": "284b69da9a3eeda16735f0bd2c55dab4179fc532e06a14432ebf4f48184e735b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0675",
+   "short": "RSA 675",
+   "title": "New Hampshire Revised Statutes, Chapter 675: Enactment and Adoption Procedures (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-675.htm",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260430122842/https://gc.nh.gov/rsa/html/LXIV/675/675-mrg.htm",
+     "sha256": "b4564c375ea60784abb2e4e5d69501f2bd474c8c1658a81989ecaef4db18a1fb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0676",
+   "short": "RSA 676",
+   "title": "New Hampshire Revised Statutes, Chapter 676: Administrative and Enforcement Procedures (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-676.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260429184757/https://gc.nh.gov/rsa/html/LXIV/676/676-mrg.htm",
+     "sha256": "8adc7c3ab4068a0bdfcdeae5b1365b77334c493b5d755508c1a045b0217df3d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0677",
+   "short": "RSA 677",
+   "title": "New Hampshire Revised Statutes, Chapter 677: Rehearing and Appeal Procedures (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-677.htm",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260506044507/https://gc.nh.gov/rsa/html/LXIV/677/677-mrg.htm",
+     "sha256": "08f5bffd66d2e25d8b8f34647967c0432f8b7fc22b24dd6500b6c9b4f933b4a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0678",
+   "short": "RSA 678",
+   "title": "New Hampshire Revised Statutes, Chapter 678: Community Services and Care Planning Boards (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-678.htm",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250705201948/https://gc.nh.gov/rsa/html/LXIV/678/678-mrg.htm",
+     "sha256": "43a03316c5cf5ccc42531a497eb8962f39ce40cb592ffff09fd44dc6bede203f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0679",
+   "short": "RSA 679",
+   "title": "New Hampshire Revised Statutes, Chapter 679: Housing Appeals Board (Title LXIV: Planning and Zoning)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIV-679.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261024160007/https://gc.nh.gov/rsa/html/LXIV/679/679-mrg.htm",
+     "sha256": "8376d68c9a52133bf98e8a5d877ecbba24c06a49cf72910be304aec14f24bc50"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0071-b",
+   "short": "RSA 71-B",
+   "title": "New Hampshire Revised Statutes, Chapter 71-B: Board of Tax and Land Appeals (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-71-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260119153446/https://gc.nh.gov/rsa/html/V/71-B/71-B-mrg.htm",
+     "sha256": "cf65697006c1f39c9d38835a7336e07808d9a65c029f76a294ea9c2189152c46"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0071-c",
+   "short": "RSA 71-C",
+   "title": "New Hampshire Revised Statutes, Chapter 71-C: Tax Expenditure and Potential Liability Reports (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-71-C.htm",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20221109004302/https://www.gencourt.state.nh.us/rsa/html/v/71-c/71-c-mrg.htm",
+     "sha256": "36519c2d514285e67cbfcf77a83b1f3bb9044d627e5ddef9724fa9500f07d164"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0072",
+   "short": "RSA 72",
+   "title": "New Hampshire Revised Statutes, Chapter 72: Persons and Property Liable to Taxation (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-72.htm",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 131,
+     "source_url": "https://web.archive.org/web/20260418030217/https://gc.nh.gov/rsa/html/V/72/72-mrg.htm",
+     "sha256": "1b569e8700e837dc0adf865c319081270ceb0244be9884e95a7aba4f3798cf74"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0072-b",
+   "short": "RSA 72-B",
+   "title": "New Hampshire Revised Statutes, Chapter 72-B: Excavation Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-72-B.htm",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260204111427/https://gc.nh.gov/rsa/html/V/72-B/72-B-mrg.htm",
+     "sha256": "1e98fc64e122f14d857f30b95ff8cb84961c7197140a01aa397ab18a4f953681"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0073",
+   "short": "RSA 73",
+   "title": "New Hampshire Revised Statutes, Chapter 73: Persons and Property, Where and to Whom Taxed (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-73.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260121151315/https://gc.nh.gov/rsa/html/V/73/73-mrg.htm",
+     "sha256": "e7a72e3f214532a1e97e5ce7aaf3dd558c6f2be83343ac796bbfbea99361c2f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0074",
+   "short": "RSA 74",
+   "title": "New Hampshire Revised Statutes, Chapter 74: Annual Inventory of Polls and Taxable Property (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-74.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20220528173628/https://gencourt.state.nh.us/rsa/html/V/74/74-mrg.htm",
+     "sha256": "5de11c529b3334b8975c9ecb8520c64175e807de1fc386582ec964c2805ba589"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0075",
+   "short": "RSA 75",
+   "title": "New Hampshire Revised Statutes, Chapter 75: Appraisal of Taxable Property (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-75.htm",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260321061008/https://gc.nh.gov/rsa/html/V/75/75-mrg.htm",
+     "sha256": "a054e3df991ccafc9a42ffa0b413f9204064600fce74c196acf0b8ccbdeb00f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0076",
+   "short": "RSA 76",
+   "title": "New Hampshire Revised Statutes, Chapter 76: Apportionment, Assessment and Abatement of Taxes (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-76.htm",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260409023738/https://www.gc.nh.gov/rsa/html/V/76/76-mrg.htm",
+     "sha256": "0abd5bfd4480c93fd44a54c0a28a045c287334a67aaf86daab911c76d2b709c6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0077",
+   "short": "RSA 77",
+   "title": "New Hampshire Revised Statutes, Chapter 77: Taxation of Incomes (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-77.htm",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20250725150315/https://gc.nh.gov/rsa/html/v/77/77-mrg.htm",
+     "sha256": "223340ab03b95118460400cd40fbe4b4bb0fcc5c770908e45ba6e0074ccea8d6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0077-a",
+   "short": "RSA 77-A",
+   "title": "New Hampshire Revised Statutes, Chapter 77-A: Business Profits Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-77-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260123174357/https://gc.nh.gov/rsa/html/V/77-A/77-A-mrg.htm",
+     "sha256": "be7b8383cc4b83f742f2d63d82e87ff057a06303261ee5bb91ec6524b36c8808"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0077-e",
+   "short": "RSA 77-E",
+   "title": "New Hampshire Revised Statutes, Chapter 77-E: Business Enterprise Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-77-E.htm",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260309224149/https://gc.nh.gov/rsa/html/V/77-E/77-E-mrg.htm",
+     "sha256": "6096cb8270754a0b06b6a8840818d2bc5caa2b0244576f1797945173626daa39"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0077-g",
+   "short": "RSA 77-G",
+   "title": "New Hampshire Revised Statutes, Chapter 77-G: Education Tax Credit (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-77-G.htm",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260302031413/https://gc.nh.gov/rsa/html/v/77-g/77-g-mrg.htm",
+     "sha256": "09261e0b4ed72ea4df0f2e2c3ebfdd3b4face9c59cc47e24f50618fedaa54e43"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078",
+   "short": "RSA 78",
+   "title": "New Hampshire Revised Statutes, Chapter 78: Tobacco Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250610194804/https://gc.nh.gov/rsa/html/V/78/78-mrg.htm",
+     "sha256": "16d6d7e99670db0120711d3533291aa2e8eef78708b8337e3f155834474b7b50"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078-a",
+   "short": "RSA 78-A",
+   "title": "New Hampshire Revised Statutes, Chapter 78-A: Tax on Meals and Rooms (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260121151501/https://gc.nh.gov/rsa/html/V/78-A/78-A-mrg.htm",
+     "sha256": "9d633874632dfe2b87a5370209c5a47111190aacff3e0f8a0e2c288bb7ba99ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078-b",
+   "short": "RSA 78-B",
+   "title": "New Hampshire Revised Statutes, Chapter 78-B: Tax on Transfer of Real Property (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250610194713/https://gc.nh.gov/rsa/html/V/78-B/78-B-mrg.htm",
+     "sha256": "cf7201fd30f29de337bbfa2c7162747a123b4c47bc7d6e580ac3a1684f114129"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078-c",
+   "short": "RSA 78-C",
+   "title": "New Hampshire Revised Statutes, Chapter 78-C: Refined Petroleum Products Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260121151313/https://gc.nh.gov/rsa/html/V/78-C/78-C-mrg.htm",
+     "sha256": "49376683adc1c09ccedc6f5fc1d530ec0e42b098cc7c2e77d4fc48a79e93acd3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078-d",
+   "short": "RSA 78-D",
+   "title": "New Hampshire Revised Statutes, Chapter 78-D: Protection of Private Customer Information in Connection with Retail Purchase Transactions (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78-D.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260121235536/https://gc.nh.gov/rsa/html/V/78-D/78-D-mrg.htm",
+     "sha256": "da509f25622d9c8ed0de548ac654e6a1ae3fd7bd4de30b422d16aa19b37b234d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078-e",
+   "short": "RSA 78-E",
+   "title": "New Hampshire Revised Statutes, Chapter 78-E: Protection of Private Customer Information and Rights of New Hampshire Remote Sellers in Connection with Certain Foreign Sales and Use Taxes (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-78-E.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260121151345/https://gc.nh.gov/rsa/html/V/78-E/78-E-mrg.htm",
+     "sha256": "2dc5c77769b8918fe3de4141c958d26e7fa6eb0c9f0fbce81c99bea0aa8f626a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079",
+   "short": "RSA 79",
+   "title": "New Hampshire Revised Statutes, Chapter 79: Forest Conservation and Taxation (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20251111075433/https://gc.nh.gov/rsa/html/v/79/79-mrg.htm",
+     "sha256": "02d0fe5d6ea8eaea5ce9bb164e4dfed611af33cee55a52d085453d6ad3591425"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-a",
+   "short": "RSA 79-A",
+   "title": "New Hampshire Revised Statutes, Chapter 79-A: Current Use Taxation (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260409052845/https://gc.nh.gov/rsa/html/v/79-a/79-a-mrg.htm",
+     "sha256": "bc189ff3e8461ea7473df4b306d2bf2a9912cbf79b27e42402b29c3f8d240586"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-b",
+   "short": "RSA 79-B",
+   "title": "New Hampshire Revised Statutes, Chapter 79-B: Conservation Restriction (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260121151321/https://gc.nh.gov/rsa/html/V/79-B/79-B-mrg.htm",
+     "sha256": "63c1e1e7f465ea9b04dd165d11158d4b3b28b1441b83fa9dc99c3a84aaa1d06f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-c",
+   "short": "RSA 79-C",
+   "title": "New Hampshire Revised Statutes, Chapter 79-C: Discretionary Easements (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-C.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20251111131239/https://gc.nh.gov/rsa/html/v/79-c/79-c-mrg.htm",
+     "sha256": "109c247efdeb80566ab530a5649e44bba6d06c6415bebfea05e7c0e0656ff749"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-e",
+   "short": "RSA 79-E",
+   "title": "New Hampshire Revised Statutes, Chapter 79-E: Community Revitalization Tax Relief Incentive (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-E.htm",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260421041940/https://gc.nh.gov/rsa/html/v/79-e/79-e-mrg.htm",
+     "sha256": "d97aaba5c00bb827606c64b3fa752a460edcaa18f987ffbcfde125109a5a7f6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-f",
+   "short": "RSA 79-F",
+   "title": "New Hampshire Revised Statutes, Chapter 79-F: Taxation of Farm Structures and Land Under Farm Structures (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-F.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260122234848/https://gc.nh.gov/rsa/html/V/79-F/79-F-mrg.htm",
+     "sha256": "169ed60c1c94c876ac30da67f639e1ec49f82dd9c55dac6360aa49cb7e9b7bfd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079-g",
+   "short": "RSA 79-G",
+   "title": "New Hampshire Revised Statutes, Chapter 79-G: Taxation of Qualifying Historic Buildings (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-79-G.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260121151354/https://gc.nh.gov/rsa/html/V/79-G/79-G-mrg.htm",
+     "sha256": "02182845c9bbb6bded63eff8ee9447134647a2f18e15425cc9a8aa2855713490"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0080",
+   "short": "RSA 80",
+   "title": "New Hampshire Revised Statutes, Chapter 80: Collection of Taxes (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-80.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 104,
+     "source_url": "https://web.archive.org/web/20250924221801/https://gc.nh.gov/rsa/html/V/80/80-mrg.htm",
+     "sha256": "6a440d17131d8e8695816e66c2b1a392f418eccff47ca4889431de469bb70bac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0081",
+   "short": "RSA 81",
+   "title": "New Hampshire Revised Statutes, Chapter 81: Taxes in Unincorporated Towns and Unorganized Places (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-81.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260122011648/https://gc.nh.gov/rsa/html/V/81/81-mrg.htm",
+     "sha256": "a2c2461c74486747363150494b7f7bd7d2b253ff0ef255fed0adf5c987acd655"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0082",
+   "short": "RSA 82",
+   "title": "New Hampshire Revised Statutes, Chapter 82: Taxation of Railroads (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-82.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260123043410/https://gc.nh.gov/rsa/html/V/82/82-mrg.htm",
+     "sha256": "967eba2c04029d1a11876e3636ab277a4fbb6ad3302f3b1fc43c0dfabf5bf657"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0082-a",
+   "short": "RSA 82-A",
+   "title": "New Hampshire Revised Statutes, Chapter 82-A: Communications Services Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-82-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260122062325/https://gc.nh.gov/rsa/html/V/82-A/82-A-mrg.htm",
+     "sha256": "4b7155509748a8a723731cf9dcb2c5d1e24ff69cd388a65fe8ac166169a8dd10"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0083-f",
+   "short": "RSA 83-F",
+   "title": "New Hampshire Revised Statutes, Chapter 83-F: Utility Property Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-83-F.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260122042858/https://gc.nh.gov/rsa/html/V/83-F/83-F-mrg.htm",
+     "sha256": "904d1ecf404645ed7eda39eff530c2be7b6c2c9ea8a1fcb1c0733d3d3c6ea6e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0084-a",
+   "short": "RSA 84-A",
+   "title": "New Hampshire Revised Statutes, Chapter 84-A: Medicaid Enhancement Tax (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-84-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260420010431/https://gc.nh.gov/rsa/html/V/84-A/84-A-mrg.htm",
+     "sha256": "ceee4f1ea0ff5129a1c436bd1dacd0abacc62c9882eeca5912edde2c685e72fd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0084-c",
+   "short": "RSA 84-C",
+   "title": "New Hampshire Revised Statutes, Chapter 84-C: Nursing Facility Quality Assessment (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-84-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260121151423/https://gc.nh.gov/rsa/html/V/84-C/84-C-mrg.htm",
+     "sha256": "edbe7aab55fa158d1260f4dcdff7ae205eeb9e8bca594c800948a987822eed30"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0085",
+   "short": "RSA 85",
+   "title": "New Hampshire Revised Statutes, Chapter 85: Extents (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-85.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260122091109/https://gc.nh.gov/rsa/html/V/85/85-mrg.htm",
+     "sha256": "26ba6808c77209e913efeda74084ecb5c4f53c4dd749be8804291b4a0ca4d190"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0087",
+   "short": "RSA 87",
+   "title": "New Hampshire Revised Statutes, Chapter 87: Taxation of Transfers of Certain Estates (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-87.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260121195857/https://gc.nh.gov/rsa/html/V/87/87-mrg.htm",
+     "sha256": "8ff1446f740b99ef0e230aae9f8f9e230a5b18e2c40130c49152e3f8dec8485b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0088-a",
+   "short": "RSA 88-A",
+   "title": "New Hampshire Revised Statutes, Chapter 88-A: Uniform Estate Tax Apportionment Act (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-88-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260121152038/https://gc.nh.gov/rsa/html/V/88-A/88-A-mrg.htm",
+     "sha256": "ccf23aa2a6d5141d631dcd890974dcab67362f987ffc07aff5aacadcfce3d10a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0090",
+   "short": "RSA 90",
+   "title": "New Hampshire Revised Statutes, Chapter 90: Settlement of Disputes Respecting the Domicile of Decedents for Death Tax Purposes (Title V: Taxation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-90.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260122145303/https://gc.nh.gov/rsa/html/V/90/90-mrg.htm",
+     "sha256": "469b0b08045829d9f459e4bedd97f33c13fc5cf20c7c937a21a92dcd5ee8feb5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0091",
+   "short": "RSA 91",
+   "title": "New Hampshire Revised Statutes, Chapter 91: Eligibility to Hold Public Office; Removal (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-91.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517010422/http://gencourt.state.nh.us/rsa/html/VI/91/91-mrg.htm",
+     "sha256": "aa0f985531ac83fc21480054742690a0ac00f3f97e0b047d0faa2659808f94dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0091-a",
+   "short": "RSA 91-A",
+   "title": "New Hampshire Revised Statutes, Chapter 91-A: Access to Governmental Records and Meetings (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-91-A.htm",
+   "versions": [
+    {
+     "from": "2026-09-20",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260920164327/https://gc.nh.gov/rsa/html/VI/91-A/91-A-mrg.htm",
+     "sha256": "854c723249282e712ab79df7ac8f77fad2ff9d718cfce5525785700dc9f5b817"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0091-b",
+   "short": "RSA 91-B",
+   "title": "New Hampshire Revised Statutes, Chapter 91-B: Public Notice by Radio or Television (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-91-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220522163733/http://gencourt.state.nh.us/rsa/html/VI/91-B/91-B-mrg.htm",
+     "sha256": "477f8671384668790594caf608d58ad16a38d1b7747cfe7b2e29d2c58d1dddaa"
+    }
+   ]
   }
  ]
 }

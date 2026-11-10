@@ -268,12 +268,156 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0551` | New Hampshire Revised Statutes, Chapter 551: Wills (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-03 to 2025-07-03 |
 | `chapter-0551-a` | New Hampshire Revised Statutes, Chapter 551-A: Uniform International Wills Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-30 to 2025-07-30 |
 | `chapter-0552` | New Hampshire Revised Statutes, Chapter 552: Probate of Wills (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0553` | New Hampshire Revised Statutes, Chapter 553: Administrators and Their Appointment (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0554` | New Hampshire Revised Statutes, Chapter 554: Inventory, Accounts, and Dealing with Assets (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-06-20 to 2025-06-20 |
+| `chapter-0554-a` | New Hampshire Revised Statutes, Chapter 554-A: Revised Uniform Fiduciary Access to Digital Assets Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-04-20 to 2025-04-20 |
+| `chapter-0555` | New Hampshire Revised Statutes, Chapter 555: Embezzlements (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-06-27 to 2025-06-27 |
+| `chapter-0556` | New Hampshire Revised Statutes, Chapter 556: Suits by and Against Administrators (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0559` | New Hampshire Revised Statutes, Chapter 559: License to Sell Real Estate (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-07 to 2025-07-07 |
+| `chapter-0560` | New Hampshire Revised Statutes, Chapter 560: Rights of Surviving Spouse (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-09-17 to 2025-09-17 |
+| `chapter-0561` | New Hampshire Revised Statutes, Chapter 561: Descent, Distribution, and Advancements (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-08-24 to 2025-08-24 |
+| `chapter-0563` | New Hampshire Revised Statutes, Chapter 563: Uniform Simultaneous Death Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-06-30 to 2025-06-30 |
+| `chapter-0563-a` | New Hampshire Revised Statutes, Chapter 563-A: Uniform Testamentary Additions to Trusts Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-08-19 to 2025-08-19 |
+| `chapter-0563-b` | New Hampshire Revised Statutes, Chapter 563-B: Uniform Disclaimer of Property Interests Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-08-03 to 2025-08-03 |
+| `chapter-0563-c` | New Hampshire Revised Statutes, Chapter 563-C: Uniform Transfer on Death (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-06-29 to 2025-06-29 |
+| `chapter-0563-d` | New Hampshire Revised Statutes, Chapter 563-D: Uniform Real Property Transfer on Death Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-09-14 to 2025-09-14 |
+| `chapter-0564` | New Hampshire Revised Statutes, Chapter 564: Trustees of Estates (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-02-26 to 2025-02-26 |
+| `chapter-0564-b` | New Hampshire Revised Statutes, Chapter 564-B: New Hampshire Trust Code (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2026-04-27 to 2026-04-27 |
+| `chapter-0564-c` | New Hampshire Revised Statutes, Chapter 564-C: Uniform Principal and Income Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-09-18 to 2025-09-18 |
+| `chapter-0564-e` | New Hampshire Revised Statutes, Chapter 564-E: Uniform Power of Attorney Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-09-08 to 2025-09-08 |
+| `chapter-0564-f` | New Hampshire Revised Statutes, Chapter 564-F: New Hampshire Foundation Act (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-15 to 2025-07-15 |
+| `chapter-0565` | New Hampshire Revised Statutes, Chapter 565: Bonds to the Judge and Suits Thereon (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0566` | New Hampshire Revised Statutes, Chapter 566: Powers of Appointment (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-07-06 to 2025-07-06 |
+| `chapter-0567-a` | New Hampshire Revised Statutes, Chapter 567-A: Appeals from the Court of Probate (Title LVI: Probate Courts and Decedents' Estates) | 1 | 2025-04-23 to 2025-04-23 |
+| `chapter-0568` | New Hampshire Revised Statutes, Chapter 568: Insolvency Proceedings (Title LVII: Insolvency Proceedings and Assignments for Creditors) | 1 | 2025-06-01 to 2025-06-01 |
+| `chapter-0569` | New Hampshire Revised Statutes, Chapter 569: Assignments for the Benefit of Creditors (Title LVII: Insolvency Proceedings and Assignments for Creditors) | 1 | 2025-08-01 to 2025-08-01 |
+| `chapter-0570-a` | New Hampshire Revised Statutes, Chapter 570-A: Wiretapping and Eavesdropping (Title LVIII: Public Justice) | 1 | 2026-04-14 to 2026-04-14 |
+| `chapter-0570-b` | New Hampshire Revised Statutes, Chapter 570-B: Pen Register, Trap and Trace Devices (Title LVIII: Public Justice) | 1 | 2025-04-21 to 2025-04-21 |
+| `chapter-0571-b` | New Hampshire Revised Statutes, Chapter 571-B: Exposing Minors to Harmful Materials (Title LVIII: Public Justice) | 1 | 2025-07-16 to 2025-07-16 |
+| `chapter-0571-c` | New Hampshire Revised Statutes, Chapter 571-C: Responsibility to Minors (Title LVIII: Public Justice) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0585` | New Hampshire Revised Statutes, Chapter 585: Homicide and Offenses Against the Person (Title LVIII: Public Justice) | 1 | 2026-08-28 to 2026-08-28 |
+| `chapter-0621` | New Hampshire Revised Statutes, Chapter 621: Youth Development Center (Title LX: Correction and Punishment) | 1 | 2022-09-28 to 2022-09-28 |
+| `chapter-0621-a` | New Hampshire Revised Statutes, Chapter 621-A: Youth Services Center (Title LX: Correction and Punishment) | 1 | 2025-02-18 to 2025-02-18 |
+| `chapter-0622-a` | New Hampshire Revised Statutes, Chapter 622-A: New England Interstate Corrections Compact (Title LX: Correction and Punishment) | 1 | 2026-01-28 to 2026-01-28 |
+| `chapter-0622-b` | New Hampshire Revised Statutes, Chapter 622-B: Interstate Corrections Compact (Title LX: Correction and Punishment) | 1 | 2026-04-08 to 2026-04-08 |
+| `chapter-0622-c` | New Hampshire Revised Statutes, Chapter 622-C: International Prisoner Transfers (Title LX: Correction and Punishment) | 1 | 2025-02-19 to 2025-02-19 |
+| `chapter-0623` | New Hampshire Revised Statutes, Chapter 623: Temporary Removal of Prisoners (Title LX: Correction and Punishment) | 1 | 2025-06-29 to 2025-06-29 |
+| `chapter-0623-a` | New Hampshire Revised Statutes, Chapter 623-A: Approved Absences from New Hampshire State Prisons (Title LX: Correction and Punishment) | 1 | 2025-07-06 to 2025-07-06 |
+| `chapter-0623-b` | New Hampshire Revised Statutes, Chapter 623-B: Inmate Litigation (Title LX: Correction and Punishment) | 1 | 2025-07-19 to 2025-07-19 |
+| `chapter-0623-c` | New Hampshire Revised Statutes, Chapter 623-C: Medical Services for Prisoners (Title LX: Correction and Punishment) | 1 | 2025-07-04 to 2025-07-04 |
+| `chapter-0624` | New Hampshire Revised Statutes, Chapter 624: Repeals and Revisions (Title LXI: Acts Repealed) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0625` | New Hampshire Revised Statutes, Chapter 625: Preliminary (Title LXII: Criminal Code) | 1 | 2023-06-16 to 2023-06-16 |
+| `chapter-0626` | New Hampshire Revised Statutes, Chapter 626: General Principles (Title LXII: Criminal Code) | 1 | 2026-03-27 to 2026-03-27 |
+| `chapter-0627` | New Hampshire Revised Statutes, Chapter 627: Justification (Title LXII: Criminal Code) | 1 | 2026-02-09 to 2026-02-09 |
+| `chapter-0628` | New Hampshire Revised Statutes, Chapter 628: Responsibility (Title LXII: Criminal Code) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0629` | New Hampshire Revised Statutes, Chapter 629: Inchoate Crimes (Title LXII: Criminal Code) | 1 | 2026-07-18 to 2026-07-18 |
+| `chapter-0630` | New Hampshire Revised Statutes, Chapter 630: Homicide (Title LXII: Criminal Code) | 1 | 2026-09-30 to 2026-09-30 |
+| `chapter-0631` | New Hampshire Revised Statutes, Chapter 631: Assault and Related Offenses (Title LXII: Criminal Code) | 1 | 2026-01-19 to 2026-01-19 |
+| `chapter-0632-a` | New Hampshire Revised Statutes, Chapter 632-A: Sexual Assault and Related Offenses (Title LXII: Criminal Code) | 1 | 2026-09-26 to 2026-09-26 |
+| `chapter-0633` | New Hampshire Revised Statutes, Chapter 633: Interference with Freedom (Title LXII: Criminal Code) | 1 | 2026-01-18 to 2026-01-18 |
+| `chapter-0634` | New Hampshire Revised Statutes, Chapter 634: Destruction of Property (Title LXII: Criminal Code) | 1 | 2025-03-25 to 2025-03-25 |
+| `chapter-0635` | New Hampshire Revised Statutes, Chapter 635: Unauthorized Entries (Title LXII: Criminal Code) | 1 | 2025-08-28 to 2025-08-28 |
+| `chapter-0636` | New Hampshire Revised Statutes, Chapter 636: Robbery (Title LXII: Criminal Code) | 1 | 2025-05-26 to 2025-05-26 |
+| `chapter-0637` | New Hampshire Revised Statutes, Chapter 637: Theft (Title LXII: Criminal Code) | 1 | 2025-10-16 to 2025-10-16 |
+| `chapter-0638` | New Hampshire Revised Statutes, Chapter 638: Fraud (Title LXII: Criminal Code) | 1 | 2026-01-29 to 2026-01-29 |
+| `chapter-0639` | New Hampshire Revised Statutes, Chapter 639: Offenses Against the Family (Title LXII: Criminal Code) | 1 | 2025-05-22 to 2025-05-22 |
+| `chapter-0639-a` | New Hampshire Revised Statutes, Chapter 639-A: Controlled Drug-related Crimes (Title LXII: Criminal Code) | 1 | 2025-06-08 to 2025-06-08 |
+| `chapter-0640` | New Hampshire Revised Statutes, Chapter 640: Corrupt Practices (Title LXII: Criminal Code) | 1 | 2026-01-31 to 2026-01-31 |
+| `chapter-0641` | New Hampshire Revised Statutes, Chapter 641: Falsification in Official Matters (Title LXII: Criminal Code) | 1 | 2025-04-23 to 2025-04-23 |
+| `chapter-0642` | New Hampshire Revised Statutes, Chapter 642: Obstructing Governmental Operations (Title LXII: Criminal Code) | 1 | 2025-07-22 to 2025-07-22 |
+| `chapter-0643` | New Hampshire Revised Statutes, Chapter 643: Abuse of Office (Title LXII: Criminal Code) | 1 | 2025-05-16 to 2025-05-16 |
+| `chapter-0644` | New Hampshire Revised Statutes, Chapter 644: Breaches of the Peace and Related Offenses (Title LXII: Criminal Code) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0644-a` | New Hampshire Revised Statutes, Chapter 644-A: Electronic Device Location Information (Title LXII: Criminal Code) | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-0645` | New Hampshire Revised Statutes, Chapter 645: Public Indecency (Title LXII: Criminal Code) | 1 | 2025-09-08 to 2025-09-08 |
+| `chapter-0646-a` | New Hampshire Revised Statutes, Chapter 646-A: Desecration of the Flag (Title LXII: Criminal Code) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0647` | New Hampshire Revised Statutes, Chapter 647: Gambling Offenses (Title LXII: Criminal Code) | 1 | 2022-11-28 to 2022-11-28 |
+| `chapter-0649` | New Hampshire Revised Statutes, Chapter 649: Sabotage Prevention (Title LXII: Criminal Code) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0649-a` | New Hampshire Revised Statutes, Chapter 649-A: Child Sexual Abuse Images (Title LXII: Criminal Code) | 1 | 2024-06-26 to 2024-06-26 |
+| `chapter-0649-b` | New Hampshire Revised Statutes, Chapter 649-B: Computer Pornography and Child Exploitation Prevention (Title LXII: Criminal Code) | 1 | 2025-01-27 to 2025-01-27 |
+| `chapter-0650` | New Hampshire Revised Statutes, Chapter 650: Obscene Matter (Title LXII: Criminal Code) | 1 | 2026-06-03 to 2026-06-03 |
+| `chapter-0650-a` | New Hampshire Revised Statutes, Chapter 650-A: Felonious Use of Firearms (Title LXII: Criminal Code) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0650-c` | New Hampshire Revised Statutes, Chapter 650-C: Negligent Storage of Firearms (Title LXII: Criminal Code) | 1 | 2025-06-20 to 2025-06-20 |
+| `chapter-0651` | New Hampshire Revised Statutes, Chapter 651: Sentences (Title LXII: Criminal Code) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0651-a` | New Hampshire Revised Statutes, Chapter 651-A: Parole of Prisoners (Title LXII: Criminal Code) | 1 | 2026-07-11 to 2026-07-11 |
+| `chapter-0651-b` | New Hampshire Revised Statutes, Chapter 651-B: Registration of Criminal Offenders (Title LXII: Criminal Code) | 1 | 2026-10-28 to 2026-10-28 |
+| `chapter-0651-c` | New Hampshire Revised Statutes, Chapter 651-C: Dna Testing of Criminal Offenders (Title LXII: Criminal Code) | 1 | 2024-06-20 to 2024-06-20 |
+| `chapter-0651-d` | New Hampshire Revised Statutes, Chapter 651-D: Post-conviction Dna Testing (Title LXII: Criminal Code) | 1 | 2025-07-04 to 2025-07-04 |
+| `chapter-0651-e` | New Hampshire Revised Statutes, Chapter 651-E: Interbranch Criminal and Juvenile Justice Council (Title LXII: Criminal Code) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0651-f` | New Hampshire Revised Statutes, Chapter 651-F: Information and Analysis Center (Title LXII: Criminal Code) | 1 | 2026-02-04 to 2026-02-04 |
+| `chapter-0652` | New Hampshire Revised Statutes, Chapter 652: General Provisions (Title LXIII: Elections) | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-0653` | New Hampshire Revised Statutes, Chapter 653: Election of Officers and Delegates (Title LXIII: Elections) | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0654` | New Hampshire Revised Statutes, Chapter 654: Voters and Checklists (Title LXIII: Elections) | 1 | 2026-07-24 to 2026-07-24 |
+| `chapter-0655` | New Hampshire Revised Statutes, Chapter 655: Nominations (Title LXIII: Elections) | 1 | 2025-12-08 to 2025-12-08 |
+| `chapter-0656` | New Hampshire Revised Statutes, Chapter 656: Preparation of Voting Materials (Title LXIII: Elections) | 1 | 2026-10-14 to 2026-10-14 |
+| `chapter-0657` | New Hampshire Revised Statutes, Chapter 657: Absentee Voting (Title LXIII: Elections) | 1 | 2026-10-19 to 2026-10-19 |
+| `chapter-0658` | New Hampshire Revised Statutes, Chapter 658: Pre-election Procedure (Title LXIII: Elections) | 1 | 2025-10-02 to 2025-10-02 |
+| `chapter-0659` | New Hampshire Revised Statutes, Chapter 659: Election Procedure (Title LXIII: Elections) | 1 | 2026-11-08 to 2026-11-08 |
+| `chapter-0660` | New Hampshire Revised Statutes, Chapter 660: Post-election Procedure (Title LXIII: Elections) | 1 | 2026-01-11 to 2026-01-11 |
+| `chapter-0661` | New Hampshire Revised Statutes, Chapter 661: Vacancies Among Public Officers Elected at State Elections (Title LXIII: Elections) | 1 | 2026-10-05 to 2026-10-05 |
+| `chapter-0662` | New Hampshire Revised Statutes, Chapter 662: Elective Districts (Title LXIII: Elections) | 1 | 2026-06-13 to 2026-06-13 |
+| `chapter-0662-a` | New Hampshire Revised Statutes, Chapter 662-A: Division of State Representative Districts of Towns (Title LXIII: Elections) | 1 | 2026-04-27 to 2026-04-27 |
+| `chapter-0663` | New Hampshire Revised Statutes, Chapter 663: Questions to Voters (Title LXIII: Elections) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0664` | New Hampshire Revised Statutes, Chapter 664: Political Expenditures and Contributions (Title LXIII: Elections) | 1 | 2026-10-23 to 2026-10-23 |
+| `chapter-0665` | New Hampshire Revised Statutes, Chapter 665: Ballot Law Commission (Title LXIII: Elections) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0666` | New Hampshire Revised Statutes, Chapter 666: Provisions for Purity of Elections (Title LXIII: Elections) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0667` | New Hampshire Revised Statutes, Chapter 667: Constitutional Conventions and State Party Conventions (Title LXIII: Elections) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0668` | New Hampshire Revised Statutes, Chapter 668: Provisions for Unincorporated Places (Title LXIII: Elections) | 1 | 2025-10-03 to 2025-10-03 |
+| `chapter-0669` | New Hampshire Revised Statutes, Chapter 669: Town Elections (Title LXIII: Elections) | 1 | 2026-04-19 to 2026-04-19 |
+| `chapter-0670` | New Hampshire Revised Statutes, Chapter 670: Village District Elections (Title LXIII: Elections) | 1 | 2025-07-21 to 2025-07-21 |
+| `chapter-0671` | New Hampshire Revised Statutes, Chapter 671: School District Elections (Title LXIII: Elections) | 1 | 2026-10-10 to 2026-10-10 |
+| `chapter-0672` | New Hampshire Revised Statutes, Chapter 672: General Provisions (Title LXIV: Planning and Zoning) | 1 | 2026-07-18 to 2026-07-18 |
+| `chapter-0673` | New Hampshire Revised Statutes, Chapter 673: Local Land Use Boards (Title LXIV: Planning and Zoning) | 1 | 2026-04-13 to 2026-04-13 |
+| `chapter-0674` | New Hampshire Revised Statutes, Chapter 674: Local Land Use Planning and Regulatory Powers (Title LXIV: Planning and Zoning) | 1 | 2026-10-04 to 2026-10-04 |
+| `chapter-0675` | New Hampshire Revised Statutes, Chapter 675: Enactment and Adoption Procedures (Title LXIV: Planning and Zoning) | 1 | 2026-04-30 to 2026-04-30 |
+| `chapter-0676` | New Hampshire Revised Statutes, Chapter 676: Administrative and Enforcement Procedures (Title LXIV: Planning and Zoning) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0677` | New Hampshire Revised Statutes, Chapter 677: Rehearing and Appeal Procedures (Title LXIV: Planning and Zoning) | 1 | 2026-05-06 to 2026-05-06 |
+| `chapter-0678` | New Hampshire Revised Statutes, Chapter 678: Community Services and Care Planning Boards (Title LXIV: Planning and Zoning) | 1 | 2025-07-05 to 2025-07-05 |
+| `chapter-0679` | New Hampshire Revised Statutes, Chapter 679: Housing Appeals Board (Title LXIV: Planning and Zoning) | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0071-b` | New Hampshire Revised Statutes, Chapter 71-B: Board of Tax and Land Appeals (Title V: Taxation) | 1 | 2026-01-19 to 2026-01-19 |
+| `chapter-0071-c` | New Hampshire Revised Statutes, Chapter 71-C: Tax Expenditure and Potential Liability Reports (Title V: Taxation) | 1 | 2022-11-09 to 2022-11-09 |
+| `chapter-0072` | New Hampshire Revised Statutes, Chapter 72: Persons and Property Liable to Taxation (Title V: Taxation) | 1 | 2026-04-18 to 2026-04-18 |
+| `chapter-0072-b` | New Hampshire Revised Statutes, Chapter 72-B: Excavation Tax (Title V: Taxation) | 1 | 2026-02-04 to 2026-02-04 |
+| `chapter-0073` | New Hampshire Revised Statutes, Chapter 73: Persons and Property, Where and to Whom Taxed (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0074` | New Hampshire Revised Statutes, Chapter 74: Annual Inventory of Polls and Taxable Property (Title V: Taxation) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0075` | New Hampshire Revised Statutes, Chapter 75: Appraisal of Taxable Property (Title V: Taxation) | 1 | 2026-03-21 to 2026-03-21 |
+| `chapter-0076` | New Hampshire Revised Statutes, Chapter 76: Apportionment, Assessment and Abatement of Taxes (Title V: Taxation) | 1 | 2026-04-09 to 2026-04-09 |
+| `chapter-0077` | New Hampshire Revised Statutes, Chapter 77: Taxation of Incomes (Title V: Taxation) | 1 | 2025-07-25 to 2025-07-25 |
+| `chapter-0077-a` | New Hampshire Revised Statutes, Chapter 77-A: Business Profits Tax (Title V: Taxation) | 1 | 2026-01-23 to 2026-01-23 |
+| `chapter-0077-e` | New Hampshire Revised Statutes, Chapter 77-E: Business Enterprise Tax (Title V: Taxation) | 1 | 2026-03-09 to 2026-03-09 |
+| `chapter-0077-g` | New Hampshire Revised Statutes, Chapter 77-G: Education Tax Credit (Title V: Taxation) | 1 | 2026-03-02 to 2026-03-02 |
+| `chapter-0078` | New Hampshire Revised Statutes, Chapter 78: Tobacco Tax (Title V: Taxation) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0078-a` | New Hampshire Revised Statutes, Chapter 78-A: Tax on Meals and Rooms (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0078-b` | New Hampshire Revised Statutes, Chapter 78-B: Tax on Transfer of Real Property (Title V: Taxation) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0078-c` | New Hampshire Revised Statutes, Chapter 78-C: Refined Petroleum Products Tax (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0078-d` | New Hampshire Revised Statutes, Chapter 78-D: Protection of Private Customer Information in Connection with Retail Purchase Transactions (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0078-e` | New Hampshire Revised Statutes, Chapter 78-E: Protection of Private Customer Information and Rights of New Hampshire Remote Sellers in Connection with Certain Foreign Sales and Use Taxes (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0079` | New Hampshire Revised Statutes, Chapter 79: Forest Conservation and Taxation (Title V: Taxation) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0079-a` | New Hampshire Revised Statutes, Chapter 79-A: Current Use Taxation (Title V: Taxation) | 1 | 2026-04-09 to 2026-04-09 |
+| `chapter-0079-b` | New Hampshire Revised Statutes, Chapter 79-B: Conservation Restriction (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0079-c` | New Hampshire Revised Statutes, Chapter 79-C: Discretionary Easements (Title V: Taxation) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0079-e` | New Hampshire Revised Statutes, Chapter 79-E: Community Revitalization Tax Relief Incentive (Title V: Taxation) | 1 | 2026-04-21 to 2026-04-21 |
+| `chapter-0079-f` | New Hampshire Revised Statutes, Chapter 79-F: Taxation of Farm Structures and Land Under Farm Structures (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0079-g` | New Hampshire Revised Statutes, Chapter 79-G: Taxation of Qualifying Historic Buildings (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0080` | New Hampshire Revised Statutes, Chapter 80: Collection of Taxes (Title V: Taxation) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0081` | New Hampshire Revised Statutes, Chapter 81: Taxes in Unincorporated Towns and Unorganized Places (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0082` | New Hampshire Revised Statutes, Chapter 82: Taxation of Railroads (Title V: Taxation) | 1 | 2026-01-23 to 2026-01-23 |
+| `chapter-0082-a` | New Hampshire Revised Statutes, Chapter 82-A: Communications Services Tax (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0083-f` | New Hampshire Revised Statutes, Chapter 83-F: Utility Property Tax (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0084-a` | New Hampshire Revised Statutes, Chapter 84-A: Medicaid Enhancement Tax (Title V: Taxation) | 1 | 2026-04-20 to 2026-04-20 |
+| `chapter-0084-c` | New Hampshire Revised Statutes, Chapter 84-C: Nursing Facility Quality Assessment (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0085` | New Hampshire Revised Statutes, Chapter 85: Extents (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0087` | New Hampshire Revised Statutes, Chapter 87: Taxation of Transfers of Certain Estates (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0088-a` | New Hampshire Revised Statutes, Chapter 88-A: Uniform Estate Tax Apportionment Act (Title V: Taxation) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0090` | New Hampshire Revised Statutes, Chapter 90: Settlement of Disputes Respecting the Domicile of Decedents for Death Tax Purposes (Title V: Taxation) | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0091` | New Hampshire Revised Statutes, Chapter 91: Eligibility to Hold Public Office; Removal (Title VI: Public Officers and Employees) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0091-a` | New Hampshire Revised Statutes, Chapter 91-A: Access to Governmental Records and Meetings (Title VI: Public Officers and Employees) | 1 | 2026-09-20 to 2026-09-20 |
+| `chapter-0091-b` | New Hampshire Revised Statutes, Chapter 91-B: Public Notice by Radio or Television (Title VI: Public Officers and Employees) | 1 | 2022-05-22 to 2022-05-22 |
 
-The build made 254 commits:
+The build made 398 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 254 | first version of an act |
+| 398 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -281,7 +425,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 254 tags.
+- 398 tags.
 
 ## Dates
 
@@ -293,7 +437,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c2eb3a6e1e5850a312dc167413aec2b328dd3f34d50b197de8a9b446800589fb` (6857601 bytes).
+- Corpus: sha256 `25b18e68f1bcf02c2203ee90e605ed761d9c429a27b6cd36e36aa24062d446dc` (11167989 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
