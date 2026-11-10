@@ -5572,6 +5572,2260 @@
      "sha256": "477f8671384668790594caf608d58ad16a38d1b7747cfe7b2e29d2c58d1dddaa"
     }
    ]
+  },
+  {
+   "slug": "chapter-0092",
+   "short": "RSA 92",
+   "title": "New Hampshire Revised Statutes, Chapter 92: Tenure and Oath of Office in Certain Cases (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-92.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220524145500/http://gencourt.state.nh.us/rsa/html/VI/92/92-mrg.htm",
+     "sha256": "f5e2e5b61a49677605311f1dad03e95cb3116ef0f0193d1d916ae73475e6420d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0093-a",
+   "short": "RSA 93-A",
+   "title": "New Hampshire Revised Statutes, Chapter 93-A: Uniform Facsimile Signatures of Public Officials (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-93-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220522190920/https://gencourt.state.nh.us/rsa/html/VI/93-A/93-A-mrg.htm",
+     "sha256": "f5922803dbec2fd46afed0622ca85d6b59f0ece9365b26459dd56729174ef6ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0093-b",
+   "short": "RSA 93-B",
+   "title": "New Hampshire Revised Statutes, Chapter 93-B: Officials and Employees Bonds (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-93-B.htm",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240630093525/https://gencourt.state.nh.us/rsa/html/VI/93-B/93-B-mrg.htm",
+     "sha256": "f2f038ded49a0b57e5a37ec46b33d517080b4106ffd7068a1ae4d11e79078a68"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0094",
+   "short": "RSA 94",
+   "title": "New Hampshire Revised Statutes, Chapter 94: Compensation of Certain State Officers (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-94.htm",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250805121035/https://gc.nh.gov/rsa/html/vi/94/94-mrg.htm",
+     "sha256": "30f046405996ee1651ef4549dde195384fdf0cc67ba0a4d8167492f89db73e34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098-a",
+   "short": "RSA 98-A",
+   "title": "New Hampshire Revised Statutes, Chapter 98-A: Temporary, Seasonal and Part-time State Employees (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-98-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20220523183643/http://gencourt.state.nh.us/rsa/html/VI/98-A/98-A-mrg.htm",
+     "sha256": "dfbf1b68b5aeca7be0b7d31fe3f1196183640252df7f6c61ff734b367aa6331a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098-b",
+   "short": "RSA 98-B",
+   "title": "New Hampshire Revised Statutes, Chapter 98-B: Interchange of State Employees (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-98-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528043018/http://gencourt.state.nh.us/rsa/html/VI/98-B/98-B-mrg.htm",
+     "sha256": "00728c56eca8c687853c623720bdf3d6257a0efbac9eb12612edd96910d6397d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098-d",
+   "short": "RSA 98-D",
+   "title": "New Hampshire Revised Statutes, Chapter 98-D: Interchange of Employees Between Branches of State Government (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-98-D.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220519043731/http://gencourt.state.nh.us/rsa/html/VI/98-D/98-D-mrg.htm",
+     "sha256": "901cd098a78c3f4793ef58372f2f67ae7790a4ae103574ac495f17a0b2d99728"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098-e",
+   "short": "RSA 98-E",
+   "title": "New Hampshire Revised Statutes, Chapter 98-E: Public Employee Freedom of Expression (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-98-E.htm",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250917112353/https://gc.nh.gov/rsa/html/VI/98-E/98-E-mrg.htm",
+     "sha256": "5a2522772065f7617694722f1ddec75c95c9aff03c95869e0335bf9fb1d8868d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098-f",
+   "short": "RSA 98-F",
+   "title": "New Hampshire Revised Statutes, Chapter 98-F: State Employee Appearances Before the Legislature (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-98-F.htm",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220518012045/http://gencourt.state.nh.us/rsa/html/VI/98-F/98-F-mrg.htm",
+     "sha256": "02b4cf19d82b1f745c75de78ffcee0ad27222bc06d5154de57ea9aaf987cd375"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099",
+   "short": "RSA 99",
+   "title": "New Hampshire Revised Statutes, Chapter 99: Adjustment of Salaries of State Employees (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-99.htm",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20220526050428/http://gencourt.state.nh.us/rsa/html/VI/99/99-mrg.htm",
+     "sha256": "ec79d8d38f3a802404ba215b447756e4ccd1480c4bc63af8142e7af843d5ab0c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099-c",
+   "short": "RSA 99-C",
+   "title": "New Hampshire Revised Statutes, Chapter 99-C: Employees Engaged in Snow Removal (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-99-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220516231448/http://gencourt.state.nh.us/rsa/html/VI/99-C/99-C-mrg.htm",
+     "sha256": "47ebb57a7c59f4c0d61b6abd5c1d650a96180e28ccb7fa4e5d5001e78af4a4cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099-d",
+   "short": "RSA 99-D",
+   "title": "New Hampshire Revised Statutes, Chapter 99-D: Defense and Indemnification of State Officers and Employees (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-99-D.htm",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20240516084254/https://gencourt.state.nh.us/rsa/html/VI/99-D/99-D-mrg.htm",
+     "sha256": "21973ac89067567158bd73e92e0a06bcd8965092f2f8182bcf645a1eaad6f1ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099-e",
+   "short": "RSA 99-E",
+   "title": "New Hampshire Revised Statutes, Chapter 99-E: Suggestion and Extraordinary Service Award Program (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-99-E.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260106103854/https://gc.nh.gov/rsa/html/vi/99-e/99-e-mrg.htm",
+     "sha256": "8d8d82294bf9f7d047a9de07d0d51c2c0b6172099d28f8b551e280327dcfd97d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099-f",
+   "short": "RSA 99-F",
+   "title": "New Hampshire Revised Statutes, Chapter 99-F: Veterans, Disabled Veterans', and Military Spouses' Preference in Public Employment (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-99-F.htm",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260520134249/https://gc.nh.gov/rsa/html/VI/99-F/99-F-mrg.htm",
+     "sha256": "7bec18674050664deb7383a7cd77928da68cf7e34a4fcbf493c5bdb664f53544"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0100-a",
+   "short": "RSA 100-A",
+   "title": "New Hampshire Revised Statutes, Chapter 100-A: New Hampshire Retirement System (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-100-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 115,
+     "source_url": "https://web.archive.org/web/20250924222727/https://gc.nh.gov/rsa/html/VI/100-A/100-A-mrg.htm",
+     "sha256": "bf0a173bfab8869801cb4a30b17c519d0d020afd7f8ede6de47939e4f4d9d3c0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0100-b",
+   "short": "RSA 100-B",
+   "title": "New Hampshire Revised Statutes, Chapter 100-B: New Hampshire Length of Service Awards Program for Volunteer Firefighters and Volunteer Emergency Medical Personnel (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-100-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20220522070308/http://gencourt.state.nh.us/rsa/html/VI/100-B/100-B-mrg.htm",
+     "sha256": "29bbb781f9fbfca33c226e1a28272605f5078a93d4ddb4eff15c602e4e1417d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0100-c",
+   "short": "RSA 100-C",
+   "title": "New Hampshire Revised Statutes, Chapter 100-C: Judicial Retirement Plan (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-100-C.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250924221933/https://gc.nh.gov/rsa/html/VI/100-C/100-C-mrg.htm",
+     "sha256": "44022c80dcd6cdcd7d1705b5d1540ca87e4546980e8f7a341ccb06bf71b8f269"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0101",
+   "short": "RSA 101",
+   "title": "New Hampshire Revised Statutes, Chapter 101: Old Age and Survivors' Insurance (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-101.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220523172115/http://gencourt.state.nh.us/rsa/html/VI/101/101-mrg.htm",
+     "sha256": "dcc43871571d1c22b87eaee7ff7b7c0707dfc82985f37cb9918b9b4416fcc2e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0101-b",
+   "short": "RSA 101-B",
+   "title": "New Hampshire Revised Statutes, Chapter 101-B: Public Employees Deferred Compensation Plan (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-101-B.htm",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250313170701/https://gc.nh.gov/rsa/html/VI/101-B/101-B-mrg.htm",
+     "sha256": "2ab1b0a726fea48e392791abb4250b892550a5f66d10a7c351041cf393e550ac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0102",
+   "short": "RSA 102",
+   "title": "New Hampshire Revised Statutes, Chapter 102: Firemen's Retirement System (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-102.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20220524122218/http://gencourt.state.nh.us/rsa/html/VI/102/102-mrg.htm",
+     "sha256": "734546098eaa190d78a2ddb33507d2846e01994d00e5cee59b90a459d7eb5b93"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0103",
+   "short": "RSA 103",
+   "title": "New Hampshire Revised Statutes, Chapter 103: Policemen's Retirement System (Title VI: Public Officers and Employees)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VI-103.htm",
+   "versions": [
+    {
+     "from": "2022-05-29",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20220529031658/http://gencourt.state.nh.us/rsa/html/VI/103/103-mrg.htm",
+     "sha256": "bac19060aec2c9554403fb8374ae273e9329f6fbd17cbe037d439aedec58551d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0104",
+   "short": "RSA 104",
+   "title": "New Hampshire Revised Statutes, Chapter 104: Sheriffs and Constables (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-104.htm",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261013180829/https://gc.nh.gov/rsa/html/VII/104/104-mrg.htm",
+     "sha256": "8c5aaf41412f68a0f286688b790a9a35ee5abb9a49c92446dcdbced24f53fc25"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0105",
+   "short": "RSA 105",
+   "title": "New Hampshire Revised Statutes, Chapter 105: Police Officers and Watchmen (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-105.htm",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20240519172124/https://gencourt.state.nh.us/rsa/html/VII/105/105-mrg.htm",
+     "sha256": "df7e0d01340f629d72472283369f538b14adc556334048b52f01ce809a97aeff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0105-c",
+   "short": "RSA 105-C",
+   "title": "New Hampshire Revised Statutes, Chapter 105-C: Police Commissions (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-105-C.htm",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260318231836/https://gc.nh.gov/rsa/html/VII/105-C/105-C-mrg.htm",
+     "sha256": "0e1e30662b0210d46576ecb4ecd0e028ee6f4d370fd1231cb85a5f65f2e658b9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0105-d",
+   "short": "RSA 105-D",
+   "title": "New Hampshire Revised Statutes, Chapter 105-D: Body-worn Cameras (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-105-D.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261029061807/https://gc.nh.gov/rsa/html/VII/105-D/105-D-mrg.htm",
+     "sha256": "c96744b464faf05c7ff5594f85a8f501d075ae87193551a65f8d14c7e5eb14d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-b",
+   "short": "RSA 106-B",
+   "title": "New Hampshire Revised Statutes, Chapter 106-B: The State Police (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250527073639/https://gc.nh.gov/rsa/html/VII/106-B/106-B-mrg.htm",
+     "sha256": "b8fd479140702a43d5ce6484c145c8806aa0cb2a68ea78a35f5a2b92e7b5bdfc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-c",
+   "short": "RSA 106-C",
+   "title": "New Hampshire Revised Statutes, Chapter 106-C: Emergency Police Assistance (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-C.htm",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20220628083723/https://gencourt.state.nh.us/rsa/html/VII/106-C/106-C-mrg.htm",
+     "sha256": "93da7ac200e15d9630c45ee9aa483050835d839da384c9b4f1b841c2c30a0595"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-d",
+   "short": "RSA 106-D",
+   "title": "New Hampshire Revised Statutes, Chapter 106-D: New England State Police Compact (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-D.htm",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220929174425/http://gencourt.state.nh.us/rsa/html/VII/106-D/106-D-mrg.htm",
+     "sha256": "e48b5023799f90edaae721ecdf3e66554e0fa7227c715d8e62092d1fe0ca529e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-f",
+   "short": "RSA 106-F",
+   "title": "New Hampshire Revised Statutes, Chapter 106-F: Private Investigators, Security Guards, and Bail Recovery Agents (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-F.htm",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240414085309/https://www.gencourt.state.nh.us/rsa/html/vii/106-f/106-f-mrg.htm",
+     "sha256": "359ca96598bc4c60322985e532a43444b728fa12ff81dd0fbd042f9df2389773"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-g",
+   "short": "RSA 106-G",
+   "title": "New Hampshire Revised Statutes, Chapter 106-G: Advisory Committee on Breath Analyzer Machines (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-G.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516214123/http://gencourt.state.nh.us/rsa/html/VII/106-G/106-G-mrg.htm",
+     "sha256": "37c6748eb157c83c49cb498b4bb70e329858a6c0845778dcc66d3725675364b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-h",
+   "short": "RSA 106-H",
+   "title": "New Hampshire Revised Statutes, Chapter 106-H: Enhanced 911 System (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-H.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260106031736/https://gc.nh.gov/rsa/html/VII/106-H/106-H-mrg.htm",
+     "sha256": "4d52f7ff92a92d9884edb26d4e8034431db550b6c350584d7184b5455ab64887"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-i",
+   "short": "RSA 106-I",
+   "title": "New Hampshire Revised Statutes, Chapter 106-I: Responses to Incidents in Other Jurisdictions (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-I.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516205226/http://gencourt.state.nh.us/rsa/html/VII/106-I/106-I-mrg.htm",
+     "sha256": "75727d2197075724600542e10625b64215e66e21a06951aec481a0f5546086bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-j",
+   "short": "RSA 106-J",
+   "title": "New Hampshire Revised Statutes, Chapter 106-J: Missing Adult Program and Missing Vulnerable Adult Alert Program (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-J.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250529145339/https://gc.nh.gov/rsa/html/VII/106-J/106-J-mrg.htm",
+     "sha256": "112dba70030568869539011ec47bea522b5a542789a9540b63344d0ebc929783"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-l",
+   "short": "RSA 106-L",
+   "title": "New Hampshire Revised Statutes, Chapter 106-L: Police Standards and Training Council (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-L.htm",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20251223100009/https://gc.nh.gov/rsa/html/vii/106-l/106-l-mrg.htm",
+     "sha256": "7112475261a6fad8cdcf5807ac70046acea710a818ccffe9de7203925086d9de"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106-p",
+   "short": "RSA 106-P",
+   "title": "New Hampshire Revised Statutes, Chapter 106-P: Participation in Federal Immigration Programs (Title VII: Sheriffs, Constables, and Police Officers)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VII-106-P.htm",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260120074731/https://gc.nh.gov/rsa/html/VII/106-P/106-P-mrg.htm",
+     "sha256": "83a1185e6e69b6aaa35bd01e189d2724173a71f9f02abf0ae15259033868bd78"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0107-d",
+   "short": "RSA 107-D",
+   "title": "New Hampshire Revised Statutes, Chapter 107-D: Transportation of High-level Radioactive Waste (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-107-D.htm",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250428004450/https://gc.nh.gov/rsa/html/VIII/107-D/107-D-mrg.htm",
+     "sha256": "0f391b458f1cba660f7907168c336dffdeb7c42d1521dcf19108c575ba548c1c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0108",
+   "short": "RSA 108",
+   "title": "New Hampshire Revised Statutes, Chapter 108: Emergency Management Assistance Compact and Northeastern American/canadian Emergency Management Assistance Compact (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-108.htm",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20230628145540/https://www.gencourt.state.nh.us/rsa/html/VIII/108/108-mrg.htm",
+     "sha256": "ec9a3c6e5145337cd7ba5932617cf609bf636129ba20de33429a029ab5e78bab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0110-b",
+   "short": "RSA 110-B",
+   "title": "New Hampshire Revised Statutes, Chapter 110-B: Department of Military Affairs and Veterans Services (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-110-B.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 116,
+     "source_url": "https://web.archive.org/web/20250924222723/https://gc.nh.gov/rsa/html/VIII/110-B/110-B-mrg.htm",
+     "sha256": "9b8e5160bcbe94b6598ba31ced3e5ed339f1719c1cc3589ea9e0c392d61cb3e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0110-d",
+   "short": "RSA 110-D",
+   "title": "New Hampshire Revised Statutes, Chapter 110-D: Interstate Compact on Educational Opportunity for Military Children (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-110-D.htm",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20230329211702/https://www.gencourt.state.nh.us/rsa/html/VIII/110-D/110-D-mrg.htm",
+     "sha256": "5be63d64d20333e8f72c630c572ec9a4cfce3f4bb580b1ce1289dd0b609612bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0111",
+   "short": "RSA 111",
+   "title": "New Hampshire Revised Statutes, Chapter 111: The State Guard (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-111.htm",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20240709030428/https://www.gencourt.state.nh.us/rsa/html/VIII/111/111-mrg.htm",
+     "sha256": "bddc08613f6c7d32638faa2448f4839f051be476efbb799844520e484e82faae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0113-a",
+   "short": "RSA 113-A",
+   "title": "New Hampshire Revised Statutes, Chapter 113-A: First Light Battery, New Hampshire Volunteers (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-113-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517001948/http://gencourt.state.nh.us/rsa/html/VIII/113-A/113-A-mrg.htm",
+     "sha256": "1a58e2f13763638428d93b2f0db09e9e1fb9fed51d109b1c312277e2a31b73e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0115-a",
+   "short": "RSA 115-A",
+   "title": "New Hampshire Revised Statutes, Chapter 115-A: Aid for Veterans' Programs (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-115-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20240528074547/https://gencourt.state.nh.us/rsa/html/VIII/115-A/115-A-mrg.htm",
+     "sha256": "a83fc66d8d0eba028bcb482f28f637a3caf36d6e32031d4ef2f2bf9f075f8d91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0115-b",
+   "short": "RSA 115-B",
+   "title": "New Hampshire Revised Statutes, Chapter 115-B: Veterans Priority for Training Programs (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-115-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250523220225/https://gc.nh.gov/rsa/html/VIII/115-B/115-B-mrg.htm",
+     "sha256": "9c31246dc3511d6471a655f79b8b2714ea29f2ac62b7dc62bdfee68f0edf5e44"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0115-c",
+   "short": "RSA 115-C",
+   "title": "New Hampshire Revised Statutes, Chapter 115-C: Veterans' Legal Aid Advocacy Project (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-115-C.htm",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20240528060128/https://gencourt.state.nh.us/rsa/html/VIII/115-C/115-C-mrg.htm",
+     "sha256": "8fc4a0febeffb64fbe7c8ea9de0b8aaad2c9b9f0831035641c865abd4ce79439"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0115-d",
+   "short": "RSA 115-D",
+   "title": "New Hampshire Revised Statutes, Chapter 115-D: Commission on Post-traumatic Stress Disorder and Traumatic Brain Injury (Title VIII: Public Defense and Veterans' Affairs)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-VIII-115-D.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220522180437/http://gencourt.state.nh.us/rsa/html/VIII/115-D/115-D-mrg.htm",
+     "sha256": "db235998d894f807790bd5416c18623c4527db2a3a23621bd0c6bf61012ace41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125",
+   "short": "RSA 125",
+   "title": "New Hampshire Revised Statutes, Chapter 125: General Provisions (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125.htm",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250608024622/https://gc.nh.gov/rsa/html/X/125/125-mrg.htm",
+     "sha256": "2c2f39a3975709e7a72babf6a07be205170a918d22dc408d503fca7912779b46"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-a",
+   "short": "RSA 125-A",
+   "title": "New Hampshire Revised Statutes, Chapter 125-A: Northern New England Medical Needs Compact (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250731061346/https://gc.nh.gov/rsa/html/X/125-A/125-A-mrg.htm",
+     "sha256": "ab9fa2b71d9d5d20b9e5cc4576794441f9850b6478371885f1acb06746f7eda0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-b",
+   "short": "RSA 125-B",
+   "title": "New Hampshire Revised Statutes, Chapter 125-B: New England Compact on Radiological Health Protection (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-B.htm",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20221004174806/http://gencourt.state.nh.us/rsa/html/X/125-B/125-B-mrg.htm",
+     "sha256": "4244657fb61322ffe154679ffcb3296da2fcc0900eb8961fa72fd19e84e733ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-c",
+   "short": "RSA 125-C",
+   "title": "New Hampshire Revised Statutes, Chapter 125-C: Air Pollution Control (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-C.htm",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260611181752/https://gc.nh.gov/rsa/html/X/125-C/125-C-mrg.htm",
+     "sha256": "6389be70280ba93b02ccf6d7b1f96b4e70849e52b6d932c7b5017ecf82a946b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-d",
+   "short": "RSA 125-D",
+   "title": "New Hampshire Revised Statutes, Chapter 125-D: Acid Rain Control Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-D.htm",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260702093608/https://gc.nh.gov/rsa/html/X/125-D/125-D-mrg.htm",
+     "sha256": "05f59cdd6e34597a5a3bdf3d7e42973cafc5b1722072e0d94ce7f946901f60f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-f",
+   "short": "RSA 125-F",
+   "title": "New Hampshire Revised Statutes, Chapter 125-F: Radiological Health Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-F.htm",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250722143111/https://gc.nh.gov/rsa/html/X/125-F/125-F-mrg.htm",
+     "sha256": "06492c06a328ef9ecf4f3885d1b642aaa5309da7b9c2d53ded05bb0242169b90"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-h",
+   "short": "RSA 125-H",
+   "title": "New Hampshire Revised Statutes, Chapter 125-H: Health Risk Assessments (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-H.htm",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250801130156/https://gc.nh.gov/rsa/html/X/125-H/125-H-mrg.htm",
+     "sha256": "ee0ca22a0d3f12cc5792b94eb427bfe338f857c631c51e8e58a42ea4569004ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-i",
+   "short": "RSA 125-I",
+   "title": "New Hampshire Revised Statutes, Chapter 125-I: Air Toxic Control Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-I.htm",
+   "versions": [
+    {
+     "from": "2025-12-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20251225042637/https://gc.nh.gov/rsa/html/X/125-I/125-I-mrg.htm",
+     "sha256": "7c5312c0c9a7a8d7db69df44106ae23cfd919f27cf519fcd009e946ea23a92a0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-j",
+   "short": "RSA 125-J",
+   "title": "New Hampshire Revised Statutes, Chapter 125-J: Emissions Reduction Trading Programs (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-J.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250605204936/https://gc.nh.gov/rsa/html/x/125-j/125-j-mrg.htm",
+     "sha256": "a9087aecd0b99eaa1e7912afe30e89009c34ff7f7115ece9620a2619a97e3a12"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-m",
+   "short": "RSA 125-M",
+   "title": "New Hampshire Revised Statutes, Chapter 125-M: Mercury Emissions Reduction and Control Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-M.htm",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250616231004/https://gc.nh.gov/rsa/html/X/125-M/125-M-mrg.htm",
+     "sha256": "df161cee8f55d542d0033e54f07f12039c8039c3e07daf46b7374a3786eac111"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-n",
+   "short": "RSA 125-N",
+   "title": "New Hampshire Revised Statutes, Chapter 125-N: Dioxin Emissions Reduction and Control Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-N.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250605204940/https://gc.nh.gov/rsa/html/x/125-n/125-n-mrg.htm",
+     "sha256": "14f93be4be03e7c766c1d3648cfb7a6b6f8c096dfc91c1d96dce16ed90030b8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-o",
+   "short": "RSA 125-O",
+   "title": "New Hampshire Revised Statutes, Chapter 125-O: Multiple Pollutant Reduction Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-O.htm",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260721133214/https://gc.nh.gov/rsa/html/X/125-O/125-O-mrg.htm",
+     "sha256": "a3a69be041abf4bcf2b538cc74e00c72f0744302cf26a13f97a5aa16ec41f2df"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-r",
+   "short": "RSA 125-R",
+   "title": "New Hampshire Revised Statutes, Chapter 125-R: Outdoor Wood-fired Hydronic Heaters (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-R.htm",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250705014555/https://gc.nh.gov/rsa/html/X/125-R/125-R-mrg.htm",
+     "sha256": "bbdeab4c259029c652b11a792801cd832dfcbe3191a0e561442d2af605eb8cab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0125-s",
+   "short": "RSA 125-S",
+   "title": "New Hampshire Revised Statutes, Chapter 125-S: Motor Vehicle Air Pollution Abatement Fund (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-125-S.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250529141201/https://gc.nh.gov/rsa/html/X/125-S/125-S-mrg.htm",
+     "sha256": "4013724ca0816ae31be3143eff69120548e26c5bdea6b4be2bb68bd64313dbe6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126",
+   "short": "RSA 126",
+   "title": "New Hampshire Revised Statutes, Chapter 126: Health Statistics (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126.htm",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20251116103021/https://gc.nh.gov/rsa/html/x/126/126-mrg.htm",
+     "sha256": "da04eb2d6c2c86c5da7923d25a636cb810294538bdcc6e586f8685ad78f297c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-a",
+   "short": "RSA 126-A",
+   "title": "New Hampshire Revised Statutes, Chapter 126-A: Department of Health and Human Services (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20250916054439/https://gc.nh.gov/rsa/html/X/126-A/126-A-mrg.htm",
+     "sha256": "21d13525b543774a703c8c7cb93236129118b8c8561b8cac03ed88e10803cc79"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-aa",
+   "short": "RSA 126-AA",
+   "title": "New Hampshire Revised Statutes, Chapter 126-AA: New Hampshire Granite Advantage Health Care Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-AA.htm",
+   "versions": [
+    {
+     "from": "2025-11-23",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251123052659/https://gc.nh.gov/rsa/html/x/126-aa/126-aa-mrg.htm",
+     "sha256": "987f22254608d6a5f825f14fe064f87c12cb1fea941d85b09ca73c5dc57040f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-c",
+   "short": "RSA 126-C",
+   "title": "New Hampshire Revised Statutes, Chapter 126-C: Interstate Compact on the Mentally Disordered Offender (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250729011644/https://gc.nh.gov/rsa/html/X/126-C/126-C-mrg.htm",
+     "sha256": "99d7eb4d943d7377e05c0e7f44fba1a892ed9498ba51b220b0c2779e08689146"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-cc",
+   "short": "RSA 126-CC",
+   "title": "New Hampshire Revised Statutes, Chapter 126-CC: Wholesale Prescription Drug Importation Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-CC.htm",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250609170847/https://gc.nh.gov/rsa/html/X/126-CC/126-CC-mrg.htm",
+     "sha256": "29fcedb7ca6967ae83535d4994318c1c6a8449ee2621fc22d50ec5b46e50897d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-d",
+   "short": "RSA 126-D",
+   "title": "New Hampshire Revised Statutes, Chapter 126-D: Compact, Hard to Place Children (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250627071133/https://gc.nh.gov/rsa/html/X/126-D/126-D-mrg.htm",
+     "sha256": "5e64a3bafdb2707b9d3dc4da9ffcbb19c11de107cd9550638c584a0573fd42ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-dd",
+   "short": "RSA 126-DD",
+   "title": "New Hampshire Revised Statutes, Chapter 126-DD: New Hampshire Drug Overdose Fatality Review Commission (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-DD.htm",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250416142819/https://gc.nh.gov/rsa/html/X/126-DD/126-DD-mrg.htm",
+     "sha256": "d5e30fdf6adc8fd1d12ab37c39d44dd4d0d1d1dc09773d9fa83101438016cda4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-g",
+   "short": "RSA 126-G",
+   "title": "New Hampshire Revised Statutes, Chapter 126-G: Family Support Services (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-G.htm",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260625224602/https://gc.nh.gov/rsa/html/X/126-G/126-G-mrg.htm",
+     "sha256": "6e7b33f0bdd3ea86043f23f2c4551698114f38b917060040f653c6862899d7b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-i",
+   "short": "RSA 126-I",
+   "title": "New Hampshire Revised Statutes, Chapter 126-I: Osteoporosis Prevention and Education Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-I.htm",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250615113955/https://gc.nh.gov/rsa/html/X/126-I/126-I-mrg.htm",
+     "sha256": "15de8868ed1f57eb1e60b1dd3bc3d1d02410f0f454014524dbdc9a3a0f13f2bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-k",
+   "short": "RSA 126-K",
+   "title": "New Hampshire Revised Statutes, Chapter 126-K: Youth Access to and Use of Tobacco Products (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-K.htm",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260507152812/https://gc.nh.gov/rsa/html/X/126-K/126-K-mrg.htm",
+     "sha256": "493159baa18934bbce91e500e781ecd22062853ad28efc8b0843b27c524bbb25"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-m",
+   "short": "RSA 126-M",
+   "title": "New Hampshire Revised Statutes, Chapter 126-M: Wellness and Primary Prevention Council (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-M.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250803165409/https://gc.nh.gov/rsa/html/X/126-M/126-M-mrg.htm",
+     "sha256": "84f94669035fb95db107ba171ad6e00bd0737682a92ce45171634ba3678e180f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-n",
+   "short": "RSA 126-N",
+   "title": "New Hampshire Revised Statutes, Chapter 126-N: Peer Support Programs (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-N.htm",
+   "versions": [
+    {
+     "from": "2026-04-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260404133058/https://gc.nh.gov/rsa/html/X/126-N/126-N-mrg.htm",
+     "sha256": "e2355d6b491a6ca3bf3c164ee4910135432d6afbcc8fa624f49831f3d3af0dfd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-p",
+   "short": "RSA 126-P",
+   "title": "New Hampshire Revised Statutes, Chapter 126-P: Family Mutual Support Services (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-P.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250605222720/https://gc.nh.gov/rsa/html/X/126-P/126-P-mrg.htm",
+     "sha256": "47b885f25e76bf9a1858c636971de5b74dd191a84fc6a4ac808df63e19436dab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-q",
+   "short": "RSA 126-Q",
+   "title": "New Hampshire Revised Statutes, Chapter 126-Q: New Hampshire Vaccine Association (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-Q.htm",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250807010151/https://gc.nh.gov/rsa/html/X/126-Q/126-Q-mrg.htm",
+     "sha256": "497168cf91145d00e9d8cace875bb4f257cd58262fac6b9304c19b9ce31663dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-r",
+   "short": "RSA 126-R",
+   "title": "New Hampshire Revised Statutes, Chapter 126-R: New Hampshire Council on Suicide Prevention (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-R.htm",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260823161143/https://gc.nh.gov/rsa/html/X/126-R/126-R-mrg.htm",
+     "sha256": "b4d4de41ab241021de8713b58921c9a6ad40e16da3f4b50f5412c0377ac51a54"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-t",
+   "short": "RSA 126-T",
+   "title": "New Hampshire Revised Statutes, Chapter 126-T: Commission on the Interdisciplinary Primary Care Workforce Issues (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-T.htm",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261025012026/https://gc.nh.gov/rsa/html/X/126-T/126-T-mrg.htm",
+     "sha256": "4b511d954a76e85aa8013270dc22d91c868c13844c228b238ad13534f30a0016"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-u",
+   "short": "RSA 126-U",
+   "title": "New Hampshire Revised Statutes, Chapter 126-U: Limiting the Use of Child Restraint Practices in Schools and Treatment Facilities (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-U.htm",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260813083600/https://gc.nh.gov/rsa/html/X/126-U/126-U-mrg.htm",
+     "sha256": "418429ebdc24ebe12f1dffe32a59529af2b54432382dd0d4aac8b64b402165da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-v",
+   "short": "RSA 126-V",
+   "title": "New Hampshire Revised Statutes, Chapter 126-V: Health Care Sharing Organizations (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-V.htm",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250701214437/https://gc.nh.gov/rsa/html/X/126-V/126-V-mrg.htm",
+     "sha256": "e8a85e3263cd4b0501404e330af2083b11322449c81ad7adc6d64de790909737"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-x",
+   "short": "RSA 126-X",
+   "title": "New Hampshire Revised Statutes, Chapter 126-X: Use of Cannabis for Therapeutic Purposes (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-X.htm",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261022075549/https://gc.nh.gov/rsa/html/X/126-X/126-X-mrg.htm",
+     "sha256": "842ac8d5edd0ee19c59e6003a0c98fe7da796e9fe474dabcc95feb31feaf904d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0126-z",
+   "short": "RSA 126-Z",
+   "title": "New Hampshire Revised Statutes, Chapter 126-Z: Right to Try Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-126-Z.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250924222849/https://gc.nh.gov/rsa/html/X/126-Z/126-Z-mrg.htm",
+     "sha256": "45d9a951a4cdb6df7009f125e18277368112a81f8774f55fa80ae87ab13bf4c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0127",
+   "short": "RSA 127",
+   "title": "New Hampshire Revised Statutes, Chapter 127: District Departments of Health (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-127.htm",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20240617100114/https://www.gencourt.state.nh.us/rsa/html/X/127/127-mrg.htm",
+     "sha256": "e328d9abfb9ae43db1f6386e9eedc844eca59411dea614b3b26c51e326ed0eb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0128",
+   "short": "RSA 128",
+   "title": "New Hampshire Revised Statutes, Chapter 128: Town Health Officers (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-128.htm",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250714004951/https://gc.nh.gov/rsa/html/X/128/128-mrg.htm",
+     "sha256": "abc60341c32e12bd533413e8f26ca194ab000062306443b3c5f58b153f0f65a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0129",
+   "short": "RSA 129",
+   "title": "New Hampshire Revised Statutes, Chapter 129: Attendance at Meetings of Health Officers Association (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-129.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250226022700/https://gc.nh.gov/rsa/html/X/129/129-mrg.htm",
+     "sha256": "8d071a2f3df90ce974edcafc5227c449a620a37a23650c90f3c9e6a9578f03da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0130",
+   "short": "RSA 130",
+   "title": "New Hampshire Revised Statutes, Chapter 130: Sanitary Inspectors (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-130.htm",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250714202457/https://gc.nh.gov/rsa/html/X/130/130-mrg.htm",
+     "sha256": "0eb927537094a73b25f855c5bae0db38d9f144b10313df9cc2d713abbd5e5573"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0130-a",
+   "short": "RSA 130-A",
+   "title": "New Hampshire Revised Statutes, Chapter 130-A: Lead Paint Poisoning Prevention and Control (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-130-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250630233202/https://gc.nh.gov/rsa/html/X/130-A/130-A-mrg.htm",
+     "sha256": "3efdf2f34c2a65c54cd925c799d055a6a85e00916b1f9cabe9f4c487a0f37ec0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0131",
+   "short": "RSA 131",
+   "title": "New Hampshire Revised Statutes, Chapter 131: Laboratory of Hygiene (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-131.htm",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261021134647/https://gc.nh.gov/rsa/html/X/131/131-mrg.htm",
+     "sha256": "e813bfbb6bed297ce265dd533e14f38db8e8691052de1dc310f1dbdd3adadc00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0132",
+   "short": "RSA 132",
+   "title": "New Hampshire Revised Statutes, Chapter 132: Protection for Maternity and Infancy (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-132.htm",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20251114223139/https://gc.nh.gov/rsa/html/X/132/132-mrg.htm",
+     "sha256": "71acfa3ee2b0a36aaba448c717ee4a50065d1870e4dae776457d85e9a6c9d305"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0132-a",
+   "short": "RSA 132-A",
+   "title": "New Hampshire Revised Statutes, Chapter 132-A: Temporary Care and Control of Children at a Hospital or Safe Haven (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-132-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250416063411/https://gc.nh.gov/rsa/html/X/132-A/132-A-mrg.htm",
+     "sha256": "a06387378eb5cd56eebc7cabada5dd72e69d35ab61583fd43605dec99e6560bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0135",
+   "short": "RSA 135",
+   "title": "New Hampshire Revised Statutes, Chapter 135: New Hampshire Hospital and Insane Persons (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-135.htm",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250718043715/https://gc.nh.gov/rsa/html/X/135/135-mrg.htm",
+     "sha256": "c93335299bbab5e76b00bd3793cc1225fa6e03dc28b82c21aefceacd813192b9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0135-a",
+   "short": "RSA 135-A",
+   "title": "New Hampshire Revised Statutes, Chapter 135-A: Interstate Compact on Mental Health (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-135-A.htm",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20221004161550/http://gencourt.state.nh.us/rsa/html/X/135-A/135-A-mrg.htm",
+     "sha256": "9f6bf577fc114c7eb59c89eb92f41916fb429d0bb93c797ee78eb92381b93292"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0135-c",
+   "short": "RSA 135-C",
+   "title": "New Hampshire Revised Statutes, Chapter 135-C: New Hampshire Mental Health Services System (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-135-C.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20260429025308/https://gc.nh.gov/rsa/html/X/135-C/135-C-mrg.htm",
+     "sha256": "321033e7b155c6a75afa1d70070ee0bc2acc3931ab4d9b91828b726ed27cd455"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0135-e",
+   "short": "RSA 135-E",
+   "title": "New Hampshire Revised Statutes, Chapter 135-E: Involuntary Civil Commitment of Sexually Violent Predators (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-135-E.htm",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260621134041/https://gc.nh.gov/rsa/html/X/135-E/135-E-mrg.htm",
+     "sha256": "7c52b06224802e0d7dc8671f18fafd3d0bfe12adc4dabc62171acbac27d42a74"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0135-f",
+   "short": "RSA 135-F",
+   "title": "New Hampshire Revised Statutes, Chapter 135-F: System of Care for Children's Mental Health (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-135-F.htm",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260504104934/https://gc.nh.gov/rsa/html/X/135-F/135-F-mrg.htm",
+     "sha256": "4cefa126886cc90a5c192d811c657db3833c7a42503c39b660027565df2ea224"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0137-j",
+   "short": "RSA 137-J",
+   "title": "New Hampshire Revised Statutes, Chapter 137-J: Written Directives for Medical Decision Making for Adults Without Capacity to Make Health Care Decisions (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-137-J.htm",
+   "versions": [
+    {
+     "from": "2026-01-18",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260118013831/https://gc.nh.gov/rsa/html/x/137-j/137-j-mrg.htm",
+     "sha256": "59d9581ee4bab529807455e2b00532f96fb18393b3649286a1c3ea4d88625b94"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0137-k",
+   "short": "RSA 137-K",
+   "title": "New Hampshire Revised Statutes, Chapter 137-K: Brain and Spinal Cord Injuries (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-137-K.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250803134311/https://gc.nh.gov/rsa/html/X/137-K/137-K-mrg.htm",
+     "sha256": "5cb8f558cbdad6cdd584ae2a91237d2f6c065dcfa7f7649ac630d4a14c391218"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0137-l",
+   "short": "RSA 137-L",
+   "title": "New Hampshire Revised Statutes, Chapter 137-L: New Hampshire Polst Registry Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-137-L.htm",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250714005042/https://gc.nh.gov/rsa/html/X/137-L/137-L-mrg.htm",
+     "sha256": "644a123f888dc095d256244df5ab4f92e27c42c9c71abe7219bbd0362e6c0aa1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0138",
+   "short": "RSA 138",
+   "title": "New Hampshire Revised Statutes, Chapter 138: State Sanatorium (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-138.htm",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250609205028/https://gc.nh.gov/rsa/html/X/138/138-mrg.htm",
+     "sha256": "461a6d93a907ff6a7eaccad539e339365f63538e024116e20c6dfb2eba6cf78e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0140",
+   "short": "RSA 140",
+   "title": "New Hampshire Revised Statutes, Chapter 140: Occupational Health (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-140.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250610115413/https://gc.nh.gov/rsa/html/X/140/140-mrg.htm",
+     "sha256": "b876efc5e531c6ed3b5b7be9e0860d0a5a967fc6fa819048e39db9a09923f878"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-a",
+   "short": "RSA 141-A",
+   "title": "New Hampshire Revised Statutes, Chapter 141-A: Critical Health Problems Reporting Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-A.htm",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20211204125403/http://www.gencourt.state.nh.us/rsa/html/x/141-a/141-a-mrg.htm",
+     "sha256": "1e5c216fbbeea13bf9c2952f72bde22602a155691305ba29eac482370a630a43"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-b",
+   "short": "RSA 141-B",
+   "title": "New Hampshire Revised Statutes, Chapter 141-B: Chronic Disease Prevention, Assessment and Control (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-B.htm",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260210201823/https://gc.nh.gov/rsa/html/X/141-B/141-B-mrg.htm",
+     "sha256": "566d2e91b339b424bbe4e93081754dcd2b58cebc5d181dc3ab1707b6a879f562"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-c",
+   "short": "RSA 141-C",
+   "title": "New Hampshire Revised Statutes, Chapter 141-C: Communicable Disease (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-C.htm",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20261008222828/https://gc.nh.gov/rsa/html/X/141-C/141-C-mrg.htm",
+     "sha256": "dde4970f36c7243a449fb8cbd400f0879c89796d0853b976dac02f4f5cea2467"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-d",
+   "short": "RSA 141-D",
+   "title": "New Hampshire Revised Statutes, Chapter 141-D: Uniform Determination of Death Act (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-D.htm",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260801001654/https://gc.nh.gov/rsa/html/X/141-D/141-D-mrg.htm",
+     "sha256": "67e3e17b549f02d4632d82a714aeffd6816ea83ba3492b985f95686f8a8a3899"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-e",
+   "short": "RSA 141-E",
+   "title": "New Hampshire Revised Statutes, Chapter 141-E: Asbestos Management and Control (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-E.htm",
+   "versions": [
+    {
+     "from": "2025-07-06",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250706101651/https://gc.nh.gov/rsa/html/X/141-E/141-E-mrg.htm",
+     "sha256": "63866c03c972f11781f73384c2a97fdf7e597ad00d95414991dcd74ae7a537d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-f",
+   "short": "RSA 141-F",
+   "title": "New Hampshire Revised Statutes, Chapter 141-F: Human Immunodeficiency Virus Education, Prevention, and Control (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-F.htm",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250607150249/https://gc.nh.gov/rsa/html/X/141-F/141-F-mrg.htm",
+     "sha256": "b033a358401241eb710845b70f2e4d60cdc401a2317cf1844742ef2234c77fc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-g",
+   "short": "RSA 141-G",
+   "title": "New Hampshire Revised Statutes, Chapter 141-G: Notification of Emergency Response/public Safety Workers After Exposure to Infectious Disease (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-G.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250702021951/https://gc.nh.gov/rsa/html/X/141-G/141-G-mrg.htm",
+     "sha256": "20d015cee9667f13399d33a0f1612204d1d460f856a455e57eb97f6a91629fa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-h",
+   "short": "RSA 141-H",
+   "title": "New Hampshire Revised Statutes, Chapter 141-H: Genetic Testing (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-H.htm",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250701000451/https://gc.nh.gov/rsa/html/X/141-H/141-H-mrg.htm",
+     "sha256": "36a674036ecae48ab150aa95329c2364b87150dc08adf4b695a62b0dd9f0e851"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-i",
+   "short": "RSA 141-I",
+   "title": "New Hampshire Revised Statutes, Chapter 141-I: Ear Piercing (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-I.htm",
+   "versions": [
+    {
+     "from": "2025-04-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250419205805/https://gc.nh.gov/rsa/html/X/141-I/141-I-mrg.htm",
+     "sha256": "5f765cc4cbd4618d9b1d1a5aee0f133fe0919087cdaa9f8ac42d5a2a03854b73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0141-j",
+   "short": "RSA 141-J",
+   "title": "New Hampshire Revised Statutes, Chapter 141-J: Birth Conditions Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-141-J.htm",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250715045926/https://gc.nh.gov/rsa/html/X/141-J/141-J-mrg.htm",
+     "sha256": "a4c1c9e9f33f0bfc345f5c6e61273fdf67be773ae79767ae21ca355b81781bd3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0142-a",
+   "short": "RSA 142-A",
+   "title": "New Hampshire Revised Statutes, Chapter 142-A: Mosquito Control Policy for State Agencies (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-142-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250629010132/https://gc.nh.gov/rsa/html/X/142-A/142-A-mrg.htm",
+     "sha256": "b9b87fba24237e9f9706309017a9b61b69e83ef5e97ed2a30d34d97f4cb279ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0143",
+   "short": "RSA 143",
+   "title": "New Hampshire Revised Statutes, Chapter 143: Sanitary Production and Distribution of Food (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-143.htm",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260913072010/https://gc.nh.gov/rsa/html/X/143/143-mrg.htm",
+     "sha256": "9c7ff1c491765a36f41013e3602b829e361fe3cff61333d4bbfc46afffd60292"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0143-a",
+   "short": "RSA 143-A",
+   "title": "New Hampshire Revised Statutes, Chapter 143-A: Food Service Licensure (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-143-A.htm",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260908034527/https://gc.nh.gov/rsa/html/X/143-A/143-A-mrg.htm",
+     "sha256": "0681bd07ca123ebe08d179f1bf4f0e3b62ef63a72478f6b0f3ab3ff61f8a6660"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0146",
+   "short": "RSA 146",
+   "title": "New Hampshire Revised Statutes, Chapter 146: Purity and Branding of Foods and Drugs; Immature Veal (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-146.htm",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250619205703/https://gc.nh.gov/rsa/html/X/146/146-mrg.htm",
+     "sha256": "f9f92098fcfc859e324e44ea9e8d521f278759c95480c3a541bda60a703990fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0146-a",
+   "short": "RSA 146-A",
+   "title": "New Hampshire Revised Statutes, Chapter 146-A: Oil Discharge or Spillage in Surface Water or Groundwater (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-146-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260106055050/https://gc.nh.gov/rsa/html/X/146-A/146-A-mrg.htm",
+     "sha256": "9a97ef3d55522ab78eda4ddcc3ddf78d4e4fb3c134ee072ce666667a689aac5f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0146-b",
+   "short": "RSA 146-B",
+   "title": "New Hampshire Revised Statutes, Chapter 146-B: Drug Product Selection (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-146-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250611193419/https://gc.nh.gov/rsa/html/X/146-B/146-B-mrg.htm",
+     "sha256": "ce03888c25d99edf89b69c13d1ffcb98ead8ac679e01497543dcc7be863ddb93"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0146-c",
+   "short": "RSA 146-C",
+   "title": "New Hampshire Revised Statutes, Chapter 146-C: Underground Storage Facilities (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-146-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250602181905/https://gc.nh.gov/rsa/html/X/146-C/146-C-mrg.htm",
+     "sha256": "486e91d91bf7257d44146a8b99548524ac1c34d5720de44056e02026cfcd5b6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0146-d",
+   "short": "RSA 146-D",
+   "title": "New Hampshire Revised Statutes, Chapter 146-D: Oil Discharge and Disposal Cleanup Fund (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-146-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250615223917/https://gc.nh.gov/rsa/html/X/146-D/146-D-mrg.htm",
+     "sha256": "fa2ed6b495286b05e53dd819d3d3eb694549ef41af63e1b5880e1daff6761bc8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147",
+   "short": "RSA 147",
+   "title": "New Hampshire Revised Statutes, Chapter 147: Nuisances; Toilets; Drains; Expectoration; Rubbish and Waste (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147.htm",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20250606104531/https://gc.nh.gov/rsa/html/X/147/147-mrg.htm",
+     "sha256": "385c08bd070be44f2a1fa849ff424139515d3579b9d66c5c853a8fc0bd07cb13"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147-a",
+   "short": "RSA 147-A",
+   "title": "New Hampshire Revised Statutes, Chapter 147-A: Hazardous Waste Management (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147-A.htm",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20240604123844/https://gencourt.state.nh.us/rsa/html/X/147-A/147-A-mrg.htm",
+     "sha256": "a50b87d1e4143cd99f297e383d65b39305f9b6ced781e4938dd9e3873959f87a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147-b",
+   "short": "RSA 147-B",
+   "title": "New Hampshire Revised Statutes, Chapter 147-B: Hazardous Waste Cleanup Fund (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147-B.htm",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260831023610/https://gc.nh.gov/rsa/html/X/147-B/147-B-mrg.htm",
+     "sha256": "bb5d4c755a0df92eb694613ce2052e89253641868af61097b58b6a0a946ecb32"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147-c",
+   "short": "RSA 147-C",
+   "title": "New Hampshire Revised Statutes, Chapter 147-C: Hazardous Waste Facility Review (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147-C.htm",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20201019035339/http://www.gencourt.state.nh.us/RSA/html/X/147-C/147-C-mrg.htm",
+     "sha256": "9320147977c133f42f9575cfa6694f289e2b3c721c3513e908e18d372f164690"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147-d",
+   "short": "RSA 147-D",
+   "title": "New Hampshire Revised Statutes, Chapter 147-D: Hazardous Waste Fee (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250607124240/https://gc.nh.gov/rsa/html/X/147-D/147-D-mrg.htm",
+     "sha256": "4be45e3d6b1c848c10e25512d12821cd831045f988778807b85bdc580e8808d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0147-f",
+   "short": "RSA 147-F",
+   "title": "New Hampshire Revised Statutes, Chapter 147-F: Brownfields Program (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-147-F.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250605205029/https://gc.nh.gov/rsa/html/X/147-F/147-F-mrg.htm",
+     "sha256": "0ee31fcfe59632b7425a9430d005855f400e99637ede69f86efcf05b7539e762"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-i",
+   "short": "RSA 149-I",
+   "title": "New Hampshire Revised Statutes, Chapter 149-I: Sewers (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-I.htm",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260107002002/https://gc.nh.gov/rsa/html/X/149-I/149-I-mrg.htm",
+     "sha256": "ff96628a75c2a039495f904c0d89560179f54c3e3abde61cff47b4ab638d0f1a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-j",
+   "short": "RSA 149-J",
+   "title": "New Hampshire Revised Statutes, Chapter 149-J: New Hampshire-vermont Interstate Sewage and Waste Disposal Facilities Compact (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-J.htm",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260407230609/https://gc.nh.gov/rsa/html/X/149-J/149-J-mrg.htm",
+     "sha256": "17740efd310ae05c3785f8781cac8b7c147e90607d77087891a529e28e52513a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-k",
+   "short": "RSA 149-K",
+   "title": "New Hampshire Revised Statutes, Chapter 149-K: New Hampshire-massachusetts Interstate Sewage and Waste Disposal Facilities Compact (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-K.htm",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20221004162609/http://gencourt.state.nh.us/rsa/html/X/149-K/149-K-mrg.htm",
+     "sha256": "b4b822dd47393c67261d3276e210e0b144aeb4a56074004057158a5716b9a5b1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-m",
+   "short": "RSA 149-M",
+   "title": "New Hampshire Revised Statutes, Chapter 149-M: Solid Waste Management (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-M.htm",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20260615222910/https://gc.nh.gov/rsa/html/X/149-M/149-M-mrg.htm",
+     "sha256": "d8e9e616b9941bd1650bd7017a4629b6e42cf47c849eace00da2d278743ef038"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-p",
+   "short": "RSA 149-P",
+   "title": "New Hampshire Revised Statutes, Chapter 149-P: Landowner's Right of Action (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-P.htm",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250717121059/https://gc.nh.gov/rsa/html/X/149-P/149-P-mrg.htm",
+     "sha256": "0eaaeee60f0ee3dd063f2fe4c9d4607430acdaca4d6c6921b484377827b05db3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0149-r",
+   "short": "RSA 149-R",
+   "title": "New Hampshire Revised Statutes, Chapter 149-R: Solid Waste Management Fund (Title X: Public Health)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-X-149-R.htm",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251101014150/https://gc.nh.gov/rsa/html/X/149-R/149-R-mrg.htm",
+     "sha256": "233dbad690d55d31c8b5fafa5f05997cffe2db2fc56efd2d8b7390911dee45e6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151",
+   "short": "RSA 151",
+   "title": "New Hampshire Revised Statutes, Chapter 151: Residential Care and Health Facility Licensing (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 89,
+     "source_url": "https://web.archive.org/web/20261102122237/https://gc.nh.gov/rsa/html/XI/151/151-mrg.htm",
+     "sha256": "95e680f057968817f643c05a4cd8321520690a9085b71eb91687f1addfb63ac2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-a",
+   "short": "RSA 151-A",
+   "title": "New Hampshire Revised Statutes, Chapter 151-A: Nursing Home Administrators (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-A.htm",
+   "versions": [
+    {
+     "from": "2025-10-05",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251005141634/https://gc.nh.gov/rsa/html/XI/151-A/151-A-mrg.htm",
+     "sha256": "90b7b982a9cf96c020571d450c2b279568f1da867864390c3d13efdfd6f320b1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-d",
+   "short": "RSA 151-D",
+   "title": "New Hampshire Revised Statutes, Chapter 151-D: Ambulatory Care Clinics (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-D.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516231357/http://gencourt.state.nh.us/rsa/html/XI/151-D/151-D-mrg.htm",
+     "sha256": "d762ae6d6e9ef76f6eb41c73cc39552721926b3262271ed9575baab0bf6aeb51"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-e",
+   "short": "RSA 151-E",
+   "title": "New Hampshire Revised Statutes, Chapter 151-E: Long-term Care (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-E.htm",
+   "versions": [
+    {
+     "from": "2025-09-14",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250914221110/https://gc.nh.gov/rsa/html/XI/151-E/151-E-mrg.htm",
+     "sha256": "2b136e2326f091150da30bfb7a7538eb1c9129e54678512119ac6c2d56356efc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-g",
+   "short": "RSA 151-G",
+   "title": "New Hampshire Revised Statutes, Chapter 151-G: New Hampshire Health Care Quality and Patient Safety Commission (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-G.htm",
+   "versions": [
+    {
+     "from": "2025-11-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251109103246/https://gc.nh.gov/rsa/html/XI/151-G/151-G-mrg.htm",
+     "sha256": "860edf23940c18e4037e598b20ff594463f22b95b06712edfee39bb6c8d8c8e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-h",
+   "short": "RSA 151-H",
+   "title": "New Hampshire Revised Statutes, Chapter 151-H: Receivership of Nursing Homes and Other Residential Care Facilities (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-H.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250924050549/https://gc.nh.gov/rsa/html/XI/151-H/151-H-mrg.htm",
+     "sha256": "e71e03a251fbf80050f9a1c2aa894694e85234d8807d2f7d4bf9e1fbb04284c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-i",
+   "short": "RSA 151-I",
+   "title": "New Hampshire Revised Statutes, Chapter 151-I: Special Medicaid Representatives (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-I.htm",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250912192056/https://gc.nh.gov/rsa/html/XI/151-I/151-I-mrg.htm",
+     "sha256": "f482938dd243127f8aa0ff51f5545d1d691591bfc0af15353771a2b274e0f03f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0151-j",
+   "short": "RSA 151-J",
+   "title": "New Hampshire Revised Statutes, Chapter 151-J: New Hampshire Health Care Workplace Safety Commission (Title XI: Hospitals and Sanitaria)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XI-151-J.htm",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250926152656/https://gc.nh.gov/rsa/html/XI/151-J/151-J-mrg.htm",
+     "sha256": "fc6cbf953d3d200229c8632ccf99e228330ac732ee2d94c8cd96cda344eab803"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0153",
+   "short": "RSA 153",
+   "title": "New Hampshire Revised Statutes, Chapter 153: State Board of Fire Control (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-153.htm",
+   "versions": [
+    {
+     "from": "2025-10-26",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20251026083229/https://gc.nh.gov/rsa/html/XII/153/153-mrg.htm",
+     "sha256": "c85cbc434efa26b3a60ea714a2983e6803e54dcc7ea4c8b5877bcffe5edbf96c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0153-a",
+   "short": "RSA 153-A",
+   "title": "New Hampshire Revised Statutes, Chapter 153-A: Emergency Medical and Trauma Services (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-153-A.htm",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20251204210749/https://gc.nh.gov/rsa/html/XII/153-A/153-A-mrg.htm",
+     "sha256": "5492c126cb8d13688eecc712da05b453ee14c0fd2f10c8cbf3a9fbf02744509d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0154",
+   "short": "RSA 154",
+   "title": "New Hampshire Revised Statutes, Chapter 154: Firewards, Firefighters, and Fire Hazards (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-154.htm",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260126044147/https://gc.nh.gov/rsa/html/XII/154/154-mrg.htm",
+     "sha256": "50cf0d27c07d297e7075eca5961bdb23794ba4e78ef8edc81deeeefd171f686e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0155",
+   "short": "RSA 155",
+   "title": "New Hampshire Revised Statutes, Chapter 155: Factories, Tenements, Schoolhouses, and Places of Public Accommodation, Resort or Assembly (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-155.htm",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260728064954/https://gc.nh.gov/rsa/html/XII/155/155-mrg.htm",
+     "sha256": "779f1bb240f4e56a4634da1e878cdcddd17ef140a40fc3ae6b3562b2fcac9244"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0155-a",
+   "short": "RSA 155-A",
+   "title": "New Hampshire Revised Statutes, Chapter 155-A: New Hampshire Building Code (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-155-A.htm",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260825091814/https://gc.nh.gov/rsa/html/XII/155-A/155-A-mrg.htm",
+     "sha256": "58d630ccf24987a975449ea75123642a5d21e9f70d40712bf25d13422a85030a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0155-b",
+   "short": "RSA 155-B",
+   "title": "New Hampshire Revised Statutes, Chapter 155-B: Hazardous and Dilapidated Buildings (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-155-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250807033126/https://gc.nh.gov/rsa/html/XII/155-B/155-B-mrg.htm",
+     "sha256": "0684e471b05eae6998efa3b3da525d2315120ffa51d50ec1844ab720799e79ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0155-e",
+   "short": "RSA 155-E",
+   "title": "New Hampshire Revised Statutes, Chapter 155-E: Local Regulation Excavations (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-155-E.htm",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20251224011228/https://gc.nh.gov/rsa/html/xii/155-e/155-e-mrg.htm",
+     "sha256": "22d7c700480cf5090257e3617891ff408990e1b8c8519f1e16cdda6173fcf813"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0157-a",
+   "short": "RSA 157-A",
+   "title": "New Hampshire Revised Statutes, Chapter 157-A: Boilers and Pressure Vessels (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-157-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250703032306/https://gc.nh.gov/rsa/html/XII/157-A/157-A-mrg.htm",
+     "sha256": "3350a6aa0ea6d6ed0863bc597f422ea8d6b65e7cf5d034e888df440b4ca33cd4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0157-b",
+   "short": "RSA 157-B",
+   "title": "New Hampshire Revised Statutes, Chapter 157-B: Elevators and Accessibility Lifts (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-157-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250812160120/https://gc.nh.gov/rsa/html/XII/157-B/157-B-mrg.htm",
+     "sha256": "99513946e05ee9a6e940fcff621fda4c06d04248b8439295b302d6f867b61e7d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0159",
+   "short": "RSA 159",
+   "title": "New Hampshire Revised Statutes, Chapter 159: Pistols and Revolvers (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-159.htm",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261027214200/https://gc.nh.gov/rsa/html/xii/159/159-mrg.htm",
+     "sha256": "000cef453f8e7034e6f402a879d5e5eee7e4f68b9dd92ef5d0bdd5c6347d0056"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0159-b",
+   "short": "RSA 159-B",
+   "title": "New Hampshire Revised Statutes, Chapter 159-B: Shooting Ranges (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-159-B.htm",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20240529105801/https://gencourt.state.nh.us/rsa/html/XII/159-B/159-B-mrg.htm",
+     "sha256": "c788bff63ffa26bd90985e391d8ca6f7b4bf63609e7f50f1ea84628a3ab5f5f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0159-d",
+   "short": "RSA 159-D",
+   "title": "New Hampshire Revised Statutes, Chapter 159-D: Criminal Background Checks (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-159-D.htm",
+   "versions": [
+    {
+     "from": "2025-09-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250906233500/https://gc.nh.gov/rsa/html/XII/159-D/159-D-mrg.htm",
+     "sha256": "13c7836fcea6ca302cc20459676d41ad575294995ff398bcb656bde088f3ff64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0159-e",
+   "short": "RSA 159-E",
+   "title": "New Hampshire Revised Statutes, Chapter 159-E: Presidential Executive Orders and Statutory Law Relating to the Right to Keep and Bear Arms (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-159-E.htm",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250707093743/https://gc.nh.gov/rsa/html/XII/159-E/159-E-mrg.htm",
+     "sha256": "9cc5861737da12ccc92ce98c43bd33d875d6a68793200a9f5431991f90acac87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0159-f",
+   "short": "RSA 159-F",
+   "title": "New Hampshire Revised Statutes, Chapter 159-F: Firearm Purchaser's Privacy (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-159-F.htm",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250627035428/https://gc.nh.gov/rsa/html/XII/159-F/159-F-mrg.htm",
+     "sha256": "3b4e9988367e4f87ba4f88e433c587b0b71bef0b9eef79bac2b88ea19169f3a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0160-b",
+   "short": "RSA 160-B",
+   "title": "New Hampshire Revised Statutes, Chapter 160-B: Fireworks (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-160-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-29",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260329220759/https://gc.nh.gov/rsa/html/xii/160-b/160-b-mrg.htm",
+     "sha256": "ddaa5039ff0dc4f5c9b658b1bc4596e0fcd5cafde91e6f234e7cc38d6cedaea8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0160-c",
+   "short": "RSA 160-C",
+   "title": "New Hampshire Revised Statutes, Chapter 160-C: Permissible Fireworks (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-160-C.htm",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251107154114/https://gc.nh.gov/rsa/html/XII/160-C/160-C-mrg.htm",
+     "sha256": "4681aeb13e4a43c0445522d438e97df855190f45506da05093d31002f15a5513"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161",
+   "short": "RSA 161",
+   "title": "New Hampshire Revised Statutes, Chapter 161: Human Service (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161.htm",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250723221500/https://gc.nh.gov/rsa/html/XII/161/161-mrg.htm",
+     "sha256": "b9d00c3e39ac24b5cbe8c19d1b2c6fcf7c89b4ddeda49217d1733a7ad945a2c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-b",
+   "short": "RSA 161-B",
+   "title": "New Hampshire Revised Statutes, Chapter 161-B: Support of Dependent Children (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260331114733/https://gc.nh.gov/rsa/html/XII/161-B/161-B-mrg.htm",
+     "sha256": "7276f4056302fb301bd1c7f59282f44a5b7db1940e62f02df1d164912348ebc7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-e",
+   "short": "RSA 161-E",
+   "title": "New Hampshire Revised Statutes, Chapter 161-E: Personal Care for the Severely Physically Disabled (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-E.htm",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260916040520/https://gc.nh.gov/rsa/html/XII/161-E/161-E-mrg.htm",
+     "sha256": "83d4703d829fcfac9a2f9ea09b7008a87253bfee156f56f4335eba08c35ad682"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-f",
+   "short": "RSA 161-F",
+   "title": "New Hampshire Revised Statutes, Chapter 161-F: Elderly and Adult Services (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-F.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20250804041717/https://gc.nh.gov/rsa/html/XII/161-F/161-F-mrg.htm",
+     "sha256": "368ffa6ff81438ac65b563b95fad55572fd66704177edd4f7d2813f8da10a528"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-h",
+   "short": "RSA 161-H",
+   "title": "New Hampshire Revised Statutes, Chapter 161-H: Medical Child Support (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-H.htm",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250701064355/https://gc.nh.gov/rsa/html/XII/161-H/161-H-mrg.htm",
+     "sha256": "23047e4b5dea523ad8fb4a5aeaf1189faff0e4cf4329a36db3765399b8283584"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-i",
+   "short": "RSA 161-I",
+   "title": "New Hampshire Revised Statutes, Chapter 161-I: Personal Care Services (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-I.htm",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250628114610/https://gc.nh.gov/rsa/html/XII/161-I/161-I-mrg.htm",
+     "sha256": "74766e79bf1cfeeca0dca78cfb5865c6711dbad5a9de1c3f4b81c2b9b32efb8e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-j",
+   "short": "RSA 161-J",
+   "title": "New Hampshire Revised Statutes, Chapter 161-J: Assisted Living Residences, Independent Living Retirement Communities, and Housing for Older Persons (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-J.htm",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250424032256/https://gc.nh.gov/rsa/html/XII/161-J/161-J-mrg.htm",
+     "sha256": "f71ca1ab2c0279009f55df277d4db0635663faf1a9cc5c08d917bf50450b8e0d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-k",
+   "short": "RSA 161-K",
+   "title": "New Hampshire Revised Statutes, Chapter 161-K: New Hampshire Pharmaceutical Assistance Program (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-K.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220524153710/http://gencourt.state.nh.us/rsa/html/XII/161-K/161-K-mrg.htm",
+     "sha256": "49af327216775da11fc2f11a8e44346ba775641c521f058d7afa31c73b36a6d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-m",
+   "short": "RSA 161-M",
+   "title": "New Hampshire Revised Statutes, Chapter 161-M: Senior Citizens Bill of Rights (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-M.htm",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260531194150/https://gc.nh.gov/rsa/html/XII/161-M/161-M-mrg.htm",
+     "sha256": "c0cffe0f9de5bb7d8ccb7acbfc328fb4b0d7a1e5a4606f6777dead10b6aabc84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0161-n",
+   "short": "RSA 161-N",
+   "title": "New Hampshire Revised Statutes, Chapter 161-N: Home Health Care Agency Services (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-161-N.htm",
+   "versions": [
+    {
+     "from": "2025-08-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250810124156/https://gc.nh.gov/rsa/html/XII/161-N/161-N-mrg.htm",
+     "sha256": "0be3ffad6ce75948857e25b26364a6c2ee0a070aa68f7a0644f1927505f00747"
+    }
+   ]
   }
  ]
 }

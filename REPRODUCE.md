@@ -412,12 +412,173 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0091` | New Hampshire Revised Statutes, Chapter 91: Eligibility to Hold Public Office; Removal (Title VI: Public Officers and Employees) | 1 | 2022-05-17 to 2022-05-17 |
 | `chapter-0091-a` | New Hampshire Revised Statutes, Chapter 91-A: Access to Governmental Records and Meetings (Title VI: Public Officers and Employees) | 1 | 2026-09-20 to 2026-09-20 |
 | `chapter-0091-b` | New Hampshire Revised Statutes, Chapter 91-B: Public Notice by Radio or Television (Title VI: Public Officers and Employees) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0092` | New Hampshire Revised Statutes, Chapter 92: Tenure and Oath of Office in Certain Cases (Title VI: Public Officers and Employees) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0093-a` | New Hampshire Revised Statutes, Chapter 93-A: Uniform Facsimile Signatures of Public Officials (Title VI: Public Officers and Employees) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0093-b` | New Hampshire Revised Statutes, Chapter 93-B: Officials and Employees Bonds (Title VI: Public Officers and Employees) | 1 | 2024-06-30 to 2024-06-30 |
+| `chapter-0094` | New Hampshire Revised Statutes, Chapter 94: Compensation of Certain State Officers (Title VI: Public Officers and Employees) | 1 | 2025-08-05 to 2025-08-05 |
+| `chapter-0098-a` | New Hampshire Revised Statutes, Chapter 98-A: Temporary, Seasonal and Part-time State Employees (Title VI: Public Officers and Employees) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0098-b` | New Hampshire Revised Statutes, Chapter 98-B: Interchange of State Employees (Title VI: Public Officers and Employees) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0098-d` | New Hampshire Revised Statutes, Chapter 98-D: Interchange of Employees Between Branches of State Government (Title VI: Public Officers and Employees) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0098-e` | New Hampshire Revised Statutes, Chapter 98-E: Public Employee Freedom of Expression (Title VI: Public Officers and Employees) | 1 | 2025-09-17 to 2025-09-17 |
+| `chapter-0098-f` | New Hampshire Revised Statutes, Chapter 98-F: State Employee Appearances Before the Legislature (Title VI: Public Officers and Employees) | 1 | 2022-05-18 to 2022-05-18 |
+| `chapter-0099` | New Hampshire Revised Statutes, Chapter 99: Adjustment of Salaries of State Employees (Title VI: Public Officers and Employees) | 1 | 2022-05-26 to 2022-05-26 |
+| `chapter-0099-c` | New Hampshire Revised Statutes, Chapter 99-C: Employees Engaged in Snow Removal (Title VI: Public Officers and Employees) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0099-d` | New Hampshire Revised Statutes, Chapter 99-D: Defense and Indemnification of State Officers and Employees (Title VI: Public Officers and Employees) | 1 | 2024-05-16 to 2024-05-16 |
+| `chapter-0099-e` | New Hampshire Revised Statutes, Chapter 99-E: Suggestion and Extraordinary Service Award Program (Title VI: Public Officers and Employees) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0099-f` | New Hampshire Revised Statutes, Chapter 99-F: Veterans, Disabled Veterans', and Military Spouses' Preference in Public Employment (Title VI: Public Officers and Employees) | 1 | 2026-05-20 to 2026-05-20 |
+| `chapter-0100-a` | New Hampshire Revised Statutes, Chapter 100-A: New Hampshire Retirement System (Title VI: Public Officers and Employees) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0100-b` | New Hampshire Revised Statutes, Chapter 100-B: New Hampshire Length of Service Awards Program for Volunteer Firefighters and Volunteer Emergency Medical Personnel (Title VI: Public Officers and Employees) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0100-c` | New Hampshire Revised Statutes, Chapter 100-C: Judicial Retirement Plan (Title VI: Public Officers and Employees) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0101` | New Hampshire Revised Statutes, Chapter 101: Old Age and Survivors' Insurance (Title VI: Public Officers and Employees) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0101-b` | New Hampshire Revised Statutes, Chapter 101-B: Public Employees Deferred Compensation Plan (Title VI: Public Officers and Employees) | 1 | 2025-03-13 to 2025-03-13 |
+| `chapter-0102` | New Hampshire Revised Statutes, Chapter 102: Firemen's Retirement System (Title VI: Public Officers and Employees) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0103` | New Hampshire Revised Statutes, Chapter 103: Policemen's Retirement System (Title VI: Public Officers and Employees) | 1 | 2022-05-29 to 2022-05-29 |
+| `chapter-0104` | New Hampshire Revised Statutes, Chapter 104: Sheriffs and Constables (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2026-10-13 to 2026-10-13 |
+| `chapter-0105` | New Hampshire Revised Statutes, Chapter 105: Police Officers and Watchmen (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2024-05-19 to 2024-05-19 |
+| `chapter-0105-c` | New Hampshire Revised Statutes, Chapter 105-C: Police Commissions (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2026-03-18 to 2026-03-18 |
+| `chapter-0105-d` | New Hampshire Revised Statutes, Chapter 105-D: Body-worn Cameras (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0106-b` | New Hampshire Revised Statutes, Chapter 106-B: The State Police (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2025-05-27 to 2025-05-27 |
+| `chapter-0106-c` | New Hampshire Revised Statutes, Chapter 106-C: Emergency Police Assistance (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2022-06-28 to 2022-06-28 |
+| `chapter-0106-d` | New Hampshire Revised Statutes, Chapter 106-D: New England State Police Compact (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2022-09-29 to 2022-09-29 |
+| `chapter-0106-f` | New Hampshire Revised Statutes, Chapter 106-F: Private Investigators, Security Guards, and Bail Recovery Agents (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2024-04-14 to 2024-04-14 |
+| `chapter-0106-g` | New Hampshire Revised Statutes, Chapter 106-G: Advisory Committee on Breath Analyzer Machines (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0106-h` | New Hampshire Revised Statutes, Chapter 106-H: Enhanced 911 System (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0106-i` | New Hampshire Revised Statutes, Chapter 106-I: Responses to Incidents in Other Jurisdictions (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0106-j` | New Hampshire Revised Statutes, Chapter 106-J: Missing Adult Program and Missing Vulnerable Adult Alert Program (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0106-l` | New Hampshire Revised Statutes, Chapter 106-L: Police Standards and Training Council (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2025-12-23 to 2025-12-23 |
+| `chapter-0106-p` | New Hampshire Revised Statutes, Chapter 106-P: Participation in Federal Immigration Programs (Title VII: Sheriffs, Constables, and Police Officers) | 1 | 2026-01-20 to 2026-01-20 |
+| `chapter-0107-d` | New Hampshire Revised Statutes, Chapter 107-D: Transportation of High-level Radioactive Waste (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2025-04-28 to 2025-04-28 |
+| `chapter-0108` | New Hampshire Revised Statutes, Chapter 108: Emergency Management Assistance Compact and Northeastern American/canadian Emergency Management Assistance Compact (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2023-06-28 to 2023-06-28 |
+| `chapter-0110-b` | New Hampshire Revised Statutes, Chapter 110-B: Department of Military Affairs and Veterans Services (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0110-d` | New Hampshire Revised Statutes, Chapter 110-D: Interstate Compact on Educational Opportunity for Military Children (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2023-03-29 to 2023-03-29 |
+| `chapter-0111` | New Hampshire Revised Statutes, Chapter 111: The State Guard (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2024-07-09 to 2024-07-09 |
+| `chapter-0113-a` | New Hampshire Revised Statutes, Chapter 113-A: First Light Battery, New Hampshire Volunteers (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0115-a` | New Hampshire Revised Statutes, Chapter 115-A: Aid for Veterans' Programs (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2024-05-28 to 2024-05-28 |
+| `chapter-0115-b` | New Hampshire Revised Statutes, Chapter 115-B: Veterans Priority for Training Programs (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2025-05-23 to 2025-05-23 |
+| `chapter-0115-c` | New Hampshire Revised Statutes, Chapter 115-C: Veterans' Legal Aid Advocacy Project (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2024-05-28 to 2024-05-28 |
+| `chapter-0115-d` | New Hampshire Revised Statutes, Chapter 115-D: Commission on Post-traumatic Stress Disorder and Traumatic Brain Injury (Title VIII: Public Defense and Veterans' Affairs) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0125` | New Hampshire Revised Statutes, Chapter 125: General Provisions (Title X: Public Health) | 1 | 2025-06-08 to 2025-06-08 |
+| `chapter-0125-a` | New Hampshire Revised Statutes, Chapter 125-A: Northern New England Medical Needs Compact (Title X: Public Health) | 1 | 2025-07-31 to 2025-07-31 |
+| `chapter-0125-b` | New Hampshire Revised Statutes, Chapter 125-B: New England Compact on Radiological Health Protection (Title X: Public Health) | 1 | 2022-10-04 to 2022-10-04 |
+| `chapter-0125-c` | New Hampshire Revised Statutes, Chapter 125-C: Air Pollution Control (Title X: Public Health) | 1 | 2026-06-11 to 2026-06-11 |
+| `chapter-0125-d` | New Hampshire Revised Statutes, Chapter 125-D: Acid Rain Control Act (Title X: Public Health) | 1 | 2026-07-02 to 2026-07-02 |
+| `chapter-0125-f` | New Hampshire Revised Statutes, Chapter 125-F: Radiological Health Program (Title X: Public Health) | 1 | 2025-07-22 to 2025-07-22 |
+| `chapter-0125-h` | New Hampshire Revised Statutes, Chapter 125-H: Health Risk Assessments (Title X: Public Health) | 1 | 2025-08-01 to 2025-08-01 |
+| `chapter-0125-i` | New Hampshire Revised Statutes, Chapter 125-I: Air Toxic Control Act (Title X: Public Health) | 1 | 2025-12-25 to 2025-12-25 |
+| `chapter-0125-j` | New Hampshire Revised Statutes, Chapter 125-J: Emissions Reduction Trading Programs (Title X: Public Health) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0125-m` | New Hampshire Revised Statutes, Chapter 125-M: Mercury Emissions Reduction and Control Program (Title X: Public Health) | 1 | 2025-06-16 to 2025-06-16 |
+| `chapter-0125-n` | New Hampshire Revised Statutes, Chapter 125-N: Dioxin Emissions Reduction and Control Program (Title X: Public Health) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0125-o` | New Hampshire Revised Statutes, Chapter 125-O: Multiple Pollutant Reduction Program (Title X: Public Health) | 1 | 2026-07-21 to 2026-07-21 |
+| `chapter-0125-r` | New Hampshire Revised Statutes, Chapter 125-R: Outdoor Wood-fired Hydronic Heaters (Title X: Public Health) | 1 | 2025-07-05 to 2025-07-05 |
+| `chapter-0125-s` | New Hampshire Revised Statutes, Chapter 125-S: Motor Vehicle Air Pollution Abatement Fund (Title X: Public Health) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0126` | New Hampshire Revised Statutes, Chapter 126: Health Statistics (Title X: Public Health) | 1 | 2025-11-16 to 2025-11-16 |
+| `chapter-0126-a` | New Hampshire Revised Statutes, Chapter 126-A: Department of Health and Human Services (Title X: Public Health) | 1 | 2025-09-16 to 2025-09-16 |
+| `chapter-0126-aa` | New Hampshire Revised Statutes, Chapter 126-AA: New Hampshire Granite Advantage Health Care Program (Title X: Public Health) | 1 | 2025-11-23 to 2025-11-23 |
+| `chapter-0126-c` | New Hampshire Revised Statutes, Chapter 126-C: Interstate Compact on the Mentally Disordered Offender (Title X: Public Health) | 1 | 2025-07-29 to 2025-07-29 |
+| `chapter-0126-cc` | New Hampshire Revised Statutes, Chapter 126-CC: Wholesale Prescription Drug Importation Program (Title X: Public Health) | 1 | 2025-06-09 to 2025-06-09 |
+| `chapter-0126-d` | New Hampshire Revised Statutes, Chapter 126-D: Compact, Hard to Place Children (Title X: Public Health) | 1 | 2025-06-27 to 2025-06-27 |
+| `chapter-0126-dd` | New Hampshire Revised Statutes, Chapter 126-DD: New Hampshire Drug Overdose Fatality Review Commission (Title X: Public Health) | 1 | 2025-04-16 to 2025-04-16 |
+| `chapter-0126-g` | New Hampshire Revised Statutes, Chapter 126-G: Family Support Services (Title X: Public Health) | 1 | 2026-06-25 to 2026-06-25 |
+| `chapter-0126-i` | New Hampshire Revised Statutes, Chapter 126-I: Osteoporosis Prevention and Education Program (Title X: Public Health) | 1 | 2025-06-15 to 2025-06-15 |
+| `chapter-0126-k` | New Hampshire Revised Statutes, Chapter 126-K: Youth Access to and Use of Tobacco Products (Title X: Public Health) | 1 | 2026-05-07 to 2026-05-07 |
+| `chapter-0126-m` | New Hampshire Revised Statutes, Chapter 126-M: Wellness and Primary Prevention Council (Title X: Public Health) | 1 | 2025-08-03 to 2025-08-03 |
+| `chapter-0126-n` | New Hampshire Revised Statutes, Chapter 126-N: Peer Support Programs (Title X: Public Health) | 1 | 2026-04-04 to 2026-04-04 |
+| `chapter-0126-p` | New Hampshire Revised Statutes, Chapter 126-P: Family Mutual Support Services (Title X: Public Health) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0126-q` | New Hampshire Revised Statutes, Chapter 126-Q: New Hampshire Vaccine Association (Title X: Public Health) | 1 | 2025-08-07 to 2025-08-07 |
+| `chapter-0126-r` | New Hampshire Revised Statutes, Chapter 126-R: New Hampshire Council on Suicide Prevention (Title X: Public Health) | 1 | 2026-08-23 to 2026-08-23 |
+| `chapter-0126-t` | New Hampshire Revised Statutes, Chapter 126-T: Commission on the Interdisciplinary Primary Care Workforce Issues (Title X: Public Health) | 1 | 2026-10-25 to 2026-10-25 |
+| `chapter-0126-u` | New Hampshire Revised Statutes, Chapter 126-U: Limiting the Use of Child Restraint Practices in Schools and Treatment Facilities (Title X: Public Health) | 1 | 2026-08-13 to 2026-08-13 |
+| `chapter-0126-v` | New Hampshire Revised Statutes, Chapter 126-V: Health Care Sharing Organizations (Title X: Public Health) | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-0126-x` | New Hampshire Revised Statutes, Chapter 126-X: Use of Cannabis for Therapeutic Purposes (Title X: Public Health) | 1 | 2026-10-22 to 2026-10-22 |
+| `chapter-0126-z` | New Hampshire Revised Statutes, Chapter 126-Z: Right to Try Act (Title X: Public Health) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0127` | New Hampshire Revised Statutes, Chapter 127: District Departments of Health (Title X: Public Health) | 1 | 2024-06-17 to 2024-06-17 |
+| `chapter-0128` | New Hampshire Revised Statutes, Chapter 128: Town Health Officers (Title X: Public Health) | 1 | 2025-07-14 to 2025-07-14 |
+| `chapter-0129` | New Hampshire Revised Statutes, Chapter 129: Attendance at Meetings of Health Officers Association (Title X: Public Health) | 1 | 2025-02-26 to 2025-02-26 |
+| `chapter-0130` | New Hampshire Revised Statutes, Chapter 130: Sanitary Inspectors (Title X: Public Health) | 1 | 2025-07-14 to 2025-07-14 |
+| `chapter-0130-a` | New Hampshire Revised Statutes, Chapter 130-A: Lead Paint Poisoning Prevention and Control (Title X: Public Health) | 1 | 2025-06-30 to 2025-06-30 |
+| `chapter-0131` | New Hampshire Revised Statutes, Chapter 131: Laboratory of Hygiene (Title X: Public Health) | 1 | 2026-10-21 to 2026-10-21 |
+| `chapter-0132` | New Hampshire Revised Statutes, Chapter 132: Protection for Maternity and Infancy (Title X: Public Health) | 1 | 2025-11-14 to 2025-11-14 |
+| `chapter-0132-a` | New Hampshire Revised Statutes, Chapter 132-A: Temporary Care and Control of Children at a Hospital or Safe Haven (Title X: Public Health) | 1 | 2025-04-16 to 2025-04-16 |
+| `chapter-0135` | New Hampshire Revised Statutes, Chapter 135: New Hampshire Hospital and Insane Persons (Title X: Public Health) | 1 | 2025-07-18 to 2025-07-18 |
+| `chapter-0135-a` | New Hampshire Revised Statutes, Chapter 135-A: Interstate Compact on Mental Health (Title X: Public Health) | 1 | 2022-10-04 to 2022-10-04 |
+| `chapter-0135-c` | New Hampshire Revised Statutes, Chapter 135-C: New Hampshire Mental Health Services System (Title X: Public Health) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0135-e` | New Hampshire Revised Statutes, Chapter 135-E: Involuntary Civil Commitment of Sexually Violent Predators (Title X: Public Health) | 1 | 2026-06-21 to 2026-06-21 |
+| `chapter-0135-f` | New Hampshire Revised Statutes, Chapter 135-F: System of Care for Children's Mental Health (Title X: Public Health) | 1 | 2026-05-04 to 2026-05-04 |
+| `chapter-0137-j` | New Hampshire Revised Statutes, Chapter 137-J: Written Directives for Medical Decision Making for Adults Without Capacity to Make Health Care Decisions (Title X: Public Health) | 1 | 2026-01-18 to 2026-01-18 |
+| `chapter-0137-k` | New Hampshire Revised Statutes, Chapter 137-K: Brain and Spinal Cord Injuries (Title X: Public Health) | 1 | 2025-08-03 to 2025-08-03 |
+| `chapter-0137-l` | New Hampshire Revised Statutes, Chapter 137-L: New Hampshire Polst Registry Act (Title X: Public Health) | 1 | 2025-07-14 to 2025-07-14 |
+| `chapter-0138` | New Hampshire Revised Statutes, Chapter 138: State Sanatorium (Title X: Public Health) | 1 | 2025-06-09 to 2025-06-09 |
+| `chapter-0140` | New Hampshire Revised Statutes, Chapter 140: Occupational Health (Title X: Public Health) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0141-a` | New Hampshire Revised Statutes, Chapter 141-A: Critical Health Problems Reporting Act (Title X: Public Health) | 1 | 2021-12-04 to 2021-12-04 |
+| `chapter-0141-b` | New Hampshire Revised Statutes, Chapter 141-B: Chronic Disease Prevention, Assessment and Control (Title X: Public Health) | 1 | 2026-02-10 to 2026-02-10 |
+| `chapter-0141-c` | New Hampshire Revised Statutes, Chapter 141-C: Communicable Disease (Title X: Public Health) | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-0141-d` | New Hampshire Revised Statutes, Chapter 141-D: Uniform Determination of Death Act (Title X: Public Health) | 1 | 2026-08-01 to 2026-08-01 |
+| `chapter-0141-e` | New Hampshire Revised Statutes, Chapter 141-E: Asbestos Management and Control (Title X: Public Health) | 1 | 2025-07-06 to 2025-07-06 |
+| `chapter-0141-f` | New Hampshire Revised Statutes, Chapter 141-F: Human Immunodeficiency Virus Education, Prevention, and Control (Title X: Public Health) | 1 | 2025-06-07 to 2025-06-07 |
+| `chapter-0141-g` | New Hampshire Revised Statutes, Chapter 141-G: Notification of Emergency Response/public Safety Workers After Exposure to Infectious Disease (Title X: Public Health) | 1 | 2025-07-02 to 2025-07-02 |
+| `chapter-0141-h` | New Hampshire Revised Statutes, Chapter 141-H: Genetic Testing (Title X: Public Health) | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-0141-i` | New Hampshire Revised Statutes, Chapter 141-I: Ear Piercing (Title X: Public Health) | 1 | 2025-04-19 to 2025-04-19 |
+| `chapter-0141-j` | New Hampshire Revised Statutes, Chapter 141-J: Birth Conditions Program (Title X: Public Health) | 1 | 2025-07-15 to 2025-07-15 |
+| `chapter-0142-a` | New Hampshire Revised Statutes, Chapter 142-A: Mosquito Control Policy for State Agencies (Title X: Public Health) | 1 | 2025-06-29 to 2025-06-29 |
+| `chapter-0143` | New Hampshire Revised Statutes, Chapter 143: Sanitary Production and Distribution of Food (Title X: Public Health) | 1 | 2026-09-13 to 2026-09-13 |
+| `chapter-0143-a` | New Hampshire Revised Statutes, Chapter 143-A: Food Service Licensure (Title X: Public Health) | 1 | 2026-09-08 to 2026-09-08 |
+| `chapter-0146` | New Hampshire Revised Statutes, Chapter 146: Purity and Branding of Foods and Drugs; Immature Veal (Title X: Public Health) | 1 | 2025-06-19 to 2025-06-19 |
+| `chapter-0146-a` | New Hampshire Revised Statutes, Chapter 146-A: Oil Discharge or Spillage in Surface Water or Groundwater (Title X: Public Health) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0146-b` | New Hampshire Revised Statutes, Chapter 146-B: Drug Product Selection (Title X: Public Health) | 1 | 2025-06-11 to 2025-06-11 |
+| `chapter-0146-c` | New Hampshire Revised Statutes, Chapter 146-C: Underground Storage Facilities (Title X: Public Health) | 1 | 2025-06-02 to 2025-06-02 |
+| `chapter-0146-d` | New Hampshire Revised Statutes, Chapter 146-D: Oil Discharge and Disposal Cleanup Fund (Title X: Public Health) | 1 | 2025-06-15 to 2025-06-15 |
+| `chapter-0147` | New Hampshire Revised Statutes, Chapter 147: Nuisances; Toilets; Drains; Expectoration; Rubbish and Waste (Title X: Public Health) | 1 | 2025-06-06 to 2025-06-06 |
+| `chapter-0147-a` | New Hampshire Revised Statutes, Chapter 147-A: Hazardous Waste Management (Title X: Public Health) | 1 | 2024-06-04 to 2024-06-04 |
+| `chapter-0147-b` | New Hampshire Revised Statutes, Chapter 147-B: Hazardous Waste Cleanup Fund (Title X: Public Health) | 1 | 2026-08-31 to 2026-08-31 |
+| `chapter-0147-c` | New Hampshire Revised Statutes, Chapter 147-C: Hazardous Waste Facility Review (Title X: Public Health) | 1 | 2020-10-19 to 2020-10-19 |
+| `chapter-0147-d` | New Hampshire Revised Statutes, Chapter 147-D: Hazardous Waste Fee (Title X: Public Health) | 1 | 2025-06-07 to 2025-06-07 |
+| `chapter-0147-f` | New Hampshire Revised Statutes, Chapter 147-F: Brownfields Program (Title X: Public Health) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0149-i` | New Hampshire Revised Statutes, Chapter 149-I: Sewers (Title X: Public Health) | 1 | 2026-01-07 to 2026-01-07 |
+| `chapter-0149-j` | New Hampshire Revised Statutes, Chapter 149-J: New Hampshire-vermont Interstate Sewage and Waste Disposal Facilities Compact (Title X: Public Health) | 1 | 2026-04-07 to 2026-04-07 |
+| `chapter-0149-k` | New Hampshire Revised Statutes, Chapter 149-K: New Hampshire-massachusetts Interstate Sewage and Waste Disposal Facilities Compact (Title X: Public Health) | 1 | 2022-10-04 to 2022-10-04 |
+| `chapter-0149-m` | New Hampshire Revised Statutes, Chapter 149-M: Solid Waste Management (Title X: Public Health) | 1 | 2026-06-15 to 2026-06-15 |
+| `chapter-0149-p` | New Hampshire Revised Statutes, Chapter 149-P: Landowner's Right of Action (Title X: Public Health) | 1 | 2025-07-17 to 2025-07-17 |
+| `chapter-0149-r` | New Hampshire Revised Statutes, Chapter 149-R: Solid Waste Management Fund (Title X: Public Health) | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0151` | New Hampshire Revised Statutes, Chapter 151: Residential Care and Health Facility Licensing (Title XI: Hospitals and Sanitaria) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0151-a` | New Hampshire Revised Statutes, Chapter 151-A: Nursing Home Administrators (Title XI: Hospitals and Sanitaria) | 1 | 2025-10-05 to 2025-10-05 |
+| `chapter-0151-d` | New Hampshire Revised Statutes, Chapter 151-D: Ambulatory Care Clinics (Title XI: Hospitals and Sanitaria) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0151-e` | New Hampshire Revised Statutes, Chapter 151-E: Long-term Care (Title XI: Hospitals and Sanitaria) | 1 | 2025-09-14 to 2025-09-14 |
+| `chapter-0151-g` | New Hampshire Revised Statutes, Chapter 151-G: New Hampshire Health Care Quality and Patient Safety Commission (Title XI: Hospitals and Sanitaria) | 1 | 2025-11-09 to 2025-11-09 |
+| `chapter-0151-h` | New Hampshire Revised Statutes, Chapter 151-H: Receivership of Nursing Homes and Other Residential Care Facilities (Title XI: Hospitals and Sanitaria) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0151-i` | New Hampshire Revised Statutes, Chapter 151-I: Special Medicaid Representatives (Title XI: Hospitals and Sanitaria) | 1 | 2025-09-12 to 2025-09-12 |
+| `chapter-0151-j` | New Hampshire Revised Statutes, Chapter 151-J: New Hampshire Health Care Workplace Safety Commission (Title XI: Hospitals and Sanitaria) | 1 | 2025-09-26 to 2025-09-26 |
+| `chapter-0153` | New Hampshire Revised Statutes, Chapter 153: State Board of Fire Control (Title XII: Public Safety and Welfare) | 1 | 2025-10-26 to 2025-10-26 |
+| `chapter-0153-a` | New Hampshire Revised Statutes, Chapter 153-A: Emergency Medical and Trauma Services (Title XII: Public Safety and Welfare) | 1 | 2025-12-04 to 2025-12-04 |
+| `chapter-0154` | New Hampshire Revised Statutes, Chapter 154: Firewards, Firefighters, and Fire Hazards (Title XII: Public Safety and Welfare) | 1 | 2026-01-26 to 2026-01-26 |
+| `chapter-0155` | New Hampshire Revised Statutes, Chapter 155: Factories, Tenements, Schoolhouses, and Places of Public Accommodation, Resort or Assembly (Title XII: Public Safety and Welfare) | 1 | 2026-07-28 to 2026-07-28 |
+| `chapter-0155-a` | New Hampshire Revised Statutes, Chapter 155-A: New Hampshire Building Code (Title XII: Public Safety and Welfare) | 1 | 2026-08-25 to 2026-08-25 |
+| `chapter-0155-b` | New Hampshire Revised Statutes, Chapter 155-B: Hazardous and Dilapidated Buildings (Title XII: Public Safety and Welfare) | 1 | 2025-08-07 to 2025-08-07 |
+| `chapter-0155-e` | New Hampshire Revised Statutes, Chapter 155-E: Local Regulation Excavations (Title XII: Public Safety and Welfare) | 1 | 2025-12-24 to 2025-12-24 |
+| `chapter-0157-a` | New Hampshire Revised Statutes, Chapter 157-A: Boilers and Pressure Vessels (Title XII: Public Safety and Welfare) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0157-b` | New Hampshire Revised Statutes, Chapter 157-B: Elevators and Accessibility Lifts (Title XII: Public Safety and Welfare) | 1 | 2025-08-12 to 2025-08-12 |
+| `chapter-0159` | New Hampshire Revised Statutes, Chapter 159: Pistols and Revolvers (Title XII: Public Safety and Welfare) | 1 | 2026-10-27 to 2026-10-27 |
+| `chapter-0159-b` | New Hampshire Revised Statutes, Chapter 159-B: Shooting Ranges (Title XII: Public Safety and Welfare) | 1 | 2024-05-29 to 2024-05-29 |
+| `chapter-0159-d` | New Hampshire Revised Statutes, Chapter 159-D: Criminal Background Checks (Title XII: Public Safety and Welfare) | 1 | 2025-09-06 to 2025-09-06 |
+| `chapter-0159-e` | New Hampshire Revised Statutes, Chapter 159-E: Presidential Executive Orders and Statutory Law Relating to the Right to Keep and Bear Arms (Title XII: Public Safety and Welfare) | 1 | 2025-07-07 to 2025-07-07 |
+| `chapter-0159-f` | New Hampshire Revised Statutes, Chapter 159-F: Firearm Purchaser's Privacy (Title XII: Public Safety and Welfare) | 1 | 2025-06-27 to 2025-06-27 |
+| `chapter-0160-b` | New Hampshire Revised Statutes, Chapter 160-B: Fireworks (Title XII: Public Safety and Welfare) | 1 | 2026-03-29 to 2026-03-29 |
+| `chapter-0160-c` | New Hampshire Revised Statutes, Chapter 160-C: Permissible Fireworks (Title XII: Public Safety and Welfare) | 1 | 2025-11-07 to 2025-11-07 |
+| `chapter-0161` | New Hampshire Revised Statutes, Chapter 161: Human Service (Title XII: Public Safety and Welfare) | 1 | 2025-07-23 to 2025-07-23 |
+| `chapter-0161-b` | New Hampshire Revised Statutes, Chapter 161-B: Support of Dependent Children (Title XII: Public Safety and Welfare) | 1 | 2026-03-31 to 2026-03-31 |
+| `chapter-0161-e` | New Hampshire Revised Statutes, Chapter 161-E: Personal Care for the Severely Physically Disabled (Title XII: Public Safety and Welfare) | 1 | 2026-09-16 to 2026-09-16 |
+| `chapter-0161-f` | New Hampshire Revised Statutes, Chapter 161-F: Elderly and Adult Services (Title XII: Public Safety and Welfare) | 1 | 2025-08-04 to 2025-08-04 |
+| `chapter-0161-h` | New Hampshire Revised Statutes, Chapter 161-H: Medical Child Support (Title XII: Public Safety and Welfare) | 1 | 2025-07-01 to 2025-07-01 |
+| `chapter-0161-i` | New Hampshire Revised Statutes, Chapter 161-I: Personal Care Services (Title XII: Public Safety and Welfare) | 1 | 2025-06-28 to 2025-06-28 |
+| `chapter-0161-j` | New Hampshire Revised Statutes, Chapter 161-J: Assisted Living Residences, Independent Living Retirement Communities, and Housing for Older Persons (Title XII: Public Safety and Welfare) | 1 | 2025-04-24 to 2025-04-24 |
+| `chapter-0161-k` | New Hampshire Revised Statutes, Chapter 161-K: New Hampshire Pharmaceutical Assistance Program (Title XII: Public Safety and Welfare) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0161-m` | New Hampshire Revised Statutes, Chapter 161-M: Senior Citizens Bill of Rights (Title XII: Public Safety and Welfare) | 1 | 2026-05-31 to 2026-05-31 |
+| `chapter-0161-n` | New Hampshire Revised Statutes, Chapter 161-N: Home Health Care Agency Services (Title XII: Public Safety and Welfare) | 1 | 2025-08-10 to 2025-08-10 |
 
-The build made 398 commits:
+The build made 559 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 398 | first version of an act |
+| 559 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -425,7 +586,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 398 tags.
+- 559 tags.
 
 ## Dates
 
@@ -437,7 +598,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `25b18e68f1bcf02c2203ee90e605ed761d9c429a27b6cd36e36aa24062d446dc` (11167989 bytes).
+- Corpus: sha256 `248b2a2892c132eddba722c3aff1d1e1b375f4cb7c4bd9a8ed5858119529a466` (15778868 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
