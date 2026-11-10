@@ -7826,6 +7826,3786 @@
      "sha256": "0be3ffad6ce75948857e25b26364a6c2ee0a070aa68f7a0644f1927505f00747"
     }
    ]
+  },
+  {
+   "slug": "chapter-0162-b",
+   "short": "RSA 162-B",
+   "title": "New Hampshire Revised Statutes, Chapter 162-B: Peaceful Uses of Atomic Energy (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250707194012/https://gc.nh.gov/rsa/html/XII/162-B/162-B-mrg.htm",
+     "sha256": "69496459016df41ccf4e2fb859dfadaa5984699f046f7d73838e903cfcf4bbdf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-c",
+   "short": "RSA 162-C",
+   "title": "New Hampshire Revised Statutes, Chapter 162-C: Council on Resources and Development (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250601031211/https://gc.nh.gov/rsa/html/XII/162-C/162-C-mrg.htm",
+     "sha256": "1f373335878a10c46f8ccd64c4dd5f4591f3838dd9f5f64f0c90bff075ceb550"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-f",
+   "short": "RSA 162-F",
+   "title": "New Hampshire Revised Statutes, Chapter 162-F: Decommissioning of Nuclear Electric Generating Facilities (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-F.htm",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260506150325/https://gc.nh.gov/rsa/html/XII/162-F/162-F-mrg.htm",
+     "sha256": "cf42ce34992b102c46e8c3239427b72b70e4ab21c894c10ce9ea4e1a63c79c9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-g",
+   "short": "RSA 162-G",
+   "title": "New Hampshire Revised Statutes, Chapter 162-G: Acquisition, Development and Disposal of Industrial Land and Facilities (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-G.htm",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20251028112359/https://gc.nh.gov/rsa/html/XII/162-G/162-G-mrg.htm",
+     "sha256": "6c742ab8fe477ff71414226c2fa360f5b0e90c1d44c8c368ab46495a67c24168"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-h",
+   "short": "RSA 162-H",
+   "title": "New Hampshire Revised Statutes, Chapter 162-H: Energy Facility Evaluation, Siting, Construction and Operation (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-H.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260901043300/https://gc.nh.gov/rsa/html/XII/162-H/162-H-mrg.htm",
+     "sha256": "b19d822bee42925ebdf4cc3be8e8c4f474ac3784a9ce24021c7f47081c3e7ac1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-i",
+   "short": "RSA 162-I",
+   "title": "New Hampshire Revised Statutes, Chapter 162-I: Business Finance Authority Revenue Bonds (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-I.htm",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261018060755/https://gc.nh.gov/rsa/html/XII/162-I/162-I-mrg.htm",
+     "sha256": "d6c83bce49497d442aa3f5be124bc71901077de757fbc66191e1fc7564182759"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-k",
+   "short": "RSA 162-K",
+   "title": "New Hampshire Revised Statutes, Chapter 162-K: Municipal Economic Development and Revitalization Districts (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-K.htm",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260105223359/https://gc.nh.gov/rsa/html/XII/162-K/162-K-mrg.htm",
+     "sha256": "0a85233f2695d1a788d7639752d73c9a1dbf0c2cd7b05b0f965377962012d8c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-l",
+   "short": "RSA 162-L",
+   "title": "New Hampshire Revised Statutes, Chapter 162-L: Community Development Finance Authority (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-L.htm",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20240301040425/https://www.gencourt.state.nh.us/rsa/html/XII/162-L/162-L-mrg.htm",
+     "sha256": "6cf09981ae76d0b678cb2baed42346f8eea4e082bee58286dc6a7d05a376a477"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-m",
+   "short": "RSA 162-M",
+   "title": "New Hampshire Revised Statutes, Chapter 162-M: Private Activity Bond Limit (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-M.htm",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250707004127/https://gc.nh.gov/rsa/html/XII/162-M/162-M-mrg.htm",
+     "sha256": "d3db7280d2133350254e1d082be3707179ebe7ef86ebc69d91ddad81760fd8ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-n",
+   "short": "RSA 162-N",
+   "title": "New Hampshire Revised Statutes, Chapter 162-N: Economic Revitalization Zone Tax Credits (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-N.htm",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20251118165153/https://gc.nh.gov/rsa/html/XII/162-N/162-N-mrg.htm",
+     "sha256": "626864d0ae662ebb274cd9a6d77d17fde40d7affba2e80363461786ea8eb960d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-o",
+   "short": "RSA 162-O",
+   "title": "New Hampshire Revised Statutes, Chapter 162-O: State Jobs Grant Fund (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-O.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220522174222/http://gencourt.state.nh.us/rsa/html/XII/162-O/162-O-mrg.htm",
+     "sha256": "3b4e24289ba40476a3223db278a04ed7943bc6b99dfe2f334df0b51561c6d544"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-p",
+   "short": "RSA 162-P",
+   "title": "New Hampshire Revised Statutes, Chapter 162-P: Research and Development Tax Credit Program (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-P.htm",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250709055506/https://gc.nh.gov/rsa/html/XII/162-P/162-P-mrg.htm",
+     "sha256": "ee17fd3aa11d9ef9396cf7134b5878e28274abf7447d897abe099898b04d2fb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-q",
+   "short": "RSA 162-Q",
+   "title": "New Hampshire Revised Statutes, Chapter 162-Q: Coos County Job Creation Tax Credit (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-Q.htm",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250729043507/https://gc.nh.gov/rsa/html/XII/162-Q/162-Q-mrg.htm",
+     "sha256": "441a83b901048006afecdc8f0ef11b0e4becb5d5e0e07b1acfd30a4f180a3239"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-r",
+   "short": "RSA 162-R",
+   "title": "New Hampshire Revised Statutes, Chapter 162-R: Energy Infrastructure Development and Corridors (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-R.htm",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260913081908/https://gc.nh.gov/rsa/html/XII/162-R/162-R-mrg.htm",
+     "sha256": "4eb865a2b9cbc7bdd05554b7f35a749606e8865bf324aeac130ec59453088413"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-s",
+   "short": "RSA 162-S",
+   "title": "New Hampshire Revised Statutes, Chapter 162-S: Extraterritorial Financing Powers of the New Hampshire Business Finance Authority (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-S.htm",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20240520022347/https://gencourt.state.nh.us/rsa/html/XII/162-S/162-S-mrg.htm",
+     "sha256": "8834cbe46d5908929fa587aa4961b72ff970a61010e89dde601214574edf314a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0162-t",
+   "short": "RSA 162-T",
+   "title": "New Hampshire Revised Statutes, Chapter 162-T: Regenerative Manufacturing Workforce Development Program (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-162-T.htm",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250905150758/https://gc.nh.gov/rsa/html/XII/162-T/162-T-mrg.htm",
+     "sha256": "84e92e5089565beb1fba17dfaa6759264073791fb09ba8954d405c05e6c8f2e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0163-a",
+   "short": "RSA 163-A",
+   "title": "New Hampshire Revised Statutes, Chapter 163-A: New England Interstate Planning Compact (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-163-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260109184630/https://gc.nh.gov/rsa/html/XII/163-A/163-A-mrg.htm",
+     "sha256": "3bcb35c9acd4b7a9ba8489bd92e940c12ba16b86cdecff343d7862939e740442"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0163-b",
+   "short": "RSA 163-B",
+   "title": "New Hampshire Revised Statutes, Chapter 163-B: Litter Control Law (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-163-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250818092409/https://gc.nh.gov/rsa/html/xii/163-b/163-b-mrg.htm",
+     "sha256": "55235c4ab9086943115cc426fbfdf7c0a709d11daa06762dbda2f6b7d772e1e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0165",
+   "short": "RSA 165",
+   "title": "New Hampshire Revised Statutes, Chapter 165: Aid to Assisted Persons (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-165.htm",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260426075448/https://gc.nh.gov/rsa/html/XII/165/165-mrg.htm",
+     "sha256": "b84a794bc37940a9d9ce21b245a1f5ba3973cf3dab411bff06b37e01e9c31005"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0166",
+   "short": "RSA 166",
+   "title": "New Hampshire Revised Statutes, Chapter 166: Aid to County Assisted Persons (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-166.htm",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260419210940/https://gc.nh.gov/rsa/html/XII/166/166-mrg.htm",
+     "sha256": "76895d9f4f48c2adf5695ac3ed6a3fd9bc4aa73796c3a024d676e14ef33c321a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0167",
+   "short": "RSA 167",
+   "title": "New Hampshire Revised Statutes, Chapter 167: Public Assistance to Blind, Aged, or Disabled Persons, and to Dependent Children (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-167.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 137,
+     "source_url": "https://web.archive.org/web/20250703073559/https://gc.nh.gov/rsa/html/xii/167/167-mrg.htm",
+     "sha256": "a1eef82ea989fa8d6182ec3227b00757c43f27092c0a579c59f7a36056d07ef4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0167-b",
+   "short": "RSA 167-B",
+   "title": "New Hampshire Revised Statutes, Chapter 167-B: Marriage Counseling Referral Service (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-167-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250803070440/https://gc.nh.gov/rsa/html/XII/167-B/167-B-mrg.htm",
+     "sha256": "bc6d9cc2fbb0580034fcdffe3755d2a75558bfe892a31591125ec271bad9dc06"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0167-c",
+   "short": "RSA 167-C",
+   "title": "New Hampshire Revised Statutes, Chapter 167-C: White Cane Law (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-167-C.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20230127000402/https://www.gencourt.state.nh.us/rsa/html/xii/167-c/167-c-mrg.htm",
+     "sha256": "d4cc35f2cecd3100f85e6aa451749c9e252b17dbf9aab3dba9b8113462bbf782"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0167-d",
+   "short": "RSA 167-D",
+   "title": "New Hampshire Revised Statutes, Chapter 167-D: Service Animals and Search and Rescue Dogs (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-167-D.htm",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260108193424/https://gc.nh.gov/rsa/html/XII/167-D/167-D-mrg.htm",
+     "sha256": "f6c1ecdc80eefa68d1885cf73103ee93a4524157a30314140fec92eb08b62b8e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0168-b",
+   "short": "RSA 168-B",
+   "title": "New Hampshire Revised Statutes, Chapter 168-B: Parentage (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-168-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261017124323/https://gc.nh.gov/rsa/html/xii/168-b/168-b-mrg.htm",
+     "sha256": "f32bbce4944c62f40afa83b7c1134c76b469f220f4366a83ad55bf6f7478b049"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-a",
+   "short": "RSA 169-A",
+   "title": "New Hampshire Revised Statutes, Chapter 169-A: Interstate Compact for Juveniles (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250721120542/https://gc.nh.gov/rsa/html/XII/169-A/169-A-mrg.htm",
+     "sha256": "f7433fb9002f046530c590c6e561f0cbd96a88d7cd8275c8607f14c9e5f2a539"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-b",
+   "short": "RSA 169-B",
+   "title": "New Hampshire Revised Statutes, Chapter 169-B: Delinquent Children (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-24",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20250824051043/https://gc.nh.gov/rsa/html/xii/169-B/169-B-mrg.htm",
+     "sha256": "36856b4a155a1610cf89d2ef60d621bd7bce3b6bb47cba1cb37305904f26dd45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-c",
+   "short": "RSA 169-C",
+   "title": "New Hampshire Revised Statutes, Chapter 169-C: Child Protection Act (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-C.htm",
+   "versions": [
+    {
+     "from": "2026-03-29",
+     "units": 86,
+     "source_url": "https://web.archive.org/web/20260329220759/https://gc.nh.gov/rsa/html/xii/169-c/169-c-mrg.htm",
+     "sha256": "17a5b48c2a7d5416e50612319204c988fcb926bca5cd2476330790a9b8122a39"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-d",
+   "short": "RSA 169-D",
+   "title": "New Hampshire Revised Statutes, Chapter 169-D: Children in Need of Services (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-D.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20250702105506/https://gc.nh.gov/rsa/html/XII/169-D/169-D-mrg.htm",
+     "sha256": "6e07f31e50fdd3d661f6467eb7bcf14afa56466f10a7a92c19553601fa31524b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-e",
+   "short": "RSA 169-E",
+   "title": "New Hampshire Revised Statutes, Chapter 169-E: Missing Children (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-E.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250226045114/https://gc.nh.gov/rsa/html/XII/169-E/169-E-mrg.htm",
+     "sha256": "2da848a1ac50fd011d7106d4cc1f6ff93a6160aea01c2bed0dd6bb5eaed3d678"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0169-f",
+   "short": "RSA 169-F",
+   "title": "New Hampshire Revised Statutes, Chapter 169-F: Court Ordered Placements (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-169-F.htm",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260806210755/https://gc.nh.gov/rsa/html/XII/169-F/169-F-mrg.htm",
+     "sha256": "88e036fd7b0ca3343f70dc83f290e9f671255069f9fdfa9bfb49ae03ad73d187"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-a",
+   "short": "RSA 170-A",
+   "title": "New Hampshire Revised Statutes, Chapter 170-A: Interstate Compact on the Placement of Children (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-A.htm",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260511073144/https://gc.nh.gov/rsa/html/XII/170-A/170-A-mrg.htm",
+     "sha256": "cfabc57b1d46f59710d4951a6de3e37726e763d27e077d53c15585988d2c4a18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-b",
+   "short": "RSA 170-B",
+   "title": "New Hampshire Revised Statutes, Chapter 170-B: Adoption (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-B.htm",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260916055537/https://gc.nh.gov/rsa/html/xii/170-b/170-b-mrg.htm",
+     "sha256": "b22ef734985f984dcd7864b7b1e5a98747a5d483604e5407c0e829dfb2f1ecc7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-c",
+   "short": "RSA 170-C",
+   "title": "New Hampshire Revised Statutes, Chapter 170-C: Termination of Parental Rights (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250726172212/https://gc.nh.gov/rsa/html/XII/170-C/170-C-mrg.htm",
+     "sha256": "a32f89eee8d4a5424a9f4b699fe7c2c0d2ccd91c18b1eae847f46cd123d16456"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-e",
+   "short": "RSA 170-E",
+   "title": "New Hampshire Revised Statutes, Chapter 170-E: Child Day Care, Residential Care, and Child-placing Agencies (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-E.htm",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20261006173856/https://gc.nh.gov/rsa/html/XII/170-E/170-E-mrg.htm",
+     "sha256": "2e3ebfec8e13571954b418f58725f0b65aef558647e9fb16469e92af4374fa05"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-g",
+   "short": "RSA 170-G",
+   "title": "New Hampshire Revised Statutes, Chapter 170-G: Services for Children, Youth and Families (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-G.htm",
+   "versions": [
+    {
+     "from": "2025-10-19",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20251019024902/https://gc.nh.gov/rsa/html/XII/170-G/170-G-mrg.htm",
+     "sha256": "60dce8ffa55860d29afa3978f5931aade4b1d2633d42c5fb4b3449f674978061"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0170-h",
+   "short": "RSA 170-H",
+   "title": "New Hampshire Revised Statutes, Chapter 170-H: Parole of Delinquents (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-170-H.htm",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250718201203/https://gc.nh.gov/rsa/html/XII/170-H/170-H-mrg.htm",
+     "sha256": "ad9a520d06ff9076621b6a65fd092fcc5553386134638315c899682f2b49a869"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0171-a",
+   "short": "RSA 171-A",
+   "title": "New Hampshire Revised Statutes, Chapter 171-A: Services for the Developmentally Disabled (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-171-A.htm",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260622182546/https://gc.nh.gov/rsa/html/xii/171-a/171-a-mrg.htm",
+     "sha256": "c92a16c0397c3d9a427d3d3bd80d689a7e4024c675472fdd52945380025917e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0171-b",
+   "short": "RSA 171-B",
+   "title": "New Hampshire Revised Statutes, Chapter 171-B: Involuntary Admission for Persons Found Not Competent to Stand Trial (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-171-B.htm",
+   "versions": [
+    {
+     "from": "2025-04-12",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250412225737/https://gc.nh.gov/rsa/html/XII/171-B/171-B-mrg.htm",
+     "sha256": "9b76d3a654dcfc3b48968d692841fe7f7006f5328fc60eddb35b8f2f62c14286"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0172",
+   "short": "RSA 172",
+   "title": "New Hampshire Revised Statutes, Chapter 172: New Hampshire Substance Use Disorder Services System (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-172.htm",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260411153835/https://gc.nh.gov/rsa/html/XII/172/172-mrg.htm",
+     "sha256": "f0f5ebab985898823483cb014abe2b20735305df7682f82b9938c2dbd46df373"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0172-b",
+   "short": "RSA 172-B",
+   "title": "New Hampshire Revised Statutes, Chapter 172-B: Alcoholism and Alcohol Abuse (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-172-B.htm",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250219034931/https://gc.nh.gov/rsa/html/XII/172-B/172-B-mrg.htm",
+     "sha256": "6acc46a052ea77d5fee0d6b4d222d1c9e6d608029bdad181048e3d8d4b80c553"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0173-b",
+   "short": "RSA 173-B",
+   "title": "New Hampshire Revised Statutes, Chapter 173-B: Protection of Persons from Domestic Violence (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-173-B.htm",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20251116213620/https://www.gc.nh.gov/rsa/html/xii/173-b/173-b-mrg.htm",
+     "sha256": "929a455d9d94c14e4b8b00a54f426a55444b17b9a6ec71da25e9b1aecf8d3f56"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0173-c",
+   "short": "RSA 173-C",
+   "title": "New Hampshire Revised Statutes, Chapter 173-C: Confidential Communications Between Victims and Counselors (Title XII: Public Safety and Welfare)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XII-173-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250724134050/https://gc.nh.gov/rsa/html/XII/173-C/173-C-mrg.htm",
+     "sha256": "7c44c8598737c53b1cc02a6d6945d9b396d74eb74484732fa78bb3800b559398"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0175",
+   "short": "RSA 175",
+   "title": "New Hampshire Revised Statutes, Chapter 175: Definitions and General Provisions (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-175.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250528230459/https://gc.nh.gov/rsa/html/XIII/175/175-mrg.htm",
+     "sha256": "c9c1f325b79fa0007fde379cd37244aac48ce82ff830f3ea25027aef2df21554"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0176",
+   "short": "RSA 176",
+   "title": "New Hampshire Revised Statutes, Chapter 176: The Liquor Commission (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-176.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250704052241/https://gc.nh.gov/rsa/html/XIII/176/176-mrg.htm",
+     "sha256": "3ee3870ddb165e4028c07ffacee0e84e041bdd2e7b7b105a8f87ad7c585f858b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0176-a",
+   "short": "RSA 176-A",
+   "title": "New Hampshire Revised Statutes, Chapter 176-A: Alcohol Abuse Prevention and Treatment Fund (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-176-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260428221544/https://gc.nh.gov/rsa/html/XIII/176-A/176-A-mrg.htm",
+     "sha256": "8380414c9248c471d41af592351869c4d4018e85431895585b1550e7a6a38dab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0177",
+   "short": "RSA 177",
+   "title": "New Hampshire Revised Statutes, Chapter 177: State Liquor Stores (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-177.htm",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250601003813/https://gc.nh.gov/rsa/html/XIII/177/177-mrg.htm",
+     "sha256": "2ee11736812132625c9bd2b7df666f50295cf545467faf1a6bd80632c3715249"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0178",
+   "short": "RSA 178",
+   "title": "New Hampshire Revised Statutes, Chapter 178: Liquor Licenses and Fees (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-178.htm",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20260120222128/https://gc.nh.gov/rsa/html/XIII/178/178-mrg.htm",
+     "sha256": "6d3ac438f1b34901191667f6b7cc2fc7d3badaf4669f2333dd49b50e9ea0a156"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0179",
+   "short": "RSA 179",
+   "title": "New Hampshire Revised Statutes, Chapter 179: Enforcement, Requirements and Penalties (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-179.htm",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20251122183158/https://gc.nh.gov/rsa/html/XIII/179/179-mrg.htm",
+     "sha256": "3d3935a22461f0c25a128de5e1fa50059dd60002c885e84b69d131de1bc1b78c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0180",
+   "short": "RSA 180",
+   "title": "New Hampshire Revised Statutes, Chapter 180: Beverage Distributor Agreements (Title XIII: Alcoholic Beverages)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIII-180.htm",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260517170156/https://gc.nh.gov/rsa/html/XIII/180/180-mrg.htm",
+     "sha256": "99b687f4f1df82b5da895a9548b22c1428d8d7740b11b6deff4e52a645366c65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0184",
+   "short": "RSA 184",
+   "title": "New Hampshire Revised Statutes, Chapter 184: Inspection and Sale of Dairy Products (Title XIV: Milk and Milk Products)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIV-184.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20250618105618/https://gc.nh.gov/rsa/html/XIV/184/184-mrg.htm",
+     "sha256": "7bd10d16adfdfa76740321e970e68b2aa9b197f3cefdac7cc61f081fda506179"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0216",
+   "short": "RSA 216",
+   "title": "New Hampshire Revised Statutes, Chapter 216: Management of Certain Recreational and Historic Sites (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-216.htm",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250325140746/https://gc.nh.gov/rsa/html/XIX/216/216-mrg.htm",
+     "sha256": "03ac80fb1ca4c099b503858dae364b02c3838e28afb39821c4ac92430e19ce47"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0216-a",
+   "short": "RSA 216-A",
+   "title": "New Hampshire Revised Statutes, Chapter 216-A: Expansion of State Park System (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-216-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20220528170035/https://gencourt.state.nh.us/rsa/html/XIX/216-A/216-A-mrg.htm",
+     "sha256": "d47782ff11426f41981faababfcf15b2de602b098ef39535132404ab52fbac8a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0216-c",
+   "short": "RSA 216-C",
+   "title": "New Hampshire Revised Statutes, Chapter 216-C: Back Channels of Portsmouth Harbor (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-216-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220522173112/http://gencourt.state.nh.us/rsa/html/XIX/216-C/216-C-mrg.htm",
+     "sha256": "e959409f8348fc76ec5224679a22af425c9e87fa2384beb242b0db9193959ab4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0216-f",
+   "short": "RSA 216-F",
+   "title": "New Hampshire Revised Statutes, Chapter 216-F: Multi-use Statewide Trail System (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-216-F.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250605204735/https://gc.nh.gov/rsa/html/XIX/216-F/216-F-mrg.htm",
+     "sha256": "6e1869ed8e97932edd0ad19fabcd6b0de33453a7048ccf230b92454211e8309e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0216-j",
+   "short": "RSA 216-J",
+   "title": "New Hampshire Revised Statutes, Chapter 216-J: Hampton Beach Area Commission (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-216-J.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250625203634/https://gc.nh.gov/rsa/html/xix/216-j/216-j-mrg.htm",
+     "sha256": "a8bc5038a916c9558d9367385a22a7ffe4faccb0f50cd6b48bce949a7feb8a99"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0217-a",
+   "short": "RSA 217-A",
+   "title": "New Hampshire Revised Statutes, Chapter 217-A: New Hampshire Native Plant Protection (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-217-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260417163437/https://gc.nh.gov/rsa/html/XIX/217-A/217-A-mrg.htm",
+     "sha256": "35e6cca12825661d26da27e5876fcd3684852b120b9b74763b60b2e7e786955f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0225-a",
+   "short": "RSA 225-A",
+   "title": "New Hampshire Revised Statutes, Chapter 225-A: Skiers, Ski Area and Passenger Tramway Safety (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-225-A.htm",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20231012230154/https://www.gencourt.state.nh.us/rsa/html/xix/225-a/225-a-mrg.htm",
+     "sha256": "f2d3d4245536fa0ab2376c87d26c6c5171a88469e40c2180620b56545671f134"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0227-b",
+   "short": "RSA 227-B",
+   "title": "New Hampshire Revised Statutes, Chapter 227-B: Mount Washington Commission (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-227-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250605205115/https://gc.nh.gov/rsa/html/xix/227-b/227-b-mrg.htm",
+     "sha256": "09b479578437088dededf1e570395dce6fece0d67c2f4a457a47facc5702c6ad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0227-c",
+   "short": "RSA 227-C",
+   "title": "New Hampshire Revised Statutes, Chapter 227-C: Historic Preservation (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-227-C.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20251111151753/https://gc.nh.gov/rsa/html/xix/227-c/227-c-mrg.htm",
+     "sha256": "1814311b088206f7f882059ddfda59675df52493f4c2a9fe35de24eda5631a5a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0227-d",
+   "short": "RSA 227-D",
+   "title": "New Hampshire Revised Statutes, Chapter 227-D: Monadnock Advisory Commission (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-227-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250625203635/https://gc.nh.gov/rsa/html/xix/227-d/227-d-mrg.htm",
+     "sha256": "dd94a8690da160e4a105dc3f4a057d6e5b599ff42dcec00a1a510e6a1402f7ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0227-e",
+   "short": "RSA 227-E",
+   "title": "New Hampshire Revised Statutes, Chapter 227-E: Connecticut River Valley Resource Commission (Title XIX: Public Recreation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XIX-227-E.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220528032208/http://gencourt.state.nh.us/rsa/html/XIX/227-E/227-E-mrg.htm",
+     "sha256": "38a95c7d056b69757a9709a73c453bd92b9f25bfd01cd19dba81bc6c1716dce1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0425",
+   "short": "RSA 425",
+   "title": "New Hampshire Revised Statutes, Chapter 425: The Department of Agriculture, Markets, and Food (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-425.htm",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260107030240/https://gc.nh.gov/rsa/html/XL/425/425-mrg.htm",
+     "sha256": "1e6adbfcc59057d5c42b92cd16bbb1ea73a3992c46fc92fbacd8be3b522ce64a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0426",
+   "short": "RSA 426",
+   "title": "New Hampshire Revised Statutes, Chapter 426: Standards for Farm Products (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-426.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250529143511/https://gc.nh.gov/rsa/html/XL/426/426-mrg.htm",
+     "sha256": "68f254c8c7e2be769f7ce823ba57404137fa2a4e77940bf90be791033811adb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0426-a",
+   "short": "RSA 426-A",
+   "title": "New Hampshire Revised Statutes, Chapter 426-A: Produce Safety (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-426-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250618110034/https://gc.nh.gov/rsa/html/XL/426-A/426-A-mrg.htm",
+     "sha256": "e076e135ff00f01e76a375ab9ab502068d876a93587c9c7131cb97167962e3a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0427",
+   "short": "RSA 427",
+   "title": "New Hampshire Revised Statutes, Chapter 427: Livestock and Meat Inspection (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-427.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20250529143248/https://gc.nh.gov/rsa/html/XL/427/427-mrg.htm",
+     "sha256": "4684ac17eaf375ce62aa3fbdcbaf103275e93141ec321dc6fa80cbcfd3805950"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0428",
+   "short": "RSA 428",
+   "title": "New Hampshire Revised Statutes, Chapter 428: Poultry and Poultry Products (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-428.htm",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260107011706/https://gc.nh.gov/rsa/html/XL/428/428-mrg.htm",
+     "sha256": "0c5b5241576f75209168ef43794bbd6f144c4610dac98fdcd1241f642b3f4870"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0429",
+   "short": "RSA 429",
+   "title": "New Hampshire Revised Statutes, Chapter 429: Beekeeping and Maple and Honey Products (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-429.htm",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20240613131505/https://www.gencourt.state.nh.us/rsa/html/XL/429/429-mrg.htm",
+     "sha256": "8633cd533b414dd3a090f34d18d057eea7d2ffac83e43708f819036e59c85925"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0430",
+   "short": "RSA 430",
+   "title": "New Hampshire Revised Statutes, Chapter 430: Insect Pests and Plant Diseases (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-430.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20251111124429/https://gc.nh.gov/rsa/html/XL/430/430-mrg.htm",
+     "sha256": "f3be9fffac379d85150cc38c651ecc695386bed99b0b5587222f5ae538ddccc6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0431",
+   "short": "RSA 431",
+   "title": "New Hampshire Revised Statutes, Chapter 431: Soil and Plant Additives (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-431.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20251111084000/https://gc.nh.gov/rsa/html/XL/431/431-mrg.htm",
+     "sha256": "8637db3586111e73a9a2e89b7f2f2a9cea0a41ce3c5f76a76c9973061add6e5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0432",
+   "short": "RSA 432",
+   "title": "New Hampshire Revised Statutes, Chapter 432: Soil Conservation and Farmland Preservation (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-432.htm",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20220812183550/http://www.gencourt.state.nh.us/rsa/html/xl/432/432-mrg.htm",
+     "sha256": "e19cfad38997a52b367b2bd6e49e0adab5ba4cab856aea8c06caae5bb7efc6b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0433",
+   "short": "RSA 433",
+   "title": "New Hampshire Revised Statutes, Chapter 433: Seeds, Plants and Nursery Stock (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-433.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20250529143448/https://gc.nh.gov/rsa/html/XL/433/433-mrg.htm",
+     "sha256": "c03b62f9738738734f064db571fe9ff5fc0067bc5ee9603cfe36d4b969a35cb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0433-a",
+   "short": "RSA 433-A",
+   "title": "New Hampshire Revised Statutes, Chapter 433-A: Horticultural Growing Media (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-433-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250529143445/https://gc.nh.gov/rsa/html/XL/433-A/433-A-mrg.htm",
+     "sha256": "b95fb9d39d43e8ccccb16fe9cf72aad6797154c25d6fbc1a2b2e34353916441f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0433-c",
+   "short": "RSA 433-C",
+   "title": "New Hampshire Revised Statutes, Chapter 433-C: Industrial Hemp Research (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-433-C.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220625015716/https://gencourt.state.nh.us/rsa/html/XL/433-C/433-C-mrg.htm",
+     "sha256": "9f0f010059715544f0eda5b0fbe794b06b831c3a57719618cf1e710ad89f922d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0434",
+   "short": "RSA 434",
+   "title": "New Hampshire Revised Statutes, Chapter 434: Marketing and Grading of Certain Commodities (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-434.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20220524175149/http://gencourt.state.nh.us/rsa/html/XL/434/434-mrg.htm",
+     "sha256": "d46a99adeff264a4560d26f51a62aa8dc902c2cf3257cb544382d222fd28b32e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0435",
+   "short": "RSA 435",
+   "title": "New Hampshire Revised Statutes, Chapter 435: Animal Care, Breeding and Feed (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-435.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260106161852/https://gc.nh.gov/rsa/html/XL/435/435-mrg.htm",
+     "sha256": "27f27487674cfd3ff529325851b4233e10858347e46a223c37fe10e7488131b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0436",
+   "short": "RSA 436",
+   "title": "New Hampshire Revised Statutes, Chapter 436: Diseases of Domestic Animals (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-436.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20260106102802/https://gc.nh.gov/rsa/html/XL/436/436-mrg.htm",
+     "sha256": "374415faa1280b03cef015213f3f856edb0874dd3b77a0c11037adfa5f0e9d23"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0436-a",
+   "short": "RSA 436-A",
+   "title": "New Hampshire Revised Statutes, Chapter 436-A: Wildlife Disease Control (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-436-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220517011412/http://gencourt.state.nh.us/rsa/html/XL/436-A/436-A-mrg.htm",
+     "sha256": "cccfa17f3c7a503ef59f1635f1b78f2b13ee89bc484d0244fbe267c4f685820e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0437",
+   "short": "RSA 437",
+   "title": "New Hampshire Revised Statutes, Chapter 437: Sale of Pets and Disposition of Unclaimed Animals (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-437.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260106092308/https://gc.nh.gov/rsa/html/XL/437/437-mrg.htm",
+     "sha256": "ca3323ee0be02d37e8e1f3a05323b83a6cdf890e04815ef17c91db62da1dc0e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0437-a",
+   "short": "RSA 437-A",
+   "title": "New Hampshire Revised Statutes, Chapter 437-A: Animal Population Control (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-437-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260106161334/https://gc.nh.gov/rsa/html/XL/437-A/437-A-mrg.htm",
+     "sha256": "b1173a9483c62265e2422ed5b4d26f42dcf8a97a586e1b24773c30f6940304fb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0437-b",
+   "short": "RSA 437-B",
+   "title": "New Hampshire Revised Statutes, Chapter 437-B: Cost of Care Fund (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-437-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250527073722/https://gc.nh.gov/rsa/html/XL/437-B/437-B-mrg.htm",
+     "sha256": "8aed6db7f59fe697dafc7f875bd63fd61a3aa1d06aadfb24952dc0c288bbfc6f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0438",
+   "short": "RSA 438",
+   "title": "New Hampshire Revised Statutes, Chapter 438: Standards for Weights and Measures (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-438.htm",
+   "versions": [
+    {
+     "from": "2025-08-03",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20250803195158/https://gc.nh.gov/rsa/html/XL/438/438-mrg.htm",
+     "sha256": "62862dafeb6cbd6dac2a050f9c178d1eb33b83d80af69b7c846d9cd776c8af78"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0439",
+   "short": "RSA 439",
+   "title": "New Hampshire Revised Statutes, Chapter 439: State Food Security Act (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-439.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220517020412/http://gencourt.state.nh.us/rsa/html/XL/439/439-mrg.htm",
+     "sha256": "c8d90f2e05f2340b19223d033fb4bfedd0cc2a95453ee3d98876940afc929083"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0439-a",
+   "short": "RSA 439-A",
+   "title": "New Hampshire Revised Statutes, Chapter 439-A: Hemp (Title XL: Agriculture, Horticulture and Animal Husbandry)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XL-439-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250924221935/https://gc.nh.gov/rsa/html/XL/439-A/439-A-mrg.htm",
+     "sha256": "7d702a3310c7435a4dea4a0b92456001dfe0a350f139113e979295d585a9a53c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0444",
+   "short": "RSA 444",
+   "title": "New Hampshire Revised Statutes, Chapter 444: Statutory Liens on Personal Property (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-444.htm",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250714222350/https://gc.nh.gov/rsa/html/XLI/444/444-mrg.htm",
+     "sha256": "c6de2aa091979a4c9fcc53104be0a7afdc528e304dc873a518eed9e3d9b7c01a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0447",
+   "short": "RSA 447",
+   "title": "New Hampshire Revised Statutes, Chapter 447: Liens for Labor and Materials (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-447.htm",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260206090405/https://gc.nh.gov/rsa/html/XLI/447/447-mrg.htm",
+     "sha256": "a23de10e3f53169aa7761c8e35970cc497c8fa32c2b68174e157701e1c880488"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0447-a",
+   "short": "RSA 447-A",
+   "title": "New Hampshire Revised Statutes, Chapter 447-A: Commercial Real Estate Broker Lien (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-447-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250925212428/https://gc.nh.gov/rsa/html/XLI/447-A/447-A-mrg.htm",
+     "sha256": "15824343959347ab9c8dc701f82d233b02c951d58da912e44d34518ebe5f3ca2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0448",
+   "short": "RSA 448",
+   "title": "New Hampshire Revised Statutes, Chapter 448: Liens for Board, Lodging; Agistment, Service of Stallion (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-448.htm",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250707164803/https://gc.nh.gov/rsa/html/XLI/448/448-mrg.htm",
+     "sha256": "5aff15a4394250e19583bc2a43859929c6ba222ef33d42b57f663dc1391e716b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0448-a",
+   "short": "RSA 448-A",
+   "title": "New Hampshire Revised Statutes, Chapter 448-A: Liens in Favor of Hospitals and Home Health Care Providers (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-448-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250712033334/https://gc.nh.gov/rsa/html/XLI/448-A/448-A-mrg.htm",
+     "sha256": "419ea37ff7cdc6d28235f907cf517a36ea32830fa194fe5aa49dd27ce5041c99"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0449",
+   "short": "RSA 449",
+   "title": "New Hampshire Revised Statutes, Chapter 449: Liens for Cleaning, Pressing, Laundering, Etc. (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-449.htm",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250815111152/https://gc.nh.gov/rsa/html/XLI/449/449-mrg.htm",
+     "sha256": "b2bda2a9d8f4e692df727ca454f08f8999df796ec067308c3d7e4850a86f7ffd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0450",
+   "short": "RSA 450",
+   "title": "New Hampshire Revised Statutes, Chapter 450: Liens on Motor Vehicles or Aircraft (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-450.htm",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250628035641/https://gc.nh.gov/rsa/html/XLI/450/450-mrg.htm",
+     "sha256": "a5f5516668efe00b8aca4980fd7c1e652ce3f8cb73460a8f7ad08ec75805c8f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0450-a",
+   "short": "RSA 450-A",
+   "title": "New Hampshire Revised Statutes, Chapter 450-A: Liens on Vessels, Boats, and Vessel or Boat Motors (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-450-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260427025735/https://gc.nh.gov/rsa/html/XLI/450-A/450-A-mrg.htm",
+     "sha256": "bc6625c1bab35901ddd939560942df049f01ee9d8088756fff83e4d730c99d91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0451",
+   "short": "RSA 451",
+   "title": "New Hampshire Revised Statutes, Chapter 451: Jewelers' Liens (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-451.htm",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250628165229/https://gc.nh.gov/rsa/html/XLI/451/451-mrg.htm",
+     "sha256": "3f23427d80c7ec456edbb3fd1a9ed7dec460d9d7e03fe96921634f2d501d28cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0451-a",
+   "short": "RSA 451-A",
+   "title": "New Hampshire Revised Statutes, Chapter 451-A: Radio and Television Machine Liens (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-451-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220517012536/http://gencourt.state.nh.us/rsa/html/XLI/451-A/451-A-mrg.htm",
+     "sha256": "dd6517c95ce4c5dda31889f875bd36deeb768ea57d234326010f253fc8a86f8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0451-b",
+   "short": "RSA 451-B",
+   "title": "New Hampshire Revised Statutes, Chapter 451-B: Liens on Personal Property (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-451-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622191618/https://gc.nh.gov/rsa/html/XLI/451-B/451-B-mrg.htm",
+     "sha256": "ed4183af18357d86032f7fbb6dfffaf558671fee65b72d472b515744a6e63379"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0451-c",
+   "short": "RSA 451-C",
+   "title": "New Hampshire Revised Statutes, Chapter 451-C: Self-service Storage Facility Liens (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-451-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250708095834/https://gc.nh.gov/rsa/html/XLI/451-C/451-C-mrg.htm",
+     "sha256": "3c56e2ebe6bea401d914c275237a37f9d3dc2038239ea6ed1113f83fc978cb3b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0452",
+   "short": "RSA 452",
+   "title": "New Hampshire Revised Statutes, Chapter 452: Liens of Vendors of Monumental Work (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-452.htm",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250626001801/https://gc.nh.gov/rsa/html/XLI/452/452-mrg.htm",
+     "sha256": "0f3f0bcc514ac3b9cd192436f6de15bc7dbce39305f4b6967c0f6519e8339753"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0453",
+   "short": "RSA 453",
+   "title": "New Hampshire Revised Statutes, Chapter 453: Liens for Advances for Lumbering or Pulpwood Cutting (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-453.htm",
+   "versions": [
+    {
+     "from": "2025-04-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250426221816/https://gc.nh.gov/rsa/html/XLI/453/453-mrg.htm",
+     "sha256": "4c3accb401398cb200142cd7e49136298fbdd01afd446a785764dfd51b9f160b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0454-b",
+   "short": "RSA 454-B",
+   "title": "New Hampshire Revised Statutes, Chapter 454-B: Uniform Federal Lien Registration Act (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-454-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250624210310/https://gc.nh.gov/rsa/html/XLI/454-B/454-B-mrg.htm",
+     "sha256": "719ad7e713dcaf4efb2685c6db7d276585242192419927631c30a9486d881f48"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0454-c",
+   "short": "RSA 454-C",
+   "title": "New Hampshire Revised Statutes, Chapter 454-C: Personal Property Lien Index (Title XLI: Liens)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLI-454-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250619222618/https://gc.nh.gov/rsa/html/XLI/454-C/454-C-mrg.htm",
+     "sha256": "0f4dcd0db4c3e46a801e54b2e865553e007d33b85e3c1fc3f37c4ff6c6917b44"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0455",
+   "short": "RSA 455",
+   "title": "New Hampshire Revised Statutes, Chapter 455: Notaries Public and Commissioners (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLII-455.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20240514042426/https://gencourt.state.nh.us/rsa/html/XLII/455/455-mrg.htm",
+     "sha256": "68104d62b3f699e75b93a3eb0d38bc99c2affe47c337adc83c8cd20102ced54d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0455-a",
+   "short": "RSA 455-A",
+   "title": "New Hampshire Revised Statutes, Chapter 455-A: Justices of the Peace (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLII-455-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220516224001/http://gencourt.state.nh.us/rsa/html/XLII/455-A/455-A-mrg.htm",
+     "sha256": "6bbbb07adff2551627f932d8f43e1f8a9b394705a447a9ad68256721bb16a150"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0456-b",
+   "short": "RSA 456-B",
+   "title": "New Hampshire Revised Statutes, Chapter 456-B: Uniform Law on Notarial Acts (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLII-456-B.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20251111165854/https://gc.nh.gov/rsa/html/XLII/456-B/456-B-mrg.htm",
+     "sha256": "b12104da43ecd3684c5e2ce1040f9d118e63f99823be6dfe54f8cf9431b1b6e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0457",
+   "short": "RSA 457",
+   "title": "New Hampshire Revised Statutes, Chapter 457: Marriages (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-457.htm",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20251103193018/https://gc.nh.gov/rsa/html/xliii/457/457-mrg.htm",
+     "sha256": "f8ae7b3dad861362059b3a3d525d912be3f26f5cd6f5ebe7f2f8d79fcf3e082a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458",
+   "short": "RSA 458",
+   "title": "New Hampshire Revised Statutes, Chapter 458: Annulment, Divorce and Separation (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-458.htm",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20260519234322/https://gc.nh.gov/rsa/html/XLIII/458/458-mrg.htm",
+     "sha256": "d106029d338d833332e25508f1907fa39cfb80f7145180a7d3c0c47ed99a2fb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458-a",
+   "short": "RSA 458-A",
+   "title": "New Hampshire Revised Statutes, Chapter 458-A: Uniform Child Custody Jurisdiction and Enforcement Act (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-458-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260119160325/https://gc.nh.gov/rsa/html/XLIII/458-A/458-A-mrg.htm",
+     "sha256": "72bce1ac8247fb96ced8cd4c74ed47a22585e54d71ce5f2243928b4df09f9606"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458-b",
+   "short": "RSA 458-B",
+   "title": "New Hampshire Revised Statutes, Chapter 458-B: Income Assignment (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-458-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250603110144/https://gc.nh.gov/rsa/html/xliii/458-b/458-b-mrg.htm",
+     "sha256": "9e37325b7e816bd2e01c9d81050beea9504ba664e7a24965fa322a387db0480d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458-c",
+   "short": "RSA 458-C",
+   "title": "New Hampshire Revised Statutes, Chapter 458-C: Child Support Guidelines (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-458-C.htm",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260829093826/https://gc.nh.gov/rsa/html/xliii/458-c/458-c-mrg.htm?v=2026aug",
+     "sha256": "b5596fa1ea33fad299dfcaa7d7f0b7faa72eab8d72d5140164e94c1bfd250643"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458-d",
+   "short": "RSA 458-D",
+   "title": "New Hampshire Revised Statutes, Chapter 458-D: Parental Rights and Responsibilities and Child Support Impact Seminars (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-458-D.htm",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260519100428/https://gc.nh.gov/rsa/html/xliii/458-D/458-D-mrg.htm",
+     "sha256": "fb25244ae053f203b1a384ee99d7ec47ab678190fa26ffa3b191702a61f3200d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0461-a",
+   "short": "RSA 461-A",
+   "title": "New Hampshire Revised Statutes, Chapter 461-A: Parental Rights and Responsibilities (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-461-A.htm",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20251104170952/https://gc.nh.gov/rsa/html/XLIII/461-A/461-A-mrg.htm",
+     "sha256": "b97d20fcda310007f82fe59f35d08454c7c83d83f194efb9d6e50fa03410e729"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0461-b",
+   "short": "RSA 461-B",
+   "title": "New Hampshire Revised Statutes, Chapter 461-B: Emancipation (Title XLIII: Domestic Relations)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIII-461-B.htm",
+   "versions": [
+    {
+     "from": "2025-03-22",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250322235101/https://gc.nh.gov/rsa/html/XLIII/461-B/461-B-mrg.htm",
+     "sha256": "687a68de2da617e31b65a659430322604c611857d6e2ca462e94efc2f1bd9e1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0463",
+   "short": "RSA 463",
+   "title": "New Hampshire Revised Statutes, Chapter 463: Guardianship of Minors and Estates of Minors (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-463.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20250527004242/https://gc.nh.gov/rsa/html/XLIV/463/463-mrg.htm",
+     "sha256": "d9ce56236a4fc1edfe688257729369b2b04ea6f002bf28fa07a8291c4072f0aa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0463-a",
+   "short": "RSA 463-A",
+   "title": "New Hampshire Revised Statutes, Chapter 463-A: Uniform Transfers to Minors Act (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-463-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261015061856/https://gc.nh.gov/rsa/html/XLIV/463-A/463-A-mrg.htm",
+     "sha256": "67fb0827e3ed84958c564d3f544041dbbd39ac66391ddf9105910b8075f342f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0464-a",
+   "short": "RSA 464-A",
+   "title": "New Hampshire Revised Statutes, Chapter 464-A: Guardians and Conservators (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-464-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-07",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20250907063741/https://gc.nh.gov/rsa/html/XLIV/464-A/464-A-mrg.htm",
+     "sha256": "8511ecf6161446007970d7649ffdce47d27f07c5a83245f529c82b6a360d35d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0464-c",
+   "short": "RSA 464-C",
+   "title": "New Hampshire Revised Statutes, Chapter 464-C: Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-464-C.htm",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250415211935/https://gc.nh.gov/rsa/html/XLIV/464-C/464-C-mrg.htm",
+     "sha256": "ca15b7b5b4c0e933f927d3acf3355673b462377c2abd7544899763bc43c0fb8a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0464-d",
+   "short": "RSA 464-D",
+   "title": "New Hampshire Revised Statutes, Chapter 464-D: Supported Decision-making (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-464-D.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250804084535/https://gc.nh.gov/rsa/html/XLIV/464-D/464-D-mrg.htm",
+     "sha256": "de73a0fe5ad96858b39925733ebe08e69adfa3cfb9fcada713c8d72e4d349850"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0465",
+   "short": "RSA 465",
+   "title": "New Hampshire Revised Statutes, Chapter 465: Guardianship of Incompetent Veterans, Etc. (Title XLIV: Guardians and Conservators)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIV-465.htm",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250802175431/https://gc.nh.gov/rsa/html/XLIV/465/465-mrg.htm",
+     "sha256": "63aa89a4a3cd6c86349cc947dde20f4035e74cd21e52de3c5dded67021a8ad8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0480",
+   "short": "RSA 480",
+   "title": "New Hampshire Revised Statutes, Chapter 480: The Homestead Right (Title XLIX: Homesteads)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLIX-480.htm",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250723225037/https://gc.nh.gov/rsa/html/XLIX/480/480-mrg.htm",
+     "sha256": "8d2ba5fd9986b36402ff95bf08a96cc53dc7acb95c5db6acab24e254a61a326e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0466",
+   "short": "RSA 466",
+   "title": "New Hampshire Revised Statutes, Chapter 466: Dogs and Cats (Title XLV: Animals)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLV-466.htm",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20250617092710/https://gc.nh.gov/rsa/html/XLV/466/466-mrg.htm",
+     "sha256": "a68057eebb7dbc3c2d8d8a0edf98e6503314a508d73a70de3bce78749439909f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0466-a",
+   "short": "RSA 466-A",
+   "title": "New Hampshire Revised Statutes, Chapter 466-A: Wolf Hybrids (Title XLV: Animals)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLV-466-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250529143316/https://gc.nh.gov/rsa/html/xlv/466-a/466-a-mrg.htm",
+     "sha256": "0f8a70725959c72488d15e4511644f05fb74b6471c5851b1177e1cf75443811e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0467",
+   "short": "RSA 467",
+   "title": "New Hampshire Revised Statutes, Chapter 467: Running at Large (Title XLV: Animals)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLV-467.htm",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20230127000405/https://www.gencourt.state.nh.us/rsa/html/xlv/467/467-mrg.htm",
+     "sha256": "f7636e1e3b9a866799b603e712897222c5e6cbdbc9199522762de97905da4152"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0468",
+   "short": "RSA 468",
+   "title": "New Hampshire Revised Statutes, Chapter 468: Animal Brands and Marks (Title XLV: Animals)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLV-468.htm",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260428003910/https://gc.nh.gov/rsa/html/XLV/468/468-mrg.htm",
+     "sha256": "6ef776bd7395ca8fb6619a3d061200e2aa9ef656c755b9636b8cd4d6d5112026"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0470",
+   "short": "RSA 470",
+   "title": "New Hampshire Revised Statutes, Chapter 470: Bounties on Certain Animals and Insects (Title XLV: Animals)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLV-470.htm",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250511213623/https://gc.nh.gov/rsa/html/XLV/470/470-mrg.htm",
+     "sha256": "26fd2c8ae85b5fed435b213f6e069c10a5f1e0ec2c09237939b22d7c8c7a84fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0471-c",
+   "short": "RSA 471-C",
+   "title": "New Hampshire Revised Statutes, Chapter 471-C: Custody and Escheat of Unclaimed and Abandoned Property (Title XLVI: Lost Property; Strays)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVI-471-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260106044750/https://gc.nh.gov/rsa/html/XLVI/471-C/471-C-mrg.htm",
+     "sha256": "2aab15eb449b83e273b8b27df375a866d8f64de4fa464baebe0d9d3f33690bee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0471-d",
+   "short": "RSA 471-D",
+   "title": "New Hampshire Revised Statutes, Chapter 471-D: Disposal of Unclaimed Property by Repair Businesses (Title XLVI: Lost Property; Strays)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVI-471-D.htm",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250511223649/https://gc.nh.gov/rsa/html/XLVI/471-D/471-D-mrg.htm",
+     "sha256": "c35e5b96e073448f9042e4f76ee1099c4b635af1e0c34f174cd3a6bae17d93da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0472",
+   "short": "RSA 472",
+   "title": "New Hampshire Revised Statutes, Chapter 472: Boundary Lines (Title XLVII: Boundaries, Fences and Common Fields)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVII-472.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251111151753/https://gc.nh.gov/rsa/html/XLVII/472/472-mrg.htm",
+     "sha256": "2d6f4ca26671bf1f12bd670d2a908beadbe1fc2cdb8c98b4dba360cc63d1f15e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0473",
+   "short": "RSA 473",
+   "title": "New Hampshire Revised Statutes, Chapter 473: Division Fences and Their Maintenance (Title XLVII: Boundaries, Fences and Common Fields)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVII-473.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20220517134318/http://gencourt.state.nh.us/rsa/html/XLVII/473/473-mrg.htm",
+     "sha256": "a9f0255b1de4b11dfeb5eb14db30ea43d47320b940083d86e601fb9d2ec5c5f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0474",
+   "short": "RSA 474",
+   "title": "New Hampshire Revised Statutes, Chapter 474: Fencing and Renewing Bounds of Common Fields (Title XLVII: Boundaries, Fences and Common Fields)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVII-474.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220625021939/https://gencourt.state.nh.us/rsa/html/XLVII/474/474-mrg.htm",
+     "sha256": "c9f04b4e56693f0a5ef3c0db557229936e7fef72ca3b98391a1672877f961196"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0475",
+   "short": "RSA 475",
+   "title": "New Hampshire Revised Statutes, Chapter 475: Fencing Waterways (Title XLVII: Boundaries, Fences and Common Fields)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVII-475.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220625015033/https://gencourt.state.nh.us/rsa/html/XLVII/475/475-mrg.htm",
+     "sha256": "e0b03c8225292f0f4ddb4c5cc535a35eb8259cf902fe175ed91405747e2eb3d6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0476",
+   "short": "RSA 476",
+   "title": "New Hampshire Revised Statutes, Chapter 476: Spite Fences (Title XLVII: Boundaries, Fences and Common Fields)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVII-476.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220625012335/https://gencourt.state.nh.us/rsa/html/XLVII/476/476-mrg.htm",
+     "sha256": "a9108028237e1ac1acb6952a89196f8e071cf5ac679c07abe5506a3506c64c14"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0477",
+   "short": "RSA 477",
+   "title": "New Hampshire Revised Statutes, Chapter 477: Conveyances of Realty and Interests Therein (Title XLVIII: Conveyances and Mortgages of Realty)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVIII-477.htm",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20251013011900/https://gc.nh.gov/rsa/html/XLVIII/477/477-mrg.htm",
+     "sha256": "5ab4901802dd8aa6dc4d70d8d0218862cdb802bc17ca2cf717c2e64050ebc341"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0478",
+   "short": "RSA 478",
+   "title": "New Hampshire Revised Statutes, Chapter 478: Registers of Deeds (Title XLVIII: Conveyances and Mortgages of Realty)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVIII-478.htm",
+   "versions": [
+    {
+     "from": "2025-03-22",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20250322194447/https://gc.nh.gov/rsa/html/XLVIII/478/478-mrg.htm",
+     "sha256": "55ee3afa6bfeaa44b7723cff39c6f025d1470818b133137bf3494d1c4cddaea5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0479",
+   "short": "RSA 479",
+   "title": "New Hampshire Revised Statutes, Chapter 479: Mortgages of Realty (Title XLVIII: Conveyances and Mortgages of Realty)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVIII-479.htm",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20240528070624/https://gencourt.state.nh.us/rsa/html/XLVIII/479/479-mrg.htm",
+     "sha256": "b229f423afabe58bb4de7d078b151db9987db5b9b231ab56646106462475f1cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0479-a",
+   "short": "RSA 479-A",
+   "title": "New Hampshire Revised Statutes, Chapter 479-A: Unit Ownership of Real Property (Title XLVIII: Conveyances and Mortgages of Realty)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVIII-479-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20220519042914/https://gencourt.state.nh.us/rsa/html/XLVIII/479-A/479-A-mrg.htm",
+     "sha256": "ca38d6d260f8b81a4bf32dafbdd812015214bd192c08d02af9484525707636a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0479-b",
+   "short": "RSA 479-B",
+   "title": "New Hampshire Revised Statutes, Chapter 479-B: Foreclosure Consultants and Pre-foreclosure Conveyances (Title XLVIII: Conveyances and Mortgages of Realty)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XLVIII-479-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250529145754/https://gc.nh.gov/rsa/html/xlviii/479-b/479-b-mrg.htm",
+     "sha256": "78292a3d4046c7cb8daa8fc859cd89af2078a5883c23574ae864a2b480cb9a73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0186",
+   "short": "RSA 186",
+   "title": "New Hampshire Revised Statutes, Chapter 186: The State School Organization (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-186.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20250924221933/https://gc.nh.gov/rsa/html/XV/186/186-mrg.htm",
+     "sha256": "e71d224e7a81ead66ab360c6080f20ce266ad064388ebee70a8a063e79169469"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0186-b",
+   "short": "RSA 186-B",
+   "title": "New Hampshire Revised Statutes, Chapter 186-B: Education and Training of the Blind (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-186-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250601035539/https://gc.nh.gov/rsa/html/XV/186-B/186-B-mrg.htm",
+     "sha256": "15d03a6dd85d2b6390cdc22397a906eb8c831deddf79f61db28c0933f629d1ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0186-c",
+   "short": "RSA 186-C",
+   "title": "New Hampshire Revised Statutes, Chapter 186-C: Special Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-186-C.htm",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260811212407/https://gc.nh.gov/rsa/html/XV/186-C/186-C-mrg.htm",
+     "sha256": "c6ccfbbd3f76e5ec238863ca99cf0708d6d748429dc32293e6bef21d886bcea7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0187-a",
+   "short": "RSA 187-A",
+   "title": "New Hampshire Revised Statutes, Chapter 187-A: State College and University System (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-187-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20250512090339/https://gc.nh.gov/rsa/html/XV/187-A/187-A-mrg.htm",
+     "sha256": "47fe3440505be71c06776759a6bdea1eb3db6341da096ca331d856f095242cd4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-b",
+   "short": "RSA 188-B",
+   "title": "New Hampshire Revised Statutes, Chapter 188-B: Allied Health Professions (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-B.htm",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260502093433/https://gc.nh.gov/rsa/html/XV/188-B/188-B-mrg.htm",
+     "sha256": "321142207b8f3e8669b6c03187755d3e194306e670b1e9de8f845af23c158561"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-e",
+   "short": "RSA 188-E",
+   "title": "New Hampshire Revised Statutes, Chapter 188-E: Regional Career and Technical Education (cte) (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-E.htm",
+   "versions": [
+    {
+     "from": "2025-05-31",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20250531230731/https://gc.nh.gov/rsa/html/XV/188-E/188-E-mrg.htm",
+     "sha256": "bd49f7bb42c86c3c5187e848aca4d5f62c586c7c965b916f2d0ea6c622930126"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-f",
+   "short": "RSA 188-F",
+   "title": "New Hampshire Revised Statutes, Chapter 188-F: Community College System of New Hampshire (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-F.htm",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260226085513/https://gc.nh.gov/rsa/html/xv/188-f/188-f-mrg.htm",
+     "sha256": "825c556bdb88de52316b8e3d6e764aafc8e80fc907fe23be6845ffecde91d7b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-g",
+   "short": "RSA 188-G",
+   "title": "New Hampshire Revised Statutes, Chapter 188-G: Private Postsecondary Career Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-G.htm",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250516152139/https://gc.nh.gov/rsa/html/XV/188-G/188-G-mrg.htm",
+     "sha256": "fbaa90883084efde01e57f6862b6e7d24f8c252c75ab2b4dfd3e3a31eb89a329"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-h",
+   "short": "RSA 188-H",
+   "title": "New Hampshire Revised Statutes, Chapter 188-H: Sexual Misconduct at Institutions of Higher Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-H.htm",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250831222205/https://gc.nh.gov/rsa/html/XV/188-H/188-H-mrg.htm",
+     "sha256": "a5b53259ca330991288b64347a50bb038f706115537a65580f33397a89eeba72"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-i",
+   "short": "RSA 188-I",
+   "title": "New Hampshire Revised Statutes, Chapter 188-I: Suicide Prevention in Higher Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-I.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260901201823/https://gc.nh.gov/rsa/html/XV/188-I/188-I-mrg.htm",
+     "sha256": "54fee33fae6e7e90e3e48337bb7fafd1aded4f96a958b1f0cc85664e520c3989"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0188-j",
+   "short": "RSA 188-J",
+   "title": "New Hampshire Revised Statutes, Chapter 188-J: Freedom of Speech and Association in Institutions of Higher Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-188-J.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250703054824/https://gc.nh.gov/rsa/html/XV/188-J/188-J-mrg.htm",
+     "sha256": "9289d69be548d8fb1f757932bb09090d8f3ec07c03780875bcfdfec345cbbdaf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0189",
+   "short": "RSA 189",
+   "title": "New Hampshire Revised Statutes, Chapter 189: School Boards, Superintendents, Teachers, and Truant Officers; School Census (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-189.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20250924222924/https://gc.nh.gov/rsa/html/XV/189/189-mrg.htm",
+     "sha256": "65016ee98161ec945bb3fe8f54232b883f0a57dd88bc8c7d0d924bf84afbb3d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0189-a",
+   "short": "RSA 189-A",
+   "title": "New Hampshire Revised Statutes, Chapter 189-A: Death Benefit for School Employee Killed in Line of Duty (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-189-A.htm",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20251007080410/https://gc.nh.gov/rsa/html/XV/189-A/189-A-mrg.htm",
+     "sha256": "89d2f3a944d1b2c167a836fa8d4e46056918611cc060061eb9befcbe361db64f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0190",
+   "short": "RSA 190",
+   "title": "New Hampshire Revised Statutes, Chapter 190: Council for Teacher Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-190.htm",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260523010023/https://gc.nh.gov/rsa/html/XV/190/190-mrg.htm",
+     "sha256": "c6b4e7162edb24238a3d4768620545f12d9d67040820b1d38c4fee402c78a209"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0191",
+   "short": "RSA 191",
+   "title": "New Hampshire Revised Statutes, Chapter 191: Teachers' Loyalty (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-191.htm",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250911133240/https://gc.nh.gov/rsa/html/XV/191/191-mrg.htm",
+     "sha256": "18a027fb68b4218baedf1ea2f4ad8c6bad00b93310ea3f08e2f6cec19328f61e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193",
+   "short": "RSA 193",
+   "title": "New Hampshire Revised Statutes, Chapter 193: Pupils (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193.htm",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260928182715/https://gc.nh.gov/rsa/html/XV/193/193-mrg.htm",
+     "sha256": "cc198abce2a889387f7be7b176315a0e936aa50b9bcaf52af331839c7f408daf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-a",
+   "short": "RSA 193-A",
+   "title": "New Hampshire Revised Statutes, Chapter 193-A: Home Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260421021040/https://gc.nh.gov/rsa/html/xv/193-a/193-a-mrg.htm",
+     "sha256": "4224595327a21742e8be0baa47a62ce06af21c9f588b6f97a425d0cc7dceef31"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-b",
+   "short": "RSA 193-B",
+   "title": "New Hampshire Revised Statutes, Chapter 193-B: Drug-free School Zones (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260106080552/https://gc.nh.gov/rsa/html/XV/193-B/193-B-mrg.htm",
+     "sha256": "d0b432d015201c148270a1d1173aa21a7dfd5501dcacd5d9509737628a6d2407"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-c",
+   "short": "RSA 193-C",
+   "title": "New Hampshire Revised Statutes, Chapter 193-C: Statewide Education Improvement and Assessment Program (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-C.htm",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260324141320/https://www.gc.nh.gov/rsa/html/XV/193-C/193-C-mrg.htm",
+     "sha256": "c87ef5cbf8fc11821fea454820ceb37ba571ac7148f7c6509c84bf687f4451f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-d",
+   "short": "RSA 193-D",
+   "title": "New Hampshire Revised Statutes, Chapter 193-D: Safe School Zones (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-D.htm",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260811212313/https://gc.nh.gov/rsa/html/xv/193-d/193-d-mrg.htm",
+     "sha256": "a300827ddc85d915dcb926140c83cd18c21b3475c12dba536648bf0d6413d4bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-e",
+   "short": "RSA 193-E",
+   "title": "New Hampshire Revised Statutes, Chapter 193-E: Adequate Public Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-E.htm",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250831231643/https://gc.nh.gov/rsa/html/XV/193-E/193-E-mrg.htm",
+     "sha256": "6cd1b2dca8d6d7ad2a2a48c827cfa96e7d714b41a5839f5f7ce785684d3937a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-f",
+   "short": "RSA 193-F",
+   "title": "New Hampshire Revised Statutes, Chapter 193-F: Pupil Safety and Violence Prevention (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-F.htm",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260814184554/https://gc.nh.gov/rsa/html/XV/193-F/193-F-mrg.htm",
+     "sha256": "d98cdb6c84d2c2142048e7c85f8eca39318ab99010da18ce934368d97aafb71f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-g",
+   "short": "RSA 193-G",
+   "title": "New Hampshire Revised Statutes, Chapter 193-G: Persistently Dangerous Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-G.htm",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250710152254/https://gc.nh.gov/rsa/html/XV/193-G/193-G-mrg.htm",
+     "sha256": "3ef69b5a5114e1ff6dbe3bfba21aa877f096afad3013564788264b8b6fd06998"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-h",
+   "short": "RSA 193-H",
+   "title": "New Hampshire Revised Statutes, Chapter 193-H: School Performance and Accountability (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-H.htm",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260119155829/https://gc.nh.gov/rsa/html/XV/193-H/193-H-mrg.htm",
+     "sha256": "2721a675446046ea24c6c5472be37ff2748c451a9458b9d41f46241bc7b7d953"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-i",
+   "short": "RSA 193-I",
+   "title": "New Hampshire Revised Statutes, Chapter 193-I: Math Learning Communities Program in Public Secondary Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-I.htm",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250604013232/https://gc.nh.gov/rsa/html/XV/193-I/193-I-mrg.htm",
+     "sha256": "43529c93cf795c856a66e664d3bee79766c651b992dfac92128067fdd79a929b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-j",
+   "short": "RSA 193-J",
+   "title": "New Hampshire Revised Statutes, Chapter 193-J: Suicide Prevention Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-J.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260106205457/https://gc.nh.gov/rsa/html/XV/193-J/193-J-mrg.htm",
+     "sha256": "0a952233dce5e05cf4f0e7fcdc495628d998486f3160c3c86c867555e5136d9b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0193-k",
+   "short": "RSA 193-K",
+   "title": "New Hampshire Revised Statutes, Chapter 193-K: Eating Disorder Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-193-K.htm",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260629234623/https://gc.nh.gov/rsa/html/XV/193-K/193-K-mrg.htm",
+     "sha256": "21893042f7936630f5500c168bb32f1e28a6d5849e6ac7dfddbb467272321bd8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194",
+   "short": "RSA 194",
+   "title": "New Hampshire Revised Statutes, Chapter 194: School Districts (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194.htm",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20260105184128/https://www.gc.nh.gov/rsa/html/xv/194/194-mrg.htm",
+     "sha256": "e9f74453acf1ae595bc2b278bbac2af8c345a206356d7b77cc1ad863ec3f7b9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194-b",
+   "short": "RSA 194-B",
+   "title": "New Hampshire Revised Statutes, Chapter 194-B: Chartered Public Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250831223806/https://gc.nh.gov/rsa/html/xv/194-b/194-b-mrg.htm",
+     "sha256": "c499a15f93deeada5cb22dc44d62527cb1e17120d028a8c6d33a32cea87d679f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194-c",
+   "short": "RSA 194-C",
+   "title": "New Hampshire Revised Statutes, Chapter 194-C: School Administrative Units (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194-C.htm",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20251031174855/https://gc.nh.gov/rsa/html/XV/194-C/194-C-mrg.htm",
+     "sha256": "b3e2f1b40befeed9575848d3a024ff67e089c9d558bdc3948fd05adec67d481a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194-d",
+   "short": "RSA 194-D",
+   "title": "New Hampshire Revised Statutes, Chapter 194-D: Open Enrollment Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194-D.htm",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260904122608/https://gc.nh.gov/rsa/html/XV/194-D/194-D-mrg.htm",
+     "sha256": "784f81419fb05bfe039d873afd0765cbfe42c31acfd96a40bbafe38b251d84bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194-e",
+   "short": "RSA 194-E",
+   "title": "New Hampshire Revised Statutes, Chapter 194-E: Innovation Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194-E.htm",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250831222943/https://gc.nh.gov/rsa/html/XV/194-E/194-E-mrg.htm",
+     "sha256": "dc2c39da530ca832b87f4c04744b4d9ff68688b08dddda9c7282d72bc5e5d33f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0194-f",
+   "short": "RSA 194-F",
+   "title": "New Hampshire Revised Statutes, Chapter 194-F: Education Freedom Accounts (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-194-F.htm",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260725135905/https://gc.nh.gov/rsa/html/XV/194-F/194-F-mrg.htm",
+     "sha256": "f0512cdbbfe07c9e3f4155c95b2c7c7652ae28353ca09165de93b7a663413175"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195",
+   "short": "RSA 195",
+   "title": "New Hampshire Revised Statutes, Chapter 195: Cooperative School Districts (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195.htm",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260210103516/https://gc.nh.gov/rsa/html/XV/195/195-mrg.htm",
+     "sha256": "2880cb557e1bdc339d232036ee48bfe581f607c937d7a06d7c9cda0e40826be9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-a",
+   "short": "RSA 195-A",
+   "title": "New Hampshire Revised Statutes, Chapter 195-A: Authorized Regional Enrollment Area (area) Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-A.htm",
+   "versions": [
+    {
+     "from": "2025-10-18",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20251018104916/https://gc.nh.gov/rsa/html/XV/195-A/195-A-mrg.htm",
+     "sha256": "f2f2651d861b0122ef7e304e107f461a07b448dd9ac7f28ed24fd2e09816d844"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-c",
+   "short": "RSA 195-C",
+   "title": "New Hampshire Revised Statutes, Chapter 195-C: School Building Authority-state Guarantee (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-C.htm",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260209152300/https://gc.nh.gov/rsa/html/XV/195-C/195-C-mrg.htm",
+     "sha256": "2342572ff1f0d434757f96e5765aaf58a6c900b6690ee207e33846c50e3c6830"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-d",
+   "short": "RSA 195-D",
+   "title": "New Hampshire Revised Statutes, Chapter 195-D: New Hampshire Health and Education Facilities Authority (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-D.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250518202336/https://gc.nh.gov/rsa/html/XV/195-D/195-D-mrg.htm",
+     "sha256": "f61b7be9ecc14cc1a5137cecbb06f6dbd3e54ce47268630451d3e88a89df2024"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-e",
+   "short": "RSA 195-E",
+   "title": "New Hampshire Revised Statutes, Chapter 195-E: Loan Corporations (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-E.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260812062039/https://gc.nh.gov/rsa/html/XV/195-E/195-E-mrg.htm",
+     "sha256": "4e1630b3aa701cd8ae8e50a5da3ed77e56036339058ab196263b556b3ca7cc52"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-f",
+   "short": "RSA 195-F",
+   "title": "New Hampshire Revised Statutes, Chapter 195-F: New Hampshire Municipal Bond Bank Educational Institutions Bond Financing Act (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-F.htm",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250512120324/https://gc.nh.gov/rsa/html/XV/195-F/195-F-mrg.htm",
+     "sha256": "0db3ef4f849fa09bf746f5fabb5ae56a076cfea6e5b68ffa4e192d0b5c060f90"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-g",
+   "short": "RSA 195-G",
+   "title": "New Hampshire Revised Statutes, Chapter 195-G: College Savings Bond Program (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-G.htm",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250509053238/https://gc.nh.gov/rsa/html/XV/195-G/195-G-mrg.htm",
+     "sha256": "98818bac58e2cba6a120582eb9b1f23ecddc6d8318b615fdac7f59e524a26757"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-h",
+   "short": "RSA 195-H",
+   "title": "New Hampshire Revised Statutes, Chapter 195-H: College Tuition Savings Plan (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-H.htm",
+   "versions": [
+    {
+     "from": "2025-07-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250713165600/https://gc.nh.gov/rsa/html/XV/195-H/195-H-mrg.htm",
+     "sha256": "b30e09e835826072f4c3ea8e7686aa0bbde8ad3f51cedc9fcc5b9f590af3dc89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0195-k",
+   "short": "RSA 195-K",
+   "title": "New Hampshire Revised Statutes, Chapter 195-K: Achieving a Better Life Experience (able) Savings Account Program (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-195-K.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260106004921/https://gc.nh.gov/rsa/html/XV/195-K/195-K-mrg.htm",
+     "sha256": "a3e6171fe8d68b6c86d1df3f2a283d52628a08a5906f537eb50e47e87a7caa6d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0197",
+   "short": "RSA 197",
+   "title": "New Hampshire Revised Statutes, Chapter 197: School Meetings and Officers (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-197.htm",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250717114605/https://gc.nh.gov/rsa/html/XV/197/197-mrg.htm",
+     "sha256": "0d474a34217ec7db350dd5ce82671e3f23edb5e29993b18343f463334bc5fff0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0198",
+   "short": "RSA 198",
+   "title": "New Hampshire Revised Statutes, Chapter 198: School Money (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-198.htm",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20260531204024/https://gc.nh.gov/rsa/html/XV/198/198-mrg.htm",
+     "sha256": "af3810d1ec3e877597c64b7d671558261d641672f0792b78952272120496cf8c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0199",
+   "short": "RSA 199",
+   "title": "New Hampshire Revised Statutes, Chapter 199: Schoolhouses (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-199.htm",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250511185311/https://gc.nh.gov/rsa/html/XV/199/199-mrg.htm",
+     "sha256": "20454437a3b7ed77a36ffed91367a6cd870ce21d8fe06fb1b97d245bc726bae7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200",
+   "short": "RSA 200",
+   "title": "New Hampshire Revised Statutes, Chapter 200: Health and Sanitation (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200.htm",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20250715213422/https://gc.nh.gov/rsa/html/XV/200/200-mrg.htm",
+     "sha256": "2384ab5ad843e6c911ed60cdfbe19de1a0f0ebc26a969d669f1c6c853feb8365"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-a",
+   "short": "RSA 200-A",
+   "title": "New Hampshire Revised Statutes, Chapter 200-A: The New England Higher Education Compact (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250728161943/https://gc.nh.gov/rsa/html/XV/200-A/200-A-mrg.htm",
+     "sha256": "a059f70bd1985983fdf68a83dc0fd4c7dd2c8e55ec05650c88c64b24854bae3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-b",
+   "short": "RSA 200-B",
+   "title": "New Hampshire Revised Statutes, Chapter 200-B: New Hampshire-vermont Interstate School Compact (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-B.htm",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260822181403/https://gc.nh.gov/rsa/html/XV/200-B/200-B-mrg.htm",
+     "sha256": "f1f8a193bf3f09542d2f115f632e4b75feaf0ae4a611dfac8f5f6eb66f6b6eb2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-c",
+   "short": "RSA 200-C",
+   "title": "New Hampshire Revised Statutes, Chapter 200-C: Vocational Rehabilitation Programs (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-C.htm",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250511091752/https://gc.nh.gov/rsa/html/XV/200-C/200-C-mrg.htm",
+     "sha256": "16a93fdedaba9726387babc8cfe45c183ea6d82de068246dffc1b4eb60a45d0a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-e",
+   "short": "RSA 200-E",
+   "title": "New Hampshire Revised Statutes, Chapter 200-E: Interstate Agreement on Qualification of Educational Personnel (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-E.htm",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250823040048/https://gc.nh.gov/rsa/html/XV/200-E/200-E-mrg.htm",
+     "sha256": "50795e70eb7aa13b1667f3f9d11b335d5eef693681b90a104f055a462b298f7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-f",
+   "short": "RSA 200-F",
+   "title": "New Hampshire Revised Statutes, Chapter 200-F: New Hampshire-maine Interstate School Compact (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-F.htm",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260531110328/https://gc.nh.gov/rsa/html/XV/200-F/200-F-mrg.htm",
+     "sha256": "23b678636d02c3c15a95064c77cae7c69c965d1e1076d7d62323f7d22c5239aa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-g",
+   "short": "RSA 200-G",
+   "title": "New Hampshire Revised Statutes, Chapter 200-G: Compact for Education (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-G.htm",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260903063642/https://gc.nh.gov/rsa/html/XV/200-G/200-G-mrg.htm",
+     "sha256": "20fd3a9d5a5dc01785a5d07d43f890c0acfa60320422d1e54f58bd75581ed05c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-l",
+   "short": "RSA 200-L",
+   "title": "New Hampshire Revised Statutes, Chapter 200-L: Interstate Agreement on Qualification of Educational Personnel (northeastern States) (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-L.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250730140526/https://gc.nh.gov/rsa/html/XV/200-L/200-L-mrg.htm",
+     "sha256": "e280101ce2bdf2b54aca5b68cdb836a4917280eae3d819c5eed51ee357b5854a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-m",
+   "short": "RSA 200-M",
+   "title": "New Hampshire Revised Statutes, Chapter 200-M: Cart Provider and Sign Language Interpreter Net Tuition Repayment Program (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-M.htm",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250513205532/https://gc.nh.gov/rsa/html/XV/200-M/200-M-mrg.htm",
+     "sha256": "ce74c3ac32383e9df1cf53be35a7954ccdd94bbff15fb0301c53ae028ff69132"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-n",
+   "short": "RSA 200-N",
+   "title": "New Hampshire Revised Statutes, Chapter 200-N: Epinephrine Administration in Postsecondary Educational Institutions and Independent Schools (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-N.htm",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240701134858/https://www.gencourt.state.nh.us/rsa/html/XV/200-N/200-N-mrg.htm",
+     "sha256": "6e20d5cf11aee5d074e88787e3f8d29bd60560f76a0bcdbe9f90984c6f1bcdef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0200-o",
+   "short": "RSA 200-O",
+   "title": "New Hampshire Revised Statutes, Chapter 200-O: Computer Science Educator Program (Title XV: Education)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XV-200-O.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250901051129/https://gc.nh.gov/rsa/html/XV/200-O/200-O-mrg.htm",
+     "sha256": "5cdcda6e0322d3ff82a11be159c6768a1357fd0228f791cf92dfe3a4c3a884f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0201-a",
+   "short": "RSA 201-A",
+   "title": "New Hampshire Revised Statutes, Chapter 201-A: The State Library (Title XVI: Libraries)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVI-201-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250601031120/https://gc.nh.gov/rsa/html/xvi/201-a/201-a-mrg.htm",
+     "sha256": "83a451e491b0d67c658dd6fcbdfdb69db6169369a2d4b37a376ca7363b9aff33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0201-b",
+   "short": "RSA 201-B",
+   "title": "New Hampshire Revised Statutes, Chapter 201-B: Interstate Library Compact (Title XVI: Libraries)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVI-201-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250517052913/https://gc.nh.gov/rsa/html/XVI/201-B/201-B-mrg.htm",
+     "sha256": "e504d3ba2dec8b547c0278c846bef6dfc699c1c347ef3b61a751f48ab9e2ece6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0201-e",
+   "short": "RSA 201-E",
+   "title": "New Hampshire Revised Statutes, Chapter 201-E: Museum Property Act (Title XVI: Libraries)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVI-201-E.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250518203328/https://gc.nh.gov/rsa/html/XVI/201-E/201-E-mrg.htm",
+     "sha256": "724cfb749d1e3d4714462e11e596ca587d6a6c13c92c371d14e55186b9f48940"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0202-a",
+   "short": "RSA 202-A",
+   "title": "New Hampshire Revised Statutes, Chapter 202-A: Public Libraries (Title XVI: Libraries)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVI-202-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20250519181517/https://gc.nh.gov/rsa/html/XVI/202-A/202-A-mrg.htm",
+     "sha256": "9ef21d67fd1150770c140044177c257c3634e7533a488b813f5d62078d39f339"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0202-b",
+   "short": "RSA 202-B",
+   "title": "New Hampshire Revised Statutes, Chapter 202-B: New Hampshire State Government Information Dissemination and Access Act (Title XVI: Libraries)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVI-202-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260328210817/https://gc.nh.gov/rsa/html/XVI/202-B/202-B-mrg.htm",
+     "sha256": "eda80376b271bc02a446f78b984cbf3f41cd437c73b78b73b2fdfdc383cf68cd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0203",
+   "short": "RSA 203",
+   "title": "New Hampshire Revised Statutes, Chapter 203: Housing Authorities Law (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-203.htm",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260408084654/https://gc.nh.gov/rsa/html/XVII/203/203-mrg.htm",
+     "sha256": "cb915f1f2bbd911ea9e7c0b0413adede2d0c7b9dec6a91bd524395aa738e3622"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0204-c",
+   "short": "RSA 204-C",
+   "title": "New Hampshire Revised Statutes, Chapter 204-C: Housing Finance Authority (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-204-C.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 95,
+     "source_url": "https://web.archive.org/web/20251111042912/https://gc.nh.gov/rsa/html/XVII/204-C/204-C-mrg.htm",
+     "sha256": "26893f9b528617ba1580200689da4f60d05b675f46243b15a37905d80fb4b767"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0204-d",
+   "short": "RSA 204-D",
+   "title": "New Hampshire Revised Statutes, Chapter 204-D: Surplus Lands Housing Program (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-204-D.htm",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260204040436/https://gc.nh.gov/rsa/html/XVII/204-D/204-D-mrg.htm",
+     "sha256": "da8a28a229a147a6f56e941d8152b462fcd26a81e7c9295d102eeb313077bedd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0205-a",
+   "short": "RSA 205-A",
+   "title": "New Hampshire Revised Statutes, Chapter 205-A: Regulation of Manufactured Housing Parks (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-205-A.htm",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20250307095258/https://gc.nh.gov/rsa/html/XVII/205-A/205-A-mrg.htm",
+     "sha256": "f506a5bb4fa000686b047a4b911cc1b985d638eba539868d8ee0a851059ae3e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0205-c",
+   "short": "RSA 205-C",
+   "title": "New Hampshire Revised Statutes, Chapter 205-C: Modular Building Standards (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-205-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250605204511/https://gc.nh.gov/rsa/html/XVII/205-C/205-C-mrg.htm",
+     "sha256": "f8c874d18044e94a1c5e600437c3fbef11dca2b34669ba84d9229b4734ca7220"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0205-d",
+   "short": "RSA 205-D",
+   "title": "New Hampshire Revised Statutes, Chapter 205-D: Manufactured Housing Installation Standards (Title XVII: Housing and Redevelopment)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVII-205-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250625205852/https://gc.nh.gov/rsa/html/XVII/205-D/205-D-mrg.htm",
+     "sha256": "8c076909987887940b6bcb6ad905f9ed9f57efb097a39001de0476d0077e5ba5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0206",
+   "short": "RSA 206",
+   "title": "New Hampshire Revised Statutes, Chapter 206: Fish and Game Commission (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-206.htm",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 95,
+     "source_url": "https://web.archive.org/web/20260616081446/https://gc.nh.gov/rsa/html/XVIII/206/206-mrg.htm",
+     "sha256": "6a0fae72db9e2b7b2f25b6745d680e522b00a79a67ef9d8592f745b60252702d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0207",
+   "short": "RSA 207",
+   "title": "New Hampshire Revised Statutes, Chapter 207: General Provisions as to Fish and Game (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-207.htm",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 101,
+     "source_url": "https://web.archive.org/web/20250825060101/https://gc.nh.gov/rsa/html/XVIII/207/207-mrg.htm",
+     "sha256": "191bb5044d18cb0109e09171683acf025b1d3327f671517bda939d68a59595bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0208",
+   "short": "RSA 208",
+   "title": "New Hampshire Revised Statutes, Chapter 208: Game Animals (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-208.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20250529141206/https://gc.nh.gov/rsa/html/XVIII/208/208-mrg.htm",
+     "sha256": "0e7688c9f9f5391a5e5febf401bcb672b5d76e075c92b8c963cfe9f714a934cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0209",
+   "short": "RSA 209",
+   "title": "New Hampshire Revised Statutes, Chapter 209: Game Birds; Pigeons (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-209.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250605205043/https://gc.nh.gov/rsa/html/XVIII/209/209-mrg.htm",
+     "sha256": "e088d119da5d2be599a03ddb1316d74cbff7b66caa4db508f006badebfc42c4f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0209-a",
+   "short": "RSA 209-A",
+   "title": "New Hampshire Revised Statutes, Chapter 209-A: Falconry (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-209-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517001002/http://gencourt.state.nh.us/rsa/html/XVIII/209-A/209-A-mrg.htm",
+     "sha256": "d2a7309b0b1c2bd57f465a64290710f75b614873c7959ed23958c0a74222928c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0210",
+   "short": "RSA 210",
+   "title": "New Hampshire Revised Statutes, Chapter 210: Fur-bearing Animals (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-210.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250529141209/https://gc.nh.gov/rsa/html/XVIII/210/210-mrg.htm",
+     "sha256": "0186c65bb15f4d2aa3d6e3e200e6073fa745c41644124fde90663bf962a1555b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0211",
+   "short": "RSA 211",
+   "title": "New Hampshire Revised Statutes, Chapter 211: Fish, Shellfish, Lobsters and Crabs (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-211.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20260106011801/https://www.gc.nh.gov/rsa/html/XVIII/211/211-mrg.htm",
+     "sha256": "053cafbea879b211a7099dacdf277d0dfb40029ab711563a939c49a7e7086c47"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0212",
+   "short": "RSA 212",
+   "title": "New Hampshire Revised Statutes, Chapter 212: Propagation of Fish and Game (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-212.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20250605205007/https://gc.nh.gov/rsa/html/xviii/212/212-mrg.htm",
+     "sha256": "bba2adc201f644a5282ef0946ea9eb06e313a0a6efa01e6f20559b9b2611a826"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0212-a",
+   "short": "RSA 212-A",
+   "title": "New Hampshire Revised Statutes, Chapter 212-A: Endangered Species Conservation Act (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-212-A.htm",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260924023953/https://www.gc.nh.gov/rsa/html/xviii/212-a/212-a-mrg.htm",
+     "sha256": "345ab9fa824dbe50f3f4723fd5ddcb6d746540a983f04f312a5047b3edecef7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0212-b",
+   "short": "RSA 212-B",
+   "title": "New Hampshire Revised Statutes, Chapter 212-B: Nongame Species Management Act (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-212-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250529141212/https://gc.nh.gov/rsa/html/XVIII/212-B/212-B-mrg.htm",
+     "sha256": "3647df9803225e54e69c7ca6350453cc9a98710debec350bba03497c847063cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0212-c",
+   "short": "RSA 212-C",
+   "title": "New Hampshire Revised Statutes, Chapter 212-C: Wildlife Trafficking Prevention (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-212-C.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250529141215/https://gc.nh.gov/rsa/html/xviii/212-c/212-c-mrg.htm",
+     "sha256": "b802ddf046b96bd49c57366b9cc8bf211a5f1dedd36754a22d4a31e17dfdf68c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0213",
+   "short": "RSA 213",
+   "title": "New Hampshire Revised Statutes, Chapter 213: Atlantic Marine Fisheries (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-213.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250605205051/https://gc.nh.gov/rsa/html/XVIII/213/213-mrg.htm",
+     "sha256": "f98b972886a0892ecf7ff4b578f9a8318efff50f3f68a5cbbc2e08ef4502ef91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0213-a",
+   "short": "RSA 213-A",
+   "title": "New Hampshire Revised Statutes, Chapter 213-A: Connecticut River Atlantic Salmon Compact (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-213-A.htm",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240613053243/https://www.gencourt.state.nh.us/rsa/html/XVIII/213-A/213-A-mrg.htm",
+     "sha256": "53474961ae3ef03bceb4715bc0cc79d15ae646732cc862bf5076e4796834edb1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0214",
+   "short": "RSA 214",
+   "title": "New Hampshire Revised Statutes, Chapter 214: Licenses (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-214.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20250605205104/https://gc.nh.gov/rsa/html/XVIII/214/214-mrg.htm",
+     "sha256": "ca5c511afbbf2662dc59b00b810359155e80daf1a57a38dfe3c5ed84bd275248"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0214-a",
+   "short": "RSA 214-A",
+   "title": "New Hampshire Revised Statutes, Chapter 214-A: Fish and Game Agents (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-214-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250605205108/https://gc.nh.gov/rsa/html/XVIII/214-A/214-A-mrg.htm",
+     "sha256": "a424b4a040e8aa211550af1894489b762ba0ce7c3fb8d777c3cc326f8308f74b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0215",
+   "short": "RSA 215",
+   "title": "New Hampshire Revised Statutes, Chapter 215: Registration and Licensing of Guides (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-215.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250529141222/https://gc.nh.gov/rsa/html/XVIII/215/215-mrg.htm",
+     "sha256": "803a41d8779155d48ca41e6d288505cdf47613e32b091eb98c44ab81a0340ab1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0215-a",
+   "short": "RSA 215-A",
+   "title": "New Hampshire Revised Statutes, Chapter 215-A: Off Highway Recreational Vehicles and Trails (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-215-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20250716201548/https://gc.nh.gov/rsa/html/XVIII/215-A/215-A-mrg.htm",
+     "sha256": "e2856974129e41777f578db87c11e291d9fa6827db6fb199fcff9cb6c9819d6b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0215-b",
+   "short": "RSA 215-B",
+   "title": "New Hampshire Revised Statutes, Chapter 215-B: Northeast Conservation Law Enforcement Compact (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-215-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220518012350/http://gencourt.state.nh.us/rsa/html/XVIII/215-B/215-B-mrg.htm",
+     "sha256": "658bbc063a58e5d4fa13f425aed671c31fdc0f3b17080a7eee1fb8b62609fd0c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0215-c",
+   "short": "RSA 215-C",
+   "title": "New Hampshire Revised Statutes, Chapter 215-C: Snowmobiles (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-215-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250716201604/https://gc.nh.gov/rsa/html/XVIII/215-C/215-C-mrg.htm",
+     "sha256": "717ac6954929e4b7a876d48dbcbaa658d7e8f70604ed7c76a5be47342c6b881e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0215-d",
+   "short": "RSA 215-D",
+   "title": "New Hampshire Revised Statutes, Chapter 215-D: Interstate Wildlife Violators Compact (Title XVIII: Fish and Game)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XVIII-215-D.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250529141226/https://gc.nh.gov/rsa/html/XVIII/215-D/215-D-mrg.htm",
+     "sha256": "7dd7b58ebc5d6c23e4e6c34ac3de3c327c3a8231ac6969c349a981894af476c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0228",
+   "short": "RSA 228",
+   "title": "New Hampshire Revised Statutes, Chapter 228: Administration of Transportation Laws (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-228.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 130,
+     "source_url": "https://web.archive.org/web/20260812050232/https://gc.nh.gov/rsa/html/XX/228/228-mrg.htm",
+     "sha256": "fd50adcd23418961952406c0dd636bb5c6ffeb97664414147c9ca95c2bb6e32c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0228-a",
+   "short": "RSA 228-A",
+   "title": "New Hampshire Revised Statutes, Chapter 228-A: Federal Highway Grant Anticipation Bonds (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-228-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20220522200610/http://gencourt.state.nh.us/rsa/html/XX/228-A/228-A-mrg.htm",
+     "sha256": "3e1f62195cf5692c08c7584ab77749bb44ef351452206043969c4ad325b2170c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0229",
+   "short": "RSA 229",
+   "title": "New Hampshire Revised Statutes, Chapter 229: Highway System in the State (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-229.htm",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260909173036/https://gc.nh.gov/rsa/html/XX/229/229-mrg.htm",
+     "sha256": "367d9935a559b09f7113b765442d4ee96e19f24681ddaa055079a0bf4b089eda"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0230",
+   "short": "RSA 230",
+   "title": "New Hampshire Revised Statutes, Chapter 230: State Highways (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-230.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20250527130221/https://gc.nh.gov/rsa/html/XX/230/230-mrg.htm",
+     "sha256": "fafcd8717b96265638eeadff58c2186d6de14f035458807a09ed55d0d7bc4f0c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0230-a",
+   "short": "RSA 230-A",
+   "title": "New Hampshire Revised Statutes, Chapter 230-A: Corridor Protection (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-230-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250715100830/https://gc.nh.gov/rsa/html/XX/230-A/230-A-mrg.htm",
+     "sha256": "8c483b8aea69764f1463f0a795393f129fe8d22b0bbc9aa2c7fad2cfb4c909b6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0231",
+   "short": "RSA 231",
+   "title": "New Hampshire Revised Statutes, Chapter 231: Cities, Towns and Village District Highways (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-231.htm",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 188,
+     "source_url": "https://web.archive.org/web/20250828173053/https://gc.nh.gov/rsa/html/XX/231/231-mrg.htm",
+     "sha256": "c2ca558a7c910cce2b8d31ff398bfefb4a71d0a7677f207eda410bbe66736f1d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0231-a",
+   "short": "RSA 231-A",
+   "title": "New Hampshire Revised Statutes, Chapter 231-A: Municipal Trails (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-231-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250613134447/https://gc.nh.gov/rsa/html/XX/231-A/231-A-mrg.htm",
+     "sha256": "65d916223b5ef5a99cc164f47d645b67839ef3a82aead567dae2310f6823f9d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0232",
+   "short": "RSA 232",
+   "title": "New Hampshire Revised Statutes, Chapter 232: Counties and County Commissioners (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-232.htm",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20250525001713/https://gc.nh.gov/rsa/html/XX/232/232-mrg.htm",
+     "sha256": "cc3e962b88cd7887c75c0a1846f2fc5f1abc25806e0ca89bdc079dfa3ae51bdb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0233",
+   "short": "RSA 233",
+   "title": "New Hampshire Revised Statutes, Chapter 233: Recreational Roads (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-233.htm",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250722034202/https://gc.nh.gov/rsa/html/XX/233/233-mrg.htm",
+     "sha256": "bc87b56864c8bbd5b2c27d9702991d0fa88dcf7a14487b187c8d0c8004ade9dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0233-a",
+   "short": "RSA 233-A",
+   "title": "New Hampshire Revised Statutes, Chapter 233-A: Access to Public Waters (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-233-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250703102653/https://gc.nh.gov/rsa/html/XX/233-A/233-A-mrg.htm",
+     "sha256": "a678bd70b4c0508c37615bd52f85a59aebbd3b099e23a10b099fd7d0ddb587ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0234",
+   "short": "RSA 234",
+   "title": "New Hampshire Revised Statutes, Chapter 234: Bridges and Bridge Aid (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-234.htm",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250819044425/https://gc.nh.gov/rsa/html/XX/234/234-mrg.htm",
+     "sha256": "1004f19acc0d8ea1b4aebb876f7bd1022de806e4ce62c1f131126971871ea9e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0235",
+   "short": "RSA 235",
+   "title": "New Hampshire Revised Statutes, Chapter 235: Federal and State Highway Aid (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-235.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20250518160706/https://gc.nh.gov/rsa/html/XX/235/235-mrg.htm",
+     "sha256": "3eef05688cb9245ec1245e9192b908a4478141d35a2c33f1b3c6b322cff48e38"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0236",
+   "short": "RSA 236",
+   "title": "New Hampshire Revised Statutes, Chapter 236: Highway Regulation, Protection and Control Regulations (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-236.htm",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 145,
+     "source_url": "https://web.archive.org/web/20250820010804/https://gc.nh.gov/rsa/html/XX/236/236-mrg.htm",
+     "sha256": "1ab249a0c898e2f27d1ae304869999221080d015fb868d0a64777dcb0ac4eb27"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0237",
+   "short": "RSA 237",
+   "title": "New Hampshire Revised Statutes, Chapter 237: Turnpike System (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-237.htm",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20260909161328/https://gc.nh.gov/rsa/html/XX/237/237-mrg.htm",
+     "sha256": "3a929bdf113614af7173de16f7a517004edfb63b18978bfa68d9ad1be75d9144"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0237-a",
+   "short": "RSA 237-A",
+   "title": "New Hampshire Revised Statutes, Chapter 237-A: Turnpike System Revenue Bonds (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-237-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250519144918/https://gc.nh.gov/rsa/html/XX/237-A/237-A-mrg.htm",
+     "sha256": "f44a4365d6434c28c3a76dc4b6e9a3826397d6ef624f12782d1bca6c4e52f6ac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0238",
+   "short": "RSA 238",
+   "title": "New Hampshire Revised Statutes, Chapter 238: Highway Programs (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-238.htm",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260601043334/https://gc.nh.gov/rsa/html/XX/238/238-mrg.htm",
+     "sha256": "f0a9bb573acd52f1d0743565fb8c707220e4ae7da0d3e518bd25f53f502f2de0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0238-a",
+   "short": "RSA 238-A",
+   "title": "New Hampshire Revised Statutes, Chapter 238-A: New Hampshire Transportation Council (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-238-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250521204441/https://gc.nh.gov/rsa/html/XX/238-A/238-A-mrg.htm",
+     "sha256": "d66cde790e050a378b064e9a7570680d4229a0c085c78d4a7b79e7d387fde7b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0239",
+   "short": "RSA 239",
+   "title": "New Hampshire Revised Statutes, Chapter 239: Cooperative Alliance for Seacoast Transportation (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-239.htm",
+   "versions": [
+    {
+     "from": "2025-07-19",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250719235809/https://gc.nh.gov/rsa/html/XX/239/239-mrg.htm",
+     "sha256": "179732795cbf775b5ea452d184a1d0c7ecf3d543a5c9761338dc4c1bb5cb3d57"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0239-a",
+   "short": "RSA 239-A",
+   "title": "New Hampshire Revised Statutes, Chapter 239-A: Greater Derry-salem Cooperative Alliance for Regional Transportation (cart) (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-239-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528170700/http://gencourt.state.nh.us/rsa/html/XX/239-A/239-A-mrg.htm",
+     "sha256": "6fc3aecb23d452722c2032434f5b2dcb51ecf3e16903a0344728a0a5d2ee0489"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0239-b",
+   "short": "RSA 239-B",
+   "title": "New Hampshire Revised Statutes, Chapter 239-B: State Coordinating Council (scc) for Community Transportation in New Hampshire (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-239-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250703075325/https://gc.nh.gov/rsa/html/XX/239-B/239-B-mrg.htm",
+     "sha256": "cceb974854ddb9b13e8b4a6c09f78c02fde040e58969333fc008f7a9a95f1736"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0240",
+   "short": "RSA 240",
+   "title": "New Hampshire Revised Statutes, Chapter 240: State 10-year Transportation Improvement Program (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-240.htm",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250802142818/https://gc.nh.gov/rsa/html/XX/240/240-mrg.htm",
+     "sha256": "a1ee8beccf8b599edd6ba322a838cbcd31d5ac49b9fb233d8b0d055c163b3558"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0241",
+   "short": "RSA 241",
+   "title": "New Hampshire Revised Statutes, Chapter 241: Autonomous Vehicle Advisory Commission (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-241.htm",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250530181259/https://gc.nh.gov/rsa/html/XX/241/241-mrg.htm",
+     "sha256": "226bb661ffee499b2360fbc55ffd382bbcad4fdb53ad44e8c72e9cd4d04b9fd7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0242",
+   "short": "RSA 242",
+   "title": "New Hampshire Revised Statutes, Chapter 242: Automated Vehicle Testing and Deployment Pilot Program (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-242.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220625015446/https://gencourt.state.nh.us/rsa/html/XX/242/242-mrg.htm",
+     "sha256": "7becc5a2e8dc4e36031e78498be545bda3b26ca5677dfbe9a1b6d0a9b99c1a6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0243",
+   "short": "RSA 243",
+   "title": "New Hampshire Revised Statutes, Chapter 243: Formation and Union of Railroad Corporations; Leases and Extensions (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-243.htm",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260614150225/https://gc.nh.gov/rsa/html/XX/243/243-mrg.htm",
+     "sha256": "7358d7df167447b657ac679ef167b80f736f43914557828e9e13484261ad0349"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0244",
+   "short": "RSA 244",
+   "title": "New Hampshire Revised Statutes, Chapter 244: Railroad Trustees and Holding Companies (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-244.htm",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260829184128/https://gc.nh.gov/rsa/html/XX/244/244-mrg.htm",
+     "sha256": "154a148f3d0dd9247c65575f0b4cc69718ff417181d7ea0739892944339abdc3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0247",
+   "short": "RSA 247",
+   "title": "New Hampshire Revised Statutes, Chapter 247: Railroad Transportation of Passengers, Baggage and Freight (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-247.htm",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250902181414/https://gc.nh.gov/rsa/html/XX/247/247-mrg.htm",
+     "sha256": "dcf5477a5047e53f2f610b4e5c5c82b51edbd8977181ad6da6091cb11e9af6d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0248",
+   "short": "RSA 248",
+   "title": "New Hampshire Revised Statutes, Chapter 248: Joint, Connecting, and Terminal Service (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-248.htm",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250522103300/https://gc.nh.gov/rsa/html/XX/248/248-mrg.htm",
+     "sha256": "1f234510270b7a105bae03649eda2889c8a47dce57ba6eeb30fddc845c8af38b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0249",
+   "short": "RSA 249",
+   "title": "New Hampshire Revised Statutes, Chapter 249: Railroads; Fire Damage and Prevention (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-249.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250529025846/https://gc.nh.gov/rsa/html/XX/249/249-mrg.htm",
+     "sha256": "9434e31e3ae30ca6a317d893f42b53caef98477fa6bcbc569ed880041106f7b4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0250",
+   "short": "RSA 250",
+   "title": "New Hampshire Revised Statutes, Chapter 250: Maintenance of Parks by Railroads and Bus Lines (Title XX: Transportation)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX-250.htm",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250722055136/https://gc.nh.gov/rsa/html/XX/250/250-mrg.htm",
+     "sha256": "dd7c62a5fed9fb6660116b2e036d2f52db054a53bd13882e911a59a443c87e61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0259",
+   "short": "RSA 259",
+   "title": "New Hampshire Revised Statutes, Chapter 259: Words and Phrases Defined (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-259.htm",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 200,
+     "source_url": "https://web.archive.org/web/20260824104446/https://gc.nh.gov/rsa/html/XXI/259/259-mrg.htm",
+     "sha256": "64af0bcd9c7af9c4d1dad4543fc1263ae104d487a0032139ee206bb7842dfcd7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0260",
+   "short": "RSA 260",
+   "title": "New Hampshire Revised Statutes, Chapter 260: Administration of Motor Vehicle Laws (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-260.htm",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20250827061856/https://gc.nh.gov/rsa/html/XXI/260/260-mrg.htm",
+     "sha256": "2730daa19f6a1c2f7db8136484921871e2795199068755c1c118ba58e96a9dbd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0261",
+   "short": "RSA 261",
+   "title": "New Hampshire Revised Statutes, Chapter 261: Certificates of Title and Registration of Vehicles (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-261.htm",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 247,
+     "source_url": "https://web.archive.org/web/20260421122516/https://gc.nh.gov/rsa/html/xxi/261/261-mrg.htm",
+     "sha256": "2b4d81711990da83f076c66837a223769295fa24f1fae6ed4d010ebc66166b79"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0261-b",
+   "short": "RSA 261-B",
+   "title": "New Hampshire Revised Statutes, Chapter 261-B: Multi-use Decal Plates (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-261-B.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260106044218/https://www.gc.nh.gov/rsa/html/xxi/261-b/261-b-mrg.htm",
+     "sha256": "56c9205714aaeccd23f5293adc5f77180b87a626293ea9d1eec69256c21c6322"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0261-c",
+   "short": "RSA 261-C",
+   "title": "New Hampshire Revised Statutes, Chapter 261-C: Multi-use Veterans Decal Plates (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-261-C.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250523220246/https://gc.nh.gov/rsa/html/XXI/261-C/261-C-mrg.htm",
+     "sha256": "3bd6ef6263ab2fd66d299e462097d344c75d1d8e33588c0ed9a1228a1962003d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0262",
+   "short": "RSA 262",
+   "title": "New Hampshire Revised Statutes, Chapter 262: Antitheft Laws, Offenses, Penalties, Habitual Offenders, Arrest of Nonresidents and Abandoned Vehicles (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-262.htm",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20250819110604/https://gc.nh.gov/rsa/html/xxi/262/262-mrg.htm",
+     "sha256": "22dd5c4336a73c1ee1c8993523357f5da9737aebc29e55381427f69475bd39d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0263",
+   "short": "RSA 263",
+   "title": "New Hampshire Revised Statutes, Chapter 263: Drivers' Licenses (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-263.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 158,
+     "source_url": "https://web.archive.org/web/20260106012109/https://www.gc.nh.gov/rsa/html/xxi/263/263-mrg.htm",
+     "sha256": "32def66881f30fc45e7cb4158151e600e7434b00fd489972e5c27cd6d81126c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0263-a",
+   "short": "RSA 263-A",
+   "title": "New Hampshire Revised Statutes, Chapter 263-A: Mobile Drivers' Licenses and Non-driver Identification Cards (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-263-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260303233536/https://gc.nh.gov/rsa/html/XXI/263-A/263-A-mrg.htm",
+     "sha256": "7efaa61368aae5991ab94bc42cf7f34c2f935015df4dd4f695ef6673c70d6fcc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0264",
+   "short": "RSA 264",
+   "title": "New Hampshire Revised Statutes, Chapter 264: Accidents and Financial Responsibility (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-264.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20261029062641/https://gc.nh.gov/rsa/html/XXI/264/264-mrg.htm",
+     "sha256": "dbe33c877a561d5c13ab7a6ade3f3a8c1ba7173dfd3d6c228ff67075f304a585"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0265",
+   "short": "RSA 265",
+   "title": "New Hampshire Revised Statutes, Chapter 265: Rules of the Road (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-265.htm",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 187,
+     "source_url": "https://web.archive.org/web/20250801082558/https://gc.nh.gov/rsa/html/XXI/265/265-mrg.htm",
+     "sha256": "b47c25cf82d4fdf39ffb9416edd2aeba1a156080e6eaf73fe983d9c75b6c7b0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0265-a",
+   "short": "RSA 265-A",
+   "title": "New Hampshire Revised Statutes, Chapter 265-A: Alcohol or Drug Impairment (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-265-A.htm",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260828122925/https://gc.nh.gov/rsa/html/xxi/265-a/265-a-mrg.htm",
+     "sha256": "04d708bee41a195d083000f49889f67b81ae7e1b6dacff79e9bd5a75940aac1d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0266",
+   "short": "RSA 266",
+   "title": "New Hampshire Revised Statutes, Chapter 266: Equipment of Vehicles (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-266.htm",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260808032732/https://gc.nh.gov/rsa/html/xxi/266/266-mrg.htm",
+     "sha256": "41925128be4a9c86d341289830817afc4c62a5356885602dccca148fc135e99a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0266-a",
+   "short": "RSA 266-A",
+   "title": "New Hampshire Revised Statutes, Chapter 266-A: Motor Carriers of Passengers (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-266-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20250414144812/https://gc.nh.gov/rsa/html/XXI/266-A/266-A-mrg.htm",
+     "sha256": "af17454b6de087df662bff89b1bc4dd7d8c2463182a829f2b450ef3566800c0b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0267",
+   "short": "RSA 267",
+   "title": "New Hampshire Revised Statutes, Chapter 267: New England Truckers Compact (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-267.htm",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250502191251/https://gc.nh.gov/rsa/html/XXI/267/267-mrg.htm",
+     "sha256": "232724ae34f5cd221b51e3bf006be477d2927d1e97a0b5e942d845b0125d0811"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0269",
+   "short": "RSA 269",
+   "title": "New Hampshire Revised Statutes, Chapter 269: Electric Personal Assistive Mobility Devices (Title XXI: Motor Vehicles)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-269.htm",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250818231125/https://gc.nh.gov/rsa/html/XXI/269/269-mrg.htm",
+     "sha256": "2d9192e9643d65ee01eaa9d0a3251ca5e4b46a3fdce08db60080db37d14db14f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0270",
+   "short": "RSA 270",
+   "title": "New Hampshire Revised Statutes, Chapter 270: Supervision of Navigation; Registration of Boats and Motors; Common Carriers by Water (Title XXII: Navigation; Harbors; Coast Survey)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXII-270.htm",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 142,
+     "source_url": "https://web.archive.org/web/20240126102145/https://www.gencourt.state.nh.us/rsa/html/XXII/270/270-mrg.htm",
+     "sha256": "1dc77969a695658b256c873bde3b55026743ff611fbc7b258ee2196d4261aa71"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0270-a",
+   "short": "RSA 270-A",
+   "title": "New Hampshire Revised Statutes, Chapter 270-A: Use of Houseboats (Title XXII: Navigation; Harbors; Coast Survey)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXII-270-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250422210706/https://gc.nh.gov/rsa/html/XXII/270-A/270-A-mrg.htm",
+     "sha256": "6dc0ed5eeac766cbd6e1be04d33c546a71bf491bec80c50d4d17b6ab6cfb20dd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0270-b",
+   "short": "RSA 270-B",
+   "title": "New Hampshire Revised Statutes, Chapter 270-B: Abandoned Boats (Title XXII: Navigation; Harbors; Coast Survey)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXII-270-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525093009/http://gencourt.state.nh.us/rsa/html/XXII/270-B/270-B-mrg.htm",
+     "sha256": "ae305f2cca391bf69ce8b7d48b4953159bb334f1ccdb089b32f9998fccdda93f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0270-d",
+   "short": "RSA 270-D",
+   "title": "New Hampshire Revised Statutes, Chapter 270-D: Boating and Water Safety on New Hampshire Public Waters (Title XXII: Navigation; Harbors; Coast Survey)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXII-270-D.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250730173750/https://gc.nh.gov/rsa/html/XXII/270-D/270-D-mrg.htm",
+     "sha256": "f8aeef694d7c7e4c4b7dbbf046eb61739e4b770396581930d6c63e176dd5ee67"
+    }
+   ]
   }
  ]
 }

@@ -573,12 +573,282 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0161-k` | New Hampshire Revised Statutes, Chapter 161-K: New Hampshire Pharmaceutical Assistance Program (Title XII: Public Safety and Welfare) | 1 | 2022-05-24 to 2022-05-24 |
 | `chapter-0161-m` | New Hampshire Revised Statutes, Chapter 161-M: Senior Citizens Bill of Rights (Title XII: Public Safety and Welfare) | 1 | 2026-05-31 to 2026-05-31 |
 | `chapter-0161-n` | New Hampshire Revised Statutes, Chapter 161-N: Home Health Care Agency Services (Title XII: Public Safety and Welfare) | 1 | 2025-08-10 to 2025-08-10 |
+| `chapter-0162-b` | New Hampshire Revised Statutes, Chapter 162-B: Peaceful Uses of Atomic Energy (Title XII: Public Safety and Welfare) | 1 | 2025-07-07 to 2025-07-07 |
+| `chapter-0162-c` | New Hampshire Revised Statutes, Chapter 162-C: Council on Resources and Development (Title XII: Public Safety and Welfare) | 1 | 2025-06-01 to 2025-06-01 |
+| `chapter-0162-f` | New Hampshire Revised Statutes, Chapter 162-F: Decommissioning of Nuclear Electric Generating Facilities (Title XII: Public Safety and Welfare) | 1 | 2026-05-06 to 2026-05-06 |
+| `chapter-0162-g` | New Hampshire Revised Statutes, Chapter 162-G: Acquisition, Development and Disposal of Industrial Land and Facilities (Title XII: Public Safety and Welfare) | 1 | 2025-10-28 to 2025-10-28 |
+| `chapter-0162-h` | New Hampshire Revised Statutes, Chapter 162-H: Energy Facility Evaluation, Siting, Construction and Operation (Title XII: Public Safety and Welfare) | 1 | 2026-09-01 to 2026-09-01 |
+| `chapter-0162-i` | New Hampshire Revised Statutes, Chapter 162-I: Business Finance Authority Revenue Bonds (Title XII: Public Safety and Welfare) | 1 | 2026-10-18 to 2026-10-18 |
+| `chapter-0162-k` | New Hampshire Revised Statutes, Chapter 162-K: Municipal Economic Development and Revitalization Districts (Title XII: Public Safety and Welfare) | 1 | 2026-01-05 to 2026-01-05 |
+| `chapter-0162-l` | New Hampshire Revised Statutes, Chapter 162-L: Community Development Finance Authority (Title XII: Public Safety and Welfare) | 1 | 2024-03-01 to 2024-03-01 |
+| `chapter-0162-m` | New Hampshire Revised Statutes, Chapter 162-M: Private Activity Bond Limit (Title XII: Public Safety and Welfare) | 1 | 2025-07-07 to 2025-07-07 |
+| `chapter-0162-n` | New Hampshire Revised Statutes, Chapter 162-N: Economic Revitalization Zone Tax Credits (Title XII: Public Safety and Welfare) | 1 | 2025-11-18 to 2025-11-18 |
+| `chapter-0162-o` | New Hampshire Revised Statutes, Chapter 162-O: State Jobs Grant Fund (Title XII: Public Safety and Welfare) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0162-p` | New Hampshire Revised Statutes, Chapter 162-P: Research and Development Tax Credit Program (Title XII: Public Safety and Welfare) | 1 | 2025-07-09 to 2025-07-09 |
+| `chapter-0162-q` | New Hampshire Revised Statutes, Chapter 162-Q: Coos County Job Creation Tax Credit (Title XII: Public Safety and Welfare) | 1 | 2025-07-29 to 2025-07-29 |
+| `chapter-0162-r` | New Hampshire Revised Statutes, Chapter 162-R: Energy Infrastructure Development and Corridors (Title XII: Public Safety and Welfare) | 1 | 2026-09-13 to 2026-09-13 |
+| `chapter-0162-s` | New Hampshire Revised Statutes, Chapter 162-S: Extraterritorial Financing Powers of the New Hampshire Business Finance Authority (Title XII: Public Safety and Welfare) | 1 | 2024-05-20 to 2024-05-20 |
+| `chapter-0162-t` | New Hampshire Revised Statutes, Chapter 162-T: Regenerative Manufacturing Workforce Development Program (Title XII: Public Safety and Welfare) | 1 | 2025-09-05 to 2025-09-05 |
+| `chapter-0163-a` | New Hampshire Revised Statutes, Chapter 163-A: New England Interstate Planning Compact (Title XII: Public Safety and Welfare) | 1 | 2026-01-09 to 2026-01-09 |
+| `chapter-0163-b` | New Hampshire Revised Statutes, Chapter 163-B: Litter Control Law (Title XII: Public Safety and Welfare) | 1 | 2025-08-18 to 2025-08-18 |
+| `chapter-0165` | New Hampshire Revised Statutes, Chapter 165: Aid to Assisted Persons (Title XII: Public Safety and Welfare) | 1 | 2026-04-26 to 2026-04-26 |
+| `chapter-0166` | New Hampshire Revised Statutes, Chapter 166: Aid to County Assisted Persons (Title XII: Public Safety and Welfare) | 1 | 2026-04-19 to 2026-04-19 |
+| `chapter-0167` | New Hampshire Revised Statutes, Chapter 167: Public Assistance to Blind, Aged, or Disabled Persons, and to Dependent Children (Title XII: Public Safety and Welfare) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0167-b` | New Hampshire Revised Statutes, Chapter 167-B: Marriage Counseling Referral Service (Title XII: Public Safety and Welfare) | 1 | 2025-08-03 to 2025-08-03 |
+| `chapter-0167-c` | New Hampshire Revised Statutes, Chapter 167-C: White Cane Law (Title XII: Public Safety and Welfare) | 1 | 2023-01-27 to 2023-01-27 |
+| `chapter-0167-d` | New Hampshire Revised Statutes, Chapter 167-D: Service Animals and Search and Rescue Dogs (Title XII: Public Safety and Welfare) | 1 | 2026-01-08 to 2026-01-08 |
+| `chapter-0168-b` | New Hampshire Revised Statutes, Chapter 168-B: Parentage (Title XII: Public Safety and Welfare) | 1 | 2026-10-17 to 2026-10-17 |
+| `chapter-0169-a` | New Hampshire Revised Statutes, Chapter 169-A: Interstate Compact for Juveniles (Title XII: Public Safety and Welfare) | 1 | 2025-07-21 to 2025-07-21 |
+| `chapter-0169-b` | New Hampshire Revised Statutes, Chapter 169-B: Delinquent Children (Title XII: Public Safety and Welfare) | 1 | 2025-08-24 to 2025-08-24 |
+| `chapter-0169-c` | New Hampshire Revised Statutes, Chapter 169-C: Child Protection Act (Title XII: Public Safety and Welfare) | 1 | 2026-03-29 to 2026-03-29 |
+| `chapter-0169-d` | New Hampshire Revised Statutes, Chapter 169-D: Children in Need of Services (Title XII: Public Safety and Welfare) | 1 | 2025-07-02 to 2025-07-02 |
+| `chapter-0169-e` | New Hampshire Revised Statutes, Chapter 169-E: Missing Children (Title XII: Public Safety and Welfare) | 1 | 2025-02-26 to 2025-02-26 |
+| `chapter-0169-f` | New Hampshire Revised Statutes, Chapter 169-F: Court Ordered Placements (Title XII: Public Safety and Welfare) | 1 | 2026-08-06 to 2026-08-06 |
+| `chapter-0170-a` | New Hampshire Revised Statutes, Chapter 170-A: Interstate Compact on the Placement of Children (Title XII: Public Safety and Welfare) | 1 | 2026-05-11 to 2026-05-11 |
+| `chapter-0170-b` | New Hampshire Revised Statutes, Chapter 170-B: Adoption (Title XII: Public Safety and Welfare) | 1 | 2026-09-16 to 2026-09-16 |
+| `chapter-0170-c` | New Hampshire Revised Statutes, Chapter 170-C: Termination of Parental Rights (Title XII: Public Safety and Welfare) | 1 | 2025-07-26 to 2025-07-26 |
+| `chapter-0170-e` | New Hampshire Revised Statutes, Chapter 170-E: Child Day Care, Residential Care, and Child-placing Agencies (Title XII: Public Safety and Welfare) | 1 | 2026-10-06 to 2026-10-06 |
+| `chapter-0170-g` | New Hampshire Revised Statutes, Chapter 170-G: Services for Children, Youth and Families (Title XII: Public Safety and Welfare) | 1 | 2025-10-19 to 2025-10-19 |
+| `chapter-0170-h` | New Hampshire Revised Statutes, Chapter 170-H: Parole of Delinquents (Title XII: Public Safety and Welfare) | 1 | 2025-07-18 to 2025-07-18 |
+| `chapter-0171-a` | New Hampshire Revised Statutes, Chapter 171-A: Services for the Developmentally Disabled (Title XII: Public Safety and Welfare) | 1 | 2026-06-22 to 2026-06-22 |
+| `chapter-0171-b` | New Hampshire Revised Statutes, Chapter 171-B: Involuntary Admission for Persons Found Not Competent to Stand Trial (Title XII: Public Safety and Welfare) | 1 | 2025-04-12 to 2025-04-12 |
+| `chapter-0172` | New Hampshire Revised Statutes, Chapter 172: New Hampshire Substance Use Disorder Services System (Title XII: Public Safety and Welfare) | 1 | 2026-04-11 to 2026-04-11 |
+| `chapter-0172-b` | New Hampshire Revised Statutes, Chapter 172-B: Alcoholism and Alcohol Abuse (Title XII: Public Safety and Welfare) | 1 | 2025-02-19 to 2025-02-19 |
+| `chapter-0173-b` | New Hampshire Revised Statutes, Chapter 173-B: Protection of Persons from Domestic Violence (Title XII: Public Safety and Welfare) | 1 | 2025-11-16 to 2025-11-16 |
+| `chapter-0173-c` | New Hampshire Revised Statutes, Chapter 173-C: Confidential Communications Between Victims and Counselors (Title XII: Public Safety and Welfare) | 1 | 2025-07-24 to 2025-07-24 |
+| `chapter-0175` | New Hampshire Revised Statutes, Chapter 175: Definitions and General Provisions (Title XIII: Alcoholic Beverages) | 1 | 2025-05-28 to 2025-05-28 |
+| `chapter-0176` | New Hampshire Revised Statutes, Chapter 176: The Liquor Commission (Title XIII: Alcoholic Beverages) | 1 | 2025-07-04 to 2025-07-04 |
+| `chapter-0176-a` | New Hampshire Revised Statutes, Chapter 176-A: Alcohol Abuse Prevention and Treatment Fund (Title XIII: Alcoholic Beverages) | 1 | 2026-04-28 to 2026-04-28 |
+| `chapter-0177` | New Hampshire Revised Statutes, Chapter 177: State Liquor Stores (Title XIII: Alcoholic Beverages) | 1 | 2025-06-01 to 2025-06-01 |
+| `chapter-0178` | New Hampshire Revised Statutes, Chapter 178: Liquor Licenses and Fees (Title XIII: Alcoholic Beverages) | 1 | 2026-01-20 to 2026-01-20 |
+| `chapter-0179` | New Hampshire Revised Statutes, Chapter 179: Enforcement, Requirements and Penalties (Title XIII: Alcoholic Beverages) | 1 | 2025-11-22 to 2025-11-22 |
+| `chapter-0180` | New Hampshire Revised Statutes, Chapter 180: Beverage Distributor Agreements (Title XIII: Alcoholic Beverages) | 1 | 2026-05-17 to 2026-05-17 |
+| `chapter-0184` | New Hampshire Revised Statutes, Chapter 184: Inspection and Sale of Dairy Products (Title XIV: Milk and Milk Products) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0216` | New Hampshire Revised Statutes, Chapter 216: Management of Certain Recreational and Historic Sites (Title XIX: Public Recreation) | 1 | 2025-03-25 to 2025-03-25 |
+| `chapter-0216-a` | New Hampshire Revised Statutes, Chapter 216-A: Expansion of State Park System (Title XIX: Public Recreation) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0216-c` | New Hampshire Revised Statutes, Chapter 216-C: Back Channels of Portsmouth Harbor (Title XIX: Public Recreation) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0216-f` | New Hampshire Revised Statutes, Chapter 216-F: Multi-use Statewide Trail System (Title XIX: Public Recreation) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0216-j` | New Hampshire Revised Statutes, Chapter 216-J: Hampton Beach Area Commission (Title XIX: Public Recreation) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0217-a` | New Hampshire Revised Statutes, Chapter 217-A: New Hampshire Native Plant Protection (Title XIX: Public Recreation) | 1 | 2026-04-17 to 2026-04-17 |
+| `chapter-0225-a` | New Hampshire Revised Statutes, Chapter 225-A: Skiers, Ski Area and Passenger Tramway Safety (Title XIX: Public Recreation) | 1 | 2023-10-12 to 2023-10-12 |
+| `chapter-0227-b` | New Hampshire Revised Statutes, Chapter 227-B: Mount Washington Commission (Title XIX: Public Recreation) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0227-c` | New Hampshire Revised Statutes, Chapter 227-C: Historic Preservation (Title XIX: Public Recreation) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0227-d` | New Hampshire Revised Statutes, Chapter 227-D: Monadnock Advisory Commission (Title XIX: Public Recreation) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0227-e` | New Hampshire Revised Statutes, Chapter 227-E: Connecticut River Valley Resource Commission (Title XIX: Public Recreation) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0425` | New Hampshire Revised Statutes, Chapter 425: The Department of Agriculture, Markets, and Food (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-07 to 2026-01-07 |
+| `chapter-0426` | New Hampshire Revised Statutes, Chapter 426: Standards for Farm Products (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0426-a` | New Hampshire Revised Statutes, Chapter 426-A: Produce Safety (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0427` | New Hampshire Revised Statutes, Chapter 427: Livestock and Meat Inspection (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0428` | New Hampshire Revised Statutes, Chapter 428: Poultry and Poultry Products (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-07 to 2026-01-07 |
+| `chapter-0429` | New Hampshire Revised Statutes, Chapter 429: Beekeeping and Maple and Honey Products (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2024-06-13 to 2024-06-13 |
+| `chapter-0430` | New Hampshire Revised Statutes, Chapter 430: Insect Pests and Plant Diseases (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0431` | New Hampshire Revised Statutes, Chapter 431: Soil and Plant Additives (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0432` | New Hampshire Revised Statutes, Chapter 432: Soil Conservation and Farmland Preservation (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2022-08-12 to 2022-08-12 |
+| `chapter-0433` | New Hampshire Revised Statutes, Chapter 433: Seeds, Plants and Nursery Stock (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0433-a` | New Hampshire Revised Statutes, Chapter 433-A: Horticultural Growing Media (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0433-c` | New Hampshire Revised Statutes, Chapter 433-C: Industrial Hemp Research (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0434` | New Hampshire Revised Statutes, Chapter 434: Marketing and Grading of Certain Commodities (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0435` | New Hampshire Revised Statutes, Chapter 435: Animal Care, Breeding and Feed (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0436` | New Hampshire Revised Statutes, Chapter 436: Diseases of Domestic Animals (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0436-a` | New Hampshire Revised Statutes, Chapter 436-A: Wildlife Disease Control (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0437` | New Hampshire Revised Statutes, Chapter 437: Sale of Pets and Disposition of Unclaimed Animals (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0437-a` | New Hampshire Revised Statutes, Chapter 437-A: Animal Population Control (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0437-b` | New Hampshire Revised Statutes, Chapter 437-B: Cost of Care Fund (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-05-27 to 2025-05-27 |
+| `chapter-0438` | New Hampshire Revised Statutes, Chapter 438: Standards for Weights and Measures (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-08-03 to 2025-08-03 |
+| `chapter-0439` | New Hampshire Revised Statutes, Chapter 439: State Food Security Act (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0439-a` | New Hampshire Revised Statutes, Chapter 439-A: Hemp (Title XL: Agriculture, Horticulture and Animal Husbandry) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0444` | New Hampshire Revised Statutes, Chapter 444: Statutory Liens on Personal Property (Title XLI: Liens) | 1 | 2025-07-14 to 2025-07-14 |
+| `chapter-0447` | New Hampshire Revised Statutes, Chapter 447: Liens for Labor and Materials (Title XLI: Liens) | 1 | 2026-02-06 to 2026-02-06 |
+| `chapter-0447-a` | New Hampshire Revised Statutes, Chapter 447-A: Commercial Real Estate Broker Lien (Title XLI: Liens) | 1 | 2025-09-25 to 2025-09-25 |
+| `chapter-0448` | New Hampshire Revised Statutes, Chapter 448: Liens for Board, Lodging; Agistment, Service of Stallion (Title XLI: Liens) | 1 | 2025-07-07 to 2025-07-07 |
+| `chapter-0448-a` | New Hampshire Revised Statutes, Chapter 448-A: Liens in Favor of Hospitals and Home Health Care Providers (Title XLI: Liens) | 1 | 2025-07-12 to 2025-07-12 |
+| `chapter-0449` | New Hampshire Revised Statutes, Chapter 449: Liens for Cleaning, Pressing, Laundering, Etc. (Title XLI: Liens) | 1 | 2025-08-15 to 2025-08-15 |
+| `chapter-0450` | New Hampshire Revised Statutes, Chapter 450: Liens on Motor Vehicles or Aircraft (Title XLI: Liens) | 1 | 2025-06-28 to 2025-06-28 |
+| `chapter-0450-a` | New Hampshire Revised Statutes, Chapter 450-A: Liens on Vessels, Boats, and Vessel or Boat Motors (Title XLI: Liens) | 1 | 2026-04-27 to 2026-04-27 |
+| `chapter-0451` | New Hampshire Revised Statutes, Chapter 451: Jewelers' Liens (Title XLI: Liens) | 1 | 2025-06-28 to 2025-06-28 |
+| `chapter-0451-a` | New Hampshire Revised Statutes, Chapter 451-A: Radio and Television Machine Liens (Title XLI: Liens) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0451-b` | New Hampshire Revised Statutes, Chapter 451-B: Liens on Personal Property (Title XLI: Liens) | 1 | 2025-06-22 to 2025-06-22 |
+| `chapter-0451-c` | New Hampshire Revised Statutes, Chapter 451-C: Self-service Storage Facility Liens (Title XLI: Liens) | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0452` | New Hampshire Revised Statutes, Chapter 452: Liens of Vendors of Monumental Work (Title XLI: Liens) | 1 | 2025-06-26 to 2025-06-26 |
+| `chapter-0453` | New Hampshire Revised Statutes, Chapter 453: Liens for Advances for Lumbering or Pulpwood Cutting (Title XLI: Liens) | 1 | 2025-04-26 to 2025-04-26 |
+| `chapter-0454-b` | New Hampshire Revised Statutes, Chapter 454-B: Uniform Federal Lien Registration Act (Title XLI: Liens) | 1 | 2025-06-24 to 2025-06-24 |
+| `chapter-0454-c` | New Hampshire Revised Statutes, Chapter 454-C: Personal Property Lien Index (Title XLI: Liens) | 1 | 2025-06-19 to 2025-06-19 |
+| `chapter-0455` | New Hampshire Revised Statutes, Chapter 455: Notaries Public and Commissioners (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0455-a` | New Hampshire Revised Statutes, Chapter 455-A: Justices of the Peace (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0456-b` | New Hampshire Revised Statutes, Chapter 456-B: Uniform Law on Notarial Acts (Title XLII: Notaries, Commissioners, Justices of the Peace, and Acknowledgments) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0457` | New Hampshire Revised Statutes, Chapter 457: Marriages (Title XLIII: Domestic Relations) | 1 | 2025-11-03 to 2025-11-03 |
+| `chapter-0458` | New Hampshire Revised Statutes, Chapter 458: Annulment, Divorce and Separation (Title XLIII: Domestic Relations) | 1 | 2026-05-19 to 2026-05-19 |
+| `chapter-0458-a` | New Hampshire Revised Statutes, Chapter 458-A: Uniform Child Custody Jurisdiction and Enforcement Act (Title XLIII: Domestic Relations) | 1 | 2026-01-19 to 2026-01-19 |
+| `chapter-0458-b` | New Hampshire Revised Statutes, Chapter 458-B: Income Assignment (Title XLIII: Domestic Relations) | 1 | 2025-06-03 to 2025-06-03 |
+| `chapter-0458-c` | New Hampshire Revised Statutes, Chapter 458-C: Child Support Guidelines (Title XLIII: Domestic Relations) | 1 | 2026-08-29 to 2026-08-29 |
+| `chapter-0458-d` | New Hampshire Revised Statutes, Chapter 458-D: Parental Rights and Responsibilities and Child Support Impact Seminars (Title XLIII: Domestic Relations) | 1 | 2026-05-19 to 2026-05-19 |
+| `chapter-0461-a` | New Hampshire Revised Statutes, Chapter 461-A: Parental Rights and Responsibilities (Title XLIII: Domestic Relations) | 1 | 2025-11-04 to 2025-11-04 |
+| `chapter-0461-b` | New Hampshire Revised Statutes, Chapter 461-B: Emancipation (Title XLIII: Domestic Relations) | 1 | 2025-03-22 to 2025-03-22 |
+| `chapter-0463` | New Hampshire Revised Statutes, Chapter 463: Guardianship of Minors and Estates of Minors (Title XLIV: Guardians and Conservators) | 1 | 2025-05-27 to 2025-05-27 |
+| `chapter-0463-a` | New Hampshire Revised Statutes, Chapter 463-A: Uniform Transfers to Minors Act (Title XLIV: Guardians and Conservators) | 1 | 2026-10-15 to 2026-10-15 |
+| `chapter-0464-a` | New Hampshire Revised Statutes, Chapter 464-A: Guardians and Conservators (Title XLIV: Guardians and Conservators) | 1 | 2025-09-07 to 2025-09-07 |
+| `chapter-0464-c` | New Hampshire Revised Statutes, Chapter 464-C: Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act (Title XLIV: Guardians and Conservators) | 1 | 2025-04-15 to 2025-04-15 |
+| `chapter-0464-d` | New Hampshire Revised Statutes, Chapter 464-D: Supported Decision-making (Title XLIV: Guardians and Conservators) | 1 | 2025-08-04 to 2025-08-04 |
+| `chapter-0465` | New Hampshire Revised Statutes, Chapter 465: Guardianship of Incompetent Veterans, Etc. (Title XLIV: Guardians and Conservators) | 1 | 2025-08-02 to 2025-08-02 |
+| `chapter-0480` | New Hampshire Revised Statutes, Chapter 480: The Homestead Right (Title XLIX: Homesteads) | 1 | 2025-07-23 to 2025-07-23 |
+| `chapter-0466` | New Hampshire Revised Statutes, Chapter 466: Dogs and Cats (Title XLV: Animals) | 1 | 2025-06-17 to 2025-06-17 |
+| `chapter-0466-a` | New Hampshire Revised Statutes, Chapter 466-A: Wolf Hybrids (Title XLV: Animals) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0467` | New Hampshire Revised Statutes, Chapter 467: Running at Large (Title XLV: Animals) | 1 | 2023-01-27 to 2023-01-27 |
+| `chapter-0468` | New Hampshire Revised Statutes, Chapter 468: Animal Brands and Marks (Title XLV: Animals) | 1 | 2026-04-28 to 2026-04-28 |
+| `chapter-0470` | New Hampshire Revised Statutes, Chapter 470: Bounties on Certain Animals and Insects (Title XLV: Animals) | 1 | 2025-05-11 to 2025-05-11 |
+| `chapter-0471-c` | New Hampshire Revised Statutes, Chapter 471-C: Custody and Escheat of Unclaimed and Abandoned Property (Title XLVI: Lost Property; Strays) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0471-d` | New Hampshire Revised Statutes, Chapter 471-D: Disposal of Unclaimed Property by Repair Businesses (Title XLVI: Lost Property; Strays) | 1 | 2025-05-11 to 2025-05-11 |
+| `chapter-0472` | New Hampshire Revised Statutes, Chapter 472: Boundary Lines (Title XLVII: Boundaries, Fences and Common Fields) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0473` | New Hampshire Revised Statutes, Chapter 473: Division Fences and Their Maintenance (Title XLVII: Boundaries, Fences and Common Fields) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0474` | New Hampshire Revised Statutes, Chapter 474: Fencing and Renewing Bounds of Common Fields (Title XLVII: Boundaries, Fences and Common Fields) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0475` | New Hampshire Revised Statutes, Chapter 475: Fencing Waterways (Title XLVII: Boundaries, Fences and Common Fields) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0476` | New Hampshire Revised Statutes, Chapter 476: Spite Fences (Title XLVII: Boundaries, Fences and Common Fields) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0477` | New Hampshire Revised Statutes, Chapter 477: Conveyances of Realty and Interests Therein (Title XLVIII: Conveyances and Mortgages of Realty) | 1 | 2025-10-13 to 2025-10-13 |
+| `chapter-0478` | New Hampshire Revised Statutes, Chapter 478: Registers of Deeds (Title XLVIII: Conveyances and Mortgages of Realty) | 1 | 2025-03-22 to 2025-03-22 |
+| `chapter-0479` | New Hampshire Revised Statutes, Chapter 479: Mortgages of Realty (Title XLVIII: Conveyances and Mortgages of Realty) | 1 | 2024-05-28 to 2024-05-28 |
+| `chapter-0479-a` | New Hampshire Revised Statutes, Chapter 479-A: Unit Ownership of Real Property (Title XLVIII: Conveyances and Mortgages of Realty) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0479-b` | New Hampshire Revised Statutes, Chapter 479-B: Foreclosure Consultants and Pre-foreclosure Conveyances (Title XLVIII: Conveyances and Mortgages of Realty) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0186` | New Hampshire Revised Statutes, Chapter 186: The State School Organization (Title XV: Education) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0186-b` | New Hampshire Revised Statutes, Chapter 186-B: Education and Training of the Blind (Title XV: Education) | 1 | 2025-06-01 to 2025-06-01 |
+| `chapter-0186-c` | New Hampshire Revised Statutes, Chapter 186-C: Special Education (Title XV: Education) | 1 | 2026-08-11 to 2026-08-11 |
+| `chapter-0187-a` | New Hampshire Revised Statutes, Chapter 187-A: State College and University System (Title XV: Education) | 1 | 2025-05-12 to 2025-05-12 |
+| `chapter-0188-b` | New Hampshire Revised Statutes, Chapter 188-B: Allied Health Professions (Title XV: Education) | 1 | 2026-05-02 to 2026-05-02 |
+| `chapter-0188-e` | New Hampshire Revised Statutes, Chapter 188-E: Regional Career and Technical Education (cte) (Title XV: Education) | 1 | 2025-05-31 to 2025-05-31 |
+| `chapter-0188-f` | New Hampshire Revised Statutes, Chapter 188-F: Community College System of New Hampshire (Title XV: Education) | 1 | 2026-02-26 to 2026-02-26 |
+| `chapter-0188-g` | New Hampshire Revised Statutes, Chapter 188-G: Private Postsecondary Career Schools (Title XV: Education) | 1 | 2025-05-16 to 2025-05-16 |
+| `chapter-0188-h` | New Hampshire Revised Statutes, Chapter 188-H: Sexual Misconduct at Institutions of Higher Education (Title XV: Education) | 1 | 2025-08-31 to 2025-08-31 |
+| `chapter-0188-i` | New Hampshire Revised Statutes, Chapter 188-I: Suicide Prevention in Higher Education (Title XV: Education) | 1 | 2026-09-01 to 2026-09-01 |
+| `chapter-0188-j` | New Hampshire Revised Statutes, Chapter 188-J: Freedom of Speech and Association in Institutions of Higher Education (Title XV: Education) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0189` | New Hampshire Revised Statutes, Chapter 189: School Boards, Superintendents, Teachers, and Truant Officers; School Census (Title XV: Education) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0189-a` | New Hampshire Revised Statutes, Chapter 189-A: Death Benefit for School Employee Killed in Line of Duty (Title XV: Education) | 1 | 2025-10-07 to 2025-10-07 |
+| `chapter-0190` | New Hampshire Revised Statutes, Chapter 190: Council for Teacher Education (Title XV: Education) | 1 | 2026-05-23 to 2026-05-23 |
+| `chapter-0191` | New Hampshire Revised Statutes, Chapter 191: Teachers' Loyalty (Title XV: Education) | 1 | 2025-09-11 to 2025-09-11 |
+| `chapter-0193` | New Hampshire Revised Statutes, Chapter 193: Pupils (Title XV: Education) | 1 | 2026-09-28 to 2026-09-28 |
+| `chapter-0193-a` | New Hampshire Revised Statutes, Chapter 193-A: Home Education (Title XV: Education) | 1 | 2026-04-21 to 2026-04-21 |
+| `chapter-0193-b` | New Hampshire Revised Statutes, Chapter 193-B: Drug-free School Zones (Title XV: Education) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0193-c` | New Hampshire Revised Statutes, Chapter 193-C: Statewide Education Improvement and Assessment Program (Title XV: Education) | 1 | 2026-03-24 to 2026-03-24 |
+| `chapter-0193-d` | New Hampshire Revised Statutes, Chapter 193-D: Safe School Zones (Title XV: Education) | 1 | 2026-08-11 to 2026-08-11 |
+| `chapter-0193-e` | New Hampshire Revised Statutes, Chapter 193-E: Adequate Public Education (Title XV: Education) | 1 | 2025-08-31 to 2025-08-31 |
+| `chapter-0193-f` | New Hampshire Revised Statutes, Chapter 193-F: Pupil Safety and Violence Prevention (Title XV: Education) | 1 | 2026-08-14 to 2026-08-14 |
+| `chapter-0193-g` | New Hampshire Revised Statutes, Chapter 193-G: Persistently Dangerous Schools (Title XV: Education) | 1 | 2025-07-10 to 2025-07-10 |
+| `chapter-0193-h` | New Hampshire Revised Statutes, Chapter 193-H: School Performance and Accountability (Title XV: Education) | 1 | 2026-01-19 to 2026-01-19 |
+| `chapter-0193-i` | New Hampshire Revised Statutes, Chapter 193-I: Math Learning Communities Program in Public Secondary Schools (Title XV: Education) | 1 | 2025-06-04 to 2025-06-04 |
+| `chapter-0193-j` | New Hampshire Revised Statutes, Chapter 193-J: Suicide Prevention Education (Title XV: Education) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0193-k` | New Hampshire Revised Statutes, Chapter 193-K: Eating Disorder Education (Title XV: Education) | 1 | 2026-06-29 to 2026-06-29 |
+| `chapter-0194` | New Hampshire Revised Statutes, Chapter 194: School Districts (Title XV: Education) | 1 | 2026-01-05 to 2026-01-05 |
+| `chapter-0194-b` | New Hampshire Revised Statutes, Chapter 194-B: Chartered Public Schools (Title XV: Education) | 1 | 2025-08-31 to 2025-08-31 |
+| `chapter-0194-c` | New Hampshire Revised Statutes, Chapter 194-C: School Administrative Units (Title XV: Education) | 1 | 2025-10-31 to 2025-10-31 |
+| `chapter-0194-d` | New Hampshire Revised Statutes, Chapter 194-D: Open Enrollment Schools (Title XV: Education) | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0194-e` | New Hampshire Revised Statutes, Chapter 194-E: Innovation Schools (Title XV: Education) | 1 | 2025-08-31 to 2025-08-31 |
+| `chapter-0194-f` | New Hampshire Revised Statutes, Chapter 194-F: Education Freedom Accounts (Title XV: Education) | 1 | 2026-07-25 to 2026-07-25 |
+| `chapter-0195` | New Hampshire Revised Statutes, Chapter 195: Cooperative School Districts (Title XV: Education) | 1 | 2026-02-10 to 2026-02-10 |
+| `chapter-0195-a` | New Hampshire Revised Statutes, Chapter 195-A: Authorized Regional Enrollment Area (area) Schools (Title XV: Education) | 1 | 2025-10-18 to 2025-10-18 |
+| `chapter-0195-c` | New Hampshire Revised Statutes, Chapter 195-C: School Building Authority-state Guarantee (Title XV: Education) | 1 | 2026-02-09 to 2026-02-09 |
+| `chapter-0195-d` | New Hampshire Revised Statutes, Chapter 195-D: New Hampshire Health and Education Facilities Authority (Title XV: Education) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0195-e` | New Hampshire Revised Statutes, Chapter 195-E: Loan Corporations (Title XV: Education) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0195-f` | New Hampshire Revised Statutes, Chapter 195-F: New Hampshire Municipal Bond Bank Educational Institutions Bond Financing Act (Title XV: Education) | 1 | 2025-05-12 to 2025-05-12 |
+| `chapter-0195-g` | New Hampshire Revised Statutes, Chapter 195-G: College Savings Bond Program (Title XV: Education) | 1 | 2025-05-09 to 2025-05-09 |
+| `chapter-0195-h` | New Hampshire Revised Statutes, Chapter 195-H: College Tuition Savings Plan (Title XV: Education) | 1 | 2025-07-13 to 2025-07-13 |
+| `chapter-0195-k` | New Hampshire Revised Statutes, Chapter 195-K: Achieving a Better Life Experience (able) Savings Account Program (Title XV: Education) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0197` | New Hampshire Revised Statutes, Chapter 197: School Meetings and Officers (Title XV: Education) | 1 | 2025-07-17 to 2025-07-17 |
+| `chapter-0198` | New Hampshire Revised Statutes, Chapter 198: School Money (Title XV: Education) | 1 | 2026-05-31 to 2026-05-31 |
+| `chapter-0199` | New Hampshire Revised Statutes, Chapter 199: Schoolhouses (Title XV: Education) | 1 | 2025-05-11 to 2025-05-11 |
+| `chapter-0200` | New Hampshire Revised Statutes, Chapter 200: Health and Sanitation (Title XV: Education) | 1 | 2025-07-15 to 2025-07-15 |
+| `chapter-0200-a` | New Hampshire Revised Statutes, Chapter 200-A: The New England Higher Education Compact (Title XV: Education) | 1 | 2025-07-28 to 2025-07-28 |
+| `chapter-0200-b` | New Hampshire Revised Statutes, Chapter 200-B: New Hampshire-vermont Interstate School Compact (Title XV: Education) | 1 | 2026-08-22 to 2026-08-22 |
+| `chapter-0200-c` | New Hampshire Revised Statutes, Chapter 200-C: Vocational Rehabilitation Programs (Title XV: Education) | 1 | 2025-05-11 to 2025-05-11 |
+| `chapter-0200-e` | New Hampshire Revised Statutes, Chapter 200-E: Interstate Agreement on Qualification of Educational Personnel (Title XV: Education) | 1 | 2025-08-23 to 2025-08-23 |
+| `chapter-0200-f` | New Hampshire Revised Statutes, Chapter 200-F: New Hampshire-maine Interstate School Compact (Title XV: Education) | 1 | 2026-05-31 to 2026-05-31 |
+| `chapter-0200-g` | New Hampshire Revised Statutes, Chapter 200-G: Compact for Education (Title XV: Education) | 1 | 2026-09-03 to 2026-09-03 |
+| `chapter-0200-l` | New Hampshire Revised Statutes, Chapter 200-L: Interstate Agreement on Qualification of Educational Personnel (northeastern States) (Title XV: Education) | 1 | 2025-07-30 to 2025-07-30 |
+| `chapter-0200-m` | New Hampshire Revised Statutes, Chapter 200-M: Cart Provider and Sign Language Interpreter Net Tuition Repayment Program (Title XV: Education) | 1 | 2025-05-13 to 2025-05-13 |
+| `chapter-0200-n` | New Hampshire Revised Statutes, Chapter 200-N: Epinephrine Administration in Postsecondary Educational Institutions and Independent Schools (Title XV: Education) | 1 | 2024-07-01 to 2024-07-01 |
+| `chapter-0200-o` | New Hampshire Revised Statutes, Chapter 200-O: Computer Science Educator Program (Title XV: Education) | 1 | 2025-09-01 to 2025-09-01 |
+| `chapter-0201-a` | New Hampshire Revised Statutes, Chapter 201-A: The State Library (Title XVI: Libraries) | 1 | 2025-06-01 to 2025-06-01 |
+| `chapter-0201-b` | New Hampshire Revised Statutes, Chapter 201-B: Interstate Library Compact (Title XVI: Libraries) | 1 | 2025-05-17 to 2025-05-17 |
+| `chapter-0201-e` | New Hampshire Revised Statutes, Chapter 201-E: Museum Property Act (Title XVI: Libraries) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0202-a` | New Hampshire Revised Statutes, Chapter 202-A: Public Libraries (Title XVI: Libraries) | 1 | 2025-05-19 to 2025-05-19 |
+| `chapter-0202-b` | New Hampshire Revised Statutes, Chapter 202-B: New Hampshire State Government Information Dissemination and Access Act (Title XVI: Libraries) | 1 | 2026-03-28 to 2026-03-28 |
+| `chapter-0203` | New Hampshire Revised Statutes, Chapter 203: Housing Authorities Law (Title XVII: Housing and Redevelopment) | 1 | 2026-04-08 to 2026-04-08 |
+| `chapter-0204-c` | New Hampshire Revised Statutes, Chapter 204-C: Housing Finance Authority (Title XVII: Housing and Redevelopment) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0204-d` | New Hampshire Revised Statutes, Chapter 204-D: Surplus Lands Housing Program (Title XVII: Housing and Redevelopment) | 1 | 2026-02-04 to 2026-02-04 |
+| `chapter-0205-a` | New Hampshire Revised Statutes, Chapter 205-A: Regulation of Manufactured Housing Parks (Title XVII: Housing and Redevelopment) | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0205-c` | New Hampshire Revised Statutes, Chapter 205-C: Modular Building Standards (Title XVII: Housing and Redevelopment) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0205-d` | New Hampshire Revised Statutes, Chapter 205-D: Manufactured Housing Installation Standards (Title XVII: Housing and Redevelopment) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0206` | New Hampshire Revised Statutes, Chapter 206: Fish and Game Commission (Title XVIII: Fish and Game) | 1 | 2026-06-16 to 2026-06-16 |
+| `chapter-0207` | New Hampshire Revised Statutes, Chapter 207: General Provisions as to Fish and Game (Title XVIII: Fish and Game) | 1 | 2025-08-25 to 2025-08-25 |
+| `chapter-0208` | New Hampshire Revised Statutes, Chapter 208: Game Animals (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0209` | New Hampshire Revised Statutes, Chapter 209: Game Birds; Pigeons (Title XVIII: Fish and Game) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0209-a` | New Hampshire Revised Statutes, Chapter 209-A: Falconry (Title XVIII: Fish and Game) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0210` | New Hampshire Revised Statutes, Chapter 210: Fur-bearing Animals (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0211` | New Hampshire Revised Statutes, Chapter 211: Fish, Shellfish, Lobsters and Crabs (Title XVIII: Fish and Game) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0212` | New Hampshire Revised Statutes, Chapter 212: Propagation of Fish and Game (Title XVIII: Fish and Game) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0212-a` | New Hampshire Revised Statutes, Chapter 212-A: Endangered Species Conservation Act (Title XVIII: Fish and Game) | 1 | 2026-09-24 to 2026-09-24 |
+| `chapter-0212-b` | New Hampshire Revised Statutes, Chapter 212-B: Nongame Species Management Act (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0212-c` | New Hampshire Revised Statutes, Chapter 212-C: Wildlife Trafficking Prevention (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0213` | New Hampshire Revised Statutes, Chapter 213: Atlantic Marine Fisheries (Title XVIII: Fish and Game) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0213-a` | New Hampshire Revised Statutes, Chapter 213-A: Connecticut River Atlantic Salmon Compact (Title XVIII: Fish and Game) | 1 | 2024-06-13 to 2024-06-13 |
+| `chapter-0214` | New Hampshire Revised Statutes, Chapter 214: Licenses (Title XVIII: Fish and Game) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0214-a` | New Hampshire Revised Statutes, Chapter 214-A: Fish and Game Agents (Title XVIII: Fish and Game) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0215` | New Hampshire Revised Statutes, Chapter 215: Registration and Licensing of Guides (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0215-a` | New Hampshire Revised Statutes, Chapter 215-A: Off Highway Recreational Vehicles and Trails (Title XVIII: Fish and Game) | 1 | 2025-07-16 to 2025-07-16 |
+| `chapter-0215-b` | New Hampshire Revised Statutes, Chapter 215-B: Northeast Conservation Law Enforcement Compact (Title XVIII: Fish and Game) | 1 | 2022-05-18 to 2022-05-18 |
+| `chapter-0215-c` | New Hampshire Revised Statutes, Chapter 215-C: Snowmobiles (Title XVIII: Fish and Game) | 1 | 2025-07-16 to 2025-07-16 |
+| `chapter-0215-d` | New Hampshire Revised Statutes, Chapter 215-D: Interstate Wildlife Violators Compact (Title XVIII: Fish and Game) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0228` | New Hampshire Revised Statutes, Chapter 228: Administration of Transportation Laws (Title XX: Transportation) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0228-a` | New Hampshire Revised Statutes, Chapter 228-A: Federal Highway Grant Anticipation Bonds (Title XX: Transportation) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0229` | New Hampshire Revised Statutes, Chapter 229: Highway System in the State (Title XX: Transportation) | 1 | 2026-09-09 to 2026-09-09 |
+| `chapter-0230` | New Hampshire Revised Statutes, Chapter 230: State Highways (Title XX: Transportation) | 1 | 2025-05-27 to 2025-05-27 |
+| `chapter-0230-a` | New Hampshire Revised Statutes, Chapter 230-A: Corridor Protection (Title XX: Transportation) | 1 | 2025-07-15 to 2025-07-15 |
+| `chapter-0231` | New Hampshire Revised Statutes, Chapter 231: Cities, Towns and Village District Highways (Title XX: Transportation) | 1 | 2025-08-28 to 2025-08-28 |
+| `chapter-0231-a` | New Hampshire Revised Statutes, Chapter 231-A: Municipal Trails (Title XX: Transportation) | 1 | 2025-06-13 to 2025-06-13 |
+| `chapter-0232` | New Hampshire Revised Statutes, Chapter 232: Counties and County Commissioners (Title XX: Transportation) | 1 | 2025-05-25 to 2025-05-25 |
+| `chapter-0233` | New Hampshire Revised Statutes, Chapter 233: Recreational Roads (Title XX: Transportation) | 1 | 2025-07-22 to 2025-07-22 |
+| `chapter-0233-a` | New Hampshire Revised Statutes, Chapter 233-A: Access to Public Waters (Title XX: Transportation) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0234` | New Hampshire Revised Statutes, Chapter 234: Bridges and Bridge Aid (Title XX: Transportation) | 1 | 2025-08-19 to 2025-08-19 |
+| `chapter-0235` | New Hampshire Revised Statutes, Chapter 235: Federal and State Highway Aid (Title XX: Transportation) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0236` | New Hampshire Revised Statutes, Chapter 236: Highway Regulation, Protection and Control Regulations (Title XX: Transportation) | 1 | 2025-08-20 to 2025-08-20 |
+| `chapter-0237` | New Hampshire Revised Statutes, Chapter 237: Turnpike System (Title XX: Transportation) | 1 | 2026-09-09 to 2026-09-09 |
+| `chapter-0237-a` | New Hampshire Revised Statutes, Chapter 237-A: Turnpike System Revenue Bonds (Title XX: Transportation) | 1 | 2025-05-19 to 2025-05-19 |
+| `chapter-0238` | New Hampshire Revised Statutes, Chapter 238: Highway Programs (Title XX: Transportation) | 1 | 2026-06-01 to 2026-06-01 |
+| `chapter-0238-a` | New Hampshire Revised Statutes, Chapter 238-A: New Hampshire Transportation Council (Title XX: Transportation) | 1 | 2025-05-21 to 2025-05-21 |
+| `chapter-0239` | New Hampshire Revised Statutes, Chapter 239: Cooperative Alliance for Seacoast Transportation (Title XX: Transportation) | 1 | 2025-07-19 to 2025-07-19 |
+| `chapter-0239-a` | New Hampshire Revised Statutes, Chapter 239-A: Greater Derry-salem Cooperative Alliance for Regional Transportation (cart) (Title XX: Transportation) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0239-b` | New Hampshire Revised Statutes, Chapter 239-B: State Coordinating Council (scc) for Community Transportation in New Hampshire (Title XX: Transportation) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0240` | New Hampshire Revised Statutes, Chapter 240: State 10-year Transportation Improvement Program (Title XX: Transportation) | 1 | 2025-08-02 to 2025-08-02 |
+| `chapter-0241` | New Hampshire Revised Statutes, Chapter 241: Autonomous Vehicle Advisory Commission (Title XX: Transportation) | 1 | 2025-05-30 to 2025-05-30 |
+| `chapter-0242` | New Hampshire Revised Statutes, Chapter 242: Automated Vehicle Testing and Deployment Pilot Program (Title XX: Transportation) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0243` | New Hampshire Revised Statutes, Chapter 243: Formation and Union of Railroad Corporations; Leases and Extensions (Title XX: Transportation) | 1 | 2026-06-14 to 2026-06-14 |
+| `chapter-0244` | New Hampshire Revised Statutes, Chapter 244: Railroad Trustees and Holding Companies (Title XX: Transportation) | 1 | 2026-08-29 to 2026-08-29 |
+| `chapter-0247` | New Hampshire Revised Statutes, Chapter 247: Railroad Transportation of Passengers, Baggage and Freight (Title XX: Transportation) | 1 | 2025-09-02 to 2025-09-02 |
+| `chapter-0248` | New Hampshire Revised Statutes, Chapter 248: Joint, Connecting, and Terminal Service (Title XX: Transportation) | 1 | 2025-05-22 to 2025-05-22 |
+| `chapter-0249` | New Hampshire Revised Statutes, Chapter 249: Railroads; Fire Damage and Prevention (Title XX: Transportation) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0250` | New Hampshire Revised Statutes, Chapter 250: Maintenance of Parks by Railroads and Bus Lines (Title XX: Transportation) | 1 | 2025-07-22 to 2025-07-22 |
+| `chapter-0259` | New Hampshire Revised Statutes, Chapter 259: Words and Phrases Defined (Title XXI: Motor Vehicles) | 1 | 2026-08-24 to 2026-08-24 |
+| `chapter-0260` | New Hampshire Revised Statutes, Chapter 260: Administration of Motor Vehicle Laws (Title XXI: Motor Vehicles) | 1 | 2025-08-27 to 2025-08-27 |
+| `chapter-0261` | New Hampshire Revised Statutes, Chapter 261: Certificates of Title and Registration of Vehicles (Title XXI: Motor Vehicles) | 1 | 2026-04-21 to 2026-04-21 |
+| `chapter-0261-b` | New Hampshire Revised Statutes, Chapter 261-B: Multi-use Decal Plates (Title XXI: Motor Vehicles) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0261-c` | New Hampshire Revised Statutes, Chapter 261-C: Multi-use Veterans Decal Plates (Title XXI: Motor Vehicles) | 1 | 2025-05-23 to 2025-05-23 |
+| `chapter-0262` | New Hampshire Revised Statutes, Chapter 262: Antitheft Laws, Offenses, Penalties, Habitual Offenders, Arrest of Nonresidents and Abandoned Vehicles (Title XXI: Motor Vehicles) | 1 | 2025-08-19 to 2025-08-19 |
+| `chapter-0263` | New Hampshire Revised Statutes, Chapter 263: Drivers' Licenses (Title XXI: Motor Vehicles) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0263-a` | New Hampshire Revised Statutes, Chapter 263-A: Mobile Drivers' Licenses and Non-driver Identification Cards (Title XXI: Motor Vehicles) | 1 | 2026-03-03 to 2026-03-03 |
+| `chapter-0264` | New Hampshire Revised Statutes, Chapter 264: Accidents and Financial Responsibility (Title XXI: Motor Vehicles) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0265` | New Hampshire Revised Statutes, Chapter 265: Rules of the Road (Title XXI: Motor Vehicles) | 1 | 2025-08-01 to 2025-08-01 |
+| `chapter-0265-a` | New Hampshire Revised Statutes, Chapter 265-A: Alcohol or Drug Impairment (Title XXI: Motor Vehicles) | 1 | 2026-08-28 to 2026-08-28 |
+| `chapter-0266` | New Hampshire Revised Statutes, Chapter 266: Equipment of Vehicles (Title XXI: Motor Vehicles) | 1 | 2026-08-08 to 2026-08-08 |
+| `chapter-0266-a` | New Hampshire Revised Statutes, Chapter 266-A: Motor Carriers of Passengers (Title XXI: Motor Vehicles) | 1 | 2025-04-14 to 2025-04-14 |
+| `chapter-0267` | New Hampshire Revised Statutes, Chapter 267: New England Truckers Compact (Title XXI: Motor Vehicles) | 1 | 2025-05-02 to 2025-05-02 |
+| `chapter-0269` | New Hampshire Revised Statutes, Chapter 269: Electric Personal Assistive Mobility Devices (Title XXI: Motor Vehicles) | 1 | 2025-08-18 to 2025-08-18 |
+| `chapter-0270` | New Hampshire Revised Statutes, Chapter 270: Supervision of Navigation; Registration of Boats and Motors; Common Carriers by Water (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2024-01-26 to 2024-01-26 |
+| `chapter-0270-a` | New Hampshire Revised Statutes, Chapter 270-A: Use of Houseboats (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2025-04-22 to 2025-04-22 |
+| `chapter-0270-b` | New Hampshire Revised Statutes, Chapter 270-B: Abandoned Boats (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0270-d` | New Hampshire Revised Statutes, Chapter 270-D: Boating and Water Safety on New Hampshire Public Waters (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2025-07-30 to 2025-07-30 |
 
-The build made 559 commits:
+The build made 829 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 559 | first version of an act |
+| 829 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -586,7 +856,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 559 tags.
+- 829 tags.
 
 ## Dates
 
@@ -598,7 +868,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `248b2a2892c132eddba722c3aff1d1e1b375f4cb7c4bd9a8ed5858119529a466` (15778868 bytes).
+- Corpus: sha256 `52e6b6cf79c29d8e722d0ffe6f936315df94592169b10a06fa1e2f8956ae21ba` (25869693 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
