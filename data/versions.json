@@ -11606,6 +11606,3198 @@
      "sha256": "f8aeef694d7c7e4c4b7dbbf046eb61739e4b770396581930d6c63e176dd5ee67"
     }
    ]
+  },
+  {
+   "slug": "chapter-0273-a",
+   "short": "RSA 273-A",
+   "title": "New Hampshire Revised Statutes, Chapter 273-A: Public Employee Labor Relations (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-273-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260323101938/https://gc.nh.gov/rsa/html/XXIII/273-A/273-A-mrg.htm",
+     "sha256": "f87b2f66e9928103b42ee160c8a627dd866a330cf12cd6f54ce59473acac5c1d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0273-c",
+   "short": "RSA 273-C",
+   "title": "New Hampshire Revised Statutes, Chapter 273-C: Dog and Horse Racing Employees (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-273-C.htm",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260320043251/https://gc.nh.gov/rsa/html/XXIII/273-C/273-C-mrg.htm",
+     "sha256": "6297dc35b0bd932648ff8c295b6d808d907ffb63ce4c59ba5c0952f22b85a4bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0273-d",
+   "short": "RSA 273-D",
+   "title": "New Hampshire Revised Statutes, Chapter 273-D: Personnel Appeals Board (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-273-D.htm",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260324025826/https://gc.nh.gov/rsa/html/XXIII/273-D/273-D-mrg.htm",
+     "sha256": "35df8ee3c17324fbe6c6e74c5cf6502034d0c66830e615657500bf04ab6a8586"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0274",
+   "short": "RSA 274",
+   "title": "New Hampshire Revised Statutes, Chapter 274: Employment Offices (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-274.htm",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260120191350/https://gc.nh.gov/rsa/html/XXIII/274/274-mrg.htm",
+     "sha256": "6d5e96c60cae9d8969b4eeabdcb6f6eae7bd455f93cad567c183bf01c48e0fe2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275",
+   "short": "RSA 275",
+   "title": "New Hampshire Revised Statutes, Chapter 275: Protective Legislation (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275.htm",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 93,
+     "source_url": "https://web.archive.org/web/20260319195115/https://gc.nh.gov/rsa/html/XXIII/275/275-mrg.htm",
+     "sha256": "5706c6482505e450443fd3ea6e6d5d210c27e5b5f3845b332970eb320f82d02b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-a",
+   "short": "RSA 275-A",
+   "title": "New Hampshire Revised Statutes, Chapter 275-A: Citizens Job Protection (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-A.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250226122515/https://gc.nh.gov/rsa/html/XXIII/275-A/275-A-mrg.htm",
+     "sha256": "ce073821dad085d87657b1a4df9bfcc52d3be1152b31c55db9ee779742e0b3ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-c",
+   "short": "RSA 275-C",
+   "title": "New Hampshire Revised Statutes, Chapter 275-C: Governor's Commission on Disability (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-C.htm",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20251212231112/https://gc.nh.gov/rsa/html/XXIII/275-C/275-C-mrg.htm",
+     "sha256": "43ef362e3954876542c3429352282a3259feec3692a5c3d300564d3d80a106f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-d",
+   "short": "RSA 275-D",
+   "title": "New Hampshire Revised Statutes, Chapter 275-D: Displaced Homemakers (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-D.htm",
+   "versions": [
+    {
+     "from": "2026-02-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260221104807/https://gc.nh.gov/rsa/html/XXIII/275-D/275-D-mrg.htm",
+     "sha256": "70821787cbb84cf077ef1e03fc6396b2c2f0bfda160841a41f5f9c1878621b84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-e",
+   "short": "RSA 275-E",
+   "title": "New Hampshire Revised Statutes, Chapter 275-E: Whistleblowers' Protection Act (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-E.htm",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260321003306/https://gc.nh.gov/rsa/html/XXIII/275-E/275-E-mrg.htm",
+     "sha256": "1bf3361bd783b89d38c236b9cb1cfc54409a66f437e8bcc422967e70265ca9ad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-f",
+   "short": "RSA 275-F",
+   "title": "New Hampshire Revised Statutes, Chapter 275-F: New Hampshire Worker Adjustment and Retraining Notification Act (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-F.htm",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20251127010500/https://gc.nh.gov/rsa/html/XXIII/275-F/275-F-mrg.htm",
+     "sha256": "c8645390cc2940876229b8b96628f291370ad7f3aa1a3bfd6acf00684cfd8124"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0275-g",
+   "short": "RSA 275-G",
+   "title": "New Hampshire Revised Statutes, Chapter 275-G: Veterans' Preference Employment Policy (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-275-G.htm",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260520134249/https://gc.nh.gov/rsa/html/XXIII/275-G/275-G-mrg.htm",
+     "sha256": "ed70588b17ac6ae1aa3454230d984f89e019f692b195f9fe7bbfa9adf738f55a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0276-a",
+   "short": "RSA 276-A",
+   "title": "New Hampshire Revised Statutes, Chapter 276-A: Youth Employment Law (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-276-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260421021040/https://www.gc.nh.gov/rsa/html/XXIII/276-A/276-A-mrg.htm",
+     "sha256": "b341e2a62aa85b2a7c4d020374b7a9ebb9c9c15ab8d5da6c08386a5d0d7f0b3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0277",
+   "short": "RSA 277",
+   "title": "New Hampshire Revised Statutes, Chapter 277: Safety and Health of Employees (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-277.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20251219180403/https://gc.nh.gov/rsa/html/XXIII/277/277-mrg.htm",
+     "sha256": "4ffaa02d976fe9afe3635cf74dc98b4083672ebb22f4d62e8e24f0cc9d4393cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0277-a",
+   "short": "RSA 277-A",
+   "title": "New Hampshire Revised Statutes, Chapter 277-A: Toxic Substances in the Workplace (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-277-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261016185509/https://www.gc.nh.gov/rsa/html/XXIII/277-A/277-A-mrg.htm",
+     "sha256": "d148e7e92384d8c442dcce7891688c506bb55f2b9a5bc39103bb5f37271beab0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0277-b",
+   "short": "RSA 277-B",
+   "title": "New Hampshire Revised Statutes, Chapter 277-B: Employee Leasing Companies (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-277-B.htm",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20251219043152/https://gc.nh.gov/rsa/html/XXIII/277-B/277-B-mrg.htm",
+     "sha256": "c39bbe4e1ae0ba0824f4f3d73bf7b48eac70c36a74738c0b066ef24fbf2e7379"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0277-c",
+   "short": "RSA 277-C",
+   "title": "New Hampshire Revised Statutes, Chapter 277-C: Health Care Workplace Violence Prevention Program (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-277-C.htm",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260320160403/https://gc.nh.gov/rsa/html/XXIII/277-C/277-C-mrg.htm",
+     "sha256": "7e06c15f26d32c09c3f6ad57fef76ae964721944f72fb37562c458cc9dc53cde"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0278",
+   "short": "RSA 278",
+   "title": "New Hampshire Revised Statutes, Chapter 278: Apprenticeship Programs in Trade and Industry (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-278.htm",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260321073053/https://gc.nh.gov/rsa/html/XXIII/278/278-mrg.htm",
+     "sha256": "182ed6ae08efd10f68395f0764a86a07004863123c911db43cec0f6754af12f0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0279",
+   "short": "RSA 279",
+   "title": "New Hampshire Revised Statutes, Chapter 279: Minimum Wage Law (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-279.htm",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260323025903/https://gc.nh.gov/rsa/html/XXIII/279/279-mrg.htm",
+     "sha256": "0d6e9c5f12751af905842506c9918aeeea72e25a10a8ef3ef274cb32954fdc6b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0281-a",
+   "short": "RSA 281-A",
+   "title": "New Hampshire Revised Statutes, Chapter 281-A: Workers' Compensation (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-281-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 108,
+     "source_url": "https://web.archive.org/web/20260320210407/https://gc.nh.gov/rsa/html/XXIII/281-A/281-A-mrg.htm",
+     "sha256": "8958f7c0fb10f086f4781b0e91413964eedf95f3c81380ca6e6066079c3846f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0282-a",
+   "short": "RSA 282-A",
+   "title": "New Hampshire Revised Statutes, Chapter 282-A: Unemployment Compensation (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-282-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 206,
+     "source_url": "https://web.archive.org/web/20260320092743/https://gc.nh.gov/rsa/html/XXIII/282-A/282-A-mrg.htm",
+     "sha256": "849a041083244443ff9e933e2f22a482dc5f072833119777accf8e97f8cebcde"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0283",
+   "short": "RSA 283",
+   "title": "New Hampshire Revised Statutes, Chapter 283: Preference of Resident Laborers and Veterans (Title XXIII: Labor)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIII-283.htm",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251205225802/https://gc.nh.gov/rsa/html/XXIII/283/283-mrg.htm",
+     "sha256": "f12eb72b14e9a080e32593a6a313b2608487bd70000c256ba8b912063e0df308"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0284",
+   "short": "RSA 284",
+   "title": "New Hampshire Revised Statutes, Chapter 284: Horse and Dog Racing (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-284.htm",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 120,
+     "source_url": "https://web.archive.org/web/20260806065114/https://gc.nh.gov/rsa/html/XXIV/284/284-mrg.htm",
+     "sha256": "b46e6fe1be3866884aa85f11f74ead5e0245e954cea54e4f503745bd446de173"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0285",
+   "short": "RSA 285",
+   "title": "New Hampshire Revised Statutes, Chapter 285: Boxing and Wrestling Commission (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-285.htm",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260926121608/https://gc.nh.gov/rsa/html/XXIV/285/285-mrg.htm",
+     "sha256": "5c99d69b98a1d62f0fa3afdacbe8bbf698be18719e48789b28a76342c4252fe5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0286",
+   "short": "RSA 286",
+   "title": "New Hampshire Revised Statutes, Chapter 286: Licensing Shows, Open-air Meetings, Billiard Tables, and Bowling Alleys (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-286.htm",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260417224519/https://gc.nh.gov/rsa/html/XXIV/286/286-mrg.htm",
+     "sha256": "ebb6c2ba717f32d0af5ccae2918879da9bf487625fe88b9544f156f8ee32e6f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-a",
+   "short": "RSA 287-A",
+   "title": "New Hampshire Revised Statutes, Chapter 287-A: Raffles (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-A.htm",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20251101222139/https://gc.nh.gov/rsa/html/XXIV/287-A/287-A-mrg.htm",
+     "sha256": "4e9b5d05b718b46652d3ddf80d27ea7ffd70807f2651d796821480f8e6616549"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-c",
+   "short": "RSA 287-C",
+   "title": "New Hampshire Revised Statutes, Chapter 287-C: Manufacture of Gambling Machines (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-C.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260812230736/https://gc.nh.gov/rsa/html/XXIV/287-C/287-C-mrg.htm",
+     "sha256": "95a31499b2782aaa70393541ad0b299ef11bcba6da45de8710837d1bfd689d73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-d",
+   "short": "RSA 287-D",
+   "title": "New Hampshire Revised Statutes, Chapter 287-D: Games of Chance (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-D.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260812230854/https://gc.nh.gov/rsa/html/XXIV/287-D/287-D-mrg.htm",
+     "sha256": "52847732c505cf9f525265258d9ec73d9f63c427fa8d33f66bf391bce94645ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-e",
+   "short": "RSA 287-E",
+   "title": "New Hampshire Revised Statutes, Chapter 287-E: Bingo and Lucky 7 (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-E.htm",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20250603200413/https://gc.nh.gov/rsa/html/XXIV/287-E/287-E-mrg.htm",
+     "sha256": "3db5dbe88a09869cc4dd8403ca31e2ddb35fcad4ead96454c5305bf5cd72f49a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-f",
+   "short": "RSA 287-F",
+   "title": "New Hampshire Revised Statutes, Chapter 287-F: Tri-state Lotto Compact (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-F.htm",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250704151526/https://gc.nh.gov/rsa/html/XXIV/287-F/287-F-mrg.htm",
+     "sha256": "0b9c0b6b65ea074634dffe906babf406e1ca4a752adf49e24e8a0933aaccaceb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-h",
+   "short": "RSA 287-H",
+   "title": "New Hampshire Revised Statutes, Chapter 287-H: Fantasy Sports Contests (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-H.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260106005534/https://www.gc.nh.gov/rsa/html/XXIV/287-H/287-H-mrg.htm",
+     "sha256": "f71aa12cc6a3f1f73701be74c93ae0e676ca166da3fc166f8ffbd989caff2df2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-i",
+   "short": "RSA 287-I",
+   "title": "New Hampshire Revised Statutes, Chapter 287-I: Sports Betting (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-I.htm",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260414001636/https://gc.nh.gov/rsa/html/XXIV/287-I/287-I-mrg.htm",
+     "sha256": "ab2eb970a392a2f8e5051f693a75b4502adcc51f6535f6ba02eb6999ee48860a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0287-j",
+   "short": "RSA 287-J",
+   "title": "New Hampshire Revised Statutes, Chapter 287-J: Video Lottery Terminals (Title XXIV: Games, Amusements, and Athletic Exhibitions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIV-287-J.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260812231008/https://gc.nh.gov/rsa/html/XXIV/287-J/287-J-mrg.htm",
+     "sha256": "70c25e71f9f7bd2dd02697c3e2aabcb972808c3ea1e756458ebe6b2516b85a5e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0306",
+   "short": "RSA 306",
+   "title": "New Hampshire Revised Statutes, Chapter 306: Religious Societies Generally (Title XXIX: Religious Societies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIX-306.htm",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250609195034/https://gc.nh.gov/rsa/html/XXIX/306/306-mrg.htm",
+     "sha256": "8df58bb912eb2fadcefcc542d8de5cbf5888119f2299f747b93e1a449a398538"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0307",
+   "short": "RSA 307",
+   "title": "New Hampshire Revised Statutes, Chapter 307: Sale, Repairs, Etc., of Meetinghouses (Title XXIX: Religious Societies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIX-307.htm",
+   "versions": [
+    {
+     "from": "2025-04-19",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250419182950/https://gc.nh.gov/rsa/html/XXIX/307/307-mrg.htm",
+     "sha256": "00029bb5a0bd08155fe0221f7739ce9507bef8cfc2fed00fcd4ad7bc01856107"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0308",
+   "short": "RSA 308",
+   "title": "New Hampshire Revised Statutes, Chapter 308: Dissolution (Title XXIX: Religious Societies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXIX-308.htm",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260406134903/https://gc.nh.gov/rsa/html/XXIX/308/308-mrg.htm",
+     "sha256": "af1f2e3ea33326d70b78db3e222b2cfd127c8c3576df9d9574ef2f6c501934ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0288",
+   "short": "RSA 288",
+   "title": "New Hampshire Revised Statutes, Chapter 288: Holidays (Title XXV: Holidays)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXV-288.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250702073755/https://gc.nh.gov/rsa/html/XXV/288/288-mrg.htm",
+     "sha256": "8623e5dfc937c1edf425cad13d76db485cb1d0b877dc5f56aede39cd2d196213"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0289",
+   "short": "RSA 289",
+   "title": "New Hampshire Revised Statutes, Chapter 289: Cemeteries (Title XXVI: Cemeteries; Burials; Dead Bodies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVI-289.htm",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261008151106/https://gc.nh.gov/rsa/html/XXVI/289/289-mrg.htm",
+     "sha256": "08972f906c5ec92ee8bce50a73d7a0111f4015df04b1e55cf8700a8f91f767df"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0290",
+   "short": "RSA 290",
+   "title": "New Hampshire Revised Statutes, Chapter 290: Burials and Disinterments (Title XXVI: Cemeteries; Burials; Dead Bodies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVI-290.htm",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250709042351/https://gc.nh.gov/rsa/html/XXVI/290/290-mrg.htm",
+     "sha256": "8e1def6e1b60d985323b35cd1f6797b9ff7b6a84f7b4ceb94c26fa65d8f8c039"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0291-a",
+   "short": "RSA 291-A",
+   "title": "New Hampshire Revised Statutes, Chapter 291-A: Uniform Anatomical Gift Act (Title XXVI: Cemeteries; Burials; Dead Bodies)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVI-291-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250527081613/https://gc.nh.gov/rsa/html/XXVI/291-A/291-A-mrg.htm",
+     "sha256": "ae3fbf36d251eefa2b7a50ded8fc2427c838d6c5b6bc33a630166760822107ab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0292",
+   "short": "RSA 292",
+   "title": "New Hampshire Revised Statutes, Chapter 292: Voluntary Corporations and Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-292.htm",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20260910174538/https://gc.nh.gov/rsa/html/XXVII/292/292-mrg.htm",
+     "sha256": "7309d413b861dcd08b45c61a42ee6df3a87558962a19cf794a2535ef82a67390"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0292-b",
+   "short": "RSA 292-B",
+   "title": "New Hampshire Revised Statutes, Chapter 292-B: Uniform Prudent Management of Institutional Funds Act (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-292-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260328092334/https://gc.nh.gov/rsa/html/XXVII/292-B/292-B-mrg.htm",
+     "sha256": "88d08ec238d5f0527240af9925917c57cc62622687c5ba5675a75e26e47fd8bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0293",
+   "short": "RSA 293",
+   "title": "New Hampshire Revised Statutes, Chapter 293: Corporate Charters (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-293.htm",
+   "versions": [
+    {
+     "from": "2025-04-20",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250420125841/https://gc.nh.gov/rsa/html/XXVII/293/293-mrg.htm",
+     "sha256": "16ed929e2d2e8dbd67715239734d6058d8a11807103053ed5d10561ada5ae190"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0293-b",
+   "short": "RSA 293-B",
+   "title": "New Hampshire Revised Statutes, Chapter 293-B: Treatment of New Hampshire Investment Trusts (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-293-B.htm",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20230119141109/https://www.gencourt.state.nh.us/rsa/html/XXVII/293-B/293-B-mrg.htm",
+     "sha256": "73bcd11018ce8c1800f4634f6372929a115f64e7fe44b3ba9f10f4cc833a4a13"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0293-c",
+   "short": "RSA 293-C",
+   "title": "New Hampshire Revised Statutes, Chapter 293-C: Benefit Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-293-C.htm",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260604005735/https://gc.nh.gov/rsa/html/XXVII/293-C/293-C-mrg.htm",
+     "sha256": "672d53833b953d2201251f2b845213d8e2f8708dc31db65e396f17237d1f39d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0294-a",
+   "short": "RSA 294-A",
+   "title": "New Hampshire Revised Statutes, Chapter 294-A: Professional Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-294-A.htm",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260617124549/https://gc.nh.gov/rsa/html/XXVII/294-A/294-A-mrg.htm",
+     "sha256": "dd4f11cf1a185e4a79f0def289f5d853b89c37b6efa57a9a311437c2f876377c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0294-b",
+   "short": "RSA 294-B",
+   "title": "New Hampshire Revised Statutes, Chapter 294-B: Pretended Sales (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-294-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250721043650/https://gc.nh.gov/rsa/html/XXVII/294-B/294-B-mrg.htm",
+     "sha256": "5d6f015aa0f8b3189164cf0cafbb591bec32677c032082f6c02b6598b10cb6a0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0294-c",
+   "short": "RSA 294-C",
+   "title": "New Hampshire Revised Statutes, Chapter 294-C: Fraudulent or Unauthorized Issue of Stock (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-294-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250730201345/https://gc.nh.gov/rsa/html/XXVII/294-C/294-C-mrg.htm",
+     "sha256": "dcee053bc5bebdeb541194f6ee899012fd4001452539d00e9dda2eb6eb1b6446"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0294-e",
+   "short": "RSA 294-E",
+   "title": "New Hampshire Revised Statutes, Chapter 294-E: Uniform Electronic Transactions Act (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-294-E.htm",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250410205133/https://gc.nh.gov/rsa/html/XXVII/294-E/294-E-mrg.htm",
+     "sha256": "ab2006545667b4c20061f326b1248c2e15c841a5a86321326f51f3341ccd4bc6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0295",
+   "short": "RSA 295",
+   "title": "New Hampshire Revised Statutes, Chapter 295: General Powers of Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-295.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250618022116/https://gc.nh.gov/rsa/html/XXVII/295/295-mrg.htm",
+     "sha256": "2125657bf35d437d78721c40582ce3a4728df5cdadbb75bb5202011f330a09bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0296",
+   "short": "RSA 296",
+   "title": "New Hampshire Revised Statutes, Chapter 296: Dividend-paying Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-296.htm",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20220519162002/http://gencourt.state.nh.us/rsa/html/XXVII/296/296-mrg.htm",
+     "sha256": "858eb04aaf3bb5b7381dcccd5498f9a0b3cfc81fa58330faa9451f19acdc58e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0299",
+   "short": "RSA 299",
+   "title": "New Hampshire Revised Statutes, Chapter 299: Corporate Mortgages and Reorganization After Foreclosure (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-299.htm",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250515185438/https://gc.nh.gov/rsa/html/XXVII/299/299-mrg.htm",
+     "sha256": "04c9a3ddc687dd855c0b7a48c2b6542a6ee495221377d93e3c1e460001278d6d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0301",
+   "short": "RSA 301",
+   "title": "New Hampshire Revised Statutes, Chapter 301: Cooperative Marketing and Rural Electrification Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-301.htm",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 64,
+     "source_url": "https://web.archive.org/web/20260801030323/https://gc.nh.gov/rsa/html/XXVII/301/301-mrg.htm",
+     "sha256": "ffb5195d2157eaa25331a56b938699519019bb63bfd83d40b35ebb16796719f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0301-a",
+   "short": "RSA 301-A",
+   "title": "New Hampshire Revised Statutes, Chapter 301-A: Consumers' Cooperative Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-301-A.htm",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20251113151740/https://gc.nh.gov/rsa/html/xxvii/301-a/301-a-mrg.htm",
+     "sha256": "025a0e01545f9873e8d0809f0354195734201b54762b1df9bf04942b363c66fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0301-b",
+   "short": "RSA 301-B",
+   "title": "New Hampshire Revised Statutes, Chapter 301-B: Decentralized Autonomous Organizations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-301-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20261017043552/https://gc.nh.gov/rsa/html/XXVII/301-B/301-B-mrg.htm",
+     "sha256": "35a484c59383236583fef2fac63405beb2526c9750d46dd627205ebc88fd291b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0302",
+   "short": "RSA 302",
+   "title": "New Hampshire Revised Statutes, Chapter 302: Registration of Insignia (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-302.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525104122/http://gencourt.state.nh.us/rsa/html/XXVII/302/302-mrg.htm",
+     "sha256": "9fa68a68be06d8062e820a8ad7bfef3bcdb729c3f77d06aa799e36694ecde1cd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0303",
+   "short": "RSA 303",
+   "title": "New Hampshire Revised Statutes, Chapter 303: Proprietors of Common Lands (Title XXVII: Corporations, Associations, and Proprietors of Common Lands)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVII-303.htm",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20250723060002/https://gc.nh.gov/rsa/html/XXVII/303/303-mrg.htm",
+     "sha256": "2548b9cbb4839a5f61ce6393e2337519b12c8a3ff3f3e0e3dd6e10bf5e2c2239"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0304-a",
+   "short": "RSA 304-A",
+   "title": "New Hampshire Revised Statutes, Chapter 304-A: Uniform Partnership Act (Title XXVIII: Partnerships)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVIII-304-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20240521075503/https://gencourt.state.nh.us/rsa/html/XXVIII/304-A/304-A-mrg.htm",
+     "sha256": "021cca9ef53d8301122137985657bfea44434dc3b33110a4138e14b256434bca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0304-b",
+   "short": "RSA 304-B",
+   "title": "New Hampshire Revised Statutes, Chapter 304-B: Uniform Limited Partnership Act (Title XXVIII: Partnerships)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVIII-304-B.htm",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 81,
+     "source_url": "https://web.archive.org/web/20220420210458/https://www.gencourt.state.nh.us/rsa/html/XXVIII/304-B/304-B-mrg.htm",
+     "sha256": "2d56be13a9a52f382f1243699bdadbe9344d62a5938f42b7224799365c3fbdaf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0304-c",
+   "short": "RSA 304-C",
+   "title": "New Hampshire Revised Statutes, Chapter 304-C: Limited Liability Companies (Title XXVIII: Partnerships)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVIII-304-C.htm",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 213,
+     "source_url": "https://web.archive.org/web/20260722113133/https://gc.nh.gov/rsa/html/XXVIII/304-C/304-C-mrg.htm",
+     "sha256": "d94c13c310bd5ddd13c112f680b014b35799a1eb3ce59bba4a7c4549a3cdf7ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0305-a",
+   "short": "RSA 305-A",
+   "title": "New Hampshire Revised Statutes, Chapter 305-A: Registration of Foreign Partnerships (Title XXVIII: Partnerships)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXVIII-305-A.htm",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20220420210520/https://www.gencourt.state.nh.us/rsa/html/XXVIII/305-A/305-A-mrg.htm",
+     "sha256": "32bd8f42c07432b4679842162d729b9b374f4aab1f03c066ff03f5d4f576bf49"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0309-b",
+   "short": "RSA 309-B",
+   "title": "New Hampshire Revised Statutes, Chapter 309-B: New Hampshire Accountancy Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-309-B.htm",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20240520211836/https://gencourt.state.nh.us/rsa/html/XXX/309-B/309-B-mrg.htm",
+     "sha256": "b24b131b244be00e1035abadb1e97205119442f2a27112ec071f1baff442face"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0310",
+   "short": "RSA 310",
+   "title": "New Hampshire Revised Statutes, Chapter 310: Office of Professional Licensure and Certification (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-310.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261102122236/https://gc.nh.gov/rsa/html/XXX/310/310-mrg.htm",
+     "sha256": "adf0db198b0756971f6ae58421e22464fa136c87339346d2cee9877e1f4e2ebd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0310-a",
+   "short": "RSA 310-A",
+   "title": "New Hampshire Revised Statutes, Chapter 310-A: Office of Professional Licensure and Certification (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-310-A.htm",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 235,
+     "source_url": "https://web.archive.org/web/20251111151755/https://gc.nh.gov/rsa/html/xxx/310-a/310-a-mrg.htm",
+     "sha256": "1d30bb0250ec66ee9dd9806a5256eb627133e846352f9bf504adbda4bd3ee516"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0310-b",
+   "short": "RSA 310-B",
+   "title": "New Hampshire Revised Statutes, Chapter 310-B: State Licensed or Certified Real Estate Appraisers (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-310-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20250528103957/https://gc.nh.gov/rsa/html/XXX/310-B/310-B-mrg.htm",
+     "sha256": "9fb559639edceed99515dbeeb1ef59f4389bc46c1626c04aaf8558e360bfdc5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0310-c",
+   "short": "RSA 310-C",
+   "title": "New Hampshire Revised Statutes, Chapter 310-C: Assessing Certification Board (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-310-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250610191821/https://gc.nh.gov/rsa/html/XXX/310-C/310-C-mrg.htm",
+     "sha256": "a7ffa8fe44da53643c518f75e393ccd96501d3ae578abebeea19195a89119e63"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0311",
+   "short": "RSA 311",
+   "title": "New Hampshire Revised Statutes, Chapter 311: Attorneys and Counselors (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-311.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260123182009/https://gc.nh.gov/rsa/html/XXX/311/311-mrg.htm",
+     "sha256": "1d7c4da25044ae20f7c17fbaf7b6d8d76e591f7ec7904905ee264180e9a73e0f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0311-b",
+   "short": "RSA 311-B",
+   "title": "New Hampshire Revised Statutes, Chapter 311-B: Auctioneers (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-311-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250610191827/https://gc.nh.gov/rsa/html/XXX/311-B/311-B-mrg.htm",
+     "sha256": "666ddfb56f5ffaef78fd4b29cbf27a7043937b65ff388a87cb0db1341c546bcc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0313-a",
+   "short": "RSA 313-A",
+   "title": "New Hampshire Revised Statutes, Chapter 313-A: Barbering, Cosmetology, and Esthetics (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-313-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20240529004139/https://gencourt.state.nh.us/rsa/html/XXX/313-A/313-A-mrg.htm",
+     "sha256": "18f9d050bd0201e50ba8a09d8a5de76e942d9d63f8bfa8b6df001a2f92e2931b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0314",
+   "short": "RSA 314",
+   "title": "New Hampshire Revised Statutes, Chapter 314: Electrologists (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-314.htm",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260403050507/https://gc.nh.gov/rsa/html/XXX/314/314-mrg.htm",
+     "sha256": "2d92856ce21b6f81c9004c5e9a7aa1ce38a717e63c4e964b6ee90d7e1ed40545"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0314-a",
+   "short": "RSA 314-A",
+   "title": "New Hampshire Revised Statutes, Chapter 314-A: Body Art (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-314-A.htm",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260607043449/https://gc.nh.gov/rsa/html/XXX/314-A/314-A-mrg.htm",
+     "sha256": "44535e8a103ccc99f8afb4145e477b8eb89649d15811d0248b31ab8a292bd37c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0315",
+   "short": "RSA 315",
+   "title": "New Hampshire Revised Statutes, Chapter 315: Podiatry (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-315.htm",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20240522072646/https://gencourt.state.nh.us/rsa/html/XXX/315/315-mrg.htm",
+     "sha256": "349940986fd7b877898b233f5fa3bc4b12147d88a9077408382a130e07aaf8d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0316-a",
+   "short": "RSA 316-A",
+   "title": "New Hampshire Revised Statutes, Chapter 316-A: Chiropractic (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-316-A.htm",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260407170547/https://gc.nh.gov/rsa/html/XXX/316-A/316-A-mrg.htm",
+     "sha256": "e355b358c918b79c793bc2542f149bfbd9a293af7d7f0e0144d9025650a68bfa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0317-a",
+   "short": "RSA 317-A",
+   "title": "New Hampshire Revised Statutes, Chapter 317-A: Dentists and Dentistry (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-317-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261025093349/https://gc.nh.gov/rsa/html/XXX/317-A/317-A-mrg.htm",
+     "sha256": "4efb911330744e6231037e02c6300bfbce393eb0167ef477613a178874261180"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0318",
+   "short": "RSA 318",
+   "title": "New Hampshire Revised Statutes, Chapter 318: Pharmacists and Pharmacies (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-318.htm",
+   "versions": [
+    {
+     "from": "2026-02-22",
+     "units": 118,
+     "source_url": "https://web.archive.org/web/20260222134706/https://www.gc.nh.gov/rsa/html/XXX/318/318-mrg.htm",
+     "sha256": "3a2da2a5d7fec60ecd547f8bc087d7110468c5bc86b6e1836635f8b4216347f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0318-b",
+   "short": "RSA 318-B",
+   "title": "New Hampshire Revised Statutes, Chapter 318-B: Controlled Drug Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-318-B.htm",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20260201231944/https://gc.nh.gov/rsa/html/XXX/318-B/318-B-mrg.htm",
+     "sha256": "14a1c773bb2de33951d153ca25fad3be9d2b1f913a325ba859fe07bc4c28ee2d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0318-c",
+   "short": "RSA 318-C",
+   "title": "New Hampshire Revised Statutes, Chapter 318-C: Model Drug Dealer Liability Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-318-C.htm",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250726025538/https://gc.nh.gov/rsa/html/XXX/318-C/318-C-mrg.htm",
+     "sha256": "e0315a0b9902d21b0117b2a5261514234d2478c5c5b945c2698651d3709f4b75"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0318-d",
+   "short": "RSA 318-D",
+   "title": "New Hampshire Revised Statutes, Chapter 318-D: Methamphetamine-related Offenses (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-318-D.htm",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220808073914/https://gencourt.state.nh.us/rsa/html/XXX/318-D/318-D-mrg.htm",
+     "sha256": "61bafd9a18e99336df54f35f5b37cdc8d7d4fb79943e741c6e59b2e85e8ebcd3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0319-c",
+   "short": "RSA 319-C",
+   "title": "New Hampshire Revised Statutes, Chapter 319-C: Electricians (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-319-C.htm",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250617072242/https://gc.nh.gov/rsa/html/XXX/319-C/319-C-mrg.htm",
+     "sha256": "8670eda68ee8b27dd94f6a5e0230220a31004650a1a17e690c3824684613a190"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0321-a",
+   "short": "RSA 321-A",
+   "title": "New Hampshire Revised Statutes, Chapter 321-A: Carnival-amusement Operators (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-321-A.htm",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240717224920/https://www.gencourt.state.nh.us/rsa/html/xxx/321-A/321-A-mrg.htm",
+     "sha256": "06d8566b9e478bf869b44b49a84cc068124d86fa48ec6879f404e95a9789e81a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0325",
+   "short": "RSA 325",
+   "title": "New Hampshire Revised Statutes, Chapter 325: Embalmers and Funeral Directors (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-325.htm",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20240521052222/https://gencourt.state.nh.us/rsa/html/XXX/325/325-mrg.htm",
+     "sha256": "e68fc4c6a628cbdd61546a0d7adaf6ee9f0bbf319fdc25f951b0e49e363d8283"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-b",
+   "short": "RSA 326-B",
+   "title": "New Hampshire Revised Statutes, Chapter 326-B: Nurse Practice Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-B.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261102122236/https://gc.nh.gov/rsa/html/XXX/326-B/326-B-mrg.htm",
+     "sha256": "60e9e1975290ae2cc090ad95836f7546233b058f711bf02754e77d14fd64a831"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-c",
+   "short": "RSA 326-C",
+   "title": "New Hampshire Revised Statutes, Chapter 326-C: Occupational Therapists (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260110125220/https://gc.nh.gov/rsa/html/XXX/326-C/326-C-mrg.htm",
+     "sha256": "4a3e259957e2fdbebe1682070ddfcd74d4ea2ff3cf07b0af17a512686b1f4c62"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-d",
+   "short": "RSA 326-D",
+   "title": "New Hampshire Revised Statutes, Chapter 326-D: Midwifery (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-D.htm",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260807223207/https://gc.nh.gov/rsa/html/XXX/326-D/326-D-mrg.htm",
+     "sha256": "109e18913bf6da4f8be336122c4920c2787ea8686a7b85a6f4f5b6f82371944e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-e",
+   "short": "RSA 326-E",
+   "title": "New Hampshire Revised Statutes, Chapter 326-E: Respiratory Care Practice (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-E.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20240514083744/https://gencourt.state.nh.us/rsa/html/XXX/326-E/326-E-mrg.htm",
+     "sha256": "8bb2f54113ea2ba867edaaa2945f8d3548a577502feaebca13c88ba8cf0a8206"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-f",
+   "short": "RSA 326-F",
+   "title": "New Hampshire Revised Statutes, Chapter 326-F: Speech-language Pathology and Hearing Care Providers Practice (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-F.htm",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261007013003/https://gc.nh.gov/rsa/html/XXX/326-F/326-F-mrg.htm",
+     "sha256": "1a19f40c818a2c3f16f6a39ff317c32bd905f0e6386bcc154cfce7340e3eac05"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-g",
+   "short": "RSA 326-G",
+   "title": "New Hampshire Revised Statutes, Chapter 326-G: Athletic Trainers (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-G.htm",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261025211208/https://gc.nh.gov/rsa/html/XXX/326-G/326-G-mrg.htm",
+     "sha256": "89ab12984589270c6a2c973b73616fcf399f3f2c43b680ffb0fc63feaf5f8247"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-h",
+   "short": "RSA 326-H",
+   "title": "New Hampshire Revised Statutes, Chapter 326-H: Licensed Dietitians (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-H.htm",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20240523023335/https://gencourt.state.nh.us/rsa/html/XXX/326-H/326-H-mrg.htm",
+     "sha256": "7f8db14b3ff6197715c6324da3e75ea53c307693e2e58888a94ce9b6915e5bd7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-i",
+   "short": "RSA 326-I",
+   "title": "New Hampshire Revised Statutes, Chapter 326-I: Interpreters for the Deaf, Deafblind, and Hard of Hearing (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-I.htm",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260523124122/https://gc.nh.gov/rsa/html/XXX/326-I/326-I-mrg.htm",
+     "sha256": "b6fae59a198fb2410597d85550054b383bb0019a8569d537cb8776450571d9ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-j",
+   "short": "RSA 326-J",
+   "title": "New Hampshire Revised Statutes, Chapter 326-J: Recreational Therapists (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-J.htm",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250514003658/https://gc.nh.gov/rsa/html/XXX/326-J/326-J-mrg.htm",
+     "sha256": "f6d85fbd4f9e252dbc9a078f7a192dbfd97bc1fdae376aaaf6c30f41e4710e3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-k",
+   "short": "RSA 326-K",
+   "title": "New Hampshire Revised Statutes, Chapter 326-K: Genetic Counselors (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-K.htm",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240517063748/https://gencourt.state.nh.us/rsa/html/XXX/326-K/326-K-mrg.htm",
+     "sha256": "9d311ba7216bc7d68509a9441714dd717971ccd803d26e4c590d4f34ad73f848"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-l",
+   "short": "RSA 326-L",
+   "title": "New Hampshire Revised Statutes, Chapter 326-L: Professional Art Therapy (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-L.htm",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250309084209/https://gc.nh.gov/rsa/html/XXX/326-L/326-L-mrg.htm",
+     "sha256": "9d045f4b85954cb5e9ec023f5becaab78041454e382eddcaba871c175578e66b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-m",
+   "short": "RSA 326-M",
+   "title": "New Hampshire Revised Statutes, Chapter 326-M: Nurse Agency Registration (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-M.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250625210025/https://gc.nh.gov/rsa/html/XXX/326-M/326-M-mrg.htm",
+     "sha256": "47e8390d627dff51f86005012ac391965e79fd5c62b5a5a63a7c8f7e8f5ceca4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0326-n",
+   "short": "RSA 326-N",
+   "title": "New Hampshire Revised Statutes, Chapter 326-N: Community Health Workers (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-326-N.htm",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261019054012/https://gc.nh.gov/rsa/html/XXX/326-N/326-N-mrg.htm",
+     "sha256": "2e1624d349c5e9c20a71f82b3c85f364e1a31cd39f100bd707f6e0f550147e73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0327",
+   "short": "RSA 327",
+   "title": "New Hampshire Revised Statutes, Chapter 327: Optometry (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-327.htm",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20240519130048/https://gencourt.state.nh.us/rsa/html/XXX/327/327-mrg.htm",
+     "sha256": "eb40240701a5303ed09e9e409f10ebe506e6288636eb41112490a71aa4f28018"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0327-a",
+   "short": "RSA 327-A",
+   "title": "New Hampshire Revised Statutes, Chapter 327-A: Ophthalmic Dispensing (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-327-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250829105601/https://gc.nh.gov/rsa/html/XXX/327-A/327-A-mrg.htm",
+     "sha256": "a380cbeb8247808e922974c37205a67d04a30132e76754f826f5bd3b554c8430"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-a",
+   "short": "RSA 328-A",
+   "title": "New Hampshire Revised Statutes, Chapter 328-A: Physical Therapy Practice Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-A.htm",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20240726042447/https://www.gencourt.state.nh.us/rsa/html/XXX/328-A/328-A-mrg.htm",
+     "sha256": "9ab7e4808ef35dd4d5481710e8e3a3e04d8e2f0ed4cae87807cbe51e8bdb89cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-b",
+   "short": "RSA 328-B",
+   "title": "New Hampshire Revised Statutes, Chapter 328-B: Massage Therapists and Massage Establishments (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-B.htm",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250608032026/https://gc.nh.gov/rsa/html/XXX/328-B/328-B-mrg.htm",
+     "sha256": "c5ab67ec95c4b1ca14369a989de0979ec909e2447e91e4872633fe5dde746da6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-c",
+   "short": "RSA 328-C",
+   "title": "New Hampshire Revised Statutes, Chapter 328-C: Family Mediators (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-C.htm",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20240520081211/https://gencourt.state.nh.us/rsa/html/XXX/328-C/328-C-mrg.htm",
+     "sha256": "039ab57822c08883b8f751a396433d28b7401e258767bdf834c03017221a489a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-d",
+   "short": "RSA 328-D",
+   "title": "New Hampshire Revised Statutes, Chapter 328-D: Physician Associates (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-D.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261102122236/https://gc.nh.gov/rsa/html/XXX/328-D/328-D-mrg.htm",
+     "sha256": "c8c80e9fb210035ea9ba5a61403c07d8cea6bd11e8d4673d6ef0abe306669b2a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-e",
+   "short": "RSA 328-E",
+   "title": "New Hampshire Revised Statutes, Chapter 328-E: Naturopathic Health Care Practice (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-E.htm",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20240519125150/https://gencourt.state.nh.us/rsa/html/XXX/328-E/328-E-mrg.htm",
+     "sha256": "977fa866fc74bf5803fdedb0a7e644d2398544f7f5b31a925a02de0fd1cd6f20"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-f",
+   "short": "RSA 328-F",
+   "title": "New Hampshire Revised Statutes, Chapter 328-F: Allied Health Professionals (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-F.htm",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20240516135421/https://gencourt.state.nh.us/rsa/html/XXX/328-F/328-F-mrg.htm",
+     "sha256": "e5d082bc91c1a04ee8c09d814c32af3854f81c000510be4c1f6e9b626b3daf9b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-g",
+   "short": "RSA 328-G",
+   "title": "New Hampshire Revised Statutes, Chapter 328-G: Acupuncture (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-G.htm",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20240521112217/https://gencourt.state.nh.us/rsa/html/XXX/328-G/328-G-mrg.htm",
+     "sha256": "51dde68d9e3ac8c6af8bdfa00143a8eeef649629bb0f33cf85589015d84b0cae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-h",
+   "short": "RSA 328-H",
+   "title": "New Hampshire Revised Statutes, Chapter 328-H: Reflexologists, Structural Integrators, and Asian Bodywork Therapists (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-H.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250529141245/https://gc.nh.gov/rsa/html/XXX/328-H/328-H-mrg.htm",
+     "sha256": "6acf59871a625630ae7b39fb11ee82e49a3e8b36c1c23a4cc42293508e6246da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-i",
+   "short": "RSA 328-I",
+   "title": "New Hampshire Revised Statutes, Chapter 328-I: Board of Registration of Medical Technicians (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-I.htm",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260517021759/https://gc.nh.gov/rsa/html/XXX/328-I/328-I-mrg.htm",
+     "sha256": "c9cb5eb110b5856729c7800e74f9ac64f804f41f82ffba90f28bdad41d07e0d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0328-j",
+   "short": "RSA 328-J",
+   "title": "New Hampshire Revised Statutes, Chapter 328-J: Medical Imaging and Radiation Therapy (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-328-J.htm",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250413114132/https://gc.nh.gov/rsa/html/XXX/328-J/328-J-mrg.htm",
+     "sha256": "479ef75cd78d0daad669f64d1bc1f1478a5856de24aa434cd955dedac85d6df1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0329",
+   "short": "RSA 329",
+   "title": "New Hampshire Revised Statutes, Chapter 329: Physicians and Surgeons (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-329.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 95,
+     "source_url": "https://web.archive.org/web/20261102122235/https://gc.nh.gov/rsa/html/XXX/329/329-mrg.htm",
+     "sha256": "da9a66a97bd68a91fdd3956464ff8e102f0f5c318054f5253ccdca0aecb33da7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0329-b",
+   "short": "RSA 329-B",
+   "title": "New Hampshire Revised Statutes, Chapter 329-B: Psychologists (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-329-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20261010013843/https://gc.nh.gov/rsa/html/XXX/329-B/329-B-mrg.htm",
+     "sha256": "02955b0ec4f6c90e6cfcef1fc807a81af9acc3d35bd43e7ab8fda97671ebc980"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0329-c",
+   "short": "RSA 329-C",
+   "title": "New Hampshire Revised Statutes, Chapter 329-C: Interstate Medical Licensure Compact (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-329-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20220524062211/http://gencourt.state.nh.us/rsa/html/XXX/329-C/329-C-mrg.htm",
+     "sha256": "86858bfc4548e74030997387892f4e980af23b94b71784d01c107a82999c809d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0329-d",
+   "short": "RSA 329-D",
+   "title": "New Hampshire Revised Statutes, Chapter 329-D: Psychology Interjurisdictional Compact (psypact) (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-329-D.htm",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260304080900/https://gc.nh.gov/rsa/html/XXX/329-D/329-D-mrg.htm",
+     "sha256": "b4448463e326f289b2aa57336c4bdebf662eeca3f7f7e30a011730f405236805"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0330-a",
+   "short": "RSA 330-A",
+   "title": "New Hampshire Revised Statutes, Chapter 330-A: Mental Health Practice (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-330-A.htm",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20261102122236/https://gc.nh.gov/rsa/html/XXX/330-A/330-A-mrg.htm",
+     "sha256": "2883e57a0fdc516d72ccef4c0e155a9b1fb35cc67c378d1d8adddafea9139110"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0330-c",
+   "short": "RSA 330-C",
+   "title": "New Hampshire Revised Statutes, Chapter 330-C: Alcohol and Other Drug Use Professionals (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-330-C.htm",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20240519020817/https://gencourt.state.nh.us/rsa/html/XXX/330-C/330-C-mrg.htm",
+     "sha256": "b7ac80ccf513a27960e1c731d97a7e96910155cbd0382c95f177c54285af1e99"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0330-d",
+   "short": "RSA 330-D",
+   "title": "New Hampshire Revised Statutes, Chapter 330-D: Mental Health Counseling Compact (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-330-D.htm",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250625205855/https://gc.nh.gov/rsa/html/XXX/330-D/330-D-mrg.htm",
+     "sha256": "5db6cd459069b06c1a993db1b4c1c6aa19355453c63d2fe88f6927d36e46dd03"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0331-a",
+   "short": "RSA 331-A",
+   "title": "New Hampshire Revised Statutes, Chapter 331-A: New Hampshire Real Estate Practice Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-331-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20250709112016/https://gc.nh.gov/rsa/html/xxx/331-a/331-a-mrg.htm",
+     "sha256": "9ac0be1f1918bc2c6849fc5e37cb0798434fb03509c55d1dedd112bae6fa7528"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-b",
+   "short": "RSA 332-B",
+   "title": "New Hampshire Revised Statutes, Chapter 332-B: New Hampshire Veterinary Practice Act (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-B.htm",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20240520080629/https://gencourt.state.nh.us/rsa/html/XXX/332-B/332-B-mrg.htm",
+     "sha256": "7a1a768b43269d8dc7600ec4b175ac7abb72fe0a551306fdca1ee4d959bfa7e6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-e",
+   "short": "RSA 332-E",
+   "title": "New Hampshire Revised Statutes, Chapter 332-E: Water Treatment Plant Operators and Water Distribution System Personnel (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-E.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250618102245/https://gc.nh.gov/rsa/html/XXX/332-E/332-E-mrg.htm",
+     "sha256": "f321c39575d36b97cf107649a6f6169ce7f80b6458c4afc83f4388e318af3440"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-g",
+   "short": "RSA 332-G",
+   "title": "New Hampshire Revised Statutes, Chapter 332-G: General Administration of Regulatory Boards and Commissions (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-G.htm",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20240705081710/https://gencourt.state.nh.us/rsa/html/XXX/332-G/332-G-mrg.htm",
+     "sha256": "2a8e0979ed1cb3282dc4e29b69b22567efab1c045f5e82a3cf852980a78ba35b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-i",
+   "short": "RSA 332-I",
+   "title": "New Hampshire Revised Statutes, Chapter 332-I: Medical Records, Patient Information, and the Health Information Organization Corporation (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-I.htm",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260302030631/https://gc.nh.gov/rsa/html/XXX/332-I/332-I-mrg.htm",
+     "sha256": "16ad0ed3a3c6016b702c41ec7998029ed21e2caf4b19b926753a60000961e0f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-l",
+   "short": "RSA 332-L",
+   "title": "New Hampshire Revised Statutes, Chapter 332-L: Prohibiting Conversion Therapy on Minors (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-L.htm",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260418150424/https://gc.nh.gov/rsa/html/XXX/332-L/332-L-mrg.htm",
+     "sha256": "73725826ae9f3a4c7f2be109465d5ad9fab20b5f857bd11c410f4a7c25dc8946"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0332-m",
+   "short": "RSA 332-M",
+   "title": "New Hampshire Revised Statutes, Chapter 332-M: Prohibiting Gender Surgery on Minors (Title XXX: Occupations and Professions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXX-332-M.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250528205803/https://gc.nh.gov/rsa/html/XXX/332-M/332-M-mrg.htm",
+     "sha256": "543da0c38c84c3e056dc2c807808d47374cf0823e8f0deeb77f5f186b1d490c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0336",
+   "short": "RSA 336",
+   "title": "New Hampshire Revised Statutes, Chapter 336: Interest (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-336.htm",
+   "versions": [
+    {
+     "from": "2022-08-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220813131018/http://www.gencourt.state.nh.us/rsa/html/XXXI/336/336-mrg.htm",
+     "sha256": "af78cbef00eda74b9dc40dee13193474d50b22986fb769c85849ca3aaa1f31a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0338-a",
+   "short": "RSA 338-A",
+   "title": "New Hampshire Revised Statutes, Chapter 338-A: Prohibited Contracts (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-338-A.htm",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20240328185628/https://www.gencourt.state.nh.us/rsa/html/xxxi/338-A/338-A-mrg.htm",
+     "sha256": "f33a7aebb6ef63903077f4a212507edeb39bc40afc865d3cd69d1ffd12c4426a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0338-b",
+   "short": "RSA 338-B",
+   "title": "New Hampshire Revised Statutes, Chapter 338-B: Council for Responsible Gambling (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-338-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250802211210/https://gc.nh.gov/rsa/html/XXXI/338-B/338-B-mrg.htm",
+     "sha256": "dd9337ef762d08ff8671c43b0650a4c2a72d150b7013cc54dead7d41eb775108"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0339",
+   "short": "RSA 339",
+   "title": "New Hampshire Revised Statutes, Chapter 339: Sales of Certain Articles (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-339.htm",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20240617111949/https://gencourt.state.nh.us/rsa/html/xxxi/339/339-mrg.htm",
+     "sha256": "4e17a4fb3451c6ab941b6e32bc5e37edbaa28ce228573686a919423342097400"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0339-c",
+   "short": "RSA 339-C",
+   "title": "New Hampshire Revised Statutes, Chapter 339-C: Regulation of Gasoline Franchises (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-339-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20220520163740/http://gencourt.state.nh.us/rsa/html/XXXI/339-C/339-C-mrg.htm",
+     "sha256": "a650a9487afa659c19e8668a2b04e6e3c5aa6d8a134dd3816624ef5f2a9b34da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0340",
+   "short": "RSA 340",
+   "title": "New Hampshire Revised Statutes, Chapter 340: Bulky Articles (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-340.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220517021321/http://gencourt.state.nh.us/rsa/html/XXXI/340/340-mrg.htm",
+     "sha256": "bd148c70bb074621cdec2562b0657dd75ed94b816e2d8e4559f8e6717445a4bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0348",
+   "short": "RSA 348",
+   "title": "New Hampshire Revised Statutes, Chapter 348: Bonded Warehouses (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-348.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250618101128/https://gc.nh.gov/rsa/html/XXXI/348/348-mrg.htm",
+     "sha256": "b13d47e469ed4cc2c8867b961c2841b8695e87e03451e17bbcb1717fe71ba5b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0350-c",
+   "short": "RSA 350-C",
+   "title": "New Hampshire Revised Statutes, Chapter 350-C: Rights to Dies, Molds, Forms and Patterns (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-350-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517015335/http://gencourt.state.nh.us/rsa/html/XXXI/350-C/350-C-mrg.htm",
+     "sha256": "b798471aec045b4857dc83c155c4a81e44c3241231268a6aa897f99c7cdaf46f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0352",
+   "short": "RSA 352",
+   "title": "New Hampshire Revised Statutes, Chapter 352: Authors' and Artists' Productions (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-352.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260106160754/https://www.gc.nh.gov/rsa/html/XXXI/352/352-mrg.htm",
+     "sha256": "b904c64e619e6a3bc21198460d0a3d1f1bc88a52e559e7394d4b9372c64ac97f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0353",
+   "short": "RSA 353",
+   "title": "New Hampshire Revised Statutes, Chapter 353: Hotels, Tourist Cabins, Etc. (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-353.htm",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20240617071230/https://www.gencourt.state.nh.us/rsa/html/xxxi/353/353-mrg.htm",
+     "sha256": "dc4d5d7a644a9c3e879ccd8b1c041b2bf58700e10f972db5e0d5141bfe1907c0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0354-a",
+   "short": "RSA 354-A",
+   "title": "New Hampshire Revised Statutes, Chapter 354-A: State Commission for Human Rights (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-354-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261022081619/https://gc.nh.gov/rsa/html/XXXI/354-A/354-A-mrg.htm",
+     "sha256": "dc10b4d1cfe0653d49ff4ddc24e94ff425355201f3cc243c222598a53abf3c5d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0354-b",
+   "short": "RSA 354-B",
+   "title": "New Hampshire Revised Statutes, Chapter 354-B: Civil Rights Act (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-354-B.htm",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260623060904/https://gc.nh.gov/rsa/html/XXXI/354-B/354-B-mrg.htm",
+     "sha256": "0c75b32df87576fd488a85fd201c33d21041f52e6b34636a0b322f6a75835ca6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0356",
+   "short": "RSA 356",
+   "title": "New Hampshire Revised Statutes, Chapter 356: Combinations and Monopolies (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-356.htm",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20240603021359/https://gencourt.state.nh.us/rsa/html/XXXI/356/356-mrg.htm",
+     "sha256": "050dd2716a47137ad100255fbb380d96dbdc0e56f5cc2615b151b5995c80ef7c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0356-a",
+   "short": "RSA 356-A",
+   "title": "New Hampshire Revised Statutes, Chapter 356-A: Land Sales Full Disclosure Act (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-356-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250827030524/https://gc.nh.gov/rsa/html/XXXI/356-A/356-A-mrg.htm",
+     "sha256": "75ce4f508892b8e79126f05305e854c60e549a20bc84a30eb3686f08dedbc88f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0356-b",
+   "short": "RSA 356-B",
+   "title": "New Hampshire Revised Statutes, Chapter 356-B: Condominium Act (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-356-B.htm",
+   "versions": [
+    {
+     "from": "2025-09-07",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20250907213856/https://gc.nh.gov/rsa/html/XXXI/356-B/356-B-mrg.htm",
+     "sha256": "9bbba89da9c75c8ffa8377ad3165b522acb17a7d00e8036ceb33ef02a39ccae4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0356-c",
+   "short": "RSA 356-C",
+   "title": "New Hampshire Revised Statutes, Chapter 356-C: Protection of Tenants in Conversion of Rental Units (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-356-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260126070506/https://gc.nh.gov/rsa/html/XXXI/356-C/356-C-mrg.htm",
+     "sha256": "3577ca7b5470cfcb1309be07f367020d7775577c3335ee7ac58d7448f55222ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0357-c",
+   "short": "RSA 357-C",
+   "title": "New Hampshire Revised Statutes, Chapter 357-C: Regulation of Business Practices Between Motor Vehicle Manufacturers, Distributors and Dealers (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-357-C.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260121031110/https://gc.nh.gov/rsa/html/XXXI/357-C/357-C-mrg.htm",
+     "sha256": "ed0996877d71129095696752937376f731f054554d5d5c46f6e7aac395437a3e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0357-d",
+   "short": "RSA 357-D",
+   "title": "New Hampshire Revised Statutes, Chapter 357-D: New Motor Vehicle Arbitration (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-357-D.htm",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250309170218/https://gc.nh.gov/rsa/html/XXXI/357-D/357-D-mrg.htm",
+     "sha256": "d4d2640b388f0020e9cd70a1f958b122fad4af731b13196a07d1a78e123c557a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0357-f",
+   "short": "RSA 357-F",
+   "title": "New Hampshire Revised Statutes, Chapter 357-F: Disclosure of Information Relating to Musical Performances (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-357-F.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220524164138/http://gencourt.state.nh.us/rsa/html/XXXI/357-F/357-F-mrg.htm",
+     "sha256": "42c7e09cd6e611c7550ba83f322da53d21d87a5da768fd4f096730142f017d76"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-a",
+   "short": "RSA 358-A",
+   "title": "New Hampshire Revised Statutes, Chapter 358-A: Regulation of Business Practices for Consumer Protection (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-A.htm",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260523002509/https://gc.nh.gov/rsa/html/xxxi/358-a/358-a-mrg.htm",
+     "sha256": "07428b9309071deb9d87b08e70a6161e350462f9ed8c3804e08a195a09b37877"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-b",
+   "short": "RSA 358-B",
+   "title": "New Hampshire Revised Statutes, Chapter 358-B: Chain Distributor Schemes (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-B.htm",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250306215441/https://gc.nh.gov/rsa/html/XXXI/358-B/358-B-mrg.htm",
+     "sha256": "8ffb7d4c0abd9b2d62e0148a538b8ea945aba2adb3b9f77f8dc5f6f195730847"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-c",
+   "short": "RSA 358-C",
+   "title": "New Hampshire Revised Statutes, Chapter 358-C: Unfair, Deceptive or Unreasonable Collection Practices (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-C.htm",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20240621134355/https://www.gencourt.state.nh.us/rsa/html/XXXI/358-C/358-C-mrg.htm",
+     "sha256": "d87b9ab429e5df2cf04a9ca8166475a4a677c18ac9ed3c46b586c730539eb058"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-e",
+   "short": "RSA 358-E",
+   "title": "New Hampshire Revised Statutes, Chapter 358-E: Distributorship Disclosure Act (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-E.htm",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250307103821/https://gc.nh.gov/rsa/html/XXXI/358-E/358-E-mrg.htm",
+     "sha256": "7bc8f87685d4411aff32994bd10c4dcba47555beb202f8a65824b48ea653e39e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-g",
+   "short": "RSA 358-G",
+   "title": "New Hampshire Revised Statutes, Chapter 358-G: Regulation of Auctions (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-G.htm",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20221014011313/http://www.gencourt.state.nh.us/rsa/html/XXXI/358-G/358-G-mrg.htm",
+     "sha256": "4217466069ef09dac7cb9e53e96d6cade14fa5544d6b5b2a6f7a71d0bfabc6ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-h",
+   "short": "RSA 358-H",
+   "title": "New Hampshire Revised Statutes, Chapter 358-H: Regulation of Rental Referral Agencies (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-H.htm",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250309084221/https://gc.nh.gov/rsa/html/XXXI/358-H/358-H-mrg.htm",
+     "sha256": "4b69efebd51a40e447a62ba59b8967ec847983cd3690ea556908d381dd179919"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-i",
+   "short": "RSA 358-I",
+   "title": "New Hampshire Revised Statutes, Chapter 358-I: Health Clubs (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-I.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250605204908/https://gc.nh.gov/rsa/html/XXXI/358-I/358-I-mrg.htm",
+     "sha256": "ab23d2871d5c1c7e7b3dd5feb4144d5b2c22c30ab4b584895761bfecc39295a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-m",
+   "short": "RSA 358-M",
+   "title": "New Hampshire Revised Statutes, Chapter 358-M: Merchant's Check Acceptance Policies (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-M.htm",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220518013620/http://gencourt.state.nh.us/rsa/html/XXXI/358-M/358-M-mrg.htm",
+     "sha256": "b11082bd7b9e7e7e6d7aa62b295edebf9177305bae99a36c260652b80efcebcc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-n",
+   "short": "RSA 358-N",
+   "title": "New Hampshire Revised Statutes, Chapter 358-N: Prohibited Credit Card Practices in Travel Services (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-N.htm",
+   "versions": [
+    {
+     "from": "2025-07-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250706194909/https://gc.nh.gov/rsa/html/XXXI/358-N/358-N-mrg.htm",
+     "sha256": "8e4086ced4b90da923f9a7eb8fe402bd222717955bd0c094873d86986e4bb34b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-o",
+   "short": "RSA 358-O",
+   "title": "New Hampshire Revised Statutes, Chapter 358-O: Prizes and Gifts Act (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-O.htm",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250309025710/https://gc.nh.gov/rsa/html/XXXI/358-O/358-O-mrg.htm",
+     "sha256": "8a5bff56198839007ca5489c2de5242e78c375664fc8e05cd29b3aaebdd0b88f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-q",
+   "short": "RSA 358-Q",
+   "title": "New Hampshire Revised Statutes, Chapter 358-Q: Sale of Certain Items (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-Q.htm",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250306215519/https://gc.nh.gov/rsa/html/XXXI/358-Q/358-Q-mrg.htm",
+     "sha256": "ceaf75f169928d1f4207f374c5d6fbdd1227bccf1cbc4403d6acc9eb6a232b20"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0358-s",
+   "short": "RSA 358-S",
+   "title": "New Hampshire Revised Statutes, Chapter 358-S: Martial Arts Schools (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-358-S.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250605204910/https://gc.nh.gov/rsa/html/XXXI/358-S/358-S-mrg.htm",
+     "sha256": "b39ec576404a2cc92f4dca7ca00f417da16b67751116862b9beaf1e0460e3b86"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-b",
+   "short": "RSA 359-B",
+   "title": "New Hampshire Revised Statutes, Chapter 359-B: Consumer Credit Reporting (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-B.htm",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250123075138/https://www.gencourt.state.nh.us/rsa/html/XXXI/359-B/359-B-mrg.htm",
+     "sha256": "66986ba1dedf394a7c60238a3ad2e43ba356f1493d2db60ee905f0c2f92f0fc8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-c",
+   "short": "RSA 359-C",
+   "title": "New Hampshire Revised Statutes, Chapter 359-C: Right to Privacy (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-C.htm",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261012071049/https://gc.nh.gov/rsa/html/XXXI/359-C/359-C-mrg.htm",
+     "sha256": "e10c90739f014b54cf6c4e59a910e9f9ca3ec5341ad2bd1927d56c7e462eb0e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-d",
+   "short": "RSA 359-D",
+   "title": "New Hampshire Revised Statutes, Chapter 359-D: Credit Services Organizations (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-D.htm",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250217060903/https://gc.nh.gov/rsa/html/xxxi/359-d/359-d-mrg.htm",
+     "sha256": "ad57e2ac8e376956f53cc78cd108d57c7349c67f7748c2d30f1f13cf3ade9c0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-e",
+   "short": "RSA 359-E",
+   "title": "New Hampshire Revised Statutes, Chapter 359-E: Telemarketing (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-E.htm",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250306215739/https://gc.nh.gov/rsa/html/XXXI/359-E/359-E-mrg.htm",
+     "sha256": "07205e70850f156a92e5606e65a0f8265d711f25f9c63ac0095afc4e5e5ef15d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-g",
+   "short": "RSA 359-G",
+   "title": "New Hampshire Revised Statutes, Chapter 359-G: Residential Construction Defects; Dispute Resolution (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-G.htm",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20230322103027/https://www.gencourt.state.nh.us/rsa/html/XXXI/359-G/359-G-mrg.htm",
+     "sha256": "245185a09c3e11604c7b0066950db4160de15086560f54c01b4a9ecb793ed76d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-i",
+   "short": "RSA 359-I",
+   "title": "New Hampshire Revised Statutes, Chapter 359-I: Identity Theft (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-I.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517013611/http://gencourt.state.nh.us/rsa/html/XXXI/359-I/359-I-mrg.htm",
+     "sha256": "ff612430c9b178101548cea778cb8d1440a8b379c39bdafb6ff39e208f4c33a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-o",
+   "short": "RSA 359-O",
+   "title": "New Hampshire Revised Statutes, Chapter 359-O: Sale or Possession of Synthetic Urine and Urine Additives (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-O.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20240514004644/https://gencourt.state.nh.us/rsa/html/XXXI/359-O/359-O-mrg.htm",
+     "sha256": "6f827ef9c1ce4d6c674e6b560f415083413cd583ac88fc0deb6bd97c6a21cb8a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-q",
+   "short": "RSA 359-Q",
+   "title": "New Hampshire Revised Statutes, Chapter 359-Q: Sale of Furniture with Flame Retardant Chemicals (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-Q.htm",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260108191841/https://gc.nh.gov/rsa/html/XXXI/359-Q/359-Q-mrg.htm",
+     "sha256": "9335296020e72b78906688695df949eb68a232c90f0d1975eca5b6cab397bd66"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0359-t",
+   "short": "RSA 359-T",
+   "title": "New Hampshire Revised Statutes, Chapter 359-T: Carriage of Household Goods for Hire by Motor Vehicle (Title XXXI: Trade and Commerce)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXI-359-T.htm",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250404140021/https://gc.nh.gov/rsa/html/XXXI/359-T/359-T-mrg.htm",
+     "sha256": "c3b18614d91622efb07235a684aefbf0534dbcccba5f7b91bdd5457f3d1c3d46"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362",
+   "short": "RSA 362",
+   "title": "New Hampshire Revised Statutes, Chapter 362: Definition of Terms; Utilities Exempted (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362.htm",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250525151013/https://gc.nh.gov/rsa/html/XXXIV/362/362-mrg.htm",
+     "sha256": "9645d6064f4451acf5b9d12d7c93aca68972f92dab5695f2983abe02b5207613"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362-a",
+   "short": "RSA 362-A",
+   "title": "New Hampshire Revised Statutes, Chapter 362-A: Limited Electrical Energy Producers Act (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362-A.htm",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250821084150/https://gc.nh.gov/rsa/html/XXXIV/362-A/362-A-mrg.htm",
+     "sha256": "5ba72cbea88ec5e85f542b368a48309e002357ef640129fc72f2bf1e9003b81b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362-c",
+   "short": "RSA 362-C",
+   "title": "New Hampshire Revised Statutes, Chapter 362-C: Reorganization of Public Service Company of New Hampshire (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362-C.htm",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250525170925/https://gc.nh.gov/rsa/html/XXXIV/362-C/362-C-mrg.htm",
+     "sha256": "d6c9e76f3c69b724ff8d948eba67a15d24fcc029e4377a5fabe621f46ad62e9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362-f",
+   "short": "RSA 362-F",
+   "title": "New Hampshire Revised Statutes, Chapter 362-F: Electric Renewable Portfolio Standard (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362-F.htm",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260717040939/https://gc.nh.gov/rsa/html/XXXIV/362-F/362-F-mrg.htm",
+     "sha256": "85ebc7c41dad72f65bdd99415346e86c2208f5d7a75a4295de760a81743ea0e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362-h",
+   "short": "RSA 362-H",
+   "title": "New Hampshire Revised Statutes, Chapter 362-H: The Preservation and Use of Renewable Generation to Provide Fuel Diversity (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362-H.htm",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260416071310/https://gc.nh.gov/rsa/html/XXXIV/362-H/362-H-mrg.htm",
+     "sha256": "b29c150888d6dc43c852000302737709d528de70e57ef6e774a2901c6f8bc28c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0362-i",
+   "short": "RSA 362-I",
+   "title": "New Hampshire Revised Statutes, Chapter 362-I: Procurement of Renewable Natural Gas (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-362-I.htm",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251010212057/https://gc.nh.gov/rsa/html/XXXIV/362-I/362-I-mrg.htm",
+     "sha256": "61f4729241e25272b7e36ac9087714b3dc53f05cc4e8860a2035f1afd21a845e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0363",
+   "short": "RSA 363",
+   "title": "New Hampshire Revised Statutes, Chapter 363: The Public Utilities Commission (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-363.htm",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20250516095307/https://gc.nh.gov/rsa/html/XXXIV/363/363-mrg.htm",
+     "sha256": "ae3b4b1a5c0f0ea6e1d82346109a0562291bb0a4bff499cb3ddcafbd817d9c61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0363-a",
+   "short": "RSA 363-A",
+   "title": "New Hampshire Revised Statutes, Chapter 363-A: Expenses of Public Utilities Commission Against Certain Utilities (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-363-A.htm",
+   "versions": [
+    {
+     "from": "2025-10-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251012085759/https://gc.nh.gov/rsa/html/XXXIV/363-A/363-A-mrg.htm",
+     "sha256": "da52d9fb0cdbaf3f7cd6fc28ce20b90308d93fa79adf612b7e2a7292d4735308"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0363-b",
+   "short": "RSA 363-B",
+   "title": "New Hampshire Revised Statutes, Chapter 363-B: Procedures for Termination of Certain Utility Services (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-363-B.htm",
+   "versions": [
+    {
+     "from": "2024-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240518175416/https://gencourt.state.nh.us/rsa/html/XXXIV/363-B/363-B-mrg.htm",
+     "sha256": "a44b23d1ff2483b2b9c59261bf894546059e6c4c7a5b4e126ba6cb3891dd3b38"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0364",
+   "short": "RSA 364",
+   "title": "New Hampshire Revised Statutes, Chapter 364: Municipal Utilities (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-364.htm",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250609152538/https://gc.nh.gov/rsa/html/XXXIV/364/364-mrg.htm",
+     "sha256": "5caa08cc7029c0abff33a9461fb42c90b546589f6c6f762acc360f4fb29d9972"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0365",
+   "short": "RSA 365",
+   "title": "New Hampshire Revised Statutes, Chapter 365: Complaints to the Department of Energy and Proceedings Before the Commission (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-365.htm",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260606174334/https://gc.nh.gov/rsa/html/XXXIV/365/365-mrg.htm",
+     "sha256": "d2642d6e4cd6be70d8f968372a724ce76a717fbe9b3228341cc3acc3b1410bca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0366",
+   "short": "RSA 366",
+   "title": "New Hampshire Revised Statutes, Chapter 366: Affiliates of Public Utilities (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-366.htm",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250409030957/https://gc.nh.gov/rsa/html/XXXIV/366/366-mrg.htm",
+     "sha256": "ef92015a00fabdce513fd1f7da8db6759d75302920dfa9f6ae1a461fd8aa329a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0367",
+   "short": "RSA 367",
+   "title": "New Hampshire Revised Statutes, Chapter 367: Formation and Union of Railroad Corporations; Leases and Extensions (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-367.htm",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20240614012502/https://www.gencourt.state.nh.us/rsa/html/XXXIV/367/367-mrg.htm",
+     "sha256": "d6aeff2ab1f2d8935e1c7c5c4e8a31c7bf2c7dabc1adb07065ec83aefab37bca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0369",
+   "short": "RSA 369",
+   "title": "New Hampshire Revised Statutes, Chapter 369: Issuance of Stock and Other Securities; General Provisions (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-369.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250529012407/https://gc.nh.gov/rsa/html/XXXIV/369/369-mrg.htm",
+     "sha256": "3944fb4176943f8e277e665bfbb15861a1281b86f8b9409998d4a97ea6e71b3f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0369-a",
+   "short": "RSA 369-A",
+   "title": "New Hampshire Revised Statutes, Chapter 369-A: Electric Rate Reduction Financing (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-369-A.htm",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250218081846/https://gc.nh.gov/rsa/html/XXXIV/369-A/369-A-mrg.htm",
+     "sha256": "36186fd208af8a8a2e1ebc92c703e22667c4840387d08b7eea4e7b5a392f5277"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0369-b",
+   "short": "RSA 369-B",
+   "title": "New Hampshire Revised Statutes, Chapter 369-B: Electric Rate Reduction Financing and Commission Action (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-369-B.htm",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250528015637/https://gc.nh.gov/rsa/html/XXXIV/369-B/369-B-mrg.htm",
+     "sha256": "03ecee15d3bc082ac159eb89a9606b66ac22720f732cff64df2f05d96a5f5ed3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0370",
+   "short": "RSA 370",
+   "title": "New Hampshire Revised Statutes, Chapter 370: Service Equipment of Public Utilities (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-370.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250523140345/https://gc.nh.gov/rsa/html/XXXIV/370/370-mrg.htm",
+     "sha256": "5d2be916a4bf53d98aefdf8681fb2fa74ca7cafcf83e489c8da9e57ab598cab0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0370-a",
+   "short": "RSA 370-A",
+   "title": "New Hampshire Revised Statutes, Chapter 370-A: Use of Customer-owned Equipment (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-370-A.htm",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250926172106/https://gc.nh.gov/rsa/html/XXXIV/370-A/370-A-mrg.htm",
+     "sha256": "b50b6adc6a02d2a3f7fffee0dc5e9b7d23736648a16b7c0be135fa8b24cf6129"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0371",
+   "short": "RSA 371",
+   "title": "New Hampshire Revised Statutes, Chapter 371: Proceedings to Acquire Property or Rights (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-371.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20250804003838/https://gc.nh.gov/rsa/html/XXXIV/371/371-mrg.htm",
+     "sha256": "d5f5b232edc1e28a931bc7152a823e32936fbbe0f6db37d235ba455a04651dc7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0373",
+   "short": "RSA 373",
+   "title": "New Hampshire Revised Statutes, Chapter 373: Crossings, Stations, Fences, Cattle Guards, Bridges, and Bridge Guards (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-373.htm",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20220520142117/http://gencourt.state.nh.us/rsa/html/XXXIV/373/373-mrg.htm",
+     "sha256": "795e69756827aee852c146c8b5755371093890850156916dd92be2110ab30fe7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374",
+   "short": "RSA 374",
+   "title": "New Hampshire Revised Statutes, Chapter 374: General Regulations (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374.htm",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 93,
+     "source_url": "https://web.archive.org/web/20250925000035/https://gc.nh.gov/rsa/html/XXXIV/374/374-mrg.htm",
+     "sha256": "9ac8c5d553881211245a10ceb3e9c21cddd0f21e63cb16618ffdcb5872dfefe1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-a",
+   "short": "RSA 374-A",
+   "title": "New Hampshire Revised Statutes, Chapter 374-A: Authorizing Electric Utilities to Participate in Electric Power Facilities (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-A.htm",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250608043710/https://gc.nh.gov/rsa/html/XXXIV/374-A/374-A-mrg.htm",
+     "sha256": "3f66ec6fe750d6d0805a78579200520ffab9997470dbf16538f273a3bdc3e751"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-b",
+   "short": "RSA 374-B",
+   "title": "New Hampshire Revised Statutes, Chapter 374-B: Municipal Electric Revenue Bonds (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-B.htm",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250218082136/https://gc.nh.gov/rsa/html/XXXIV/374-B/374-B-mrg.htm",
+     "sha256": "a392fef4d0f1d3cf89d8e0f25f8181e67fde15b8566f123624a42f77b257c9e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-c",
+   "short": "RSA 374-C",
+   "title": "New Hampshire Revised Statutes, Chapter 374-C: Public Utility Bond Financing (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-C.htm",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260218152255/https://gc.nh.gov/rsa/html/XXXIV/374-C/374-C-mrg.htm",
+     "sha256": "2799a5bb416ff5cfc6752939ba8c8f968fb486470f76e924fd95d8e2b7ec5663"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-d",
+   "short": "RSA 374-D",
+   "title": "New Hampshire Revised Statutes, Chapter 374-D: Municipal Small Scale Power Facility Bonds (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-D.htm",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260620111208/https://gc.nh.gov/rsa/html/XXXIV/374-D/374-D-mrg.htm",
+     "sha256": "619cf0006e234df68efe12379473da0e2c54417fb5dad46f28e4502fe70e5d3e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-e",
+   "short": "RSA 374-E",
+   "title": "New Hampshire Revised Statutes, Chapter 374-E: New Hampshire Municipal Bond Bank-small Scale Power Facility Division (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-E.htm",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250530131551/https://gc.nh.gov/rsa/html/XXXIV/374-E/374-E-mrg.htm",
+     "sha256": "774d8575eaf7a787247f138cdf7ed440f675274e2b55a7ed2eb71aa02174d941"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-f",
+   "short": "RSA 374-F",
+   "title": "New Hampshire Revised Statutes, Chapter 374-F: Electric Utility Restructuring (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-F.htm",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260424232640/https://gc.nh.gov/rsa/html/XXXIV/374-F/374-F-mrg.htm",
+     "sha256": "a5e281d8600ec922d623ddebea28f2d804f2962e8c3f3994106f778d3fc4a918"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-g",
+   "short": "RSA 374-G",
+   "title": "New Hampshire Revised Statutes, Chapter 374-G: Electric Utility Investment in Distributed Energy Resources (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-G.htm",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260111011505/https://gc.nh.gov/rsa/html/XXXIV/374-G/374-G-mrg.htm",
+     "sha256": "91f5d601d21de3fcb81c689d82d9c3db382678e4f3f5c8af43118879182b36ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0374-h",
+   "short": "RSA 374-H",
+   "title": "New Hampshire Revised Statutes, Chapter 374-H: Customer Energy Storage (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-374-H.htm",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260413000326/https://gc.nh.gov/rsa/html/XXXIV/374-H/374-H-mrg.htm",
+     "sha256": "365f26b039766ddd0178dd7fb4b0d4a911f74feaeb22661ba0f070f40a40586b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0378",
+   "short": "RSA 378",
+   "title": "New Hampshire Revised Statutes, Chapter 378: Rates and Charges (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-378.htm",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20221006040120/https://www.gencourt.state.nh.us/rsa/html/XXXIV/378/378-mrg.htm",
+     "sha256": "c9e271ab3d4dab8f89dc554ce8f2e3b82821d00f017fe3d884b16997309d97d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0379",
+   "short": "RSA 379",
+   "title": "New Hampshire Revised Statutes, Chapter 379: Joint, Connecting, and Terminal Service (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-379.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20220522081631/http://gencourt.state.nh.us/rsa/html/XXXIV/379/379-mrg.htm",
+     "sha256": "c0ef08f0c8e59f147c9f0045543bff15781235fd218f47e37dc4f1ac7960a195"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0382",
+   "short": "RSA 382",
+   "title": "New Hampshire Revised Statutes, Chapter 382: Maintenance of Parks by Railroads and Bus Lines (Title XXXIV: Public Utilities)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIV-382.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517012827/http://gencourt.state.nh.us/rsa/html/XXXIV/382/382-mrg.htm",
+     "sha256": "77f44b271c80b66f6f0db0e787cca86f444856c691c3b42041ca8a3a771fe777"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0422",
+   "short": "RSA 422",
+   "title": "New Hampshire Revised Statutes, Chapter 422: New Hampshire Aeronautics Act (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-422.htm",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250703073755/https://gc.nh.gov/rsa/html/xxxix/422/422-mrg.htm",
+     "sha256": "0ac899cc3fcf688b3e0415364aa3654e265e9e2d6d620c5f6f20b4497971b528"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0422-b",
+   "short": "RSA 422-B",
+   "title": "New Hampshire Revised Statutes, Chapter 422-B: Control of Tall Structures (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-422-B.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260812045833/https://gc.nh.gov/rsa/html/XXXIX/422-B/422-B-mrg.htm",
+     "sha256": "266c472590044fa19de0d590eb8f496cfc17b33516c375dc5c48f81d231d4503"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0422-c",
+   "short": "RSA 422-C",
+   "title": "New Hampshire Revised Statutes, Chapter 422-C: Abandoned Aircraft (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-422-C.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260812045907/https://gc.nh.gov/rsa/html/XXXIX/422-C/422-C-mrg.htm",
+     "sha256": "1c1066eee616da904ecce699be328e160f7310453252bf9f38afb37329976645"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0423",
+   "short": "RSA 423",
+   "title": "New Hampshire Revised Statutes, Chapter 423: Municipal Airports (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-423.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260812045955/https://gc.nh.gov/rsa/html/XXXIX/423/423-mrg.htm",
+     "sha256": "1dcc9fa77106c7148b3b28f18010b35b95977500583ea6fb26bbf2727c12bdc0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0423-a",
+   "short": "RSA 423-A",
+   "title": "New Hampshire Revised Statutes, Chapter 423-A: Airport Property Tax Base Sharing (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-423-A.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260812050042/https://gc.nh.gov/rsa/html/XXXIX/423-A/423-A-mrg.htm",
+     "sha256": "f6135c1bb89ec45aefb6127288f74b7ed444bb5f69161f611367a7f68f5e168b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0424",
+   "short": "RSA 424",
+   "title": "New Hampshire Revised Statutes, Chapter 424: Airport Zoning (Title XXXIX: Aeronautics)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXIX-424.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260812050102/https://gc.nh.gov/rsa/html/XXXIX/424/424-mrg.htm",
+     "sha256": "a7aadc712bb0d05f8d11ea88a0806b3d5e9e4ca49dc24eb018ee966a2b2ae0bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383",
+   "short": "RSA 383",
+   "title": "New Hampshire Revised Statutes, Chapter 383: Bank Commissioner (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20250924221709/https://gc.nh.gov/rsa/html/XXXV/383/383-mrg.htm",
+     "sha256": "f87d188e659e3ba73eb28ebdf9a09e842a3f31ab7fb7c2160ea615934f66e4dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383-a",
+   "short": "RSA 383-A",
+   "title": "New Hampshire Revised Statutes, Chapter 383-A: Bank and Credit Union Regulatory and Enforcement (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20220522014443/http://gencourt.state.nh.us/rsa/html/XXXV/383-A/383-A-mrg.htm",
+     "sha256": "0fe3d6e192ef9656577ec5b8727e2f775d5d352b94610908f9d26dcb3867a7f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383-b",
+   "short": "RSA 383-B",
+   "title": "New Hampshire Revised Statutes, Chapter 383-B: Depository Bank Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20220521062755/http://gencourt.state.nh.us/rsa/html/XXXV/383-B/383-B-mrg.htm",
+     "sha256": "6a583dbd185197c2f92f2fb7ec57d40795d9f5608c1d107e03c1c665cfbf58c6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383-c",
+   "short": "RSA 383-C",
+   "title": "New Hampshire Revised Statutes, Chapter 383-C: Trust Company Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383-C.htm",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20261005151946/https://gc.nh.gov/rsa/html/XXXV/383-C/383-C-mrg.htm",
+     "sha256": "5144e7258d68deaf5e7c9a0313fb5f30e4785e4488359ce7947436ea71a3bd64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383-d",
+   "short": "RSA 383-D",
+   "title": "New Hampshire Revised Statutes, Chapter 383-D: Family Trust Company Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383-D.htm",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20261005152010/https://gc.nh.gov/rsa/html/XXXV/383-D/383-D-mrg.htm",
+     "sha256": "714ba8b93a6a4daf6cfe89aa6d81d13687cb1a63727fb208f80c9cadefba708d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0383-e",
+   "short": "RSA 383-E",
+   "title": "New Hampshire Revised Statutes, Chapter 383-E: Credit Union Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-383-E.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20220528075356/http://gencourt.state.nh.us/rsa/html/XXXV/383-E/383-E-mrg.htm",
+     "sha256": "dcf154e4ea608d47dd34d4de9492ad833d2369ac92a64fe902b77ca1cfa53b6f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0388",
+   "short": "RSA 388",
+   "title": "New Hampshire Revised Statutes, Chapter 388: Consolidation of Banks (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-388.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20220516231940/http://gencourt.state.nh.us/rsa/html/XXXV/388/388-mrg.htm",
+     "sha256": "0e118051475dc7283017adacd2f2db1f9c8466187934e8d13b7f9f9870d06b3b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0397-a",
+   "short": "RSA 397-A",
+   "title": "New Hampshire Revised Statutes, Chapter 397-A: Licensing of Nondepository Mortgage Bankers, Brokers, and Servicers (Title XXXV: Banks and Banking; Loan Associations; Credit Unions)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXV-397-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20240521183552/https://gencourt.state.nh.us/rsa/html/XXXV/397-A/397-A-mrg.htm",
+     "sha256": "f6a29f6bf4e91d516227ca37c2a249076e1f9e79a6003dc597ac29f0dc5444d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0398",
+   "short": "RSA 398",
+   "title": "New Hampshire Revised Statutes, Chapter 398: Pawnbrokers (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-398.htm",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20220811110141/http://www.gencourt.state.nh.us/rsa/html/XXXVI/398/398-mrg.htm",
+     "sha256": "534fac377defcc412654ea286870f4d420749f1123880024c465038beec533f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0399-a",
+   "short": "RSA 399-A",
+   "title": "New Hampshire Revised Statutes, Chapter 399-A: Regulation of Small Loans, Title Loans, and Payday Loans (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-399-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-18",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250518041927/https://gc.nh.gov/rsa/html/XXXVI/399-A/399-A-mrg.htm",
+     "sha256": "554b61ce7fd93793682a8aace04e089c0e0a26bed236779c82b8e00080d66330"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0399-b",
+   "short": "RSA 399-B",
+   "title": "New Hampshire Revised Statutes, Chapter 399-B: Disclosure of Finance Charges (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-399-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260327053013/https://gc.nh.gov/rsa/html/XXXVI/399-B/399-B-mrg.htm",
+     "sha256": "1301d1c0c701bdb0699cf0456e3f7502c35d5d2311791db914b86fa86e2d74c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0399-d",
+   "short": "RSA 399-D",
+   "title": "New Hampshire Revised Statutes, Chapter 399-D: Debt Adjustment Services (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-399-D.htm",
+   "versions": [
+    {
+     "from": "2026-04-05",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260405045855/https://gc.nh.gov/rsa/html/XXXVI/399-D/399-D-mrg.htm",
+     "sha256": "c00c966e6261469326da289af7ae2b90368bdf5c1f24f45ab23a8c4d84bbf6e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0399-e",
+   "short": "RSA 399-E",
+   "title": "New Hampshire Revised Statutes, Chapter 399-E: Loan Scam Operators (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-399-E.htm",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20221004165626/https://gencourt.state.nh.us/rsa/html/XXXVI/399-E/399-E-mrg.htm",
+     "sha256": "80d56d20c6da7c75a40e1e4529fda02c43e84964d3659350bfee5ac016e8bd0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0399-g",
+   "short": "RSA 399-G",
+   "title": "New Hampshire Revised Statutes, Chapter 399-G: Licensing of Money Transmitters (Title XXXVI: Pawnbrokers and Moneylenders)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVI-399-G.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260121133205/https://gc.nh.gov/rsa/html/XXXVI/399-G/399-G-mrg.htm",
+     "sha256": "dc64678c6f4d0c003a00ee84ea1f5cdc70ebb359d344687aa5205c13ee377127"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0400-a",
+   "short": "RSA 400-A",
+   "title": "New Hampshire Revised Statutes, Chapter 400-A: Insurance Department (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-400-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-18",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20240518025314/https://gencourt.state.nh.us/rsa/html/XXXVII/400-A/400-A-mrg.htm",
+     "sha256": "615896961ccc621a9b9914e9da41aa0d8d672e2f15a26a040ba7edee4ce266af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0400-b",
+   "short": "RSA 400-B",
+   "title": "New Hampshire Revised Statutes, Chapter 400-B: Market Conduct Record Retention and Production (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-400-B.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251011053320/https://gc.nh.gov/rsa/html/XXXVII/400-B/400-B-mrg.htm",
+     "sha256": "8922fafabc08f2fd99686a0438ec5ab9526152bb767ce866fb82ce1baae5289e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0401",
+   "short": "RSA 401",
+   "title": "New Hampshire Revised Statutes, Chapter 401: Incorporation and Powers of Insurance Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-401.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20251011050430/https://gc.nh.gov/rsa/html/XXXVII/401/401-mrg.htm",
+     "sha256": "8ed783ea7e3af5cff66bfde801382fd37fc5582affb31dc6c408831a253eebe9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0401-b",
+   "short": "RSA 401-B",
+   "title": "New Hampshire Revised Statutes, Chapter 401-B: Insurance Holding Companies (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-401-B.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251011052839/https://gc.nh.gov/rsa/html/XXXVII/401-B/401-B-mrg.htm",
+     "sha256": "dd682209bbc2515a211d9778d62a0e2314355524b15b180c0a36969292151e90"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0401-c",
+   "short": "RSA 401-C",
+   "title": "New Hampshire Revised Statutes, Chapter 401-C: Own Risk and Solvency Assessment (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-401-C.htm",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20251011044215/https://gc.nh.gov/rsa/html/XXXVII/401-C/401-C-mrg.htm",
+     "sha256": "2d5b79b9302ee0ba5d809c2761bfa41b772ee4b89687f2063cf26955851ab82a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0401-d",
+   "short": "RSA 401-D",
+   "title": "New Hampshire Revised Statutes, Chapter 401-D: Corporate Governance Annual Disclosure Act (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-401-D.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528042210/http://gencourt.state.nh.us/rsa/html/XXXVII/401-D/401-D-mrg.htm",
+     "sha256": "ffc6813778677036191e25c15a7309d27e68a2cf410746a23fb5ab238bf812bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402",
+   "short": "RSA 402",
+   "title": "New Hampshire Revised Statutes, Chapter 402: Insurance Companies and Agents (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402.htm",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20230724154310/https://www.gencourt.state.nh.us/rsa/html/xxxvii/402/402-mrg.htm",
+     "sha256": "9c1ea8bbb55147d8bb93ab1002882fbdc51ab057729be241e91536d772ce5684"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-a",
+   "short": "RSA 402-A",
+   "title": "New Hampshire Revised Statutes, Chapter 402-A: Insider Trading of Securities (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528032358/http://gencourt.state.nh.us/rsa/html/XXXVII/402-A/402-A-mrg.htm",
+     "sha256": "d254d6da19115330f0f5c064d89538a0f0f512613ca178ccdb7a1d07f6280288"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-b",
+   "short": "RSA 402-B",
+   "title": "New Hampshire Revised Statutes, Chapter 402-B: Insurance Claims Adjusters (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20220522071010/http://gencourt.state.nh.us/rsa/html/XXXVII/402-B/402-B-mrg.htm",
+     "sha256": "01b4ff30304e2f9d0a197fc992e8af41ec3fa29e8686d63bb91aadce71ab55e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-c",
+   "short": "RSA 402-C",
+   "title": "New Hampshire Revised Statutes, Chapter 402-C: Insurers Rehabilitation and Liquidation (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-C.htm",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20241219102110/https://www.gencourt.state.nh.us/rsa/html/XXXVII/402-C/402-C-mrg.htm",
+     "sha256": "8657ea905880339fdf3b0c5ce32023e77e67bba6fd92d8deb7ee8023211a54e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-d",
+   "short": "RSA 402-D",
+   "title": "New Hampshire Revised Statutes, Chapter 402-D: Public Adjusters (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-D.htm",
+   "versions": [
+    {
+     "from": "2025-12-14",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20251214000614/https://www.gc.nh.gov/rsa/html/XXXVII/402-D/402-D-mrg.htm",
+     "sha256": "46d82d1ce2e01023fbccaa1a4d6aa66168a5e206d72e21fd1363306ae08f2dfd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-e",
+   "short": "RSA 402-E",
+   "title": "New Hampshire Revised Statutes, Chapter 402-E: Managing General Agents (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-E.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525102705/http://gencourt.state.nh.us/rsa/html/XXXVII/402-E/402-E-mrg.htm",
+     "sha256": "b2d117a3b093b3acfea4562bb5b1b33931eb994c08b3bd5ab8ae39f8d450c791"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-j",
+   "short": "RSA 402-J",
+   "title": "New Hampshire Revised Statutes, Chapter 402-J: Producer Licensing (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-J.htm",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20240527223318/https://www.gencourt.state.nh.us/rsa/html/XXXVII/402-J/402-J-mrg.htm",
+     "sha256": "487b876a2873013e491f6cabc48908efd20ca53b09676d895116a988aa895e8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-l",
+   "short": "RSA 402-L",
+   "title": "New Hampshire Revised Statutes, Chapter 402-L: Sale of Travel Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-L.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220522174650/http://gencourt.state.nh.us/rsa/html/XXXVII/402-L/402-L-mrg.htm",
+     "sha256": "d5d30cdb7c0ac40589d7ab3ff487f6f1b1173e10d5de90ea4fa76be28647c081"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-n",
+   "short": "RSA 402-N",
+   "title": "New Hampshire Revised Statutes, Chapter 402-N: Pharmacy Benefits Managers (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-N.htm",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220712125509/http://www.gencourt.state.nh.us/rsa/html/XXXVII/402-N/402-N-mrg.htm",
+     "sha256": "6350c7930b8520fe5825ee46ce60af404a7cc85dd7bfae982da27c53fad2d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-o",
+   "short": "RSA 402-O",
+   "title": "New Hampshire Revised Statutes, Chapter 402-O: Self-service Storage Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-O.htm",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220625013917/https://gencourt.state.nh.us/rsa/html/XXXVII/402-O/402-O-mrg.htm",
+     "sha256": "f5586a66dc9fc6adae9c8755827ed04063882695c024f5825b4c6074b4993bc9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402-p",
+   "short": "RSA 402-P",
+   "title": "New Hampshire Revised Statutes, Chapter 402-P: Pet Insurance (Title XXXVII: Insurance)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXXVII-402-P.htm",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20251217234047/https://gc.nh.gov/rsa/html/XXXVII/402-P/402-P-mrg.htm",
+     "sha256": "60477e7eda75598eaf2093185cd8591cc25591615a61d5733f240f15cfcf6edb"
+    }
+   ]
   }
  ]
 }

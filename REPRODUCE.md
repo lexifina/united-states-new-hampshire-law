@@ -843,12 +843,240 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0270-a` | New Hampshire Revised Statutes, Chapter 270-A: Use of Houseboats (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2025-04-22 to 2025-04-22 |
 | `chapter-0270-b` | New Hampshire Revised Statutes, Chapter 270-B: Abandoned Boats (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2022-05-25 to 2022-05-25 |
 | `chapter-0270-d` | New Hampshire Revised Statutes, Chapter 270-D: Boating and Water Safety on New Hampshire Public Waters (Title XXII: Navigation; Harbors; Coast Survey) | 1 | 2025-07-30 to 2025-07-30 |
+| `chapter-0273-a` | New Hampshire Revised Statutes, Chapter 273-A: Public Employee Labor Relations (Title XXIII: Labor) | 1 | 2026-03-23 to 2026-03-23 |
+| `chapter-0273-c` | New Hampshire Revised Statutes, Chapter 273-C: Dog and Horse Racing Employees (Title XXIII: Labor) | 1 | 2026-03-20 to 2026-03-20 |
+| `chapter-0273-d` | New Hampshire Revised Statutes, Chapter 273-D: Personnel Appeals Board (Title XXIII: Labor) | 1 | 2026-03-24 to 2026-03-24 |
+| `chapter-0274` | New Hampshire Revised Statutes, Chapter 274: Employment Offices (Title XXIII: Labor) | 1 | 2026-01-20 to 2026-01-20 |
+| `chapter-0275` | New Hampshire Revised Statutes, Chapter 275: Protective Legislation (Title XXIII: Labor) | 1 | 2026-03-19 to 2026-03-19 |
+| `chapter-0275-a` | New Hampshire Revised Statutes, Chapter 275-A: Citizens Job Protection (Title XXIII: Labor) | 1 | 2025-02-26 to 2025-02-26 |
+| `chapter-0275-c` | New Hampshire Revised Statutes, Chapter 275-C: Governor's Commission on Disability (Title XXIII: Labor) | 1 | 2025-12-12 to 2025-12-12 |
+| `chapter-0275-d` | New Hampshire Revised Statutes, Chapter 275-D: Displaced Homemakers (Title XXIII: Labor) | 1 | 2026-02-21 to 2026-02-21 |
+| `chapter-0275-e` | New Hampshire Revised Statutes, Chapter 275-E: Whistleblowers' Protection Act (Title XXIII: Labor) | 1 | 2026-03-21 to 2026-03-21 |
+| `chapter-0275-f` | New Hampshire Revised Statutes, Chapter 275-F: New Hampshire Worker Adjustment and Retraining Notification Act (Title XXIII: Labor) | 1 | 2025-11-27 to 2025-11-27 |
+| `chapter-0275-g` | New Hampshire Revised Statutes, Chapter 275-G: Veterans' Preference Employment Policy (Title XXIII: Labor) | 1 | 2026-05-20 to 2026-05-20 |
+| `chapter-0276-a` | New Hampshire Revised Statutes, Chapter 276-A: Youth Employment Law (Title XXIII: Labor) | 1 | 2026-04-21 to 2026-04-21 |
+| `chapter-0277` | New Hampshire Revised Statutes, Chapter 277: Safety and Health of Employees (Title XXIII: Labor) | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0277-a` | New Hampshire Revised Statutes, Chapter 277-A: Toxic Substances in the Workplace (Title XXIII: Labor) | 1 | 2026-10-16 to 2026-10-16 |
+| `chapter-0277-b` | New Hampshire Revised Statutes, Chapter 277-B: Employee Leasing Companies (Title XXIII: Labor) | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0277-c` | New Hampshire Revised Statutes, Chapter 277-C: Health Care Workplace Violence Prevention Program (Title XXIII: Labor) | 1 | 2026-03-20 to 2026-03-20 |
+| `chapter-0278` | New Hampshire Revised Statutes, Chapter 278: Apprenticeship Programs in Trade and Industry (Title XXIII: Labor) | 1 | 2026-03-21 to 2026-03-21 |
+| `chapter-0279` | New Hampshire Revised Statutes, Chapter 279: Minimum Wage Law (Title XXIII: Labor) | 1 | 2026-03-23 to 2026-03-23 |
+| `chapter-0281-a` | New Hampshire Revised Statutes, Chapter 281-A: Workers' Compensation (Title XXIII: Labor) | 1 | 2026-03-20 to 2026-03-20 |
+| `chapter-0282-a` | New Hampshire Revised Statutes, Chapter 282-A: Unemployment Compensation (Title XXIII: Labor) | 1 | 2026-03-20 to 2026-03-20 |
+| `chapter-0283` | New Hampshire Revised Statutes, Chapter 283: Preference of Resident Laborers and Veterans (Title XXIII: Labor) | 1 | 2025-12-05 to 2025-12-05 |
+| `chapter-0284` | New Hampshire Revised Statutes, Chapter 284: Horse and Dog Racing (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-08-06 to 2026-08-06 |
+| `chapter-0285` | New Hampshire Revised Statutes, Chapter 285: Boxing and Wrestling Commission (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-09-26 to 2026-09-26 |
+| `chapter-0286` | New Hampshire Revised Statutes, Chapter 286: Licensing Shows, Open-air Meetings, Billiard Tables, and Bowling Alleys (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-04-17 to 2026-04-17 |
+| `chapter-0287-a` | New Hampshire Revised Statutes, Chapter 287-A: Raffles (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0287-c` | New Hampshire Revised Statutes, Chapter 287-C: Manufacture of Gambling Machines (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0287-d` | New Hampshire Revised Statutes, Chapter 287-D: Games of Chance (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0287-e` | New Hampshire Revised Statutes, Chapter 287-E: Bingo and Lucky 7 (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2025-06-03 to 2025-06-03 |
+| `chapter-0287-f` | New Hampshire Revised Statutes, Chapter 287-F: Tri-state Lotto Compact (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2025-07-04 to 2025-07-04 |
+| `chapter-0287-h` | New Hampshire Revised Statutes, Chapter 287-H: Fantasy Sports Contests (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0287-i` | New Hampshire Revised Statutes, Chapter 287-I: Sports Betting (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-04-14 to 2026-04-14 |
+| `chapter-0287-j` | New Hampshire Revised Statutes, Chapter 287-J: Video Lottery Terminals (Title XXIV: Games, Amusements, and Athletic Exhibitions) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0306` | New Hampshire Revised Statutes, Chapter 306: Religious Societies Generally (Title XXIX: Religious Societies) | 1 | 2025-06-09 to 2025-06-09 |
+| `chapter-0307` | New Hampshire Revised Statutes, Chapter 307: Sale, Repairs, Etc., of Meetinghouses (Title XXIX: Religious Societies) | 1 | 2025-04-19 to 2025-04-19 |
+| `chapter-0308` | New Hampshire Revised Statutes, Chapter 308: Dissolution (Title XXIX: Religious Societies) | 1 | 2026-04-06 to 2026-04-06 |
+| `chapter-0288` | New Hampshire Revised Statutes, Chapter 288: Holidays (Title XXV: Holidays) | 1 | 2025-07-02 to 2025-07-02 |
+| `chapter-0289` | New Hampshire Revised Statutes, Chapter 289: Cemeteries (Title XXVI: Cemeteries; Burials; Dead Bodies) | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-0290` | New Hampshire Revised Statutes, Chapter 290: Burials and Disinterments (Title XXVI: Cemeteries; Burials; Dead Bodies) | 1 | 2025-07-09 to 2025-07-09 |
+| `chapter-0291-a` | New Hampshire Revised Statutes, Chapter 291-A: Uniform Anatomical Gift Act (Title XXVI: Cemeteries; Burials; Dead Bodies) | 1 | 2025-05-27 to 2025-05-27 |
+| `chapter-0292` | New Hampshire Revised Statutes, Chapter 292: Voluntary Corporations and Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-09-10 to 2026-09-10 |
+| `chapter-0292-b` | New Hampshire Revised Statutes, Chapter 292-B: Uniform Prudent Management of Institutional Funds Act (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-03-28 to 2026-03-28 |
+| `chapter-0293` | New Hampshire Revised Statutes, Chapter 293: Corporate Charters (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-04-20 to 2025-04-20 |
+| `chapter-0293-b` | New Hampshire Revised Statutes, Chapter 293-B: Treatment of New Hampshire Investment Trusts (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2023-01-19 to 2023-01-19 |
+| `chapter-0293-c` | New Hampshire Revised Statutes, Chapter 293-C: Benefit Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-06-04 to 2026-06-04 |
+| `chapter-0294-a` | New Hampshire Revised Statutes, Chapter 294-A: Professional Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-06-17 to 2026-06-17 |
+| `chapter-0294-b` | New Hampshire Revised Statutes, Chapter 294-B: Pretended Sales (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-07-21 to 2025-07-21 |
+| `chapter-0294-c` | New Hampshire Revised Statutes, Chapter 294-C: Fraudulent or Unauthorized Issue of Stock (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-07-30 to 2025-07-30 |
+| `chapter-0294-e` | New Hampshire Revised Statutes, Chapter 294-E: Uniform Electronic Transactions Act (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-04-10 to 2025-04-10 |
+| `chapter-0295` | New Hampshire Revised Statutes, Chapter 295: General Powers of Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0296` | New Hampshire Revised Statutes, Chapter 296: Dividend-paying Corporations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2022-05-19 to 2022-05-19 |
+| `chapter-0299` | New Hampshire Revised Statutes, Chapter 299: Corporate Mortgages and Reorganization After Foreclosure (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-05-15 to 2025-05-15 |
+| `chapter-0301` | New Hampshire Revised Statutes, Chapter 301: Cooperative Marketing and Rural Electrification Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-08-01 to 2026-08-01 |
+| `chapter-0301-a` | New Hampshire Revised Statutes, Chapter 301-A: Consumers' Cooperative Associations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-11-13 to 2025-11-13 |
+| `chapter-0301-b` | New Hampshire Revised Statutes, Chapter 301-B: Decentralized Autonomous Organizations (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2026-10-17 to 2026-10-17 |
+| `chapter-0302` | New Hampshire Revised Statutes, Chapter 302: Registration of Insignia (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0303` | New Hampshire Revised Statutes, Chapter 303: Proprietors of Common Lands (Title XXVII: Corporations, Associations, and Proprietors of Common Lands) | 1 | 2025-07-23 to 2025-07-23 |
+| `chapter-0304-a` | New Hampshire Revised Statutes, Chapter 304-A: Uniform Partnership Act (Title XXVIII: Partnerships) | 1 | 2024-05-21 to 2024-05-21 |
+| `chapter-0304-b` | New Hampshire Revised Statutes, Chapter 304-B: Uniform Limited Partnership Act (Title XXVIII: Partnerships) | 1 | 2022-04-20 to 2022-04-20 |
+| `chapter-0304-c` | New Hampshire Revised Statutes, Chapter 304-C: Limited Liability Companies (Title XXVIII: Partnerships) | 1 | 2026-07-22 to 2026-07-22 |
+| `chapter-0305-a` | New Hampshire Revised Statutes, Chapter 305-A: Registration of Foreign Partnerships (Title XXVIII: Partnerships) | 1 | 2022-04-20 to 2022-04-20 |
+| `chapter-0309-b` | New Hampshire Revised Statutes, Chapter 309-B: New Hampshire Accountancy Act (Title XXX: Occupations and Professions) | 1 | 2024-05-20 to 2024-05-20 |
+| `chapter-0310` | New Hampshire Revised Statutes, Chapter 310: Office of Professional Licensure and Certification (Title XXX: Occupations and Professions) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0310-a` | New Hampshire Revised Statutes, Chapter 310-A: Office of Professional Licensure and Certification (Title XXX: Occupations and Professions) | 1 | 2025-11-11 to 2025-11-11 |
+| `chapter-0310-b` | New Hampshire Revised Statutes, Chapter 310-B: State Licensed or Certified Real Estate Appraisers (Title XXX: Occupations and Professions) | 1 | 2025-05-28 to 2025-05-28 |
+| `chapter-0310-c` | New Hampshire Revised Statutes, Chapter 310-C: Assessing Certification Board (Title XXX: Occupations and Professions) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0311` | New Hampshire Revised Statutes, Chapter 311: Attorneys and Counselors (Title XXX: Occupations and Professions) | 1 | 2026-01-23 to 2026-01-23 |
+| `chapter-0311-b` | New Hampshire Revised Statutes, Chapter 311-B: Auctioneers (Title XXX: Occupations and Professions) | 1 | 2025-06-10 to 2025-06-10 |
+| `chapter-0313-a` | New Hampshire Revised Statutes, Chapter 313-A: Barbering, Cosmetology, and Esthetics (Title XXX: Occupations and Professions) | 1 | 2024-05-29 to 2024-05-29 |
+| `chapter-0314` | New Hampshire Revised Statutes, Chapter 314: Electrologists (Title XXX: Occupations and Professions) | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0314-a` | New Hampshire Revised Statutes, Chapter 314-A: Body Art (Title XXX: Occupations and Professions) | 1 | 2026-06-07 to 2026-06-07 |
+| `chapter-0315` | New Hampshire Revised Statutes, Chapter 315: Podiatry (Title XXX: Occupations and Professions) | 1 | 2024-05-22 to 2024-05-22 |
+| `chapter-0316-a` | New Hampshire Revised Statutes, Chapter 316-A: Chiropractic (Title XXX: Occupations and Professions) | 1 | 2026-04-07 to 2026-04-07 |
+| `chapter-0317-a` | New Hampshire Revised Statutes, Chapter 317-A: Dentists and Dentistry (Title XXX: Occupations and Professions) | 1 | 2026-10-25 to 2026-10-25 |
+| `chapter-0318` | New Hampshire Revised Statutes, Chapter 318: Pharmacists and Pharmacies (Title XXX: Occupations and Professions) | 1 | 2026-02-22 to 2026-02-22 |
+| `chapter-0318-b` | New Hampshire Revised Statutes, Chapter 318-B: Controlled Drug Act (Title XXX: Occupations and Professions) | 1 | 2026-02-01 to 2026-02-01 |
+| `chapter-0318-c` | New Hampshire Revised Statutes, Chapter 318-C: Model Drug Dealer Liability Act (Title XXX: Occupations and Professions) | 1 | 2025-07-26 to 2025-07-26 |
+| `chapter-0318-d` | New Hampshire Revised Statutes, Chapter 318-D: Methamphetamine-related Offenses (Title XXX: Occupations and Professions) | 1 | 2022-08-08 to 2022-08-08 |
+| `chapter-0319-c` | New Hampshire Revised Statutes, Chapter 319-C: Electricians (Title XXX: Occupations and Professions) | 1 | 2025-06-17 to 2025-06-17 |
+| `chapter-0321-a` | New Hampshire Revised Statutes, Chapter 321-A: Carnival-amusement Operators (Title XXX: Occupations and Professions) | 1 | 2024-07-17 to 2024-07-17 |
+| `chapter-0325` | New Hampshire Revised Statutes, Chapter 325: Embalmers and Funeral Directors (Title XXX: Occupations and Professions) | 1 | 2024-05-21 to 2024-05-21 |
+| `chapter-0326-b` | New Hampshire Revised Statutes, Chapter 326-B: Nurse Practice Act (Title XXX: Occupations and Professions) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0326-c` | New Hampshire Revised Statutes, Chapter 326-C: Occupational Therapists (Title XXX: Occupations and Professions) | 1 | 2026-01-10 to 2026-01-10 |
+| `chapter-0326-d` | New Hampshire Revised Statutes, Chapter 326-D: Midwifery (Title XXX: Occupations and Professions) | 1 | 2026-08-07 to 2026-08-07 |
+| `chapter-0326-e` | New Hampshire Revised Statutes, Chapter 326-E: Respiratory Care Practice (Title XXX: Occupations and Professions) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0326-f` | New Hampshire Revised Statutes, Chapter 326-F: Speech-language Pathology and Hearing Care Providers Practice (Title XXX: Occupations and Professions) | 1 | 2026-10-07 to 2026-10-07 |
+| `chapter-0326-g` | New Hampshire Revised Statutes, Chapter 326-G: Athletic Trainers (Title XXX: Occupations and Professions) | 1 | 2026-10-25 to 2026-10-25 |
+| `chapter-0326-h` | New Hampshire Revised Statutes, Chapter 326-H: Licensed Dietitians (Title XXX: Occupations and Professions) | 1 | 2024-05-23 to 2024-05-23 |
+| `chapter-0326-i` | New Hampshire Revised Statutes, Chapter 326-I: Interpreters for the Deaf, Deafblind, and Hard of Hearing (Title XXX: Occupations and Professions) | 1 | 2026-05-23 to 2026-05-23 |
+| `chapter-0326-j` | New Hampshire Revised Statutes, Chapter 326-J: Recreational Therapists (Title XXX: Occupations and Professions) | 1 | 2025-05-14 to 2025-05-14 |
+| `chapter-0326-k` | New Hampshire Revised Statutes, Chapter 326-K: Genetic Counselors (Title XXX: Occupations and Professions) | 1 | 2024-05-17 to 2024-05-17 |
+| `chapter-0326-l` | New Hampshire Revised Statutes, Chapter 326-L: Professional Art Therapy (Title XXX: Occupations and Professions) | 1 | 2025-03-09 to 2025-03-09 |
+| `chapter-0326-m` | New Hampshire Revised Statutes, Chapter 326-M: Nurse Agency Registration (Title XXX: Occupations and Professions) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0326-n` | New Hampshire Revised Statutes, Chapter 326-N: Community Health Workers (Title XXX: Occupations and Professions) | 1 | 2026-10-19 to 2026-10-19 |
+| `chapter-0327` | New Hampshire Revised Statutes, Chapter 327: Optometry (Title XXX: Occupations and Professions) | 1 | 2024-05-19 to 2024-05-19 |
+| `chapter-0327-a` | New Hampshire Revised Statutes, Chapter 327-A: Ophthalmic Dispensing (Title XXX: Occupations and Professions) | 1 | 2025-08-29 to 2025-08-29 |
+| `chapter-0328-a` | New Hampshire Revised Statutes, Chapter 328-A: Physical Therapy Practice Act (Title XXX: Occupations and Professions) | 1 | 2024-07-26 to 2024-07-26 |
+| `chapter-0328-b` | New Hampshire Revised Statutes, Chapter 328-B: Massage Therapists and Massage Establishments (Title XXX: Occupations and Professions) | 1 | 2025-06-08 to 2025-06-08 |
+| `chapter-0328-c` | New Hampshire Revised Statutes, Chapter 328-C: Family Mediators (Title XXX: Occupations and Professions) | 1 | 2024-05-20 to 2024-05-20 |
+| `chapter-0328-d` | New Hampshire Revised Statutes, Chapter 328-D: Physician Associates (Title XXX: Occupations and Professions) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0328-e` | New Hampshire Revised Statutes, Chapter 328-E: Naturopathic Health Care Practice (Title XXX: Occupations and Professions) | 1 | 2024-05-19 to 2024-05-19 |
+| `chapter-0328-f` | New Hampshire Revised Statutes, Chapter 328-F: Allied Health Professionals (Title XXX: Occupations and Professions) | 1 | 2024-05-16 to 2024-05-16 |
+| `chapter-0328-g` | New Hampshire Revised Statutes, Chapter 328-G: Acupuncture (Title XXX: Occupations and Professions) | 1 | 2024-05-21 to 2024-05-21 |
+| `chapter-0328-h` | New Hampshire Revised Statutes, Chapter 328-H: Reflexologists, Structural Integrators, and Asian Bodywork Therapists (Title XXX: Occupations and Professions) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0328-i` | New Hampshire Revised Statutes, Chapter 328-I: Board of Registration of Medical Technicians (Title XXX: Occupations and Professions) | 1 | 2026-05-17 to 2026-05-17 |
+| `chapter-0328-j` | New Hampshire Revised Statutes, Chapter 328-J: Medical Imaging and Radiation Therapy (Title XXX: Occupations and Professions) | 1 | 2025-04-13 to 2025-04-13 |
+| `chapter-0329` | New Hampshire Revised Statutes, Chapter 329: Physicians and Surgeons (Title XXX: Occupations and Professions) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0329-b` | New Hampshire Revised Statutes, Chapter 329-B: Psychologists (Title XXX: Occupations and Professions) | 1 | 2026-10-10 to 2026-10-10 |
+| `chapter-0329-c` | New Hampshire Revised Statutes, Chapter 329-C: Interstate Medical Licensure Compact (Title XXX: Occupations and Professions) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0329-d` | New Hampshire Revised Statutes, Chapter 329-D: Psychology Interjurisdictional Compact (psypact) (Title XXX: Occupations and Professions) | 1 | 2026-03-04 to 2026-03-04 |
+| `chapter-0330-a` | New Hampshire Revised Statutes, Chapter 330-A: Mental Health Practice (Title XXX: Occupations and Professions) | 1 | 2026-11-02 to 2026-11-02 |
+| `chapter-0330-c` | New Hampshire Revised Statutes, Chapter 330-C: Alcohol and Other Drug Use Professionals (Title XXX: Occupations and Professions) | 1 | 2024-05-19 to 2024-05-19 |
+| `chapter-0330-d` | New Hampshire Revised Statutes, Chapter 330-D: Mental Health Counseling Compact (Title XXX: Occupations and Professions) | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0331-a` | New Hampshire Revised Statutes, Chapter 331-A: New Hampshire Real Estate Practice Act (Title XXX: Occupations and Professions) | 1 | 2025-07-09 to 2025-07-09 |
+| `chapter-0332-b` | New Hampshire Revised Statutes, Chapter 332-B: New Hampshire Veterinary Practice Act (Title XXX: Occupations and Professions) | 1 | 2024-05-20 to 2024-05-20 |
+| `chapter-0332-e` | New Hampshire Revised Statutes, Chapter 332-E: Water Treatment Plant Operators and Water Distribution System Personnel (Title XXX: Occupations and Professions) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0332-g` | New Hampshire Revised Statutes, Chapter 332-G: General Administration of Regulatory Boards and Commissions (Title XXX: Occupations and Professions) | 1 | 2024-07-05 to 2024-07-05 |
+| `chapter-0332-i` | New Hampshire Revised Statutes, Chapter 332-I: Medical Records, Patient Information, and the Health Information Organization Corporation (Title XXX: Occupations and Professions) | 1 | 2026-03-02 to 2026-03-02 |
+| `chapter-0332-l` | New Hampshire Revised Statutes, Chapter 332-L: Prohibiting Conversion Therapy on Minors (Title XXX: Occupations and Professions) | 1 | 2026-04-18 to 2026-04-18 |
+| `chapter-0332-m` | New Hampshire Revised Statutes, Chapter 332-M: Prohibiting Gender Surgery on Minors (Title XXX: Occupations and Professions) | 1 | 2025-05-28 to 2025-05-28 |
+| `chapter-0336` | New Hampshire Revised Statutes, Chapter 336: Interest (Title XXXI: Trade and Commerce) | 1 | 2022-08-13 to 2022-08-13 |
+| `chapter-0338-a` | New Hampshire Revised Statutes, Chapter 338-A: Prohibited Contracts (Title XXXI: Trade and Commerce) | 1 | 2024-03-28 to 2024-03-28 |
+| `chapter-0338-b` | New Hampshire Revised Statutes, Chapter 338-B: Council for Responsible Gambling (Title XXXI: Trade and Commerce) | 1 | 2025-08-02 to 2025-08-02 |
+| `chapter-0339` | New Hampshire Revised Statutes, Chapter 339: Sales of Certain Articles (Title XXXI: Trade and Commerce) | 1 | 2024-06-17 to 2024-06-17 |
+| `chapter-0339-c` | New Hampshire Revised Statutes, Chapter 339-C: Regulation of Gasoline Franchises (Title XXXI: Trade and Commerce) | 1 | 2022-05-20 to 2022-05-20 |
+| `chapter-0340` | New Hampshire Revised Statutes, Chapter 340: Bulky Articles (Title XXXI: Trade and Commerce) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0348` | New Hampshire Revised Statutes, Chapter 348: Bonded Warehouses (Title XXXI: Trade and Commerce) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0350-c` | New Hampshire Revised Statutes, Chapter 350-C: Rights to Dies, Molds, Forms and Patterns (Title XXXI: Trade and Commerce) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0352` | New Hampshire Revised Statutes, Chapter 352: Authors' and Artists' Productions (Title XXXI: Trade and Commerce) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0353` | New Hampshire Revised Statutes, Chapter 353: Hotels, Tourist Cabins, Etc. (Title XXXI: Trade and Commerce) | 1 | 2024-06-17 to 2024-06-17 |
+| `chapter-0354-a` | New Hampshire Revised Statutes, Chapter 354-A: State Commission for Human Rights (Title XXXI: Trade and Commerce) | 1 | 2026-10-22 to 2026-10-22 |
+| `chapter-0354-b` | New Hampshire Revised Statutes, Chapter 354-B: Civil Rights Act (Title XXXI: Trade and Commerce) | 1 | 2026-06-23 to 2026-06-23 |
+| `chapter-0356` | New Hampshire Revised Statutes, Chapter 356: Combinations and Monopolies (Title XXXI: Trade and Commerce) | 1 | 2024-06-03 to 2024-06-03 |
+| `chapter-0356-a` | New Hampshire Revised Statutes, Chapter 356-A: Land Sales Full Disclosure Act (Title XXXI: Trade and Commerce) | 1 | 2025-08-27 to 2025-08-27 |
+| `chapter-0356-b` | New Hampshire Revised Statutes, Chapter 356-B: Condominium Act (Title XXXI: Trade and Commerce) | 1 | 2025-09-07 to 2025-09-07 |
+| `chapter-0356-c` | New Hampshire Revised Statutes, Chapter 356-C: Protection of Tenants in Conversion of Rental Units (Title XXXI: Trade and Commerce) | 1 | 2026-01-26 to 2026-01-26 |
+| `chapter-0357-c` | New Hampshire Revised Statutes, Chapter 357-C: Regulation of Business Practices Between Motor Vehicle Manufacturers, Distributors and Dealers (Title XXXI: Trade and Commerce) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0357-d` | New Hampshire Revised Statutes, Chapter 357-D: New Motor Vehicle Arbitration (Title XXXI: Trade and Commerce) | 1 | 2025-03-09 to 2025-03-09 |
+| `chapter-0357-f` | New Hampshire Revised Statutes, Chapter 357-F: Disclosure of Information Relating to Musical Performances (Title XXXI: Trade and Commerce) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0358-a` | New Hampshire Revised Statutes, Chapter 358-A: Regulation of Business Practices for Consumer Protection (Title XXXI: Trade and Commerce) | 1 | 2026-05-23 to 2026-05-23 |
+| `chapter-0358-b` | New Hampshire Revised Statutes, Chapter 358-B: Chain Distributor Schemes (Title XXXI: Trade and Commerce) | 1 | 2025-03-06 to 2025-03-06 |
+| `chapter-0358-c` | New Hampshire Revised Statutes, Chapter 358-C: Unfair, Deceptive or Unreasonable Collection Practices (Title XXXI: Trade and Commerce) | 1 | 2024-06-21 to 2024-06-21 |
+| `chapter-0358-e` | New Hampshire Revised Statutes, Chapter 358-E: Distributorship Disclosure Act (Title XXXI: Trade and Commerce) | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0358-g` | New Hampshire Revised Statutes, Chapter 358-G: Regulation of Auctions (Title XXXI: Trade and Commerce) | 1 | 2022-10-14 to 2022-10-14 |
+| `chapter-0358-h` | New Hampshire Revised Statutes, Chapter 358-H: Regulation of Rental Referral Agencies (Title XXXI: Trade and Commerce) | 1 | 2025-03-09 to 2025-03-09 |
+| `chapter-0358-i` | New Hampshire Revised Statutes, Chapter 358-I: Health Clubs (Title XXXI: Trade and Commerce) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0358-m` | New Hampshire Revised Statutes, Chapter 358-M: Merchant's Check Acceptance Policies (Title XXXI: Trade and Commerce) | 1 | 2022-05-18 to 2022-05-18 |
+| `chapter-0358-n` | New Hampshire Revised Statutes, Chapter 358-N: Prohibited Credit Card Practices in Travel Services (Title XXXI: Trade and Commerce) | 1 | 2025-07-06 to 2025-07-06 |
+| `chapter-0358-o` | New Hampshire Revised Statutes, Chapter 358-O: Prizes and Gifts Act (Title XXXI: Trade and Commerce) | 1 | 2025-03-09 to 2025-03-09 |
+| `chapter-0358-q` | New Hampshire Revised Statutes, Chapter 358-Q: Sale of Certain Items (Title XXXI: Trade and Commerce) | 1 | 2025-03-06 to 2025-03-06 |
+| `chapter-0358-s` | New Hampshire Revised Statutes, Chapter 358-S: Martial Arts Schools (Title XXXI: Trade and Commerce) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0359-b` | New Hampshire Revised Statutes, Chapter 359-B: Consumer Credit Reporting (Title XXXI: Trade and Commerce) | 1 | 2025-01-23 to 2025-01-23 |
+| `chapter-0359-c` | New Hampshire Revised Statutes, Chapter 359-C: Right to Privacy (Title XXXI: Trade and Commerce) | 1 | 2026-10-12 to 2026-10-12 |
+| `chapter-0359-d` | New Hampshire Revised Statutes, Chapter 359-D: Credit Services Organizations (Title XXXI: Trade and Commerce) | 1 | 2025-02-17 to 2025-02-17 |
+| `chapter-0359-e` | New Hampshire Revised Statutes, Chapter 359-E: Telemarketing (Title XXXI: Trade and Commerce) | 1 | 2025-03-06 to 2025-03-06 |
+| `chapter-0359-g` | New Hampshire Revised Statutes, Chapter 359-G: Residential Construction Defects; Dispute Resolution (Title XXXI: Trade and Commerce) | 1 | 2023-03-22 to 2023-03-22 |
+| `chapter-0359-i` | New Hampshire Revised Statutes, Chapter 359-I: Identity Theft (Title XXXI: Trade and Commerce) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0359-o` | New Hampshire Revised Statutes, Chapter 359-O: Sale or Possession of Synthetic Urine and Urine Additives (Title XXXI: Trade and Commerce) | 1 | 2024-05-14 to 2024-05-14 |
+| `chapter-0359-q` | New Hampshire Revised Statutes, Chapter 359-Q: Sale of Furniture with Flame Retardant Chemicals (Title XXXI: Trade and Commerce) | 1 | 2026-01-08 to 2026-01-08 |
+| `chapter-0359-t` | New Hampshire Revised Statutes, Chapter 359-T: Carriage of Household Goods for Hire by Motor Vehicle (Title XXXI: Trade and Commerce) | 1 | 2025-04-04 to 2025-04-04 |
+| `chapter-0362` | New Hampshire Revised Statutes, Chapter 362: Definition of Terms; Utilities Exempted (Title XXXIV: Public Utilities) | 1 | 2025-05-25 to 2025-05-25 |
+| `chapter-0362-a` | New Hampshire Revised Statutes, Chapter 362-A: Limited Electrical Energy Producers Act (Title XXXIV: Public Utilities) | 1 | 2025-08-21 to 2025-08-21 |
+| `chapter-0362-c` | New Hampshire Revised Statutes, Chapter 362-C: Reorganization of Public Service Company of New Hampshire (Title XXXIV: Public Utilities) | 1 | 2025-05-25 to 2025-05-25 |
+| `chapter-0362-f` | New Hampshire Revised Statutes, Chapter 362-F: Electric Renewable Portfolio Standard (Title XXXIV: Public Utilities) | 1 | 2026-07-17 to 2026-07-17 |
+| `chapter-0362-h` | New Hampshire Revised Statutes, Chapter 362-H: The Preservation and Use of Renewable Generation to Provide Fuel Diversity (Title XXXIV: Public Utilities) | 1 | 2026-04-16 to 2026-04-16 |
+| `chapter-0362-i` | New Hampshire Revised Statutes, Chapter 362-I: Procurement of Renewable Natural Gas (Title XXXIV: Public Utilities) | 1 | 2025-10-10 to 2025-10-10 |
+| `chapter-0363` | New Hampshire Revised Statutes, Chapter 363: The Public Utilities Commission (Title XXXIV: Public Utilities) | 1 | 2025-05-16 to 2025-05-16 |
+| `chapter-0363-a` | New Hampshire Revised Statutes, Chapter 363-A: Expenses of Public Utilities Commission Against Certain Utilities (Title XXXIV: Public Utilities) | 1 | 2025-10-12 to 2025-10-12 |
+| `chapter-0363-b` | New Hampshire Revised Statutes, Chapter 363-B: Procedures for Termination of Certain Utility Services (Title XXXIV: Public Utilities) | 1 | 2024-05-18 to 2024-05-18 |
+| `chapter-0364` | New Hampshire Revised Statutes, Chapter 364: Municipal Utilities (Title XXXIV: Public Utilities) | 1 | 2025-06-09 to 2025-06-09 |
+| `chapter-0365` | New Hampshire Revised Statutes, Chapter 365: Complaints to the Department of Energy and Proceedings Before the Commission (Title XXXIV: Public Utilities) | 1 | 2026-06-06 to 2026-06-06 |
+| `chapter-0366` | New Hampshire Revised Statutes, Chapter 366: Affiliates of Public Utilities (Title XXXIV: Public Utilities) | 1 | 2025-04-09 to 2025-04-09 |
+| `chapter-0367` | New Hampshire Revised Statutes, Chapter 367: Formation and Union of Railroad Corporations; Leases and Extensions (Title XXXIV: Public Utilities) | 1 | 2024-06-14 to 2024-06-14 |
+| `chapter-0369` | New Hampshire Revised Statutes, Chapter 369: Issuance of Stock and Other Securities; General Provisions (Title XXXIV: Public Utilities) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0369-a` | New Hampshire Revised Statutes, Chapter 369-A: Electric Rate Reduction Financing (Title XXXIV: Public Utilities) | 1 | 2025-02-18 to 2025-02-18 |
+| `chapter-0369-b` | New Hampshire Revised Statutes, Chapter 369-B: Electric Rate Reduction Financing and Commission Action (Title XXXIV: Public Utilities) | 1 | 2025-05-28 to 2025-05-28 |
+| `chapter-0370` | New Hampshire Revised Statutes, Chapter 370: Service Equipment of Public Utilities (Title XXXIV: Public Utilities) | 1 | 2025-05-23 to 2025-05-23 |
+| `chapter-0370-a` | New Hampshire Revised Statutes, Chapter 370-A: Use of Customer-owned Equipment (Title XXXIV: Public Utilities) | 1 | 2025-09-26 to 2025-09-26 |
+| `chapter-0371` | New Hampshire Revised Statutes, Chapter 371: Proceedings to Acquire Property or Rights (Title XXXIV: Public Utilities) | 1 | 2025-08-04 to 2025-08-04 |
+| `chapter-0373` | New Hampshire Revised Statutes, Chapter 373: Crossings, Stations, Fences, Cattle Guards, Bridges, and Bridge Guards (Title XXXIV: Public Utilities) | 1 | 2022-05-20 to 2022-05-20 |
+| `chapter-0374` | New Hampshire Revised Statutes, Chapter 374: General Regulations (Title XXXIV: Public Utilities) | 1 | 2025-09-25 to 2025-09-25 |
+| `chapter-0374-a` | New Hampshire Revised Statutes, Chapter 374-A: Authorizing Electric Utilities to Participate in Electric Power Facilities (Title XXXIV: Public Utilities) | 1 | 2025-06-08 to 2025-06-08 |
+| `chapter-0374-b` | New Hampshire Revised Statutes, Chapter 374-B: Municipal Electric Revenue Bonds (Title XXXIV: Public Utilities) | 1 | 2025-02-18 to 2025-02-18 |
+| `chapter-0374-c` | New Hampshire Revised Statutes, Chapter 374-C: Public Utility Bond Financing (Title XXXIV: Public Utilities) | 1 | 2026-02-18 to 2026-02-18 |
+| `chapter-0374-d` | New Hampshire Revised Statutes, Chapter 374-D: Municipal Small Scale Power Facility Bonds (Title XXXIV: Public Utilities) | 1 | 2026-06-20 to 2026-06-20 |
+| `chapter-0374-e` | New Hampshire Revised Statutes, Chapter 374-E: New Hampshire Municipal Bond Bank-small Scale Power Facility Division (Title XXXIV: Public Utilities) | 1 | 2025-05-30 to 2025-05-30 |
+| `chapter-0374-f` | New Hampshire Revised Statutes, Chapter 374-F: Electric Utility Restructuring (Title XXXIV: Public Utilities) | 1 | 2026-04-24 to 2026-04-24 |
+| `chapter-0374-g` | New Hampshire Revised Statutes, Chapter 374-G: Electric Utility Investment in Distributed Energy Resources (Title XXXIV: Public Utilities) | 1 | 2026-01-11 to 2026-01-11 |
+| `chapter-0374-h` | New Hampshire Revised Statutes, Chapter 374-H: Customer Energy Storage (Title XXXIV: Public Utilities) | 1 | 2026-04-13 to 2026-04-13 |
+| `chapter-0378` | New Hampshire Revised Statutes, Chapter 378: Rates and Charges (Title XXXIV: Public Utilities) | 1 | 2022-10-06 to 2022-10-06 |
+| `chapter-0379` | New Hampshire Revised Statutes, Chapter 379: Joint, Connecting, and Terminal Service (Title XXXIV: Public Utilities) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0382` | New Hampshire Revised Statutes, Chapter 382: Maintenance of Parks by Railroads and Bus Lines (Title XXXIV: Public Utilities) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0422` | New Hampshire Revised Statutes, Chapter 422: New Hampshire Aeronautics Act (Title XXXIX: Aeronautics) | 1 | 2025-07-03 to 2025-07-03 |
+| `chapter-0422-b` | New Hampshire Revised Statutes, Chapter 422-B: Control of Tall Structures (Title XXXIX: Aeronautics) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0422-c` | New Hampshire Revised Statutes, Chapter 422-C: Abandoned Aircraft (Title XXXIX: Aeronautics) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0423` | New Hampshire Revised Statutes, Chapter 423: Municipal Airports (Title XXXIX: Aeronautics) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0423-a` | New Hampshire Revised Statutes, Chapter 423-A: Airport Property Tax Base Sharing (Title XXXIX: Aeronautics) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0424` | New Hampshire Revised Statutes, Chapter 424: Airport Zoning (Title XXXIX: Aeronautics) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0383` | New Hampshire Revised Statutes, Chapter 383: Bank Commissioner (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0383-a` | New Hampshire Revised Statutes, Chapter 383-A: Bank and Credit Union Regulatory and Enforcement (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0383-b` | New Hampshire Revised Statutes, Chapter 383-B: Depository Bank Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2022-05-21 to 2022-05-21 |
+| `chapter-0383-c` | New Hampshire Revised Statutes, Chapter 383-C: Trust Company Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2026-10-05 to 2026-10-05 |
+| `chapter-0383-d` | New Hampshire Revised Statutes, Chapter 383-D: Family Trust Company Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2026-10-05 to 2026-10-05 |
+| `chapter-0383-e` | New Hampshire Revised Statutes, Chapter 383-E: Credit Union Act (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0388` | New Hampshire Revised Statutes, Chapter 388: Consolidation of Banks (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0397-a` | New Hampshire Revised Statutes, Chapter 397-A: Licensing of Nondepository Mortgage Bankers, Brokers, and Servicers (Title XXXV: Banks and Banking; Loan Associations; Credit Unions) | 1 | 2024-05-21 to 2024-05-21 |
+| `chapter-0398` | New Hampshire Revised Statutes, Chapter 398: Pawnbrokers (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2022-08-11 to 2022-08-11 |
+| `chapter-0399-a` | New Hampshire Revised Statutes, Chapter 399-A: Regulation of Small Loans, Title Loans, and Payday Loans (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2025-05-18 to 2025-05-18 |
+| `chapter-0399-b` | New Hampshire Revised Statutes, Chapter 399-B: Disclosure of Finance Charges (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2026-03-27 to 2026-03-27 |
+| `chapter-0399-d` | New Hampshire Revised Statutes, Chapter 399-D: Debt Adjustment Services (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2026-04-05 to 2026-04-05 |
+| `chapter-0399-e` | New Hampshire Revised Statutes, Chapter 399-E: Loan Scam Operators (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2022-10-04 to 2022-10-04 |
+| `chapter-0399-g` | New Hampshire Revised Statutes, Chapter 399-G: Licensing of Money Transmitters (Title XXXVI: Pawnbrokers and Moneylenders) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0400-a` | New Hampshire Revised Statutes, Chapter 400-A: Insurance Department (Title XXXVII: Insurance) | 1 | 2024-05-18 to 2024-05-18 |
+| `chapter-0400-b` | New Hampshire Revised Statutes, Chapter 400-B: Market Conduct Record Retention and Production (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0401` | New Hampshire Revised Statutes, Chapter 401: Incorporation and Powers of Insurance Companies (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0401-b` | New Hampshire Revised Statutes, Chapter 401-B: Insurance Holding Companies (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0401-c` | New Hampshire Revised Statutes, Chapter 401-C: Own Risk and Solvency Assessment (Title XXXVII: Insurance) | 1 | 2025-10-11 to 2025-10-11 |
+| `chapter-0401-d` | New Hampshire Revised Statutes, Chapter 401-D: Corporate Governance Annual Disclosure Act (Title XXXVII: Insurance) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0402` | New Hampshire Revised Statutes, Chapter 402: Insurance Companies and Agents (Title XXXVII: Insurance) | 1 | 2023-07-24 to 2023-07-24 |
+| `chapter-0402-a` | New Hampshire Revised Statutes, Chapter 402-A: Insider Trading of Securities (Title XXXVII: Insurance) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0402-b` | New Hampshire Revised Statutes, Chapter 402-B: Insurance Claims Adjusters (Title XXXVII: Insurance) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0402-c` | New Hampshire Revised Statutes, Chapter 402-C: Insurers Rehabilitation and Liquidation (Title XXXVII: Insurance) | 1 | 2024-12-19 to 2024-12-19 |
+| `chapter-0402-d` | New Hampshire Revised Statutes, Chapter 402-D: Public Adjusters (Title XXXVII: Insurance) | 1 | 2025-12-14 to 2025-12-14 |
+| `chapter-0402-e` | New Hampshire Revised Statutes, Chapter 402-E: Managing General Agents (Title XXXVII: Insurance) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0402-j` | New Hampshire Revised Statutes, Chapter 402-J: Producer Licensing (Title XXXVII: Insurance) | 1 | 2024-05-27 to 2024-05-27 |
+| `chapter-0402-l` | New Hampshire Revised Statutes, Chapter 402-L: Sale of Travel Insurance (Title XXXVII: Insurance) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0402-n` | New Hampshire Revised Statutes, Chapter 402-N: Pharmacy Benefits Managers (Title XXXVII: Insurance) | 1 | 2022-07-12 to 2022-07-12 |
+| `chapter-0402-o` | New Hampshire Revised Statutes, Chapter 402-O: Self-service Storage Insurance (Title XXXVII: Insurance) | 1 | 2022-06-25 to 2022-06-25 |
+| `chapter-0402-p` | New Hampshire Revised Statutes, Chapter 402-P: Pet Insurance (Title XXXVII: Insurance) | 1 | 2025-12-17 to 2025-12-17 |
 
-The build made 829 commits:
+The build made 1057 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 829 | first version of an act |
+| 1057 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -856,7 +1084,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 829 tags.
+- 1057 tags.
 
 ## Dates
 
@@ -868,7 +1096,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `52e6b6cf79c29d8e722d0ffe6f936315df94592169b10a06fa1e2f8956ae21ba` (25869693 bytes).
+- Corpus: sha256 `6547b83f1390e7e0f7b4189406817a726a7426aa93a464afdbbe1e9a8551161a` (34377327 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
