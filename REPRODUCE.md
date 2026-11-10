@@ -65,12 +65,63 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0017-m` | New Hampshire Revised Statutes, Chapter 17-M: Long Range Capital Planning and Utilization Committee (Title I: The State and Its Government) | 1 | 2026-02-02 to 2026-02-02 |
 | `chapter-0019-a` | New Hampshire Revised Statutes, Chapter 19-A: Council on the Arts (Title I: The State and Its Government) | 1 | 2025-08-03 to 2025-08-03 |
 | `chapter-0019-k` | New Hampshire Revised Statutes, Chapter 19-K: Legislative Youth Advisory Council (Title I: The State and Its Government) | 1 | 2025-09-06 to 2025-09-06 |
+| `chapter-0019-p` | New Hampshire Revised Statutes, Chapter 19-P: State Commission on Aging (Title I: The State and Its Government) | 1 | 2025-08-04 to 2025-08-04 |
+| `chapter-0020` | New Hampshire Revised Statutes, Chapter 20: Publication and Distribution of Bills, Joint Resolutions, Legislative Manual, Statutes, Journals, and Reports (Title I: The State and Its Government) | 1 | 2025-04-14 to 2025-04-14 |
+| `chapter-0021` | New Hampshire Revised Statutes, Chapter 21: Statutory Construction (Title I: The State and Its Government) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0021-g` | New Hampshire Revised Statutes, Chapter 21-G: Organization of Executive Branch (Title I: The State and Its Government) | 1 | 2025-05-23 to 2025-05-23 |
+| `chapter-0021-h` | New Hampshire Revised Statutes, Chapter 21-H: Department of Corrections (Title I: The State and Its Government) | 1 | 2024-06-26 to 2024-06-26 |
+| `chapter-0021-i` | New Hampshire Revised Statutes, Chapter 21-I: Department of Administrative Services (Title I: The State and Its Government) | 1 | 2026-03-02 to 2026-03-02 |
+| `chapter-0021-j` | New Hampshire Revised Statutes, Chapter 21-J: Department of Revenue Administration (Title I: The State and Its Government) | 1 | 2026-04-09 to 2026-04-09 |
+| `chapter-0021-l` | New Hampshire Revised Statutes, Chapter 21-L: Department of Transportation (Title I: The State and Its Government) | 1 | 2025-03-23 to 2025-03-23 |
+| `chapter-0021-m` | New Hampshire Revised Statutes, Chapter 21-M: Department of Justice (Title I: The State and Its Government) | 1 | 2025-05-29 to 2025-05-29 |
+| `chapter-0021-n` | New Hampshire Revised Statutes, Chapter 21-N: Department of Education (Title I: The State and Its Government) | 1 | 2025-10-03 to 2025-10-03 |
+| `chapter-0021-o` | New Hampshire Revised Statutes, Chapter 21-O: Department of Environmental Services (Title I: The State and Its Government) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0021-p` | New Hampshire Revised Statutes, Chapter 21-P: Department of Safety (Title I: The State and Its Government) | 1 | 2025-10-20 to 2025-10-20 |
+| `chapter-0021-r` | New Hampshire Revised Statutes, Chapter 21-R: Department of Information Technology (Title I: The State and Its Government) | 1 | 2024-12-26 to 2024-12-26 |
+| `chapter-0021-v` | New Hampshire Revised Statutes, Chapter 21-V: Office of the Child Advocate (Title I: The State and Its Government) | 1 | 2026-07-25 to 2026-07-25 |
+| `chapter-0024` | New Hampshire Revised Statutes, Chapter 24: County Conventions (Title II: Counties) | 1 | 2025-06-05 to 2025-06-05 |
+| `chapter-0027` | New Hampshire Revised Statutes, Chapter 27: Bonds of County Officers (Title II: Counties) | 1 | 2026-08-29 to 2026-08-29 |
+| `chapter-0028` | New Hampshire Revised Statutes, Chapter 28: County Commissioners (Title II: Counties) | 1 | 2026-06-14 to 2026-06-14 |
+| `chapter-0028-a` | New Hampshire Revised Statutes, Chapter 28-A: County Charters (Title II: Counties) | 1 | 2025-05-04 to 2025-05-04 |
+| `chapter-0029-a` | New Hampshire Revised Statutes, Chapter 29-A: Defense and Indemnification of County Officers and Employees (Title II: Counties) | 1 | 2026-07-29 to 2026-07-29 |
+| `chapter-0030` | New Hampshire Revised Statutes, Chapter 30: Annual Reports of County Officers (Title II: Counties) | 1 | 2026-08-08 to 2026-08-08 |
+| `chapter-0030-b` | New Hampshire Revised Statutes, Chapter 30-B: County Departments of Corrections (Title II: Counties) | 1 | 2025-08-27 to 2025-08-27 |
+| `chapter-0031` | New Hampshire Revised Statutes, Chapter 31: Powers and Duties of Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0031-a` | New Hampshire Revised Statutes, Chapter 31-A: Return of Revenue to Cities and Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2024-06-18 to 2024-06-18 |
+| `chapter-0032` | New Hampshire Revised Statutes, Chapter 32: Municipal Budget Law (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0033` | New Hampshire Revised Statutes, Chapter 33: Municipal Finance Act (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-0033-a` | New Hampshire Revised Statutes, Chapter 33-A: Disposition of Municipal Records (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-08-02 to 2026-08-02 |
+| `chapter-0033-b` | New Hampshire Revised Statutes, Chapter 33-B: Municipal Revenue Bonds (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-03-02 to 2026-03-02 |
+| `chapter-0034` | New Hampshire Revised Statutes, Chapter 34: Capital Reserve Funds for Cities (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2022-04-20 to 2022-04-20 |
+| `chapter-0035` | New Hampshire Revised Statutes, Chapter 35: Capital Reserve Funds of Counties, Towns, Districts, and Water Departments (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-11-03 to 2025-11-03 |
+| `chapter-0035-a` | New Hampshire Revised Statutes, Chapter 35-A: New Hampshire Municipal Bond Bank (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-07-02 to 2025-07-02 |
+| `chapter-0035-b` | New Hampshire Revised Statutes, Chapter 35-B: Public Recreation and Parks (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-07-24 to 2025-07-24 |
+| `chapter-0036` | New Hampshire Revised Statutes, Chapter 36: Regional Planning Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-06-02 to 2026-06-02 |
+| `chapter-0036-a` | New Hampshire Revised Statutes, Chapter 36-A: Conservation Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-07-07 to 2026-07-07 |
+| `chapter-0036-b` | New Hampshire Revised Statutes, Chapter 36-B: Interstate Regional Planning Compact (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-04-25 to 2025-04-25 |
+| `chapter-0037` | New Hampshire Revised Statutes, Chapter 37: Town or Village District Managers (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0038` | New Hampshire Revised Statutes, Chapter 38: Municipal Electric, Gas, or Water Systems (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-03-04 to 2026-03-04 |
+| `chapter-0038-a` | New Hampshire Revised Statutes, Chapter 38-A: Municipal Transit Authority (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2024-06-28 to 2024-06-28 |
+| `chapter-0038-c` | New Hampshire Revised Statutes, Chapter 38-C: Boards of Public Works Commissioners (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-04-23 to 2025-04-23 |
+| `chapter-0038-d` | New Hampshire Revised Statutes, Chapter 38-D: Energy Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-04-29 to 2025-04-29 |
+| `chapter-0039` | New Hampshire Revised Statutes, Chapter 39: Time for Holding Town Meetings and Warning Thereof (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-03-23 to 2026-03-23 |
+| `chapter-0040` | New Hampshire Revised Statutes, Chapter 40: Government of Town Meeting (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-04-29 to 2026-04-29 |
+| `chapter-0041` | New Hampshire Revised Statutes, Chapter 41: Choice and Duties of Town Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0042` | New Hampshire Revised Statutes, Chapter 42: Oaths of Town Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-06-18 to 2025-06-18 |
+| `chapter-0043` | New Hampshire Revised Statutes, Chapter 43: Hearings Before Town or Certain Other Local Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0044` | New Hampshire Revised Statutes, Chapter 44: Cities and Wards (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-04-22 to 2025-04-22 |
+| `chapter-0045` | New Hampshire Revised Statutes, Chapter 45: Mayors of Cities (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2025-05-04 to 2025-05-04 |
+| `chapter-0046` | New Hampshire Revised Statutes, Chapter 46: Aldermen and Councilmen (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-07-16 to 2026-07-16 |
+| `chapter-0047` | New Hampshire Revised Statutes, Chapter 47: Powers of City Councils (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0048-a` | New Hampshire Revised Statutes, Chapter 48-A: Housing Standards (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-10-19 to 2026-10-19 |
+| `chapter-0049-b` | New Hampshire Revised Statutes, Chapter 49-B: Home Rule-municipal Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2026-08-12 to 2026-08-12 |
+| `chapter-0049-c` | New Hampshire Revised Statutes, Chapter 49-C: Local Option-city Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places) | 1 | 2024-05-14 to 2024-05-14 |
 
-The build made 51 commits:
+The build made 102 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 51 | first version of an act |
+| 102 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -78,7 +129,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 51 tags.
+- 102 tags.
 
 ## Dates
 
@@ -90,7 +141,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `498884e02be43b38470106966beb078c422503fceb3a26a1e1c03e3da6725de4` (1412751 bytes).
+- Corpus: sha256 `953b63da4e77370dd3de1e947ebb740162cb6d990dff2cc49f0a6a347bc46c9c` (3676254 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -99,8 +150,6 @@ When a law gives no date of its own, the default rule applies: No dated history 
 Not yet run for this build.
 
 No second build of this corpus has been compared yet.
-
-On GitHub this history follows the repository's first commit ("sources, before any law"), so each commit there has that parent and a committer time of its own; `tools/build.py` rebuilds the same files in the same commits, with the hashes quoted above.
 
 ## Decisions made by hand
 

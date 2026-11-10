@@ -714,6 +714,720 @@
      "sha256": "2fa086854dcf94423d8ba50f23f9e4ffe87e2c6319395623c1c41d871a6f3801"
     }
    ]
+  },
+  {
+   "slug": "chapter-0019-p",
+   "short": "RSA 19-P",
+   "title": "New Hampshire Revised Statutes, Chapter 19-P: State Commission on Aging (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-19-P.htm",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250804235031/https://gc.nh.gov/rsa/html/I/19-P/19-P-mrg.htm",
+     "sha256": "a82dc4e18ee0edde8e14fadb97654e3a4d4e6968711d244a627a3998d0d4717c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0020",
+   "short": "RSA 20",
+   "title": "New Hampshire Revised Statutes, Chapter 20: Publication and Distribution of Bills, Joint Resolutions, Legislative Manual, Statutes, Journals, and Reports (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-20.htm",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250414081005/https://gc.nh.gov/rsa/html/I/20/20-mrg.htm",
+     "sha256": "42778e434b18199573f83f7df4f9e81cc595a114647435db002e2b124b5475c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021",
+   "short": "RSA 21",
+   "title": "New Hampshire Revised Statutes, Chapter 21: Statutory Construction (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20250924222607/https://gc.nh.gov/rsa/html/I/21/21-mrg.htm",
+     "sha256": "e1d7077b1b133fe1203558cee4bc05acc714b38da9539031a54c64df8263ad2d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-g",
+   "short": "RSA 21-G",
+   "title": "New Hampshire Revised Statutes, Chapter 21-G: Organization of Executive Branch (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-G.htm",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20250523213232/https://gc.nh.gov/rsa/html/I/21-G/21-G-mrg.htm",
+     "sha256": "3c543f29277c23c7c171eb9856778064511e2d45b099532f010e710f1aa15f44"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-h",
+   "short": "RSA 21-H",
+   "title": "New Hampshire Revised Statutes, Chapter 21-H: Department of Corrections (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-H.htm",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20240626193035/https://www.gencourt.state.nh.us/rsa/html/i/21-H/21-H-mrg.htm",
+     "sha256": "7cdb74ed6997035e2e6ccb87a4122c3e67fd3ad5d7f1999a91e79dfa1e40b3d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-i",
+   "short": "RSA 21-I",
+   "title": "New Hampshire Revised Statutes, Chapter 21-I: Department of Administrative Services (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-I.htm",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20260302233910/https://gc.nh.gov/rsa/html/I/21-I/21-I-mrg.htm",
+     "sha256": "0a75a59a7ba49587cceef4fbb946ae7014cc6fc06ad5f7fc7dde95091c7983d2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-j",
+   "short": "RSA 21-J",
+   "title": "New Hampshire Revised Statutes, Chapter 21-J: Department of Revenue Administration (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-J.htm",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20260409141117/https://www.gc.nh.gov/rsa/html/I/21-J/21-J-mrg.htm",
+     "sha256": "9fad5869afd31e73012dc8ce94aa57e2350874f7eb37871410dce174c3a991d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-l",
+   "short": "RSA 21-L",
+   "title": "New Hampshire Revised Statutes, Chapter 21-L: Department of Transportation (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-L.htm",
+   "versions": [
+    {
+     "from": "2025-03-23",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250323083123/https://gc.nh.gov/rsa/html/I/21-L/21-L-mrg.htm",
+     "sha256": "b2a8987c3f93426e4514e50b7e682b21ff682208e11bd12649b7198938159deb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-m",
+   "short": "RSA 21-M",
+   "title": "New Hampshire Revised Statutes, Chapter 21-M: Department of Justice (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-M.htm",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20250529141151/https://gc.nh.gov/rsa/html/i/21-m/21-m-mrg.htm",
+     "sha256": "d342cfa4c4834a839c5ac419ab426e2873478f1a6b544b099a34c2aaabbe67a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-n",
+   "short": "RSA 21-N",
+   "title": "New Hampshire Revised Statutes, Chapter 21-N: Department of Education (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-N.htm",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20251003081133/https://www.gc.nh.gov/rsa/html/i/21-n/21-n-mrg.htm",
+     "sha256": "f4d47d44ec516993d51e38d25b12c5005b6fadffc3e932a666ab41f905dbcb63"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-o",
+   "short": "RSA 21-O",
+   "title": "New Hampshire Revised Statutes, Chapter 21-O: Department of Environmental Services (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-O.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260429055727/https://gc.nh.gov/rsa/html/I/21-O/21-O-mrg.htm",
+     "sha256": "d42e2c572e37dd6fe166e58b95bbcfaaf4ffb8a4c00159e1624122c4e89d12fb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-p",
+   "short": "RSA 21-P",
+   "title": "New Hampshire Revised Statutes, Chapter 21-P: Department of Safety (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-P.htm",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 104,
+     "source_url": "https://web.archive.org/web/20251020170748/https://gc.nh.gov/rsa/html/i/21-p/21-p-mrg.htm",
+     "sha256": "474613fb1aecce8c91ce817efee8bc70e6d4fe6021e80eb7cfce89d4b2209591"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-r",
+   "short": "RSA 21-R",
+   "title": "New Hampshire Revised Statutes, Chapter 21-R: Department of Information Technology (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-R.htm",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20241226021718/https://www.gencourt.state.nh.us/rsa/html/I/21-R/21-R-mrg.htm",
+     "sha256": "c66aff2d560a3c463a35be27001c4370da1d84c070c3877738dfb5d68037254a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0021-v",
+   "short": "RSA 21-V",
+   "title": "New Hampshire Revised Statutes, Chapter 21-V: Office of the Child Advocate (Title I: The State and Its Government)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-I-21-V.htm",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260725155205/https://gc.nh.gov/rsa/html/I/21-V/21-V-mrg.htm",
+     "sha256": "1cc147a22ca6e835cbf55c81aba7e9ee5ffba2bc05736b94cdb3d5233058db64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0024",
+   "short": "RSA 24",
+   "title": "New Hampshire Revised Statutes, Chapter 24: County Conventions (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-24.htm",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20250605152430/https://gc.nh.gov/rsa/html/II/24/24-mrg.htm",
+     "sha256": "df962ad6c9c4bfe947f009030da0f1de45c61ac5aa880308913f801534da0c87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0027",
+   "short": "RSA 27",
+   "title": "New Hampshire Revised Statutes, Chapter 27: Bonds of County Officers (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-27.htm",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260829102925/https://gc.nh.gov/rsa/html/II/27/27-mrg.htm",
+     "sha256": "b4626cb5ba01f0cb50850c7fbe7d0babe8eda747b0fb9e3a7ea33be9e0606749"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028",
+   "short": "RSA 28",
+   "title": "New Hampshire Revised Statutes, Chapter 28: County Commissioners (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-28.htm",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20260614003550/https://gc.nh.gov/rsa/html/II/28/28-mrg.htm",
+     "sha256": "7bb848e9fbf28c57d06ab2db44e77f728f874bdf8e781dd8d8a3c193d4d87706"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-a",
+   "short": "RSA 28-A",
+   "title": "New Hampshire Revised Statutes, Chapter 28-A: County Charters (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-28-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250504090531/https://gc.nh.gov/rsa/html/II/28-A/28-A-mrg.htm",
+     "sha256": "a63ddbc41bcceaedf6de66e7ce6fb38be72ede8a00a4951ed30ee75c3d99c647"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0029-a",
+   "short": "RSA 29-A",
+   "title": "New Hampshire Revised Statutes, Chapter 29-A: Defense and Indemnification of County Officers and Employees (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-29-A.htm",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260729125901/https://gc.nh.gov/rsa/html/II/29-A/29-A-mrg.htm",
+     "sha256": "f4812129c24a449ba697e41e09c2540871c7ed9377dfe270aae511d2ecb094cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0030",
+   "short": "RSA 30",
+   "title": "New Hampshire Revised Statutes, Chapter 30: Annual Reports of County Officers (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-30.htm",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260808143629/https://gc.nh.gov/rsa/html/II/30/30-mrg.htm",
+     "sha256": "b1d1f165e8b6f7972e8aa87558e9ab1a5173395fa69ce599323899c99f5eea5b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0030-b",
+   "short": "RSA 30-B",
+   "title": "New Hampshire Revised Statutes, Chapter 30-B: County Departments of Corrections (Title II: Counties)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-II-30-B.htm",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250827104935/https://gc.nh.gov/rsa/html/II/30-B/30-B-mrg.htm",
+     "sha256": "f2bd958a7b698a039784437d72b7ee7f1871058ff92d2339e28f5a971fe760d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031",
+   "short": "RSA 31",
+   "title": "New Hampshire Revised Statutes, Chapter 31: Powers and Duties of Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-31.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 167,
+     "source_url": "https://web.archive.org/web/20261029062552/https://gc.nh.gov/rsa/html/III/31/31-mrg.htm",
+     "sha256": "8d750e1e6a400c1c18e59eb0b65288c3785ea4aeda2000c05fa49198b5a154f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-a",
+   "short": "RSA 31-A",
+   "title": "New Hampshire Revised Statutes, Chapter 31-A: Return of Revenue to Cities and Towns (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-31-A.htm",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240618212300/https://gencourt.state.nh.us/rsa/html/III/31-A/31-A-mrg.htm",
+     "sha256": "7c57a6d949dd7bd4a841d71bfd54e77293ab87250b5ae2825baf47d9d2adcf4f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0032",
+   "short": "RSA 32",
+   "title": "New Hampshire Revised Statutes, Chapter 32: Municipal Budget Law (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-32.htm",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20251101222349/https://gc.nh.gov/rsa/html/III/32/32-mrg.htm",
+     "sha256": "f524b5b1c6bbef6483992a85322c049fa1df24c096ec3ed51076821c6df1bb7d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0033",
+   "short": "RSA 33",
+   "title": "New Hampshire Revised Statutes, Chapter 33: Municipal Finance Act (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-33.htm",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261008045653/https://gc.nh.gov/rsa/html/III/33/33-mrg.htm",
+     "sha256": "e0ea690bbe25dac4ffff79cff980ea54636a7d1810ac9fac3e0b3daf63101774"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0033-a",
+   "short": "RSA 33-A",
+   "title": "New Hampshire Revised Statutes, Chapter 33-A: Disposition of Municipal Records (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-33-A.htm",
+   "versions": [
+    {
+     "from": "2026-08-02",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260802162737/https://gc.nh.gov/rsa/html/III/33-A/33-A-mrg.htm",
+     "sha256": "2a633a6167d663b4f0432c36ccd804b5b743203a08fa7f9ed9380bc519766733"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0033-b",
+   "short": "RSA 33-B",
+   "title": "New Hampshire Revised Statutes, Chapter 33-B: Municipal Revenue Bonds (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-33-B.htm",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260302074922/https://gc.nh.gov/rsa/html/III/33-B/33-B-mrg.htm",
+     "sha256": "58b7f36fc285e634af3c692f9c280bab9be016bd06ff35e844a551413bfd4605"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0034",
+   "short": "RSA 34",
+   "title": "New Hampshire Revised Statutes, Chapter 34: Capital Reserve Funds for Cities (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-34.htm",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20220420001253/https://gencourt.state.nh.us/rsa/html/III/34/34-mrg.htm",
+     "sha256": "00c88bcfcfe0e6d9f2dcb3944d7d463ce00291132b533837a40959fc4a865c98"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0035",
+   "short": "RSA 35",
+   "title": "New Hampshire Revised Statutes, Chapter 35: Capital Reserve Funds of Counties, Towns, Districts, and Water Departments (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-35.htm",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20251103141321/https://gc.nh.gov/rsa/html/III/35/35-mrg.htm",
+     "sha256": "052200b717f6dfec3f2a673ac05a0c0764441662df55732d2d561c08eb685390"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0035-a",
+   "short": "RSA 35-A",
+   "title": "New Hampshire Revised Statutes, Chapter 35-A: New Hampshire Municipal Bond Bank (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-35-A.htm",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20250702095016/https://gc.nh.gov/rsa/html/III/35-A/35-A-mrg.htm",
+     "sha256": "3c09155f1e35ffcad68c2cb6b204a206cf9944b905f9d4fc744244e2cf2e95f4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0035-b",
+   "short": "RSA 35-B",
+   "title": "New Hampshire Revised Statutes, Chapter 35-B: Public Recreation and Parks (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-35-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250724231249/https://gc.nh.gov/rsa/html/III/35-B/35-B-mrg.htm",
+     "sha256": "cc168cbe12b417a418c281d37e0cb403a70afcc90a112ea6b846e8bde1287bf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0036",
+   "short": "RSA 36",
+   "title": "New Hampshire Revised Statutes, Chapter 36: Regional Planning Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-36.htm",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260602230043/https://gc.nh.gov/rsa/html/III/36/36-mrg.htm",
+     "sha256": "ac77b7b7a99cf1ad37e5407f22c15e7544e1496d7fda1ce08a97338edef259a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0036-a",
+   "short": "RSA 36-A",
+   "title": "New Hampshire Revised Statutes, Chapter 36-A: Conservation Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-36-A.htm",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260707193530/https://gc.nh.gov/rsa/html/III/36-A/36-A-mrg.htm",
+     "sha256": "4b6e848914d1b2c6eb7c34d778636823dfff2ce31280b186a175df380f613cb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0036-b",
+   "short": "RSA 36-B",
+   "title": "New Hampshire Revised Statutes, Chapter 36-B: Interstate Regional Planning Compact (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-36-B.htm",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250425020637/https://gc.nh.gov/rsa/html/III/36-B/36-B-mrg.htm",
+     "sha256": "98e77fcc0e6183caf80e38f332aa91f7129422a51f0490ba9c57537051be6e85"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0037",
+   "short": "RSA 37",
+   "title": "New Hampshire Revised Statutes, Chapter 37: Town or Village District Managers (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-37.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260429150033/https://gc.nh.gov/rsa/html/iii/37/37-mrg.htm",
+     "sha256": "09c4ef0bff958df2663c50b74790a02cf9c4f0eedf06b14c237af192b8fc17e6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0038",
+   "short": "RSA 38",
+   "title": "New Hampshire Revised Statutes, Chapter 38: Municipal Electric, Gas, or Water Systems (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-38.htm",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260304093903/https://gc.nh.gov/rsa/html/III/38/38-mrg.htm",
+     "sha256": "f0432cdf5c6350e98bb0e5825967f342bab223646bab2285651b6c95f38c3a9c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0038-a",
+   "short": "RSA 38-A",
+   "title": "New Hampshire Revised Statutes, Chapter 38-A: Municipal Transit Authority (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-38-A.htm",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20240628004806/https://www.gencourt.state.nh.us/rsa/html/iii/38-a/38-a-mrg.htm",
+     "sha256": "3d73e8977e3d5e74df22331bd4a969656d4533aa3f1fe8b5869bb75633040274"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0038-c",
+   "short": "RSA 38-C",
+   "title": "New Hampshire Revised Statutes, Chapter 38-C: Boards of Public Works Commissioners (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-38-C.htm",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250423160930/https://gc.nh.gov/rsa/html/III/38-C/38-C-mrg.htm",
+     "sha256": "4ae6209c3f08295a2f09acfa1884cbb1732cc7ef4019b7b73192ce9b0828068e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0038-d",
+   "short": "RSA 38-D",
+   "title": "New Hampshire Revised Statutes, Chapter 38-D: Energy Commissions (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-38-D.htm",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250429163610/https://gc.nh.gov/rsa/html/III/38-D/38-D-mrg.htm",
+     "sha256": "ad9dec3fc0d6726875a320cbbad0711f54b7fcdc2dc218993efd3723eb0ac00a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0039",
+   "short": "RSA 39",
+   "title": "New Hampshire Revised Statutes, Chapter 39: Time for Holding Town Meetings and Warning Thereof (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-39.htm",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260323005934/https://gc.nh.gov/rsa/html/III/39/39-mrg.htm",
+     "sha256": "76457eaf4c83a735297d29995f75ce2165926a1b33f3fd834e01db87a9d3d1b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040",
+   "short": "RSA 40",
+   "title": "New Hampshire Revised Statutes, Chapter 40: Government of Town Meeting (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-40.htm",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260429051216/https://gc.nh.gov/rsa/html/iii/40/40-mrg.htm",
+     "sha256": "45be4cf9d5a667da605257f66874b98cebe4a7ba1139c851873f8dd68536ddba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0041",
+   "short": "RSA 41",
+   "title": "New Hampshire Revised Statutes, Chapter 41: Choice and Duties of Town Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-41.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 115,
+     "source_url": "https://web.archive.org/web/20261029062615/https://gc.nh.gov/rsa/html/III/41/41-mrg.htm",
+     "sha256": "44de719addca2cb74cc10610d3621963bbf75cfba2e86820f2ec7ff768b14d45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042",
+   "short": "RSA 42",
+   "title": "New Hampshire Revised Statutes, Chapter 42: Oaths of Town Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-42.htm",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250618204125/https://gc.nh.gov/rsa/html/III/42/42-mrg.htm",
+     "sha256": "1f26984cb33df05d8a89310c552ef8432ad64496ec6d85f0662d61884bba5a4d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0043",
+   "short": "RSA 43",
+   "title": "New Hampshire Revised Statutes, Chapter 43: Hearings Before Town or Certain Other Local Officers (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-43.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525110935/http://gencourt.state.nh.us/rsa/html/III/43/43-mrg.htm",
+     "sha256": "7b82c84ef5c5dc29927778fa701e47308df227fdc0d0cc5107c4d46a5e5b1567"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044",
+   "short": "RSA 44",
+   "title": "New Hampshire Revised Statutes, Chapter 44: Cities and Wards (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-44.htm",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20250422202154/https://gc.nh.gov/rsa/html/III/44/44-mrg.htm",
+     "sha256": "e090e8c08436386f59e2a005a87247c04a42acc7cbc60e59aac1f407a1f0b9e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0045",
+   "short": "RSA 45",
+   "title": "New Hampshire Revised Statutes, Chapter 45: Mayors of Cities (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-45.htm",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250504014212/https://gc.nh.gov/rsa/html/III/45/45-mrg.htm",
+     "sha256": "7fb876851f3b7e268b46407d0c6ce7813f3b56f97bb423a2b5909e455c1811d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046",
+   "short": "RSA 46",
+   "title": "New Hampshire Revised Statutes, Chapter 46: Aldermen and Councilmen (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-46.htm",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260716143921/https://gc.nh.gov/rsa/html/III/46/46-mrg.htm",
+     "sha256": "a60e342efa8a90027402b7d212ab46c136d381e8293d0b0420058b4502fe7d5b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0047",
+   "short": "RSA 47",
+   "title": "New Hampshire Revised Statutes, Chapter 47: Powers of City Councils (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-47.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261029062612/https://gc.nh.gov/rsa/html/III/47/47-mrg.htm",
+     "sha256": "063ced9a0fba157481c64c47b8938dae0d75fd24da6974fc3b1cf97dde02c911"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0048-a",
+   "short": "RSA 48-A",
+   "title": "New Hampshire Revised Statutes, Chapter 48-A: Housing Standards (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-48-A.htm",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261019090436/https://gc.nh.gov/rsa/html/III/48-A/48-A-mrg.htm",
+     "sha256": "f618e5ae815f8975448ed3d413c820fe8b92c58fd50cdbdb79600b4aef1b7ab1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0049-b",
+   "short": "RSA 49-B",
+   "title": "New Hampshire Revised Statutes, Chapter 49-B: Home Rule-municipal Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-49-B.htm",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260812050209/https://gc.nh.gov/rsa/html/III/49-B/49-B-mrg.htm",
+     "sha256": "7c6598f45b42673f28a7956db398b14dc6a8203ef42856d6eac8d46aa1228a30"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0049-c",
+   "short": "RSA 49-C",
+   "title": "New Hampshire Revised Statutes, Chapter 49-C: Local Option-city Charters (Title III: Towns, Cities, Village Districts, and Unincorporated Places)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-III-49-C.htm",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20240514000720/https://gencourt.state.nh.us/rsa/html/III/49-C/49-C-mrg.htm",
+     "sha256": "77c815849dac0374a0021680cc12188994a15e584d7e15a4560ba13765a1e2fc"
+    }
+   ]
   }
  ]
 }

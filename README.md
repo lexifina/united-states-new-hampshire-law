@@ -6,7 +6,7 @@ The law of New Hampshire as a git history: one file per provision, with `git bla
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `chapter-NNNN/` | New Hampshire Revised Statutes: 51 of the 1778 chapters in the title tables of contents | 1 | 1114 sections; each chapter dated by the day of the capture read (2026: 19, 2025: 18, 2024: 6, 2023: 4, 2022: 3, 2021: 1 chapters) |
+| `chapter-NNNN/` | New Hampshire Revised Statutes: 102 of the 1778 chapters in the title tables of contents | 1 | 2770 sections; each chapter dated by the day of the capture read (2026: 42, 2025: 39, 2024: 11, 2023: 4, 2022: 5, 2021: 1 chapters) |
 
 Only the section headings, the statute text and each section's "Source." note are taken.
 
@@ -24,4 +24,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-51 of the 1778 chapters listed in the title tables of contents are included. Left out: no capture since 2020 (50); no sections (7); not fetched yet (1670). The New Hampshire Constitution, session laws and administrative rules are not included. There is no history before the dates above.
+102 of the 1778 chapters listed in the title tables of contents are included. Left out: no capture since 2020 (72); no sections (12); not fetched yet (1592). The New Hampshire Constitution, session laws and administrative rules are not included. There is no history before the dates above.
