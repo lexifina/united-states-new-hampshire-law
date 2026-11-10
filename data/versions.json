@@ -2394,6 +2394,804 @@
      "sha256": "a3307c961cc0da3a9a35cea4a9eada21ed35d11e55f3ec518390bfc8d5964e26"
     }
    ]
+  },
+  {
+   "slug": "chapter-0500-a",
+   "short": "RSA 500-A",
+   "title": "New Hampshire Revised Statutes, Chapter 500-A: Jurors (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-500-A.htm",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260605170349/https://gc.nh.gov/rsa/html/LI/500-A/500-A-mrg.htm",
+     "sha256": "3ee70a08a94ce20bb2fbca568070357eaa0a6f9566cc1aa6b4f95e8f9d1aaa20"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0501-a",
+   "short": "RSA 501-A",
+   "title": "New Hampshire Revised Statutes, Chapter 501-A: Fees for Justices of the Peace and Municipal Court Clerks (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-501-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250506110056/https://gc.nh.gov/rsa/html/LI/501-A/501-A-mrg.htm",
+     "sha256": "52515116bdac1524ce724fc81e6d1840a418645969e56c3ae3d99280bd8e52dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0502-a",
+   "short": "RSA 502-A",
+   "title": "New Hampshire Revised Statutes, Chapter 502-A: District Courts (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-502-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20260106142714/https://www.gc.nh.gov/rsa/html/li/502-a/502-a-mrg.htm",
+     "sha256": "68404101554f15eac405bd4f35558bf88cd632cac2d8c723501e637ddeeef498"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0503",
+   "short": "RSA 503",
+   "title": "New Hampshire Revised Statutes, Chapter 503: Litigation of Small Claims (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-503.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250924221801/https://gc.nh.gov/rsa/html/LI/503/503-mrg.htm",
+     "sha256": "dfe2b4c87302cbe67277c49481bda5f4f70d8b8d6e8c3940a1ea24120f95d44c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0504-a",
+   "short": "RSA 504-A",
+   "title": "New Hampshire Revised Statutes, Chapter 504-A: Probationers and Parolees (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-504-A.htm",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250511102107/https://gc.nh.gov/rsa/html/LI/504-A/504-A-mrg.htm",
+     "sha256": "a82b12f94d70ccca45389f134ada6f37f41348bd80f0c9acfe058e9975aabfdf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0505",
+   "short": "RSA 505",
+   "title": "New Hampshire Revised Statutes, Chapter 505: The State Reporter and Reports (Title LI: Courts)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LI-505.htm",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250507062843/https://gc.nh.gov/rsa/html/LI/505/505-mrg.htm",
+     "sha256": "3289fd0a32efe1efa6b68ad5b9933fe3dda397f2032751fd19eae41957037e7a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0506",
+   "short": "RSA 506",
+   "title": "New Hampshire Revised Statutes, Chapter 506: Prevention of Frauds and Perjuries (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-506.htm",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20211203190234/http://www.gencourt.state.nh.us/rsa/html/lii/506/506-mrg.htm",
+     "sha256": "2925b0e8c2df2c0788500f0f6500f85164e94139239828f9ede5126754d779e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507",
+   "short": "RSA 507",
+   "title": "New Hampshire Revised Statutes, Chapter 507: Actions (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507.htm",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260908061550/https://gc.nh.gov/rsa/html/LII/507/507-mrg.htm",
+     "sha256": "071f0223ea9d10a00165839ede454e341d636c8f17f5e6eec08764128b6a72fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-a",
+   "short": "RSA 507-A",
+   "title": "New Hampshire Revised Statutes, Chapter 507-A: Defamation by Radio or Television (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-A.htm",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220627073656/http://www.gencourt.state.nh.us/rsa/html/LII/507-A/507-A-mrg.htm",
+     "sha256": "b2a1b4a4c1c3b14d6ec53b1e34ad16f206dadfe63abe588cec0a1fd632d656db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-b",
+   "short": "RSA 507-B",
+   "title": "New Hampshire Revised Statutes, Chapter 507-B: Bodily Injury Actions Against Governmental Units (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-B.htm",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261019092355/https://gc.nh.gov/rsa/html/LII/507-B/507-B-mrg.htm",
+     "sha256": "f648ee68ac0d29d70e9dd19b5234363cc8a14f4046402bd8c7a79057e53adfa2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-c",
+   "short": "RSA 507-C",
+   "title": "New Hampshire Revised Statutes, Chapter 507-C: Actions for Medical Injury (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220527185822/http://gencourt.state.nh.us/rsa/html/LII/507-C/507-C-mrg.htm",
+     "sha256": "9bc9036749612aac681cdd469b1cd2b31a057e62c786dd3ebe23c069a1dc6d43"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-d",
+   "short": "RSA 507-D",
+   "title": "New Hampshire Revised Statutes, Chapter 507-D: Product Liability Actions (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-D.htm",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250924221935/https://gc.nh.gov/rsa/html/LII/507-D/507-D-mrg.htm",
+     "sha256": "775db2462498b7dabf40177362f328497d6421688c7320017e6433e7151ae57e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-e",
+   "short": "RSA 507-E",
+   "title": "New Hampshire Revised Statutes, Chapter 507-E: Medical Injury Actions (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-E.htm",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251212024412/https://gc.nh.gov/rsa/html/lii/507-E/507-E-mrg.htm",
+     "sha256": "cb6981a775641225724521f83acd1579f2c40e8a48777562059a68147f4a060e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-f",
+   "short": "RSA 507-F",
+   "title": "New Hampshire Revised Statutes, Chapter 507-F: Alcoholic Beverage Licensee Liability (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-F.htm",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220401010129/http://www.gencourt.state.nh.us/rsa/html/lii/507-F/507-F-mrg.htm",
+     "sha256": "cf5fab6192edbe9fded9d4b2b6479677b11ebc42fac11b7aa17ab8b24ca81d1c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-g",
+   "short": "RSA 507-G",
+   "title": "New Hampshire Revised Statutes, Chapter 507-G: Frivolous Actions Against Teachers and Other Education Employees (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-G.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220517001807/http://gencourt.state.nh.us/rsa/html/LII/507-G/507-G-mrg.htm",
+     "sha256": "f936d67d02e88a4638f1daae4e400e455263e02aaadf2f3c0dce483d215d1261"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0507-h",
+   "short": "RSA 507-H",
+   "title": "New Hampshire Revised Statutes, Chapter 507-H: Expectation of Privacy (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-507-H.htm",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260929211236/https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm",
+     "sha256": "5046ff8bbe275d5cb719bdc61042aab14bd892110ba415934a28f74b55cd7a75"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0508",
+   "short": "RSA 508",
+   "title": "New Hampshire Revised Statutes, Chapter 508: Limitation of Actions (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-508.htm",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260810201443/https://gc.nh.gov/rsa/html/LII/508/508-mrg.htm",
+     "sha256": "748a7c089b34f6dcdde54eb2c0bbc0e6b317e105a670fa9baeb5156e631adae2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0509",
+   "short": "RSA 509",
+   "title": "New Hampshire Revised Statutes, Chapter 509: Writs and Their Indorsement (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-509.htm",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250131111732/https://gc.nh.gov/rsa/html/lii/509/509-mrg.htm",
+     "sha256": "aae05eda0c422cf3a22e557a273b7700fb37dd7b76fc37b366c345980d0629d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0510",
+   "short": "RSA 510",
+   "title": "New Hampshire Revised Statutes, Chapter 510: Service of Writs (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-510.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20220516144355/http://gencourt.state.nh.us/rsa/html/LII/510/510-mrg.htm",
+     "sha256": "d0be3ba837f2abb01926268508081d391819077955796d68823043158e3c03b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0511",
+   "short": "RSA 511",
+   "title": "New Hampshire Revised Statutes, Chapter 511: Attachments (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-511.htm",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20220420210352/http://www.gencourt.state.nh.us/rsa/html/LII/511/511-mrg.htm",
+     "sha256": "451ebd03bf7eb1cc55db9dd521cedb26119fb5ed502b495875e0049b432a0b7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0511-a",
+   "short": "RSA 511-A",
+   "title": "New Hampshire Revised Statutes, Chapter 511-A: Pre-judgment Attachment Procedure (Title LII: Actions, Process, and Service of Process)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LII-511-A.htm",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260305121253/https://gc.nh.gov/rsa/html/LII/511-A/511-A-mrg.htm",
+     "sha256": "dd5bbd26673543dae4d353da279e2245fa1e51ba038e6cc677b6804127b3ad00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0516",
+   "short": "RSA 516",
+   "title": "New Hampshire Revised Statutes, Chapter 516: Witnesses (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-516.htm",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260205061955/https://gc.nh.gov/rsa/html/LIII/516/516-mrg.htm",
+     "sha256": "79c38712380182a0b752a817ebafd1745f089031c6eb5fd90eeee43595594ced"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0517-a",
+   "short": "RSA 517-A",
+   "title": "New Hampshire Revised Statutes, Chapter 517-A: Uniform Foreign Depositions Law (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-517-A.htm",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260226173816/https://gc.nh.gov/rsa/html/LIII/517-A/517-A-mrg.htm",
+     "sha256": "348493fcfa11792787a3e3ba12c3b59071db7e88685ac2982223a745a0160fb3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0519",
+   "short": "RSA 519",
+   "title": "New Hampshire Revised Statutes, Chapter 519: Auditors, Referees, and Trials (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-519.htm",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20250916072721/https://gc.nh.gov/rsa/html/liii/519/519-mrg.htm",
+     "sha256": "77e0fa34f815d51ee1ed59fe3a557964cd5137ab2542f8424572e3dc9da910a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0521-a",
+   "short": "RSA 521-A",
+   "title": "New Hampshire Revised Statutes, Chapter 521-A: Interpreters for the Deaf (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-521-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-18",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20240518191312/https://www.gencourt.state.nh.us/rsa/html/liii/521-a/521-a-mrg.htm",
+     "sha256": "4221f926080f31d716c883cb9e38f600582d391afa8a6d18ee6cccd0db167c26"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0522",
+   "short": "RSA 522",
+   "title": "New Hampshire Revised Statutes, Chapter 522: Blood Test to Determine Paternity (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-522.htm",
+   "versions": [
+    {
+     "from": "2022-12-02",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20221202134156/http://www.gencourt.state.nh.us/rsa/html/liii/522/522-mrg.htm",
+     "sha256": "92702502181eff513b417db5357d7479c50695aab176b75d5917595f5af3a527"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0524",
+   "short": "RSA 524",
+   "title": "New Hampshire Revised Statutes, Chapter 524: Judgments (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-524.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20220522203447/http://gencourt.state.nh.us/rsa/html/LIII/524/524-mrg.htm",
+     "sha256": "cc154b6bb01380c9c75ab010ba2b3d9089e1ce313242020085043add1e4c43bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0525-a",
+   "short": "RSA 525-A",
+   "title": "New Hampshire Revised Statutes, Chapter 525-A: Civil Legal Assistance (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-525-A.htm",
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260106051840/https://gc.nh.gov/rsa/html/LIII/525-A/525-A-mrg.htm",
+     "sha256": "a82e9df4d01bd5e10d82edb9f105dcb7aa3aac4e5c12169bd1be417c60844fa5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0526",
+   "short": "RSA 526",
+   "title": "New Hampshire Revised Statutes, Chapter 526: New Trials (Title LIII: Proceedings in Court)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIII-526.htm",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20221128051723/http://www.gencourt.state.nh.us/rsa/html/LIII/526/526-mrg.htm",
+     "sha256": "6401ede154e56e785cf858d73f6a0142a45d38121291352c41a156ebe05a9cd3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0527",
+   "short": "RSA 527",
+   "title": "New Hampshire Revised Statutes, Chapter 527: Executions (Title LIV: Executions, Levies, Bail, and the Relief of Poor Debtors)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIV-527.htm",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250414202324/https://gc.nh.gov/rsa/html/LIV/527/527-mrg.htm",
+     "sha256": "d4cb607df6fb88cf4c577a72e402d206c626ecbfab4b3fec0186ac4f48a9a330"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0529",
+   "short": "RSA 529",
+   "title": "New Hampshire Revised Statutes, Chapter 529: Levy of Executions on Real Estate (Title LIV: Executions, Levies, Bail, and the Relief of Poor Debtors)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIV-529.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20220524035211/http://gencourt.state.nh.us/rsa/html/LIV/529/529-mrg.htm",
+     "sha256": "6811f914a7b2cf022198ec404f0b020d8fd69cf05728a19e0bd0409117124194"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0592-a",
+   "short": "RSA 592-A",
+   "title": "New Hampshire Revised Statutes, Chapter 592-A: Jurisdiction and Procedure Generally (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-592-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20220517072857/http://gencourt.state.nh.us/rsa/html/LIX/592-A/592-A-mrg.htm",
+     "sha256": "b332e9a829cf2a84881ecdaa412d572edea5a6c5716ee89c90ec2ab436033107"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0592-b",
+   "short": "RSA 592-B",
+   "title": "New Hampshire Revised Statutes, Chapter 592-B: Criminal Procedure in Superior Court (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-592-B.htm",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250725150715/https://gc.nh.gov/rsa/html/LIX/592-B/592-B-mrg.htm",
+     "sha256": "759ed899d0168c1a723059e4d0d68e776ac9afe530ded08b19fb614af20a7345"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0593",
+   "short": "RSA 593",
+   "title": "New Hampshire Revised Statutes, Chapter 593: Fingerprinting and Measuring (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-593.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20220522163532/http://gencourt.state.nh.us/rsa/html/LIX/593/593-mrg.htm",
+     "sha256": "2c02da2cc69d4369c6d3f27984176829500860d07ff9bdbb655ee3cf6c370786"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0594",
+   "short": "RSA 594",
+   "title": "New Hampshire Revised Statutes, Chapter 594: Arrests in Criminal Cases (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-594.htm",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20250326104512/https://gc.nh.gov/rsa/html/LIX/594/594-mrg.htm",
+     "sha256": "26b0c91a2c83d945ab81459a989ed0c9fd336f121a8ea21d899f073c3bff0cf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0595-a",
+   "short": "RSA 595-A",
+   "title": "New Hampshire Revised Statutes, Chapter 595-A: Search Warrants (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-595-A.htm",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20240515151047/https://gencourt.state.nh.us/rsa/html/LIX/595-A/595-A-mrg.htm",
+     "sha256": "97a25d7d14e775bc896486c26f47a0717858e92373dff68bf80995cd45726582"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0595-b",
+   "short": "RSA 595-B",
+   "title": "New Hampshire Revised Statutes, Chapter 595-B: Administrative Inspection Warrants (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-595-B.htm",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260207002321/https://gc.nh.gov/rsa/html/LIX/595-B/595-B-mrg.htm",
+     "sha256": "65bec42cf2133ce3689fa137d60c28c80f33e093fef0e548caa18a74467ed2f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0595-c",
+   "short": "RSA 595-C",
+   "title": "New Hampshire Revised Statutes, Chapter 595-C: Eyewitness Identification Policy (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-595-C.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516214807/http://gencourt.state.nh.us/rsa/html/LIX/595-C/595-C-mrg.htm",
+     "sha256": "27dcd0fd0af2386831d9ae3a59a37190f4708d949b1a6507aa739d76ad9639ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0596-a",
+   "short": "RSA 596-A",
+   "title": "New Hampshire Revised Statutes, Chapter 596-A: Preliminary Examinations (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-596-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220516212546/http://gencourt.state.nh.us/rsa/html/LIX/596-A/596-A-mrg.htm",
+     "sha256": "bfe8fe742d34f4a743aab45cb01ad9e99a9e56f5c4d339fe8fc0a4b4f60d4c91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0597",
+   "short": "RSA 597",
+   "title": "New Hampshire Revised Statutes, Chapter 597: Bail and Recognizances (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-597.htm",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20260211164012/https://gc.nh.gov/rsa/html/LIX/597/597-mrg.htm",
+     "sha256": "b125011b4ac0a8755c9f4bde88919f2bfdb9353fc62a5f63d204160fe4613459"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0598-a",
+   "short": "RSA 598-A",
+   "title": "New Hampshire Revised Statutes, Chapter 598-A: Professional Bondsmen (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-598-A.htm",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20220808141724/http://www.gencourt.state.nh.us/rsa/html/LIX/598-A/598-A-mrg.htm",
+     "sha256": "01576389fd5ca6d3994c917a80b16dd46f613c7f63782f38513ec0243c3a9622"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0599",
+   "short": "RSA 599",
+   "title": "New Hampshire Revised Statutes, Chapter 599: Appeals from Convictions in Circuit Court (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-599.htm",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260127222438/https://gc.nh.gov/rsa/html/LIX/599/599-mrg.htm",
+     "sha256": "ec5f003c6aecda96d6010cfed4d69b076591e0c106c189c42ee80b2e80fe10b1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0600",
+   "short": "RSA 600",
+   "title": "New Hampshire Revised Statutes, Chapter 600: Grand Juries (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-600.htm",
+   "versions": [
+    {
+     "from": "2022-05-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20220522174337/http://gencourt.state.nh.us/rsa/html/LIX/600/600-mrg.htm",
+     "sha256": "19c8e853011e0bf12cac241673e2dfcff823e2fb144e2ab0f9dc0b60b9838221"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0600-a",
+   "short": "RSA 600-A",
+   "title": "New Hampshire Revised Statutes, Chapter 600-A: Multicounty Grand Juries (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-600-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220525092041/http://gencourt.state.nh.us/rsa/html/LIX/600-A/600-A-mrg.htm",
+     "sha256": "f3d5aec93cf32fe3e3810eca7f3eed049c77c2d74c7c00d764a3d94601aac231"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0600-b",
+   "short": "RSA 600-B",
+   "title": "New Hampshire Revised Statutes, Chapter 600-B: Multicounty Grand Juries (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-600-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20220528154829/http://gencourt.state.nh.us/rsa/html/LIX/600-B/600-B-mrg.htm",
+     "sha256": "5b469b5c8f0c49442659316596ddac47edfa90c83e19072c23dc19bdd2107cb3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0601",
+   "short": "RSA 601",
+   "title": "New Hampshire Revised Statutes, Chapter 601: Indictments, Informations, and Complaints (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-601.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260121005650/https://gc.nh.gov/rsa/html/LIX/601/601-mrg.htm",
+     "sha256": "7937e505fe7aea6fdc7742864c24bcc5e98f107621e11d6a5dd417b2ee654ba8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0602",
+   "short": "RSA 602",
+   "title": "New Hampshire Revised Statutes, Chapter 602: Venue (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-602.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516230956/http://gencourt.state.nh.us/rsa/html/LIX/602/602-mrg.htm",
+     "sha256": "a7bcd960a7e3605f73b534dc791d972a5007d11398e55db0960945e613c75502"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0603",
+   "short": "RSA 603",
+   "title": "New Hampshire Revised Statutes, Chapter 603: Limitation of Prosecutions (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-603.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20220516230855/http://gencourt.state.nh.us/rsa/html/LIX/603/603-mrg.htm",
+     "sha256": "13a6ac6d34847e8390fd911aca53e035b9d14d3b55afedbe2a1bcd22f96afabc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0604",
+   "short": "RSA 604",
+   "title": "New Hampshire Revised Statutes, Chapter 604: Rights of Accused (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-604.htm",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220517013848/http://gencourt.state.nh.us/rsa/html/LIX/604/604-mrg.htm",
+     "sha256": "81c9db9e4ac4434b578955dac3d32f31d6976929d6ec8e70811c243ec1c67fc6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0604-a",
+   "short": "RSA 604-A",
+   "title": "New Hampshire Revised Statutes, Chapter 604-A: Adequate Representation for Indigent Defendants in Criminal Cases (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-604-A.htm",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20220930025008/https://gencourt.state.nh.us/rsa/html/LIX/604-A/604-A-mrg.htm",
+     "sha256": "7195feb961c0e9821385e52f20c3187ddcb2d7f7438680f8158bb0801a382b35"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0604-b",
+   "short": "RSA 604-B",
+   "title": "New Hampshire Revised Statutes, Chapter 604-B: Public Defender Program (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-604-B.htm",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20220528173708/http://gencourt.state.nh.us/rsa/html/LIX/604-B/604-B-mrg.htm",
+     "sha256": "bf18c8caf4c0f6dfc1c737ed7235e8b1d2b31848bddac02a5eb177d346e6aaf4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0605",
+   "short": "RSA 605",
+   "title": "New Hampshire Revised Statutes, Chapter 605: Pleas and Refusal to Plead (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-605.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220524160933/http://gencourt.state.nh.us/rsa/html/LIX/605/605-mrg.htm",
+     "sha256": "cf9f20520542a54f92fedd12cb19549b0d9daec8b1781ff8ad7e2f549def64d8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0606",
+   "short": "RSA 606",
+   "title": "New Hampshire Revised Statutes, Chapter 606: Trial (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-606.htm",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220527191859/http://gencourt.state.nh.us/rsa/html/LIX/606/606-mrg.htm",
+     "sha256": "908068b61d37470c412842044ca2ae35a710c214487535497f067342728916d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0606-a",
+   "short": "RSA 606-A",
+   "title": "New Hampshire Revised Statutes, Chapter 606-A: Agreement on Detainers (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-606-A.htm",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20220524152652/http://gencourt.state.nh.us/rsa/html/LIX/606-A/606-A-mrg.htm",
+     "sha256": "8bc7d69a00adf008a7729e0fe1a7f1eeb0858464fb796fedbcc999e639f4eead"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0607-a",
+   "short": "RSA 607-A",
+   "title": "New Hampshire Revised Statutes, Chapter 607-A: Uniform Act on Status of Convicted Persons (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-607-A.htm",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250429215346/https://gc.nh.gov/rsa/html/LIX/607-A/607-A-mrg.htm",
+     "sha256": "7ce6c72e93bce2e1c3092b0c77b884dbd10356c28e68220f5ae9f70868447ec8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0608",
+   "short": "RSA 608",
+   "title": "New Hampshire Revised Statutes, Chapter 608: Surety of the Peace (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-608.htm",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20220523181533/http://gencourt.state.nh.us/rsa/html/LIX/608/608-mrg.htm",
+     "sha256": "9aafb0456101e420e6d22d0d1aab308632ec31537b2ebcb3f09fd4f58c35ea16"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0610",
+   "short": "RSA 610",
+   "title": "New Hampshire Revised Statutes, Chapter 610: Rewards and Compensations to Prosecutors (Title LIX: Proceedings in Criminal Cases)",
+   "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LIX-610.htm",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220516211254/http://gencourt.state.nh.us/rsa/html/LIX/610/610-mrg.htm",
+     "sha256": "49db0fcafaeb8c2c6fdbeb5810e7b98b703b736601d45f6fd43a0fcce4ab9232"
+    }
+   ]
   }
  ]
 }

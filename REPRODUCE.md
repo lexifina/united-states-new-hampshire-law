@@ -185,12 +185,69 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0498` | New Hampshire Revised Statutes, Chapter 498: Equity Powers and Proceedings (Title LI: Courts) | 1 | 2025-05-19 to 2025-05-19 |
 | `chapter-0498-a` | New Hampshire Revised Statutes, Chapter 498-A: Eminent Domain Procedure Act (Title LI: Courts) | 1 | 2026-01-06 to 2026-01-06 |
 | `chapter-0499` | New Hampshire Revised Statutes, Chapter 499: Clerks of Court (Title LI: Courts) | 1 | 2025-07-13 to 2025-07-13 |
+| `chapter-0500-a` | New Hampshire Revised Statutes, Chapter 500-A: Jurors (Title LI: Courts) | 1 | 2026-06-05 to 2026-06-05 |
+| `chapter-0501-a` | New Hampshire Revised Statutes, Chapter 501-A: Fees for Justices of the Peace and Municipal Court Clerks (Title LI: Courts) | 1 | 2025-05-06 to 2025-05-06 |
+| `chapter-0502-a` | New Hampshire Revised Statutes, Chapter 502-A: District Courts (Title LI: Courts) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0503` | New Hampshire Revised Statutes, Chapter 503: Litigation of Small Claims (Title LI: Courts) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0504-a` | New Hampshire Revised Statutes, Chapter 504-A: Probationers and Parolees (Title LI: Courts) | 1 | 2025-05-11 to 2025-05-11 |
+| `chapter-0505` | New Hampshire Revised Statutes, Chapter 505: The State Reporter and Reports (Title LI: Courts) | 1 | 2025-05-07 to 2025-05-07 |
+| `chapter-0506` | New Hampshire Revised Statutes, Chapter 506: Prevention of Frauds and Perjuries (Title LII: Actions, Process, and Service of Process) | 1 | 2021-12-03 to 2021-12-03 |
+| `chapter-0507` | New Hampshire Revised Statutes, Chapter 507: Actions (Title LII: Actions, Process, and Service of Process) | 1 | 2026-09-08 to 2026-09-08 |
+| `chapter-0507-a` | New Hampshire Revised Statutes, Chapter 507-A: Defamation by Radio or Television (Title LII: Actions, Process, and Service of Process) | 1 | 2022-06-27 to 2022-06-27 |
+| `chapter-0507-b` | New Hampshire Revised Statutes, Chapter 507-B: Bodily Injury Actions Against Governmental Units (Title LII: Actions, Process, and Service of Process) | 1 | 2026-10-19 to 2026-10-19 |
+| `chapter-0507-c` | New Hampshire Revised Statutes, Chapter 507-C: Actions for Medical Injury (Title LII: Actions, Process, and Service of Process) | 1 | 2022-05-27 to 2022-05-27 |
+| `chapter-0507-d` | New Hampshire Revised Statutes, Chapter 507-D: Product Liability Actions (Title LII: Actions, Process, and Service of Process) | 1 | 2025-09-24 to 2025-09-24 |
+| `chapter-0507-e` | New Hampshire Revised Statutes, Chapter 507-E: Medical Injury Actions (Title LII: Actions, Process, and Service of Process) | 1 | 2025-12-12 to 2025-12-12 |
+| `chapter-0507-f` | New Hampshire Revised Statutes, Chapter 507-F: Alcoholic Beverage Licensee Liability (Title LII: Actions, Process, and Service of Process) | 1 | 2022-04-01 to 2022-04-01 |
+| `chapter-0507-g` | New Hampshire Revised Statutes, Chapter 507-G: Frivolous Actions Against Teachers and Other Education Employees (Title LII: Actions, Process, and Service of Process) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0507-h` | New Hampshire Revised Statutes, Chapter 507-H: Expectation of Privacy (Title LII: Actions, Process, and Service of Process) | 1 | 2026-09-29 to 2026-09-29 |
+| `chapter-0508` | New Hampshire Revised Statutes, Chapter 508: Limitation of Actions (Title LII: Actions, Process, and Service of Process) | 1 | 2026-08-10 to 2026-08-10 |
+| `chapter-0509` | New Hampshire Revised Statutes, Chapter 509: Writs and Their Indorsement (Title LII: Actions, Process, and Service of Process) | 1 | 2025-01-31 to 2025-01-31 |
+| `chapter-0510` | New Hampshire Revised Statutes, Chapter 510: Service of Writs (Title LII: Actions, Process, and Service of Process) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0511` | New Hampshire Revised Statutes, Chapter 511: Attachments (Title LII: Actions, Process, and Service of Process) | 1 | 2022-04-20 to 2022-04-20 |
+| `chapter-0511-a` | New Hampshire Revised Statutes, Chapter 511-A: Pre-judgment Attachment Procedure (Title LII: Actions, Process, and Service of Process) | 1 | 2026-03-05 to 2026-03-05 |
+| `chapter-0516` | New Hampshire Revised Statutes, Chapter 516: Witnesses (Title LIII: Proceedings in Court) | 1 | 2026-02-05 to 2026-02-05 |
+| `chapter-0517-a` | New Hampshire Revised Statutes, Chapter 517-A: Uniform Foreign Depositions Law (Title LIII: Proceedings in Court) | 1 | 2026-02-26 to 2026-02-26 |
+| `chapter-0519` | New Hampshire Revised Statutes, Chapter 519: Auditors, Referees, and Trials (Title LIII: Proceedings in Court) | 1 | 2025-09-16 to 2025-09-16 |
+| `chapter-0521-a` | New Hampshire Revised Statutes, Chapter 521-A: Interpreters for the Deaf (Title LIII: Proceedings in Court) | 1 | 2024-05-18 to 2024-05-18 |
+| `chapter-0522` | New Hampshire Revised Statutes, Chapter 522: Blood Test to Determine Paternity (Title LIII: Proceedings in Court) | 1 | 2022-12-02 to 2022-12-02 |
+| `chapter-0524` | New Hampshire Revised Statutes, Chapter 524: Judgments (Title LIII: Proceedings in Court) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0525-a` | New Hampshire Revised Statutes, Chapter 525-A: Civil Legal Assistance (Title LIII: Proceedings in Court) | 1 | 2026-01-06 to 2026-01-06 |
+| `chapter-0526` | New Hampshire Revised Statutes, Chapter 526: New Trials (Title LIII: Proceedings in Court) | 1 | 2022-11-28 to 2022-11-28 |
+| `chapter-0527` | New Hampshire Revised Statutes, Chapter 527: Executions (Title LIV: Executions, Levies, Bail, and the Relief of Poor Debtors) | 1 | 2025-04-14 to 2025-04-14 |
+| `chapter-0529` | New Hampshire Revised Statutes, Chapter 529: Levy of Executions on Real Estate (Title LIV: Executions, Levies, Bail, and the Relief of Poor Debtors) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0592-a` | New Hampshire Revised Statutes, Chapter 592-A: Jurisdiction and Procedure Generally (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0592-b` | New Hampshire Revised Statutes, Chapter 592-B: Criminal Procedure in Superior Court (Title LIX: Proceedings in Criminal Cases) | 1 | 2025-07-25 to 2025-07-25 |
+| `chapter-0593` | New Hampshire Revised Statutes, Chapter 593: Fingerprinting and Measuring (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0594` | New Hampshire Revised Statutes, Chapter 594: Arrests in Criminal Cases (Title LIX: Proceedings in Criminal Cases) | 1 | 2025-03-26 to 2025-03-26 |
+| `chapter-0595-a` | New Hampshire Revised Statutes, Chapter 595-A: Search Warrants (Title LIX: Proceedings in Criminal Cases) | 1 | 2024-05-15 to 2024-05-15 |
+| `chapter-0595-b` | New Hampshire Revised Statutes, Chapter 595-B: Administrative Inspection Warrants (Title LIX: Proceedings in Criminal Cases) | 1 | 2026-02-07 to 2026-02-07 |
+| `chapter-0595-c` | New Hampshire Revised Statutes, Chapter 595-C: Eyewitness Identification Policy (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0596-a` | New Hampshire Revised Statutes, Chapter 596-A: Preliminary Examinations (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0597` | New Hampshire Revised Statutes, Chapter 597: Bail and Recognizances (Title LIX: Proceedings in Criminal Cases) | 1 | 2026-02-11 to 2026-02-11 |
+| `chapter-0598-a` | New Hampshire Revised Statutes, Chapter 598-A: Professional Bondsmen (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-08-08 to 2022-08-08 |
+| `chapter-0599` | New Hampshire Revised Statutes, Chapter 599: Appeals from Convictions in Circuit Court (Title LIX: Proceedings in Criminal Cases) | 1 | 2026-01-27 to 2026-01-27 |
+| `chapter-0600` | New Hampshire Revised Statutes, Chapter 600: Grand Juries (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-22 to 2022-05-22 |
+| `chapter-0600-a` | New Hampshire Revised Statutes, Chapter 600-A: Multicounty Grand Juries (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-25 to 2022-05-25 |
+| `chapter-0600-b` | New Hampshire Revised Statutes, Chapter 600-B: Multicounty Grand Juries (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0601` | New Hampshire Revised Statutes, Chapter 601: Indictments, Informations, and Complaints (Title LIX: Proceedings in Criminal Cases) | 1 | 2026-01-21 to 2026-01-21 |
+| `chapter-0602` | New Hampshire Revised Statutes, Chapter 602: Venue (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0603` | New Hampshire Revised Statutes, Chapter 603: Limitation of Prosecutions (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
+| `chapter-0604` | New Hampshire Revised Statutes, Chapter 604: Rights of Accused (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-17 to 2022-05-17 |
+| `chapter-0604-a` | New Hampshire Revised Statutes, Chapter 604-A: Adequate Representation for Indigent Defendants in Criminal Cases (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-09-30 to 2022-09-30 |
+| `chapter-0604-b` | New Hampshire Revised Statutes, Chapter 604-B: Public Defender Program (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-28 to 2022-05-28 |
+| `chapter-0605` | New Hampshire Revised Statutes, Chapter 605: Pleas and Refusal to Plead (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0606` | New Hampshire Revised Statutes, Chapter 606: Trial (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-27 to 2022-05-27 |
+| `chapter-0606-a` | New Hampshire Revised Statutes, Chapter 606-A: Agreement on Detainers (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-24 to 2022-05-24 |
+| `chapter-0607-a` | New Hampshire Revised Statutes, Chapter 607-A: Uniform Act on Status of Convicted Persons (Title LIX: Proceedings in Criminal Cases) | 1 | 2025-04-29 to 2025-04-29 |
+| `chapter-0608` | New Hampshire Revised Statutes, Chapter 608: Surety of the Peace (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-23 to 2022-05-23 |
+| `chapter-0610` | New Hampshire Revised Statutes, Chapter 610: Rewards and Compensations to Prosecutors (Title LIX: Proceedings in Criminal Cases) | 1 | 2022-05-16 to 2022-05-16 |
 
-The build made 171 commits:
+The build made 228 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 171 | first version of an act |
+| 228 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -198,7 +255,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 171 tags.
+- 228 tags.
 
 ## Dates
 
@@ -210,7 +267,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bc8576212bf59c9835b3bd3d844f93bdce51fb905d9010112a4d0cce403a1206` (5444930 bytes).
+- Corpus: sha256 `0903277e6878d8bc7d676830030e0192259364bf6b0018611c09e615248ec304` (6233371 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
